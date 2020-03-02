@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Division of Cancer Epidemiology and Genetics (DCEG), NCI",
-    "Kai Yu",
-    "Han Zhang"
+    "Han Zhang",
+    "Kai Yu"
   ],
   "sc:additionalType": [
     "Library",
@@ -24,8 +24,8 @@
   "sc:name": "ARTP2",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://dceg.cancer.gov/tools/analysis/artp"
 }

@@ -17,8 +17,8 @@
   "sc:name": "Open PHACTS Explorer",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "Open PHACTS Foundation",

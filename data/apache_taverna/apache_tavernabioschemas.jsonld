@@ -15,11 +15,11 @@
     "Apache Taverna community"
   ],
   "sc:additionalType": [
-    "Web API",
     "Web service",
-    "Web application",
-    "Command-line tool",
     "Workbench",
+    "Web application",
+    "Web API",
+    "Command-line tool",
     "Desktop application"
   ],
   "sc:author": "Apache Taverna community",

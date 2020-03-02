@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-8799-8584",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1093/nar/gkn304",
       "@type": "sc:CreativeWork"
     },
@@ -30,9 +26,9 @@
         "@id": "edam:data_2070"
       },
       "sc:additionalType": [
+        "Command-line tool",
         "Web service",
-        "Web application",
-        "Command-line tool"
+        "Web application"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_3511"
@@ -52,8 +48,8 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "convert-matrix",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:provider": "RSAT",
@@ -62,6 +58,10 @@
       },
       "sc:url": "http://rsat.eu/",
       "sc:version": "1"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-8799-8584",
+      "@type": "schema:Person"
     }
   ]
 }

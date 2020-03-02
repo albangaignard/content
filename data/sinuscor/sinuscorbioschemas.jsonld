@@ -31,9 +31,9 @@
       },
       "sc:name": "SinusCor",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://rhenanbartels.github.io/SinusCor/"
     }

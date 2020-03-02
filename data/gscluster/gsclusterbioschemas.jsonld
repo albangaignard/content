@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://orcid.org/0000-0003-0239-2899",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/GScluster",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -21,10 +25,10 @@
       "sc:additionalType": "Library",
       "sc:citation": [
         "pubmed:31072324",
-        "pmcid:PMC6507172",
         {
           "@id": "https://doi.org/10.1186/S12864-019-5738-6"
-        }
+        },
+        "pmcid:PMC6507172"
       ],
       "sc:description": "Package for network-weighted gene-set clustering and network visualization.",
       "sc:featureList": [
@@ -41,8 +45,8 @@
       "sc:license": "MIT",
       "sc:name": "GScluster",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "https://github.com/unistbig/GScluster"
@@ -50,10 +54,6 @@
     {
       "@id": "https://doi.org/10.1186/S12864-019-5738-6",
       "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "https://orcid.org/0000-0003-0239-2899",
-      "@type": "schema:Person"
     }
   ]
 }

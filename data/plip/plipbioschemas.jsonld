@@ -23,9 +23,9 @@
         "@id": "edam:data_1566"
       },
       "sc:additionalType": [
-        "Command-line tool",
         "Library",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_0128"

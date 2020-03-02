@@ -34,17 +34,17 @@
           "@id": "edam:operation_3225"
         },
         {
-          "@id": "edam:operation_3226"
+          "@id": "edam:operation_3436"
         },
         {
-          "@id": "edam:operation_3436"
+          "@id": "edam:operation_3226"
         }
       ],
       "sc:name": "Condel",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://bbglab.irbbarcelona.org/fannsdb/"
     }

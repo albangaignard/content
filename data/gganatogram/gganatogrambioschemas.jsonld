@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Jesper Maag",
       "sc:additionalType": [
-        "Library",
-        "Web application"
+        "Web application",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC6208569",

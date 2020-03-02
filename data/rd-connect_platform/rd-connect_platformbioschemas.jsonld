@@ -38,8 +38,8 @@
       ],
       "sc:name": "RD-Connect Genome-Phenome Analysis Platform",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://platform.rd-connect.eu/"

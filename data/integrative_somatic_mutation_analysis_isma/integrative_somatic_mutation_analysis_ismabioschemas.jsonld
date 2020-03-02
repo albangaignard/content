@@ -36,8 +36,8 @@
       ],
       "sc:name": "integrative somatic mutation analysis (isma)",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "https://www.itb.cnr.it/web/bioinformatics/isma",

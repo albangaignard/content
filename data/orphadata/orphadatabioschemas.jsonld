@@ -24,9 +24,9 @@
   "sc:license": "CC-BY-4.0",
   "sc:name": "Orphadata",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "Inserm US14",

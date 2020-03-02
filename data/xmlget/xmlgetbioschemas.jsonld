@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
-    "UK BBSRC",
     "Wellcome Trust",
-    "EMBOSS Contributors"
+    "EMBOSS Contributors",
+    "UK BBSRC",
+    "UK MRC"
   ],
   "sc:description": "An Emboss tool that fetches XML entry from a file or a local or remote data resource, parses it and rewrites it in various formats",
   "sc:funder": [
@@ -31,8 +31,8 @@
     "Linux"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://www.bioinformatics.nl/cgi-bin/emboss/xmlget",
   "sc:version": "r6"

@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/EWAS",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Liangde Xu",
     "Fanwu Kong",
-    "Yongshuai Jiang",
-    "Liangde Xu"
+    "Yongshuai Jiang"
   ],
   "sc:additionalType": [
     "Command-line tool",
@@ -24,8 +24,8 @@
   "sc:name": "EWAS",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.bioapp.org/ewas/"
 }

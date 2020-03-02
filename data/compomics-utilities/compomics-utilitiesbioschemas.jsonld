@@ -18,10 +18,10 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_2968"
+          "@id": "edam:data_2536"
         },
         {
-          "@id": "edam:data_2536"
+          "@id": "edam:data_2968"
         }
       ],
       "sc:additionalType": "Library",

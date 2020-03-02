@@ -13,13 +13,13 @@
   "biotools:primaryContact": "Luana Licata",
   "sc:additionalType": "Database portal",
   "sc:author": [
-    "Leonardo Briganti",
     "Prisca Lo Surdo",
-    "Alberto Calderone"
+    "Alberto Calderone",
+    "Leonardo Briganti"
   ],
   "sc:contributor": [
-    "Gianni Cesareni",
     "Elena Santonico",
+    "Gianni Cesareni",
     "Marta Iannuccelli",
     "Livia Perfetto"
   ],
@@ -27,9 +27,9 @@
   "sc:license": "CC-BY-SA-4.0",
   "sc:name": "SIGNOR",
   "sc:operatingSystem": [
+    "Mac",
     "Windows",
-    "Linux",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
     "Molecular Genetic Group, University of Rome \"Tor Vergata\", Rome, Italy",

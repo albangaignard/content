@@ -39,8 +39,8 @@
       ],
       "sc:name": "ZincBind",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "https://zincbind.bioinf.org.uk/"

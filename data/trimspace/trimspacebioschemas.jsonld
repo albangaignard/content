@@ -19,15 +19,15 @@
   ],
   "sc:description": "Remove extra whitespace from an ASCII text file.",
   "sc:funder": [
+    "UK MRC",
     "UK BBSRC",
-    "Wellcome Trust",
-    "UK MRC"
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "trimspace",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": [

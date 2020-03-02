@@ -14,20 +14,20 @@
   "sc:contributor": [
     "Wellcome Trust",
     "EMBOSS Contributors",
-    "UK BBSRC",
-    "UK MRC"
+    "UK MRC",
+    "UK BBSRC"
   ],
   "sc:description": "Calculate Nc codon usage statistic.",
   "sc:funder": [
-    "UK BBSRC",
+    "Wellcome Trust",
     "UK MRC",
-    "Wellcome Trust"
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "chips",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": [

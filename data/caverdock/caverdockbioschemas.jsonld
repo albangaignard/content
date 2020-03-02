@@ -12,14 +12,14 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:author": [
-    "Jan Plhak",
+    "Jiri Filipovic",
     "Ondrej Vavra",
-    "Jiri Filipovic"
+    "Jan Plhak"
   ],
   "sc:contributor": [
-    "Jiri Damborsky",
-    "David Bednar",
     "Sergio Manuel Marques",
+    "David Bednar",
+    "Jiri Damborsky",
     "Jan Brezovsky",
     "Ludek Matyska"
   ],
@@ -27,8 +27,8 @@
   "sc:license": "Proprietary",
   "sc:name": "CaverDock",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:url": "https://loschmidt.chemi.muni.cz/caverdock/",

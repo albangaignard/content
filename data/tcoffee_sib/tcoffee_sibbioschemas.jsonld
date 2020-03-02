@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.1093/nar/gkr245",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/TCoffee_SIB",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -26,8 +30,8 @@
         "@id": "edam:data_0863"
       },
       "sc:additionalType": [
-        "Web application",
-        "Suite"
+        "Suite",
+        "Web application"
       ],
       "sc:applicationSubCategory": [
         {
@@ -50,27 +54,23 @@
       "sc:description": "A collection of tools for computing, evaluating and manipulating multiple alignments of DNA, RNA, protein sequences and structures. Includes M-Coffee, R-Coffee, Expresso, PSI-Coffee, iRMSD-APDB.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2403"
+          "@id": "edam:operation_0492"
         },
         {
-          "@id": "edam:operation_0492"
+          "@id": "edam:operation_2403"
         }
       ],
       "sc:isAccessibleForFree": true,
       "sc:name": "T-Coffee (SIB)",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:softwareHelp": {
         "@id": "http://www.tcoffee.org/Projects/tcoffee/"
       },
       "sc:url": "http://tcoffee.vital-it.ch/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkr245",
-      "@type": "sc:CreativeWork"
     }
   ]
 }
