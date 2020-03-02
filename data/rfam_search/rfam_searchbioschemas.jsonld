@@ -19,13 +19,13 @@
   "sc:description": "Search of Rfam's CM collection.",
   "sc:name": "Rfam search",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
-    "Sanger Institute",
     "HHMI",
+    "Sanger Institute",
     "EMBL-EBI"
   ],
   "sc:url": "http://rfam.xfam.org/search",

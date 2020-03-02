@@ -22,10 +22,10 @@
       "@type": "sc:SoftwareApplication",
       "edam:has_input": [
         {
-          "@id": "edam:data_2877"
+          "@id": "edam:data_0937"
         },
         {
-          "@id": "edam:data_0937"
+          "@id": "edam:data_2877"
         }
       ],
       "edam:has_output": {
@@ -52,9 +52,9 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "pyDockSAXS",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:provider": [
         "Barcelona Supercomputing Center",
@@ -62,10 +62,10 @@
       ],
       "sc:softwareHelp": [
         {
-          "@id": "https://life.bsc.es/pid/pydocksaxs/info/faq_and_help"
+          "@id": "https://life.bsc.es/pid/pydocksaxs/info/faq_and_help#reference"
         },
         {
-          "@id": "https://life.bsc.es/pid/pydocksaxs/info/faq_and_help#reference"
+          "@id": "https://life.bsc.es/pid/pydocksaxs/info/faq_and_help"
         }
       ],
       "sc:termsOfService": {

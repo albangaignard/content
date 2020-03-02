@@ -17,8 +17,8 @@
   "sc:name": "XTMS",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://xtms.issb.genopole.fr/"
 }

@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Matthias Futschik",
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC2139991",
@@ -36,8 +36,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "Mfuzz",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/Mfuzz.html",

@@ -37,9 +37,9 @@
       },
       "sc:name": "NpPred",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://www.imtech.res.in/raghava/nppred/"
     }

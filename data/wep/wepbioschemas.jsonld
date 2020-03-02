@@ -16,8 +16,8 @@
   "sc:name": "WEP",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": "ELIXIR-ITA-CINECA",
   "sc:url": "http://bioinformatics.cineca.it/wep",

@@ -17,9 +17,9 @@
       "@id": "https://bio.tools/DiVenn",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Zach Robinson",
+        "Liang Sun",
         "Yinbing Ge",
-        "Liang Sun"
+        "Zach Robinson"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [

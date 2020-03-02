@@ -17,8 +17,8 @@
   "sc:name": "CHiCP",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://www.chicp.org/"
 }

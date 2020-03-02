@@ -17,8 +17,8 @@
   "sc:name": "LA-iMageS",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "GEPAM Group, University of Campinas",

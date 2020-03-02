@@ -13,12 +13,12 @@
       "@id": "https://bio.tools/exac",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Web error forum",
-        "ExAC Browser Support"
+        "ExAC Browser Support",
+        "Web error forum"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:27899611",
@@ -33,21 +33,21 @@
           "@id": "edam:operation_3436"
         },
         {
-          "@id": "edam:operation_3197"
-        },
-        {
           "@id": "edam:operation_2403"
         },
         {
           "@id": "edam:operation_2421"
+        },
+        {
+          "@id": "edam:operation_3197"
         }
       ],
       "sc:license": "ODbL-1.0",
       "sc:name": "ExAC",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://exac.broadinstitute.org"
     },
