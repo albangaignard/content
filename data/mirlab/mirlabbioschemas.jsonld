@@ -16,9 +16,9 @@
         "@id": "http://orcid.org/0000-0002-9732-4313"
       },
       "sc:additionalType": [
-        "Library",
         "Plug-in",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC4696828",
@@ -42,12 +42,12 @@
       "sc:version": "1.8.0"
     },
     {
-      "@id": "http://orcid.org/0000-0002-9732-4313",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1371/journal.pone.0145386",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-9732-4313",
+      "@type": "schema:Person"
     }
   ]
 }

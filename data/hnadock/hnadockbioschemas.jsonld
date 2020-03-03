@@ -10,16 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/NAR/GKZ412",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/HNADOCK",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Yi Xiao",
         "Lab of Bioinformatics and Molecular Modeling",
-        "Sheng-You Huang"
+        "Sheng-You Huang",
+        "Yi Xiao"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -44,11 +40,15 @@
       "sc:license": "Unlicense",
       "sc:name": "HNADOCK",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://huanglab.phys.hust.edu.cn/hnadock/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/NAR/GKZ412",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

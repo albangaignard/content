@@ -19,8 +19,8 @@
   "sc:name": "TriplexRNA",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://triplexrna.org"
 }

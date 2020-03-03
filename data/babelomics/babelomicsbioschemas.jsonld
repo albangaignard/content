@@ -16,8 +16,8 @@
   "sc:name": "Babelomics",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "cipf.es",

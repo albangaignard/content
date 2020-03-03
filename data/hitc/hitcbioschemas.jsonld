@@ -14,14 +14,18 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0003-1678-7410",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/hitc",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0003-1678-7410"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:22923296",
@@ -45,16 +49,12 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "HiTC",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/HiTC.html",
       "sc:version": "1.18.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0003-1678-7410",
-      "@type": "schema:Person"
     }
   ]
 }

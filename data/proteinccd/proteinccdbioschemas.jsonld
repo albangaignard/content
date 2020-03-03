@@ -17,8 +17,8 @@
   "sc:name": "The Protein Crystallisation Construct Designer",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://xtal.nki.nl/ccd"
 }

@@ -36,9 +36,9 @@
       "sc:license": "Unlicense",
       "sc:name": "MOAD",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://www.BindingMOAD.org"
     },

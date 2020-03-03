@@ -17,8 +17,8 @@
   "sc:name": "MLTreeMap",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://mltreemap.org/"
 }

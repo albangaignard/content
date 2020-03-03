@@ -30,8 +30,8 @@
       },
       "sc:name": "KvarQ",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://www.swisstph.ch/en/about/mpi/tuberculosis-research/kvarq-targeted-and-direct-variant-calling-in-fastq-reads-of-bacterial-genomes/",

@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1186/S12859-017-1698-5",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/navise",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Ander Izeta",
@@ -35,19 +31,23 @@
       "sc:description": "User-friendly streamlined tool which performs a fully-automated parallel processing of genome-wide epigenomics data from sequencing files into a final report, built with a comprehensive set of annotated files that are navigated through a graphic user interface.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0415"
+          "@id": "edam:operation_2403"
         },
         {
-          "@id": "edam:operation_2403"
+          "@id": "edam:operation_0415"
         }
       ],
       "sc:name": "NaviSE",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://sourceforge.net/projects/navise-superenhancer/"
+    },
+    {
+      "@id": "https://doi.org/10.1186/S12859-017-1698-5",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

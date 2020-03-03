@@ -15,8 +15,8 @@
     "Tobias Verbeke"
   ],
   "sc:additionalType": [
-    "Library",
-    "Command-line tool"
+    "Command-line tool",
+    "Library"
   ],
   "sc:description": "Suite of R packages for analysis of Affymetrix microarray experiments.",
   "sc:license": "GPL-3.0",

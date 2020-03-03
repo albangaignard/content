@@ -17,8 +17,8 @@
   "sc:name": "ICSNPathway",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://icsnpathway.psych.ac.cn/"
 }

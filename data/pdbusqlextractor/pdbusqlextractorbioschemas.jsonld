@@ -15,8 +15,8 @@
       "biotools:primaryContact": "D. Mrozek",
       "sc:additionalType": "Library",
       "sc:citation": [
-        "pubmed:30621295",
         "pmcid:PMC6337464",
+        "pubmed:30621295",
         {
           "@id": "https://doi.org/10.3390/molecules24010179"
         }

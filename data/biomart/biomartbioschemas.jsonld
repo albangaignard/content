@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0002-0474-2218",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/biomart",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Mike Smith",
@@ -37,11 +33,15 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "biomaRt",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://bioconductor.org/packages/biomaRt/"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-0474-2218",
+      "@type": "schema:Person"
     }
   ]
 }

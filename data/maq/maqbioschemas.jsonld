@@ -10,18 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1101/gr.078212.108",
-      "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "http://orcid.org/0000-0003-4874-2874",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1186/1471-2105-14-184",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/maq",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -47,10 +35,22 @@
       "sc:license": "GPL-3.0",
       "sc:name": "MAQ",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://maq.sourceforge.net/"
+    },
+    {
+      "@id": "https://doi.org/10.1101/gr.078212.108",
+      "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0003-4874-2874",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1186/1471-2105-14-184",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

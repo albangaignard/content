@@ -17,8 +17,8 @@
   "sc:name": "Europe PMC ORCID Tool",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": "EMBL-EBI",
   "sc:url": "http://europepmc.org/orcid/import",

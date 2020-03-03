@@ -15,8 +15,8 @@
   "sc:name": "MAGIA2",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://gencomp.bio.unipd.it/magia2/start/"
 }

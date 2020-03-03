@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Xiuwen Zheng",
-    "Stephanie M. Gogarten",
-    "Adrienne Stilp"
+    "Adrienne Stilp",
+    "Stephanie M. Gogarten"
   ],
   "sc:additionalType": [
     "Command-line tool",
