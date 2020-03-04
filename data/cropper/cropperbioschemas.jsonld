@@ -37,9 +37,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Cropper",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://www.geenivaramu.ee/en/tools/cropper"
     }

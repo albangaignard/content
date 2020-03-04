@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/S12859-017-1485-3",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0003-3838-1008",
       "@type": "schema:Person"
     },
@@ -21,11 +17,11 @@
       "@id": "https://bio.tools/tipmt",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Daniella Castanheira Bartholomeu",
         {
           "@id": "http://orcid.org/0000-0003-3838-1008"
         },
-        "Robson da Silva Lopes",
-        "Daniella Castanheira Bartholomeu"
+        "Robson da Silva Lopes"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -46,11 +42,15 @@
       ],
       "sc:name": "TipMT",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://200.131.37.155/tipMT/"
+    },
+    {
+      "@id": "https://doi.org/10.1186/S12859-017-1485-3",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

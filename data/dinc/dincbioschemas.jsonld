@@ -28,8 +28,8 @@
       "sc:name": "DINC",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://dinc.kavrakilab.org/"
     },

@@ -12,31 +12,31 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Jiri Damborsky",
-    "Jan Brezovsky",
+    "Jan Stourac",
     "Jaroslav Bendl",
-    "Jan Stourac"
+    "Jiri Damborsky",
+    "Jan Brezovsky"
   ],
   "sc:contributor": [
-    "Milos Musil",
-    "Brno University of Technology [FIT-S-14-2299 to M.M.]",
-    "Horizon 2020 Research Infrastructure ELIXIR-EXCELERATE [676559]",
-    "Ondrej Vavra",
-    "Eva Sebestova",
-    "Ministry of Education of the Czech Republic [LO1214, LQ1605, LM2015055 and LM2015047]",
-    "Antonin Pavelka",
-    "Grant Agency of the Czech Republic [GA16-06096S]",
     "European Commission REGPOT [316345]",
-    "CESNET and the CERIT Scientific Cloud [LM2015042 and LM2015085]"
+    "Milos Musil",
+    "Horizon 2020 Research Infrastructure ELIXIR-EXCELERATE [676559]",
+    "Grant Agency of the Czech Republic [GA16-06096S]",
+    "Ondrej Vavra",
+    "Brno University of Technology [FIT-S-14-2299 to M.M.]",
+    "Antonin Pavelka",
+    "Ministry of Education of the Czech Republic [LO1214, LQ1605, LM2015055 and LM2015047]",
+    "CESNET and the CERIT Scientific Cloud [LM2015042 and LM2015085]",
+    "Eva Sebestova"
   ],
   "sc:description": "An automated design of mutations and smart libraries for engineering of protein function and stability and annotation of protein structures.",
   "sc:funder": [
+    "Grant Agency of the Czech Republic [GA16-06096S]",
+    "European Commission REGPOT [316345]",
+    "Ministry of Education of the Czech Republic [LO1214, LQ1605, LM2015055 and LM2015047]",
     "Brno University of Technology [FIT-S-14-2299 to M.M.]",
     "CESNET and the CERIT Scientific Cloud [LM2015042 and LM2015085]",
-    "Ministry of Education of the Czech Republic [LO1214, LQ1605, LM2015055 and LM2015047]",
-    "European Commission REGPOT [316345]",
-    "Horizon 2020 Research Infrastructure ELIXIR-EXCELERATE [676559]",
-    "Grant Agency of the Czech Republic [GA16-06096S]"
+    "Horizon 2020 Research Infrastructure ELIXIR-EXCELERATE [676559]"
   ],
   "sc:name": "HotSpot Wizard",
   "sc:operatingSystem": [

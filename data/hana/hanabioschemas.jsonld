@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/hana",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web application",
-    "Desktop application"
+    "Desktop application",
+    "Web application"
   ],
   "sc:author": [
     "Daniel Georgiev",
@@ -22,8 +22,8 @@
   "sc:description": "Haplotype analyzer for the Czech population.",
   "sc:name": "HANA",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": "University of West Bohemia, Czech Republic",

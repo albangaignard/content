@@ -17,8 +17,8 @@
         "Sarah E. Calvo"
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC5546725",
@@ -33,9 +33,9 @@
       },
       "sc:name": "CLIC",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://www.gene-clic.org/"
     },

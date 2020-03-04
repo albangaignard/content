@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "LABGeM - CEA/Genosocope - UMR8030",
   "sc:additionalType": [
-    "Web application",
     "Workbench",
+    "Web application",
     "Bioinformatics portal"
   ],
   "sc:author": "LABGeM - CEA/Genosocope - UMR8030",

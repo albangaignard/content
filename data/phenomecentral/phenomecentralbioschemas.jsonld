@@ -10,11 +10,15 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1002/humu.22851",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/phenomecentral",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC5467641",
@@ -29,27 +33,23 @@
           "@id": "edam:operation_3436"
         },
         {
-          "@id": "edam:operation_2422"
+          "@id": "edam:operation_3431"
         },
         {
           "@id": "edam:operation_3197"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_2422"
         }
       ],
       "sc:name": "PhenomeCentral",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://phenomecentral.org",
       "sc:version": "1.1.16"
-    },
-    {
-      "@id": "https://doi.org/10.1002/humu.22851",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

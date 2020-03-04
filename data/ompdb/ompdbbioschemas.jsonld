@@ -16,8 +16,8 @@
   "sc:description": "OMPdb is a database of beta-barrel outer membrane proteins from Gram-negative bacteria",
   "sc:name": "OMPdb",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://www.ompdb.org/",

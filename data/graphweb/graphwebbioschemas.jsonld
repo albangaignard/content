@@ -20,8 +20,8 @@
   "sc:license": "Freeware",
   "sc:name": "GraphWeb",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "ELIXIR-EE",

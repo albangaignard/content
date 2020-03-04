@@ -20,8 +20,8 @@
   "sc:name": "VarSome",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://varsome.com/"
 }

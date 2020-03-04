@@ -17,8 +17,8 @@
   "sc:name": "LIGPLOT",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.ebi.ac.uk/thornton-srv/software/LIGPLOT/"
 }

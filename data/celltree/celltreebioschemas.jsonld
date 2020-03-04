@@ -18,12 +18,12 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "David duVerle",
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
-        "pubmed:27620863",
         "pmcid:PMC5020541",
+        "pubmed:27620863",
         {
           "@id": "https://doi.org/10.1186/s12859-016-1175-6"
         }
@@ -35,8 +35,8 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "cellTree",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/cellTree.html",

@@ -28,9 +28,9 @@
       "sc:license": "Unlicense",
       "sc:name": "Fetal XCMR",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://github.com/cwroy/Fetal-XCMR/"
     },

@@ -21,8 +21,8 @@
   "sc:name": "PHDhtm",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "EMBL Heidelberg",

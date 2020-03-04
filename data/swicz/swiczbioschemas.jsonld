@@ -12,14 +12,14 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Database portal",
   "sc:author": [
-    "Ivan Janda",
-    "Jiří­ Vohradský"
+    "Jiří­ Vohradský",
+    "Ivan Janda"
   ],
   "sc:contributor": [
     "Urs Jenal",
     "Jan Bobek",
-    "Karel Mikulik",
     "Bjorn Grunenfelder",
+    "Karel Mikulik",
     "Marek Basler"
   ],
   "sc:description": "A proteomics web database.",
