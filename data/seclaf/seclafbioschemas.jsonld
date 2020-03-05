@@ -15,17 +15,17 @@
     "Vince Grolmusz"
   ],
   "sc:additionalType": [
+    "Web application",
     "Web service",
-    "Command-line tool",
-    "Web application"
+    "Command-line tool"
   ],
   "sc:description": "Webserver and deep neural network design tool for hierarchical biological sequence classification.",
   "sc:license": "Unlicense",
   "sc:name": "SECLAF",
   "sc:operatingSystem": [
+    "Mac",
     "Linux",
-    "Windows",
-    "Mac"
+    "Windows"
   ],
   "sc:url": "https://pitgroup.org/seclaf/"
 }

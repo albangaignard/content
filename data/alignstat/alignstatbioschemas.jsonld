@@ -41,8 +41,8 @@
       "sc:license": "Other",
       "sc:name": "AlignStat",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://alignstat.science.latrobe.edu.au/",

@@ -39,9 +39,9 @@
       "sc:license": "Not licensed",
       "sc:name": "MaCH-Admix",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://yunliweb.its.unc.edu//MaCH-Admix/index.php"
     }

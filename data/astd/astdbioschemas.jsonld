@@ -16,8 +16,8 @@
   "sc:name": "ASTD",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.ebi.ac.uk/astd/"
 }

@@ -17,8 +17,8 @@
   "sc:name": "HiCPlotter Beta",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/kcakdemir/HiCPlotter"
 }

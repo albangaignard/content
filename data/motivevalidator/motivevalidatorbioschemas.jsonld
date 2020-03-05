@@ -11,13 +11,13 @@
   "@id": "https://bio.tools/motivevalidator",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web application",
-    "Command-line tool"
+    "Command-line tool",
+    "Web application"
   ],
   "sc:author": "David Sehnal",
   "sc:contributor": [
-    "Deepti Jaiswal",
     "Crina-Maria Ionescu",
+    "Deepti Jaiswal",
     "Lukáš Pravda",
     "Radka Svobodová Vařeková"
   ],

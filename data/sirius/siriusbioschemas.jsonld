@@ -17,8 +17,8 @@
   "sc:description": "Tool for metabolite identification using mass spectrometry.",
   "sc:name": "Sirius",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://bio.informatik.uni-jena.de/sirius"

@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/reportingtools",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Gabriel Becker",
         "Jessica L. Larson",
+        "Gabriel Becker",
         "Jason A. Hackney"
       ],
       "edam:has_input": {
@@ -44,9 +44,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "ReportingTools",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/ReportingTools.html",
       "sc:version": "2.14.0"

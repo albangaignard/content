@@ -22,8 +22,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Renan Sauteraud",
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         {

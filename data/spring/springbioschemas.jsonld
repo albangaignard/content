@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/spring",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Chin Lung Lu",
     "Chuan Yi Tang",
+    "Chin Lung Lu",
     "Ying Chih Lin"
   ],
   "sc:additionalType": "Web application",
@@ -21,8 +21,8 @@
   "sc:name": "SPRING",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://algorithm.cs.nthu.edu.tw/tools/SPRING"
 }

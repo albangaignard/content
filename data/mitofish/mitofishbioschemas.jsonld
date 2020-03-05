@@ -32,8 +32,8 @@
       "sc:name": "MitoFish",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://mitofish.aori.u-tokyo.ac.jp/"
     }

@@ -16,8 +16,8 @@
   "sc:name": "TSSV",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://git.lumc.nl/j.f.j.laros/tssv/blob/master/README.md"
 }

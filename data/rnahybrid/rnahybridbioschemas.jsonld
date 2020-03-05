@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/rnahybrid",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web application",
     "Web API",
+    "Web application",
     "Command-line tool"
   ],
   "sc:author": "Marc Rehmsmeier",

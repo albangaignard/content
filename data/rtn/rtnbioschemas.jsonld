@@ -20,8 +20,8 @@
         "Command-line tool"
       ],
       "sc:citation": [
-        "pmcid:PMC3778544",
         "pubmed:24043118",
+        "pmcid:PMC3778544",
         {
           "@id": "https://doi.org/10.1038/ncomms3464"
         }
@@ -33,9 +33,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "RTN",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/RTN.html",
       "sc:version": "1.12.0"

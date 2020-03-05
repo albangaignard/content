@@ -17,9 +17,9 @@
   "sc:additionalType": "Desktop application",
   "sc:author": "Ryan Wick",
   "sc:contributor": [
-    "Rayan Chikhi",
     "Kathryn Holt",
     "Mark Schultz",
+    "Rayan Chikhi",
     "Elmar Pruesse",
     "Justin Zobel"
   ],
@@ -27,13 +27,13 @@
   "sc:license": "GPL-3.0",
   "sc:name": "Bandage",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
-    "University of Melbourne, Australia",
-    "unimelb.edu.au"
+    "unimelb.edu.au",
+    "University of Melbourne, Australia"
   ],
   "sc:url": "https://rrwick.github.io/Bandage/",
   "sc:version": "1"

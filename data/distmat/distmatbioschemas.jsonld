@@ -19,8 +19,8 @@
   ],
   "sc:description": "Create a distance matrix from a multiple sequence alignment.",
   "sc:funder": [
-    "Wellcome Trust",
     "UK MRC",
+    "Wellcome Trust",
     "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
