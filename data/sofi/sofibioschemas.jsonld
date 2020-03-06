@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Theo Lasser",
       "sc:additionalType": [
-        "Desktop application",
-        "Plug-in"
+        "Plug-in",
+        "Desktop application"
       ],
       "sc:citation": [
         "pmcid:PMC5008722",
@@ -31,8 +31,8 @@
       "sc:license": "GPL-1.0",
       "sc:name": "SOFI",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://github.com/lob-epfl/sofitool"

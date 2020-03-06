@@ -16,8 +16,8 @@
   "sc:name": "Ragout",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://fenderglass.github.io/Ragout/"
 }

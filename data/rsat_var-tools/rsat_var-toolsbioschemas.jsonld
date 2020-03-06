@@ -11,12 +11,12 @@
   "@id": "https://bio.tools/RSAT_Var-tools",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jacques van Helden",
-    "Alejandra Medina-Rivera"
+    "Alejandra Medina-Rivera",
+    "Jacques van Helden"
   ],
   "sc:additionalType": [
-    "Suite",
-    "Web application"
+    "Web application",
+    "Suite"
   ],
   "sc:description": "Accessible and flexible framework to predict the impact of regulatory variants on transcription factor binding.",
   "sc:license": "Unlicense",

@@ -21,8 +21,8 @@
   "sc:name": "MIPAV",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://mipav.cit.nih.gov/"
 }

@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0002-9732-4313",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/mirlab",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -25,8 +21,8 @@
       },
       "sc:additionalType": [
         "Library",
-        "Command-line tool",
-        "Plug-in"
+        "Plug-in",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:26716983",
@@ -48,6 +44,10 @@
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/miRLAB.html",
       "sc:version": "1.8.0"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-9732-4313",
+      "@type": "schema:Person"
     }
   ]
 }

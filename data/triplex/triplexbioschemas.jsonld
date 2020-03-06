@@ -28,8 +28,8 @@
       "sc:license": "BSD-4-Clause",
       "sc:name": "triplex",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/triplex.html",

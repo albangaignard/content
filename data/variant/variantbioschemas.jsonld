@@ -23,8 +23,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "Computational Genomics Department. Prince Felipe Research Center (CIPF)",
     "http://bioinfo.cipf.es",
+    "Computational Genomics Department. Prince Felipe Research Center (CIPF)",
     "cipf.es"
   ],
   "sc:url": "http://variant.bioinfo.cipf.es/",

@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Rhiju Das (PI)",
-    "Sungroh Yoon (PI)",
+    "Site admins: Hanjoo Kim (Site admin)",
     "Pablo Cordero (Site admin)",
-    "Site admins: Hanjoo Kim (Site admin)"
+    "Sungroh Yoon (PI)"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:23761448",

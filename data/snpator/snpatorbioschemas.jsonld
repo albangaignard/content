@@ -13,12 +13,12 @@
   "sc:additionalType": "Web application",
   "sc:author": [
     "Angel Carreño Torres",
+    "Carlos Morcillo Suarez",
     "Arcadi Navarro Cuartiellas",
     "José Marí­a Heredia Genestar",
     "Tere Páramo Prieto",
-    "Pep Alegre",
     "Ricard Sangrós",
-    "Carlos Morcillo Suarez"
+    "Pep Alegre"
   ],
   "sc:citation": "pubmed:18515823",
   "sc:contributor": [
@@ -29,8 +29,8 @@
   "sc:name": "SNPator",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "Instituto Nacional de Bioinformática (INB)",

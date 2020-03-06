@@ -21,8 +21,8 @@
   "sc:name": "SureTypeSC",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/puko818/SureTypeSC"
 }

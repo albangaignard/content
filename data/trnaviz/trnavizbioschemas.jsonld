@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.1093/NAR/GKZ438",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/tRNAviz",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -30,24 +34,20 @@
       "sc:description": "Web application for exploring and visualizing tRNA sequence features.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_1812"
+          "@id": "edam:operation_0464"
         },
         {
-          "@id": "edam:operation_0464"
+          "@id": "edam:operation_1812"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "tRNAviz",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://trna.ucsc.edu/tRNAviz/summary/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKZ438",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

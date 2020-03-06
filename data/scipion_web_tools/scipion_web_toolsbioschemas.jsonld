@@ -20,8 +20,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "INB",
     "ELIXIR-ES",
+    "INB",
     "cnb.csic.es"
   ],
   "sc:url": "http://scipion.cnb.csic.es/m/services/",

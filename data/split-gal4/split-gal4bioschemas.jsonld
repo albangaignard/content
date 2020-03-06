@@ -40,9 +40,9 @@
       "sc:license": "Unlicense",
       "sc:name": "split-GAL4",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://www.janelia.org/split-gal4"
     },

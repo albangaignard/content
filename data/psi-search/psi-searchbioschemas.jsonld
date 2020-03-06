@@ -20,12 +20,12 @@
   "sc:name": "PSI-Search (EBI)",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
-    "University of Virginia",
-    "EMBL-EBI"
+    "EMBL-EBI",
+    "University of Virginia"
   ],
   "sc:url": "http://www.ebi.ac.uk/Tools/sss/psisearch/",
   "sc:version": "1"

@@ -14,15 +14,15 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         {
-          "@id": "https://orcid.org/0000-0001-7247-6460"
+          "@id": "https://orcid.org/0000-0003-4925-2009"
         },
         {
-          "@id": "https://orcid.org/0000-0003-4925-2009"
+          "@id": "https://orcid.org/0000-0001-7247-6460"
         }
       ],
       "sc:additionalType": [
-        "Ontology",
         "Web API",
+        "Ontology",
         "Database portal",
         "Web application"
       ],
@@ -34,11 +34,11 @@
       "sc:version": "2019"
     },
     {
-      "@id": "https://orcid.org/0000-0001-7247-6460",
+      "@id": "https://orcid.org/0000-0003-4925-2009",
       "@type": "schema:Person"
     },
     {
-      "@id": "https://orcid.org/0000-0003-4925-2009",
+      "@id": "https://orcid.org/0000-0001-7247-6460",
       "@type": "schema:Person"
     }
   ]

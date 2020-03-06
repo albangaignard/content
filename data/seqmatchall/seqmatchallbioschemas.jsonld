@@ -12,27 +12,27 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
-    "UK BBSRC",
-    "Wellcome Trust",
-    "EMBOSS Contributors"
-  ],
-  "sc:description": "All-against-all word comparison of a sequence set.",
-  "sc:funder": [
+    "EMBOSS Contributors",
     "UK BBSRC",
     "UK MRC",
     "Wellcome Trust"
   ],
+  "sc:description": "All-against-all word comparison of a sequence set.",
+  "sc:funder": [
+    "Wellcome Trust",
+    "UK MRC",
+    "UK BBSRC"
+  ],
   "sc:license": "GPL-3.0",
   "sc:name": "seqmatchall",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/seqmatchall.html",
   "sc:version": "r6"
