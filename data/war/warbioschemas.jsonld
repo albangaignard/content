@@ -16,8 +16,8 @@
   "sc:name": "WAR",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "binf.ku.dk",
   "sc:url": "http://genome.ku.dk/resources/war/",

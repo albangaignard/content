@@ -14,9 +14,9 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Ada Hamosh",
       "sc:additionalType": [
-        "Web API",
+        "Web application",
         "Database portal",
-        "Web application"
+        "Web API"
       ],
       "sc:citation": [
         "pubmed:15608251",
@@ -37,17 +37,17 @@
           "@id": "edam:operation_3197"
         },
         {
-          "@id": "edam:operation_3436"
+          "@id": "edam:operation_0224"
         },
         {
-          "@id": "edam:operation_0224"
+          "@id": "edam:operation_3436"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "OMIM",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=OMIM"

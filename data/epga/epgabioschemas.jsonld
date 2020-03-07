@@ -22,8 +22,8 @@
       ],
       "sc:additionalType": [
         "Web API",
-        "Web application",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:27631363",
@@ -44,9 +44,9 @@
       "sc:license": "Other",
       "sc:name": "ePGA",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://www.epga.gr"
     }

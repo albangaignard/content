@@ -17,8 +17,8 @@
   "sc:name": "CURVES+",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://gbio-pbil.ibcp.fr/cgi/Curves_plus/"
 }

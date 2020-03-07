@@ -42,9 +42,9 @@
       ],
       "sc:name": "AtFusionDB",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://www.nipgr.ac.in/AtFusionDB/"
     }

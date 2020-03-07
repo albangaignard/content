@@ -14,14 +14,14 @@
   "sc:contributor": [
     "Wellcome Trust",
     "UK BBSRC",
-    "UK MRC",
-    "EMBOSS Contributors"
+    "EMBOSS Contributors",
+    "UK MRC"
   ],
   "sc:description": "Read and write (return) sequences.",
   "sc:funder": [
     "UK MRC",
-    "UK BBSRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "seqret",

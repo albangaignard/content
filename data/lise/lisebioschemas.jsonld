@@ -17,8 +17,8 @@
   "sc:name": "LISE",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://lise.ibms.sinica.edu.tw"
 }

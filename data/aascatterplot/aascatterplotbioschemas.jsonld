@@ -17,8 +17,8 @@
   "sc:name": "AAScatterPlot",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://github.com/WhittakerLab/AAScatterPlot",
   "sc:version": "1.0"

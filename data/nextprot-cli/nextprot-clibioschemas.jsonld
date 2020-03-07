@@ -13,16 +13,16 @@
   "sc:additionalType": [
     "Web API",
     "Command-line tool",
-    "SPARQL endpoint",
-    "Library"
+    "Library",
+    "SPARQL endpoint"
   ],
   "sc:description": "This node module contains methods to access the neXtProt API as well as the SPARQL endpoint.",
   "sc:license": "GPL-2.0",
   "sc:name": "nextprot-cli",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": "isb-sib.ch",
   "sc:url": "https://www.npmjs.com/package/nextprot-cli",

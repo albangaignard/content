@@ -15,8 +15,8 @@
   "sc:name": "CycloPs",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bioware.ucd.ie/~cyclops/cgi-bin/webpep.cgi",
   "sc:version": "1.32"

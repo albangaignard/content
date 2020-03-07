@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "UK BBSRC",
     "Wellcome Trust",
     "EMBOSS Contributors",
-    "UK BBSRC",
     "UK MRC"
   ],
   "sc:description": "Remove whitespace from an ASCII text file.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "nospace",
   "sc:operatingSystem": [
+    "Windows",
     "Mac",
-    "Linux",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
     "EMBL EBI",

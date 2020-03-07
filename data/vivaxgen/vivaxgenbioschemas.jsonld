@@ -32,8 +32,8 @@
       ],
       "sc:name": "VivaxGEN",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://vivaxgen.menzies.edu.au/"
