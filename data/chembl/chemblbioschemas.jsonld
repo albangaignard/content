@@ -29,8 +29,8 @@
       "sc:name": "ChEMBL",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": "Identifiers.org",
       "sc:url": "https://www.ebi.ac.uk/chembldb/"

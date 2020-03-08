@@ -15,8 +15,8 @@
   "sc:name": "The SEED genome comparison environment",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.theseed.org/"
 }

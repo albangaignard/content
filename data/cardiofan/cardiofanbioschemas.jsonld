@@ -18,8 +18,8 @@
   "sc:name": "CardioFAN",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://github.com/YasharVahedein/CardioFAN"
 }

@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/dolce",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Bohdan Schneider",
-    "Filip Lankaš",
     "Jiří Černý",
+    "Bohdan Schneider",
     "Daniel Svozil",
+    "Filip Lankaš",
     "Petr Cech"
   ],
   "sc:additionalType": "Database portal",

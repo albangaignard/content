@@ -17,8 +17,8 @@
   "sc:name": "Archaeopteryx",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://en.bio-soft.net/tree/ATV.html"
 }

@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/rREST",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Pedro A. ValdÃ©s Sosa",
-        "Dezhong Yao"
+        "Dezhong Yao",
+        "Pedro A. ValdÃ©s Sosa"
       ],
       "sc:additionalType": "Script",
       "sc:citation": [
@@ -35,9 +35,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "rREST",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://github.com/ShiangHu/Unified-EEG-reference-rREST"
     }

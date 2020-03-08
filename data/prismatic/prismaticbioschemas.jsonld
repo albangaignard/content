@@ -34,8 +34,8 @@
       "sc:name": "Prismatic",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://prism-em.com/"
     },

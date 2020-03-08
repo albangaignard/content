@@ -28,8 +28,8 @@
       "sc:name": "Sleep",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://visbrain.org/sleep"
     },

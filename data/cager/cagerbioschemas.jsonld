@@ -20,8 +20,8 @@
         "@id": "http://orcid.org/0000-0003-4191-3714"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC4417143",
@@ -38,8 +38,8 @@
       "sc:name": "CAGEr",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/CAGEr.html",
       "sc:version": "1.16.0"

@@ -16,8 +16,8 @@
         "@id": "http://orcid.org/0000-0001-5474-8776"
       },
       "sc:additionalType": [
-        "Plug-in",
-        "Desktop application"
+        "Desktop application",
+        "Plug-in"
       ],
       "sc:citation": [
         {

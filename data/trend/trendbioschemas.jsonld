@@ -30,9 +30,9 @@
       "sc:license": "Proprietary",
       "sc:name": "TREND",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://biochem.missouri.edu/trend/"
     },

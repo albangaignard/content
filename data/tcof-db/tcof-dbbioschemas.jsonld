@@ -21,8 +21,8 @@
   "sc:name": "TcoF-DB",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://cbrc.kaust.edu.sa/tcof/"
 }

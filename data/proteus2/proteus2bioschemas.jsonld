@@ -17,8 +17,8 @@
   "sc:name": "PROTEUS2",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://wishart.biology.ualberta.ca/proteus2"
 }

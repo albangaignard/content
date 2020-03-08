@@ -21,8 +21,8 @@
   "sc:name": "ASAP",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": "binf.ku.dk",
   "sc:url": "http://asap.binf.ku.dk/Asap/Home.html",

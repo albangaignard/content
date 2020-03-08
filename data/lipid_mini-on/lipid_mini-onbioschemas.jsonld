@@ -22,9 +22,9 @@
   "sc:license": "BSD-2-Clause",
   "sc:name": "Lipid Mini-On",
   "sc:operatingSystem": [
+    "Mac",
     "Windows",
-    "Linux",
-    "Mac"
+    "Linux"
   ],
   "sc:url": "https://omicstools.pnnl.gov/shiny/lipid-mini-on/"
 }

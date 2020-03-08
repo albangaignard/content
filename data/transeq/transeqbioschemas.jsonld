@@ -19,8 +19,8 @@
   ],
   "sc:description": "Translate nucleic acid sequences.",
   "sc:funder": [
-    "Wellcome Trust",
     "UK MRC",
+    "Wellcome Trust",
     "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",

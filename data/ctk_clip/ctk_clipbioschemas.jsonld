@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Chaolin Zhang",
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
-        "pmcid:PMC6041811",
         "pubmed:27797762",
+        "pmcid:PMC6041811",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/btw653"
         }

@@ -18,8 +18,8 @@
   "sc:license": "GPL-2.0",
   "sc:name": "HX-Express",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://www.hxms.com/HXExpress/",

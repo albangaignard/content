@@ -37,8 +37,8 @@
       "sc:name": "miEAA",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://ccb-compute2.cs.uni-saarland.de/mieaa_tool/"
     }

@@ -17,8 +17,8 @@
   "sc:name": "SEM",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://dicsoft2.physics.iisc.ernet.in/sem/"
 }

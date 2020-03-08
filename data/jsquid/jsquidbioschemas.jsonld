@@ -15,8 +15,8 @@
   "sc:name": "jSquid",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "bils.se",
   "sc:url": "http://jsquid.sbc.su.se/",
