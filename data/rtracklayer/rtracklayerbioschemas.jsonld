@@ -24,8 +24,8 @@
         "@id": "edam:data_3002"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
@@ -54,9 +54,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "rtracklayer",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/rtracklayer.html",
       "sc:version": "1.34.1"

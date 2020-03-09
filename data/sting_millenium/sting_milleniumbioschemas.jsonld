@@ -17,8 +17,8 @@
   "sc:name": "STING Millenium",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://sms.cbi.cnptia.embrapa.br/SMS/STINGm/"
 }

@@ -24,9 +24,9 @@
     "Mac"
   ],
   "sc:provider": [
-    "Bielefeld University",
     "BiBiServ",
-    "CeBiTec"
+    "CeBiTec",
+    "Bielefeld University"
   ],
   "sc:url": "http://bibiserv.cebitec.uni-bielefeld.de/jali",
   "sc:version": "1.3"

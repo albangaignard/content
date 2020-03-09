@@ -20,8 +20,8 @@
   "sc:name": "ImmunomeBrowser",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://tools.iedb.org/immunomebrowser/"
 }

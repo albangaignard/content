@@ -17,12 +17,12 @@
   "sc:name": "ReproGenomics Viewer",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
-    "irisa.fr",
-    "GenOuest"
+    "GenOuest",
+    "irisa.fr"
   ],
   "sc:url": "http://rgv.genouest.org",
   "sc:version": "1"

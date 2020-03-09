@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/ielm",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Peter Jehl",
     "Robert J. Weatheritt",
+    "Peter Jehl",
     "Toby J. Gibson"
   ],
   "sc:additionalType": "Web application",
@@ -21,8 +21,8 @@
   "sc:name": "iELM",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://i.elm.eu.org"
 }

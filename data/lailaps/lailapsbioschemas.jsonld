@@ -20,8 +20,8 @@
   "sc:name": "LAILAPS Search Engine (transPLANT instance)",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "ipk",

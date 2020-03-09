@@ -22,13 +22,16 @@
           "@id": "edam:data_3134"
         },
         {
-          "@id": "edam:data_1270"
+          "@id": "edam:data_1050"
         },
         {
-          "@id": "edam:data_1050"
+          "@id": "edam:data_1270"
         }
       ],
       "edam:has_output": [
+        {
+          "@id": "edam:data_0849"
+        },
         {
           "@id": "edam:data_3134"
         },
@@ -36,22 +39,19 @@
           "@id": "edam:data_1017"
         },
         {
-          "@id": "edam:data_0849"
-        },
-        {
           "@id": "edam:data_2048"
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3169"
+          "@id": "edam:topic_3071"
         },
         {
-          "@id": "edam:topic_3071"
+          "@id": "edam:topic_3169"
         },
         {
           "@id": "edam:topic_3170"
@@ -77,8 +77,8 @@
       "sc:name": "GenomicFeatures",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/GenomicFeatures.html",
       "sc:version": "1.26.2"

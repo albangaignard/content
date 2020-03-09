@@ -20,8 +20,8 @@
   "sc:name": "RNAsnp",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://rth.dk/resources/rnasnp"
 }

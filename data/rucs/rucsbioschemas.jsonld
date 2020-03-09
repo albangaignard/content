@@ -19,8 +19,8 @@
   "sc:name": "RUCS",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://cge.cbs.dtu.dk/services/RUCS/"
 }

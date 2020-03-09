@@ -13,8 +13,8 @@
   "biotools:primaryContact": [
     "Luke Sargent",
     "Jeremy Goecks",
-    "Sarah C.R. Elgin",
-    "Wilson Leung"
+    "Wilson Leung",
+    "Sarah C.R. Elgin"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:31070714",
@@ -22,9 +22,9 @@
   "sc:license": "Unlicense",
   "sc:name": "G-OnRamp",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://gonramp.wustl.edu/"
 }

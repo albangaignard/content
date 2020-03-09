@@ -16,9 +16,9 @@
   "sc:description": "Search UniProt sequences with BLAST.",
   "sc:name": "UniProt BLAST",
   "sc:operatingSystem": [
-    "Windows",
+    "Mac",
     "Linux",
-    "Mac"
+    "Windows"
   ],
   "sc:provider": [
     "NCBI",

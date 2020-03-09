@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Priit Adler",
-    "Jaak Vilo",
-    "Raivo Kolde"
+    "Raivo Kolde",
+    "Jaak Vilo"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:19961599",

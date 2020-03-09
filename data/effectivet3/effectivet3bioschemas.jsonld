@@ -46,9 +46,9 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "EffectiveT3",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:provider": "AT-CUBE",
       "sc:softwareHelp": {

@@ -29,8 +29,8 @@
       "sc:name": "Netlang",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://github.com/lluisbc/Netlang-Software"
     },

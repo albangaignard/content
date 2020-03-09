@@ -30,8 +30,8 @@
       },
       "sc:name": "PyPanda",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://github.com/davidvi/pypanda"

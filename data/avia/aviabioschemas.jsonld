@@ -16,8 +16,8 @@
   "sc:name": "AVIA",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://avia.abcc.ncifcrf.gov"
 }

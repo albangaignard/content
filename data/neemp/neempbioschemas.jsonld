@@ -26,10 +26,10 @@
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_2048"
+          "@id": "edam:data_2526"
         },
         {
-          "@id": "edam:data_2526"
+          "@id": "edam:data_2048"
         },
         {
           "@id": "edam:data_1917"
@@ -56,14 +56,14 @@
       "sc:name": "NEEMP",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": [
         "ELIXIR-CZ",
         "mail.muni.cz",
-        "National Centre for Biomolecular Research, Masaryk University, Brno",
-        "Central European Institute of Technology, Brno"
+        "Central European Institute of Technology, Brno",
+        "National Centre for Biomolecular Research, Masaryk University, Brno"
       ],
       "sc:softwareHelp": {
         "@id": "http://webchem.ncbr.muni.cz/Wiki/NEEMP:UserManual"

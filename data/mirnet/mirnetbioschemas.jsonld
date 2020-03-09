@@ -31,17 +31,17 @@
           "@id": "edam:operation_3792"
         },
         {
-          "@id": "edam:operation_0463"
+          "@id": "edam:operation_2497"
         },
         {
-          "@id": "edam:operation_2497"
+          "@id": "edam:operation_0463"
         }
       ],
       "sc:name": "miRNet",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://www.mirnet.ca/"
     }

@@ -31,8 +31,8 @@
       },
       "sc:name": "CLUSTOM-CLOUD",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://clustomcloud.kopri.re.kr/"

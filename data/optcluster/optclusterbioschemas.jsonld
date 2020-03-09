@@ -10,12 +10,16 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.6026/97320630013101",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/optcluster",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Somnath Datta",
-        "Susmita Datta",
-        "Michael Sekula"
+        "Michael Sekula",
+        "Susmita Datta"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -37,10 +41,6 @@
         "Linux"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/optCluster/index.html"
-    },
-    {
-      "@id": "https://doi.org/10.6026/97320630013101",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

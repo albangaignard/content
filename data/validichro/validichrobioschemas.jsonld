@@ -15,8 +15,8 @@
   "sc:license": "Unlicense",
   "sc:name": "ValiDichro",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://valispec.cryst.bbk.ac.uk/circularDichroism/ValiDichro/upload.html"

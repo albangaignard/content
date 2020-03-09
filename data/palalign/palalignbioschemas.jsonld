@@ -17,8 +17,8 @@
   "sc:name": "palAlign",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://bioinformatics.cise.ufl.edu/palAlign.html"
 }
