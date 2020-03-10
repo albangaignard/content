@@ -35,9 +35,9 @@
       "sc:license": "CC-BY-NC-SA-3.0",
       "sc:name": "NetMatchStar",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://alpha.dmi.unict.it/netmatchstar/netmatchstar.html",
       "sc:version": "3.2"

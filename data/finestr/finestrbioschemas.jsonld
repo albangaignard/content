@@ -15,8 +15,8 @@
   "sc:name": "FineStr",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.cs.bgu.ac.il/~nucleom/",
   "sc:version": "1.0"

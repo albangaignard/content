@@ -17,8 +17,8 @@
       },
       "sc:additionalType": [
         "Command-line tool",
-        "Desktop application",
-        "Web application"
+        "Web application",
+        "Desktop application"
       ],
       "sc:author": "Jan Baumbach",
       "sc:citation": "pubmed:20508635",

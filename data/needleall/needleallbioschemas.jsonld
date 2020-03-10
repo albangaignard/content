@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
-    "Wellcome Trust",
     "UK BBSRC",
-    "EMBOSS Contributors"
+    "Wellcome Trust",
+    "EMBOSS Contributors",
+    "UK MRC"
   ],
   "sc:description": "Many-to-many pairwise alignments of two sequence sets.",
   "sc:funder": [

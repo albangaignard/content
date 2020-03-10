@@ -42,9 +42,9 @@
       "sc:license": "CC-BY-NC-SA-4.0",
       "sc:name": "netbenchmark",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/netbenchmark.html",
       "sc:version": "1.6.0"

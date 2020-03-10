@@ -29,8 +29,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "Inserm US14",
-    "Orphanet Inserm"
+    "Orphanet Inserm",
+    "Inserm US14"
   ],
   "sc:url": "http://www.orphadata.org/"
 }

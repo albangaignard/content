@@ -23,8 +23,8 @@
         }
       ],
       "sc:additionalType": [
-        "Desktop application",
-        "Web application"
+        "Web application",
+        "Desktop application"
       ],
       "sc:citation": [
         "pubmed:25015990",
@@ -39,9 +39,9 @@
       },
       "sc:name": "GlycoDigest",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://www.glycodigest.org/"
     },

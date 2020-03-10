@@ -24,8 +24,8 @@
         "@id": "edam:data_0951"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_3372"
@@ -45,8 +45,8 @@
       "sc:name": "derfinderHelper",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/derfinderHelper.html",
       "sc:version": "1.8.0"

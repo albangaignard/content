@@ -16,8 +16,8 @@
   "sc:name": "retentionprediction",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://retentionprediction.org/"
 }

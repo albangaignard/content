@@ -30,18 +30,18 @@
       "sc:description": "Data repository with analysis tools that is mainly focused on cytometry and immunology.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0224"
+          "@id": "edam:operation_3431"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_0224"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "ImmPort",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://www.immport.org"
     }

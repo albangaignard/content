@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://orcid.org/0000-0003-4739-5110",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/v-pipe",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
@@ -46,6 +42,10 @@
     },
     {
       "@id": "https://orcid.org/0000-0002-0573-6119",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://orcid.org/0000-0003-4739-5110",
       "@type": "schema:Person"
     }
   ]

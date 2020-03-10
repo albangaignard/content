@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.7717/peerj.2209",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/fluff",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -35,10 +39,6 @@
       "sc:name": "fluff",
       "sc:operatingSystem": "Linux",
       "sc:url": "https://github.com/simonvh/fluff"
-    },
-    {
-      "@id": "https://doi.org/10.7717/peerj.2209",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

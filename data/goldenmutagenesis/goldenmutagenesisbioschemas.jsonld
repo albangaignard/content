@@ -34,8 +34,8 @@
       "sc:license": "LGPL-3.0",
       "sc:name": "GoldenMutagenesis",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "https://msbi.ipb-halle.de/GoldenMutagenesisWeb",

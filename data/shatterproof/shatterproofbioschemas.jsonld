@@ -29,8 +29,8 @@
       "sc:name": "ShatterProof",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://search.cpan.org/~sgovind/Shatterproof/"
     },

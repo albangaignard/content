@@ -17,8 +17,8 @@
   "sc:name": "HIV N-linked Glycosylation Site Analyzer",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://hivtools.publichealth.uga.edu/N-Glyco/"
 }

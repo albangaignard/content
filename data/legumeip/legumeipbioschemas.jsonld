@@ -17,8 +17,8 @@
   "sc:name": "LegumeIP",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://plantgrn.noble.org/LegumeIP/"
 }

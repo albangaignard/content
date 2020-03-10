@@ -21,8 +21,8 @@
       "sc:name": "coreMRI",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://www.coreMRI.org"
     },

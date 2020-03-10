@@ -10,19 +10,11 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gkr284",
-      "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkl305",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/profeat",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Zhang Peng",
-        "Dr. Tao Lin"
+        "Dr. Tao Lin",
+        "Zhang Peng"
       ],
       "sc:additionalType": [
         "Database portal",
@@ -32,11 +24,11 @@
         {
           "@id": "https://doi.org/10.1093/nar/gkl305"
         },
-        "pubmed:27742592",
         "pubmed:21609959",
-        "pmcid:PMC3125735",
         "pmcid:PMC1538821",
         "pubmed:16845018",
+        "pmcid:PMC3125735",
+        "pubmed:27742592",
         {
           "@id": "https://doi.org/10.1093/nar/gkr284"
         }
@@ -45,11 +37,19 @@
       "sc:license": "Unlicense",
       "sc:name": "PROFEAT",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bidd2.nus.edu.sg/cgi-bin/profeat2016/main.cgi"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkr284",
+      "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkl305",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

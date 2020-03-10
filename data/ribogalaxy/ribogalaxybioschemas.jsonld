@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-3307-2938",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1080/15476286.2016.1141862",
       "@type": "sc:CreativeWork"
     },
@@ -72,8 +68,8 @@
         "Windows"
       ],
       "sc:provider": [
-        "ucc.ie",
-        "School of Biochemistry & Cell Biology, University College Cork"
+        "School of Biochemistry & Cell Biology, University College Cork",
+        "ucc.ie"
       ],
       "sc:softwareHelp": {
         "@id": "http://ribogalaxy.ucc.ie/"
@@ -83,6 +79,10 @@
       },
       "sc:url": "http://ribogalaxy.ucc.ie",
       "sc:version": "1"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-3307-2938",
+      "@type": "schema:Person"
     }
   ]
 }

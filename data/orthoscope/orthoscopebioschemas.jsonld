@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/molbev/msy226",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/ORTHOSCOPE",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Jun Inoue",
@@ -19,10 +23,10 @@
       ],
       "sc:citation": [
         "pubmed:30517749",
-        "pmcid:PMC6389317",
         {
           "@id": "https://doi.org/10.1093/molbev/msy226"
-        }
+        },
+        "pmcid:PMC6389317"
       ],
       "sc:description": "Automatic web tool for phylogenetically inferring bilaterian orthogroups with user-selected taxa.",
       "sc:featureList": [
@@ -40,14 +44,10 @@
       "sc:name": "ORTHOSCOPE",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://www.orthoscope.jp"
-    },
-    {
-      "@id": "https://doi.org/10.1093/molbev/msy226",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -17,8 +17,8 @@
   "sc:additionalType": [
     "Web API",
     "Web application",
-    "Web service",
-    "Database portal"
+    "Database portal",
+    "Web service"
   ],
   "sc:description": "WikiPathways is a database of biological pathways maintained by and for the scientific community.",
   "sc:license": "Apache-2.0",
