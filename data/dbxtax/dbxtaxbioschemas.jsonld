@@ -14,21 +14,21 @@
   "sc:contributor": [
     "Wellcome Trust",
     "EMBOSS Contributors",
-    "UK BBSRC",
-    "UK MRC"
+    "UK MRC",
+    "UK BBSRC"
   ],
   "sc:description": "Index NCBI taxonomy using b+tree indices.",
   "sc:funder": [
-    "UK BBSRC",
     "UK MRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "dbxtax",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "EMBL EBI",

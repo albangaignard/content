@@ -17,8 +17,8 @@
   "sc:name": "OGdraw",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://ogdraw.mpimp-golm.mpg.de/"
 }

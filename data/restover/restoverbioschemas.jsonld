@@ -13,26 +13,26 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK MRC",
+    "UK BBSRC",
     "Wellcome Trust",
-    "EMBOSS Contributors",
-    "UK BBSRC"
+    "EMBOSS Contributors"
   ],
   "sc:description": "Find restriction enzymes producing a specific overhang.",
   "sc:funder": [
-    "UK BBSRC",
     "UK MRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "restover",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/restover.html",
   "sc:version": "r6"

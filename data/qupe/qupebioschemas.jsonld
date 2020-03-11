@@ -16,13 +16,13 @@
   "sc:name": "QuPE",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "CeBiTec",
-    "bigi",
-    "Bielefeld University"
+    "Bielefeld University",
+    "bigi"
   ],
   "sc:url": "https://qupe.cebitec.uni-bielefeld.de",
   "sc:version": "1.0"

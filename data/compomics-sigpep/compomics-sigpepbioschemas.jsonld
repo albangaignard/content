@@ -16,8 +16,8 @@
   "sc:name": "Compomics-sigpep",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": "ugent.be",
   "sc:url": "https://github.com/compomics/compomics-sigpep",

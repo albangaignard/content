@@ -16,8 +16,8 @@
     "Marta San-Millán"
   ],
   "sc:additionalType": [
-    "Web application",
-    "Web service"
+    "Web service",
+    "Web application"
   ],
   "sc:citation": "pubmed:31087665",
   "sc:description": "Web server for adult age estimation of human skeletal remains.",

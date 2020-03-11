@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/database/baz006",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/ZincBind",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Sam Ireland",
@@ -43,11 +39,15 @@
       ],
       "sc:name": "ZincBind",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "https://zincbind.bioinf.org.uk/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/database/baz006",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

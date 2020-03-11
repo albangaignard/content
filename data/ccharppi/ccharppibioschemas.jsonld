@@ -21,8 +21,8 @@
       "sc:name": "CCharPPI",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": [
         "Barcelona Supercomputing Center",

@@ -36,8 +36,8 @@
       "sc:name": "DSSR",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://x3dna.org/",
       "sc:version": "1.8.0"

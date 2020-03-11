@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Ilya Zhbannikov",
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         {
@@ -35,9 +35,9 @@
       "sc:license": "GPL-1.0",
       "sc:name": "rqt",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "https://github.com/izhbannikov/rqt",
       "sc:version": "1.6.0"

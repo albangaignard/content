@@ -41,8 +41,8 @@
       "sc:name": "SLIM",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://trtcrd.github.io/SLIM/"
     }

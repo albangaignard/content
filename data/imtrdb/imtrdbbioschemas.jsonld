@@ -39,9 +39,9 @@
       "sc:license": "Unlicense",
       "sc:name": "ImtRDB",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://bioinfodbs.kantiana.ru/ImtRDB/"
     },

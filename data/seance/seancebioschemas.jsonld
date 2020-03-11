@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/seance",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Contact form",
-        "Support"
+        "Support",
+        "Contact form"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [

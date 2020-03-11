@@ -13,15 +13,15 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
-    "EMBOSS Contributors",
     "UK MRC",
+    "EMBOSS Contributors",
     "UK BBSRC"
   ],
   "sc:description": "Retrieve information from REBASE restriction enzyme database.",
   "sc:funder": [
+    "UK BBSRC",
     "UK MRC",
-    "Wellcome Trust",
-    "UK BBSRC"
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "redata",
@@ -31,8 +31,8 @@
     "Linux"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/redata.html",
   "sc:version": "r6"

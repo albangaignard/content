@@ -24,21 +24,21 @@
         "pubmed:22796884"
       ],
       "sc:contributor": [
-        "Jean-Sebastien Lerat",
-        "Gipsi Lima-Mendez"
+        "Gipsi Lima-Mendez",
+        "Jean-Sebastien Lerat"
       ],
       "sc:description": "Tool that detects significant non-random patterns of co-occurrence (copresence and mutual exclusion) in incidence and abundance data.",
       "sc:name": "CoNet",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:provider": [
         "KU Leuven",
         "vib-kuleuven.be",
-        "VIB",
-        "VUB"
+        "VUB",
+        "VIB"
       ],
       "sc:url": "http://www.raeslab.org/software/conet.html",
       "sc:version": "1"

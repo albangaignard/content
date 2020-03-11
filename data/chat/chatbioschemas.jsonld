@@ -32,8 +32,8 @@
       "sc:name": "CHAT",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://chat.lionproject.net/"
     }

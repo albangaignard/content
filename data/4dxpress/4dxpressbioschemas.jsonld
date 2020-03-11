@@ -22,10 +22,10 @@
           "@id": "edam:data_1796"
         },
         {
-          "@id": "edam:data_1026"
+          "@id": "edam:data_1033"
         },
         {
-          "@id": "edam:data_1033"
+          "@id": "edam:data_1026"
         }
       ],
       "edam:has_output": {

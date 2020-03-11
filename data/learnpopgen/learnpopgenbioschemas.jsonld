@@ -33,8 +33,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "learnPopGen",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/learnPopGen/index.html"

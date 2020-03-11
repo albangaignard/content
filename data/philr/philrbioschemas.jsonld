@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.7554/eLife.21887",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0002-3063-2098",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/philr",
@@ -20,8 +20,8 @@
         "@id": "http://orcid.org/0000-0002-3063-2098"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:28198697",
@@ -38,15 +38,15 @@
       "sc:name": "philr",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/philr.html",
       "sc:version": "1.0.0"
     },
     {
-      "@id": "http://orcid.org/0000-0002-3063-2098",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.7554/eLife.21887",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Mahdi Jalili",
       "sc:additionalType": [
         "Command-line tool",
-        "Web application",
-        "Library"
+        "Library",
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:26571275",

@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
     "Web application",
-    "Web API",
     "SPARQL endpoint",
+    "Web API",
     "Workbench"
   ],
   "sc:citation": "pubmed:28214993",

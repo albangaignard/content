@@ -18,8 +18,8 @@
   "sc:name": "PubMed",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "Instruct",
   "sc:url": "http://www.ncbi.nlm.nih.gov/pubmed"

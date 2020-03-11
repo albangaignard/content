@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/qgrs_mapper",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Paramjeet Bagga",
     "Manuel Viotti",
+    "Lawrence D'Antonio",
     "Oleg Kikin",
-    "Lawrence D'Antonio"
+    "Paramjeet Bagga"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:16845096",
