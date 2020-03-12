@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/1752-0509-1-2",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0003-2563-7561",
       "@type": "schema:Person"
     },
@@ -28,10 +24,10 @@
         "Command-line tool"
       ],
       "sc:citation": [
+        "pubmed:17408509",
         {
           "@id": "https://doi.org/10.1186/1752-0509-1-2"
         },
-        "pubmed:17408509",
         "pmcid:PMC1847467",
         "pubmed:21315797"
       ],
@@ -39,10 +35,14 @@
       "sc:name": "CellNetAnalyzer",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://www2.mpi-magdeburg.mpg.de/projects/cna/cna.html"
+    },
+    {
+      "@id": "https://doi.org/10.1186/1752-0509-1-2",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

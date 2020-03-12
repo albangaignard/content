@@ -36,8 +36,8 @@
       "sc:name": "ReadXplorer",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:provider": "bigi",
       "sc:url": "http://readxplorer.org",

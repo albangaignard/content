@@ -10,26 +10,30 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-6816-5931",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/srd",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Olivier Collin",
       "sc:additionalType": "Database portal",
       "sc:author": [
         "Hallier M.",
-        "Chabelskaya S.",
-        "Felden B.",
-        {
-          "@id": "http://orcid.org/0000-0002-0527-1171"
-        },
-        "Ivain L.",
         {
           "@id": "http://orcid.org/0000-0002-6816-5931"
         },
-        "Mauro T."
+        "Mauro T.",
+        "Felden B.",
+        "Chabelskaya S.",
+        {
+          "@id": "http://orcid.org/0000-0002-0527-1171"
+        },
+        "Ivain L."
       ],
       "sc:citation": [
-        "pubmed:25805861",
         "pmcid:PMC4408781",
+        "pubmed:25805861",
         {
           "@id": "https://doi.org/10.1261/rna.049346.114"
         }
@@ -51,16 +55,12 @@
       "sc:url": "http://srd.genouest.org/"
     },
     {
-      "@id": "https://doi.org/10.1261/rna.049346.114",
-      "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-6816-5931",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "http://orcid.org/0000-0002-0527-1171",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1261/rna.049346.114",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

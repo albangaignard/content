@@ -37,13 +37,13 @@
       ],
       "sc:name": "VirusMentha",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:provider": [
-        "Molecular Genetic Group, University of Rome \"Tor Vergata\", Rome, Italy",
-        "ELIXIR-ITA-TORVERGATA"
+        "ELIXIR-ITA-TORVERGATA",
+        "Molecular Genetic Group, University of Rome \"Tor Vergata\", Rome, Italy"
       ],
       "sc:url": "http://virusmentha.uniroma2.it/",
       "sc:version": "1"

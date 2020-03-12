@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/beatmusic",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Marianne Rooman",
     "Jean Marc Kwasigroch",
     "Yves Dehouck",
-    "Marianne Rooman",
     "Dimitri Gilis"
   ],
   "sc:additionalType": "Web application",

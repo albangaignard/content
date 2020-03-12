@@ -13,12 +13,12 @@
       "@id": "https://bio.tools/jaspar",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Wyeth Wasserman",
-        "Boris Lenhard",
         "Albin Sandelin",
+        "Boris Lenhard",
         {
           "@id": "http://orcid.org/0000-0001-5127-5459"
-        }
+        },
+        "Wyeth Wasserman"
       ],
       "sc:additionalType": [
         "Database portal",
@@ -30,8 +30,8 @@
       "sc:name": "JASPAR",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://jaspar.genereg.net/"
     },

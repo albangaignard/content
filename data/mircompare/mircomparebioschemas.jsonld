@@ -20,8 +20,8 @@
   "sc:name": "MirCompare",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://160.80.35.140/MirCompare/"
 }

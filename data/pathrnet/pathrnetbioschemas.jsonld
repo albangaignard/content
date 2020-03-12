@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/pathrnet",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "yufei.huang@utsa.edu",
     "Jia Meng",
     "Yidong Chen",
+    "yufei.huang@utsa.edu",
     "Shou-Jiang Gao"
   ],
   "sc:additionalType": "Command-line tool",

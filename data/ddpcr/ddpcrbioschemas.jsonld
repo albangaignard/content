@@ -20,8 +20,8 @@
         "@id": "http://orcid.org/0000-0002-6983-2759"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:citation": [
         {
@@ -38,8 +38,8 @@
       "sc:name": "ddpcr",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://daattali.com/shiny/ddpcr/"
     },

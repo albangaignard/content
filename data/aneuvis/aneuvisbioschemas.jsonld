@@ -36,9 +36,9 @@
       "sc:license": "Unlicense",
       "sc:name": "Aneuvis",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://dpique.shinyapps.io/aneuvis/"
     },

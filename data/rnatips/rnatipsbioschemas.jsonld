@@ -18,8 +18,8 @@
   "sc:name": "RNAtips",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://webclu.bio.wzw.tum.de/cgi-bin/RNAtips/start.cgi"
 }

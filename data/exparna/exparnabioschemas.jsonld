@@ -61,8 +61,8 @@
       "sc:name": "ExpaRNA",
       "sc:operatingSystem": "Linux",
       "sc:provider": [
-        "University Freiburg",
-        "rnateam"
+        "rnateam",
+        "University Freiburg"
       ],
       "sc:softwareHelp": {
         "@id": "http://www.bioinf.uni-freiburg.de/Software/#ExpaRNA-download"

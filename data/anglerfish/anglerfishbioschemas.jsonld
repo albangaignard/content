@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0001-9649-5092",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/anglerfish",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -42,11 +38,15 @@
       ],
       "sc:name": "AnglerFish",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://anglerfish.cryst.bbk.ac.uk/"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-9649-5092",
+      "@type": "schema:Person"
     }
   ]
 }

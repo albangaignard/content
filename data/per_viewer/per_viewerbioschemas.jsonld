@@ -20,8 +20,8 @@
   "sc:name": "PER viewer",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://per.broadinstitute.org"
 }
