@@ -27,8 +27,8 @@
   "sc:name": "PredictProtein Open",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "RostLab",

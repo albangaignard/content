@@ -39,9 +39,9 @@
       "sc:license": "Unlicense",
       "sc:name": "PSRN",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://syslab5.nchu.edu.tw/"
     },

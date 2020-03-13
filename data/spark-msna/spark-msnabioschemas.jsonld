@@ -29,17 +29,17 @@
           "@id": "edam:operation_0323"
         },
         {
-          "@id": "edam:operation_0491"
+          "@id": "edam:operation_0492"
         },
         {
-          "@id": "edam:operation_0492"
+          "@id": "edam:operation_0491"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "SPARK-MSNA",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "https://sourceforge.net/projects/spark-msna/"

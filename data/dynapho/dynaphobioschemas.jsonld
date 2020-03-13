@@ -19,8 +19,8 @@
   "sc:name": "DynaPho",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://dynapho.jhlab.tw/"
 }

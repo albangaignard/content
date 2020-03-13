@@ -31,9 +31,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "openCyto",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/openCyto.html",
       "sc:version": "1.12.1"

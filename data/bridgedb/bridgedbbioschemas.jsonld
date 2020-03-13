@@ -16,16 +16,16 @@
   "sc:license": "Apache-2.0",
   "sc:name": "BridgeDb",
   "sc:operatingSystem": [
+    "Linux",
     "Mac",
-    "Windows",
-    "Linux"
+    "Windows"
   ],
   "sc:provider": [
-    "Maastricht University",
+    "Manchester University",
     "maastrichtuniversity.nl",
     "Heroit Watt University",
-    "Manchester University",
-    "Gladstone Institutes"
+    "Gladstone Institutes",
+    "Maastricht University"
   ],
   "sc:url": "http://www.bridgedb.org/",
   "sc:version": "1"

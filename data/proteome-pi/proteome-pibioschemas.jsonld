@@ -24,13 +24,13 @@
       "sc:additionalType": "Database portal",
       "sc:applicationSubCategory": [
         {
+          "@id": "edam:topic_0121"
+        },
+        {
           "@id": "edam:topic_0123"
         },
         {
           "@id": "edam:topic_3520"
-        },
-        {
-          "@id": "edam:topic_0121"
         }
       ],
       "sc:citation": [
@@ -48,9 +48,9 @@
       "sc:license": "CC-BY-4.0",
       "sc:name": "Proteome-pI",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:softwareHelp": {
         "@id": "http://isoelectricpointdb.org/statistics.html"

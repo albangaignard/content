@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/needlestack",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Aurelie Gabriel",
+    "Matthieu Foll",
     "Nicolas Alcala",
     "Tiffany Delhomme",
-    "Matthieu Foll"
+    "Aurelie Gabriel"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:description": "Ultra-sensitive variant caller for multi-sample next generation sequencing data.",

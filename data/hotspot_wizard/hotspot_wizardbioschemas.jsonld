@@ -13,30 +13,30 @@
   "sc:additionalType": "Web application",
   "sc:author": [
     "Jan Stourac",
-    "Jan Brezovsky",
     "Jiri Damborsky",
+    "Jan Brezovsky",
     "Jaroslav Bendl"
   ],
   "sc:contributor": [
-    "Ondrej Vavra",
-    "Milos Musil",
-    "Grant Agency of the Czech Republic [GA16-06096S]",
-    "Ministry of Education of the Czech Republic [LO1214, LQ1605, LM2015055 and LM2015047]",
-    "Eva Sebestova",
-    "Brno University of Technology [FIT-S-14-2299 to M.M.]",
-    "CESNET and the CERIT Scientific Cloud [LM2015042 and LM2015085]",
     "Antonin Pavelka",
+    "Ministry of Education of the Czech Republic [LO1214, LQ1605, LM2015055 and LM2015047]",
     "Horizon 2020 Research Infrastructure ELIXIR-EXCELERATE [676559]",
-    "European Commission REGPOT [316345]"
+    "Ondrej Vavra",
+    "Eva Sebestova",
+    "CESNET and the CERIT Scientific Cloud [LM2015042 and LM2015085]",
+    "Grant Agency of the Czech Republic [GA16-06096S]",
+    "European Commission REGPOT [316345]",
+    "Brno University of Technology [FIT-S-14-2299 to M.M.]",
+    "Milos Musil"
   ],
   "sc:description": "An automated design of mutations and smart libraries for engineering of protein function and stability and annotation of protein structures.",
   "sc:funder": [
-    "European Commission REGPOT [316345]",
-    "Grant Agency of the Czech Republic [GA16-06096S]",
-    "Brno University of Technology [FIT-S-14-2299 to M.M.]",
-    "CESNET and the CERIT Scientific Cloud [LM2015042 and LM2015085]",
     "Ministry of Education of the Czech Republic [LO1214, LQ1605, LM2015055 and LM2015047]",
-    "Horizon 2020 Research Infrastructure ELIXIR-EXCELERATE [676559]"
+    "Brno University of Technology [FIT-S-14-2299 to M.M.]",
+    "Grant Agency of the Czech Republic [GA16-06096S]",
+    "Horizon 2020 Research Infrastructure ELIXIR-EXCELERATE [676559]",
+    "CESNET and the CERIT Scientific Cloud [LM2015042 and LM2015085]",
+    "European Commission REGPOT [316345]"
   ],
   "sc:name": "HotSpot Wizard",
   "sc:operatingSystem": [

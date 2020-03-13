@@ -37,8 +37,8 @@
       "sc:name": "COHCAP",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/COHCAP.html",
       "sc:version": "1.16.0"

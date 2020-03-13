@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0001-8950-1036",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/ebolaid",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -37,11 +33,15 @@
       },
       "sc:name": "EbolaID",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://ebolaid.portugene.com"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-8950-1036",
+      "@type": "schema:Person"
     }
   ]
 }

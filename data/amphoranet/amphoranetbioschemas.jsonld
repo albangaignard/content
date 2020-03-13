@@ -17,8 +17,8 @@
   "sc:name": "AmphoraNet",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://pitgroup.org/amphoranet/"
 }

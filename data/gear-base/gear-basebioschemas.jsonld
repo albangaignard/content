@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/GEAR-base",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Andreas E. Posch",
-    "Andreas Keller"
+    "Andreas Keller",
+    "Andreas E. Posch"
   ],
   "sc:additionalType": [
     "Web application",
@@ -22,9 +22,9 @@
   "sc:license": "Unlicense",
   "sc:name": "GEAR-base",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://gear-base.com"
 }

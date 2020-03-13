@@ -16,8 +16,8 @@
   "sc:name": "Sann",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://lee.kias.re.kr/~newton/sann/"
 }

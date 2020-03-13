@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Enrique Blanco",
       "sc:additionalType": [
-        "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:author": "Enrique Blanco",
       "sc:citation": [
@@ -37,8 +37,8 @@
         "Linux"
       ],
       "sc:provider": [
-        "Lab Roderic Guigo Group",
-        "crg.eu"
+        "crg.eu",
+        "Lab Roderic Guigo Group"
       ],
       "sc:url": "http://big.crg.cat/services/meta",
       "sc:version": "1"

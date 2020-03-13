@@ -35,8 +35,8 @@
       "sc:license": "GPL-1.0",
       "sc:name": "rqt",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "https://github.com/izhbannikov/rqt",

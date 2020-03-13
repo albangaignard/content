@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
-    "UK BBSRC",
     "EMBOSS Contributors",
-    "UK MRC"
+    "UK BBSRC",
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:description": "Find tandem repeats in nucleotide sequences.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "equicktandem",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

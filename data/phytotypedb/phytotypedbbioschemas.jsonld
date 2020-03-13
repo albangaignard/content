@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/PhytoTypeDB",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pmcid:PMC6301341",
@@ -41,9 +41,9 @@
       ],
       "sc:name": "PhytoTypeDB",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://phytotypedb.bio.unipd.it/"
     }
