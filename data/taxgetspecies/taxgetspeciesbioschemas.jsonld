@@ -13,21 +13,21 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
+    "Wellcome Trust",
     "UK MRC",
-    "EMBOSS Contributors",
-    "Wellcome Trust"
+    "EMBOSS Contributors"
   ],
   "sc:description": "Get all species under taxon(s).",
   "sc:funder": [
-    "Wellcome Trust",
     "UK MRC",
+    "Wellcome Trust",
     "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "taxgetspecies",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": [

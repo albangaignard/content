@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/bioinformatics/btp394",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/pindel",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -47,9 +51,9 @@
       "sc:license": "Unlicense",
       "sc:name": "Pindel",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:softwareHelp": [
         {
@@ -60,10 +64,6 @@
         }
       ],
       "sc:url": "http://gmt.genome.wustl.edu/packages/pindel/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/bioinformatics/btp394",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

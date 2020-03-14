@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.7717/PEERJ.6801",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/MorphoCatcher",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Fedor V. Shirshikov",
@@ -40,11 +36,15 @@
       "sc:license": "Unlicense",
       "sc:name": "MorphoCatcher",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://morphocatcher.ru"
+    },
+    {
+      "@id": "https://doi.org/10.7717/PEERJ.6801",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

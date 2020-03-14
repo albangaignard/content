@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Matthieu Foll",
-    "Nicolas Alcala",
+    "Aurelie Gabriel",
     "Tiffany Delhomme",
-    "Aurelie Gabriel"
+    "Nicolas Alcala"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:description": "Ultra-sensitive variant caller for multi-sample next generation sequencing data.",

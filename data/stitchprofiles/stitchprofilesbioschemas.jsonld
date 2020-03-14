@@ -23,12 +23,12 @@
   "sc:name": "Stitchprofiles",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
-    "The Norwegian Radium Hospital",
     "UiO",
+    "The Norwegian Radium Hospital",
     "University of Oslo"
   ],
   "sc:url": "http://stitchprofiles.uio.no/",

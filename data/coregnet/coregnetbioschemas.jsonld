@@ -16,8 +16,8 @@
         "@id": "http://orcid.org/0000-0001-8084-1173"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:25979476",
@@ -33,9 +33,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "CoRegNet",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/CoRegNet.html",
       "sc:version": "1.10.0"

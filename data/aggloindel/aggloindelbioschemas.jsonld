@@ -23,8 +23,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "Bielefeld University",
     "BiBiServ",
+    "Bielefeld University",
     "CeBiTec"
   ],
   "sc:url": "http://bibiserv.cebitec.uni-bielefeld.de/agglodel",

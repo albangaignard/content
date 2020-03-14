@@ -22,15 +22,15 @@
         "@id": "edam:data_2884"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_3361"
       },
       "sc:citation": [
-        "pubmed:23887981",
         "pmcid:PMC3862207",
+        "pubmed:23887981",
         {
           "@id": "https://doi.org/10.1093/biostatistics/kxt024"
         }
@@ -48,8 +48,8 @@
       "sc:name": "MIMOSA",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/MIMOSA.html",
       "sc:version": "1.12.0"

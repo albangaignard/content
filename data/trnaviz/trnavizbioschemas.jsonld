@@ -36,8 +36,8 @@
       "sc:name": "tRNAviz",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://trna.ucsc.edu/tRNAviz/summary/"
     },

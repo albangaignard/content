@@ -35,8 +35,8 @@
       "sc:license": "Unlicense",
       "sc:name": "DynaStI",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://dynasti.vital-it.ch"

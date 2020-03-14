@@ -17,30 +17,30 @@
           "@id": "edam:data_3498"
         },
         {
-          "@id": "edam:data_3002"
+          "@id": "edam:data_0872"
         },
         {
-          "@id": "edam:data_0872"
+          "@id": "edam:data_3002"
         }
       ],
       "edam:has_output": {
         "@id": "edam:data_2884"
       },
       "sc:additionalType": [
-        "Web application",
-        "Desktop application"
+        "Desktop application",
+        "Web application"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3168"
+          "@id": "edam:topic_0797"
         },
         {
-          "@id": "edam:topic_0797"
+          "@id": "edam:topic_3168"
         }
       ],
       "sc:citation": [
-        "pubmed:24053737",
         "pmcid:PMC3849071",
+        "pubmed:24053737",
         {
           "@id": "https://doi.org/10.1186/1471-2105-14-277"
         }
@@ -59,8 +59,8 @@
       "sc:name": "SynTView",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:softwareHelp": {
         "@id": "http://hub18.hosting.pasteur.fr/SynTView/documentation/"

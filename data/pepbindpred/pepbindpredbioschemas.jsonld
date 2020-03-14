@@ -21,8 +21,8 @@
       },
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pmcid:PMC3760854",
         "pubmed:24019881",
+        "pmcid:PMC3760854",
         {
           "@id": "https://doi.org/10.1371/journal.pone.0072838"
         }
@@ -33,9 +33,9 @@
       },
       "sc:name": "PepBindPred",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioware.ucd.ie/~compass/biowareweb/Server_pages/pepbindpred.php"
     }

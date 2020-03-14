@@ -19,8 +19,8 @@
   "sc:license": "CC-BY-4.0",
   "sc:name": "MetaNetX",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "https://metanetx.org/",

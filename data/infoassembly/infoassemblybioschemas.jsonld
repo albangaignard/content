@@ -31,8 +31,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://www.bioinformatics.nl/cgi-bin/emboss/infoassembly",
   "sc:version": "r6"

@@ -17,8 +17,8 @@
   "sc:name": "HiTSelect",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/diazlab/HiTSelect"
 }

@@ -18,8 +18,8 @@
   "sc:name": "Virtual Ribosome",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.cbs.dtu.dk/services/VirtualRibosome/"
 }
