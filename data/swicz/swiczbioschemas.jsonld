@@ -18,9 +18,9 @@
   "sc:contributor": [
     "Bjorn Grunenfelder",
     "Urs Jenal",
-    "Jan Bobek",
     "Marek Basler",
-    "Karel Mikulik"
+    "Karel Mikulik",
+    "Jan Bobek"
   ],
   "sc:description": "A proteomics web database.",
   "sc:name": "SWICZ",

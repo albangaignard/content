@@ -22,10 +22,10 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_1669"
         },
         {
-          "@id": "edam:data_1669"
+          "@id": "edam:data_2884"
         }
       ],
       "sc:additionalType": [
@@ -37,10 +37,10 @@
           "@id": "edam:topic_3170"
         },
         {
-          "@id": "edam:topic_3518"
+          "@id": "edam:topic_0203"
         },
         {
-          "@id": "edam:topic_0203"
+          "@id": "edam:topic_3518"
         }
       ],
       "sc:citation": [
@@ -61,8 +61,8 @@
       "sc:name": "qusage",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/qusage.html",
       "sc:version": "2.6.0"

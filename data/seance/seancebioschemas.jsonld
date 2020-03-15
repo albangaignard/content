@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/seance",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Contact form",
-        "Support"
+        "Support",
+        "Contact form"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
@@ -27,16 +27,16 @@
       "sc:description": "Reference-based phylogenetic analysis for 18S rRNA studies.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3680"
+          "@id": "edam:operation_0324"
         },
         {
-          "@id": "edam:operation_0324"
+          "@id": "edam:operation_3680"
         }
       ],
       "sc:name": "Seance",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://wasabiapp.org/software/seance/"
     },

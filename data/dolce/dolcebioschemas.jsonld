@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Daniel Svozil",
-    "Filip Lankaš",
     "Jiří Černý",
+    "Filip Lankaš",
     "Petr Cech",
     "Bohdan Schneider"
   ],

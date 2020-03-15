@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1371/journal.pcbi.1006733",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/scFBA",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "BIMIB",
@@ -27,10 +31,10 @@
           "@id": "edam:operation_3660"
         },
         {
-          "@id": "edam:operation_2495"
+          "@id": "edam:operation_3803"
         },
         {
-          "@id": "edam:operation_3803"
+          "@id": "edam:operation_2495"
         }
       ],
       "sc:name": "scFBA",
@@ -40,10 +44,6 @@
         "Linux"
       ],
       "sc:url": "https://github.com/BIMIB-DISCo/scFBA"
-    },
-    {
-      "@id": "https://doi.org/10.1371/journal.pcbi.1006733",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -32,18 +32,18 @@
           "@id": "edam:operation_3197"
         },
         {
-          "@id": "edam:operation_2421"
+          "@id": "edam:operation_2422"
         },
         {
-          "@id": "edam:operation_2422"
+          "@id": "edam:operation_2421"
         }
       ],
       "sc:license": "ODbL-1.0",
       "sc:name": "gnomAD",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://gnomad.broadinstitute.org/"
     },

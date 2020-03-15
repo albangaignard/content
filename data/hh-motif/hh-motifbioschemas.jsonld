@@ -10,14 +10,22 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-2457-7504",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/NAR/GKX341",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/hh-motif",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Michael Volkmer",
+        "Roman Prytuliak",
         {
           "@id": "http://orcid.org/0000-0002-2457-7504"
-        },
-        "Roman Prytuliak"
+        }
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -33,19 +41,11 @@
       },
       "sc:name": "HH-MOTiF",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://hh-motif.ibdm.univ-mrs.fr/"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-2457-7504",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKX341",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

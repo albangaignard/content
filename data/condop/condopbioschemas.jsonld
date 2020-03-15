@@ -34,8 +34,8 @@
       },
       "sc:name": "CONDOP",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:provider": "ELIXIR-ITA-SALERNO",

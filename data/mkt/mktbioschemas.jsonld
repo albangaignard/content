@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/mkt",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Raquel Egea",
     "Sonia Casillas",
-    "Antonio Barbadilla",
-    "Raquel Egea"
+    "Antonio Barbadilla"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:18515345",

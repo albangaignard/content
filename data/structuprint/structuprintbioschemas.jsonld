@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s12900-016-0055-7",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0002-5082-1929",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s12900-016-0055-7",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/structuprint",
@@ -24,8 +24,8 @@
         "@id": "http://orcid.org/0000-0002-5082-1929"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Desktop application"
+        "Desktop application",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC4765231",

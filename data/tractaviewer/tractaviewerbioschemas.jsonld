@@ -17,8 +17,8 @@
   "sc:name": "TractaViewer",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://github.com/NeilPearson-Lilly/TractaViewer"
 }

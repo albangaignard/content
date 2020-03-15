@@ -17,8 +17,8 @@
   "sc:name": "GIS",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://agknapp.chemie.fu-berlin.de/gplus"
 }
