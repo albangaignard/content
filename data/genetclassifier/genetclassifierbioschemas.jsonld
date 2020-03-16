@@ -41,9 +41,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "geNetClassifier",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/geNetClassifier.html",
       "sc:version": "1.14.0"

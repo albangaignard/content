@@ -10,19 +10,15 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/S12864-016-2723-1",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/kinmutrf",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Miguel vazquez",
       "sc:additionalType": "Web application",
       "sc:citation": [
+        "pmcid:PMC4928150",
         {
           "@id": "https://doi.org/10.1186/S12864-016-2723-1"
         },
-        "pmcid:PMC4928150",
         "pubmed:27357839"
       ],
       "sc:description": "A random forest classifier of sequence variants in the human protein kinase superfamily.",
@@ -33,10 +29,14 @@
       "sc:name": "KinMutRF",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://kinmut2.bioinfo.cnio.es/KinMut2"
+    },
+    {
+      "@id": "https://doi.org/10.1186/S12864-016-2723-1",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -24,10 +24,10 @@
       "sc:description": "Variational projection for accurate clustering of single-cell transcriptomic data.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3891"
+          "@id": "edam:operation_3557"
         },
         {
-          "@id": "edam:operation_3557"
+          "@id": "edam:operation_3891"
         },
         {
           "@id": "edam:operation_3432"
@@ -37,8 +37,8 @@
       "sc:name": "VPAC",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://github.com/ShengquanChen/VPAC"
     },

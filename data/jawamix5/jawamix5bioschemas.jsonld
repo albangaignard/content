@@ -17,8 +17,8 @@
   "sc:name": "JAWAMix5",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://code.google.com/p/jawamix5/"
 }

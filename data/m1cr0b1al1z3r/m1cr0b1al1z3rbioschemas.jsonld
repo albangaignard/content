@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/NAR/GKZ423",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/M1CR0B1AL1Z3R",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Tal Pupko",
@@ -39,15 +43,11 @@
       "sc:license": "GPL-2.0",
       "sc:name": "M1CR0B1AL1Z3R",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://microbializer.tau.ac.il/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKZ423",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

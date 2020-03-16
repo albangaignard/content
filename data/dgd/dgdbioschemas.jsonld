@@ -16,8 +16,8 @@
   "sc:name": "DGD",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": "GenOuest",
   "sc:url": "http://dgd.genouest.org/"

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-0474-2218",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.1093/bioinformatics/btq046",
       "@type": "sc:CreativeWork"
     },
@@ -22,13 +26,13 @@
       },
       "sc:additionalType": "Command-line tool",
       "sc:author": [
-        "Mike Smith",
-        "Gregoire Pau",
-        "Andrzej Oleś",
+        "Oleg Sklyar",
         {
           "@id": "http://orcid.org/0000-0002-0474-2218"
         },
-        "Oleg Sklyar"
+        "Mike Smith",
+        "Andrzej Oleś",
+        "Gregoire Pau"
       ],
       "sc:citation": [
         {
@@ -49,15 +53,11 @@
         "Linux"
       ],
       "sc:provider": [
-        "hdhub",
-        "European Molecular Biology Laboratory"
+        "European Molecular Biology Laboratory",
+        "hdhub"
       ],
       "sc:url": "http://bioconductor.org/packages/EBImage/",
       "sc:version": "4"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-0474-2218",
-      "@type": "schema:Person"
     }
   ]
 }

@@ -17,8 +17,8 @@
   "sc:name": "hapassoc",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://stat.sfu.ca/statgen/research/hapassoc.html"
 }

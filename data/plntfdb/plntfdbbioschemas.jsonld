@@ -17,8 +17,8 @@
   "sc:name": "PlnTFDB",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://plntfdb.bio.uni-potsdam.de/"
 }

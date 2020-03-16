@@ -16,8 +16,8 @@
         "@id": "http://orcid.org/0000-0002-0383-3943"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC4908757",
@@ -33,8 +33,8 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "Chicago",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/Chicago.html",

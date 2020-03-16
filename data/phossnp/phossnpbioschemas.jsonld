@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/phossnp",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Zhaolei Zhang",
     "Jian Ren",
+    "Zhaolei Zhang",
     "Yu Xue"
   ],
   "sc:additionalType": "Database portal",
@@ -21,8 +21,8 @@
   "sc:name": "PhosSNP",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://phossnp.biocuckoo.org/"
 }

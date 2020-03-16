@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1371/JOURNAL.PONE.0216705",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/CiliaCarta",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -37,10 +33,10 @@
       "sc:description": "An integrated and validated compendium of ciliary genes.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3638"
+          "@id": "edam:operation_3501"
         },
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_3638"
         },
         {
           "@id": "edam:operation_3629"
@@ -49,11 +45,15 @@
       "sc:license": "Unlicense",
       "sc:name": "CiliaCarta",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioinformatics.bio.uu.nl/john/syscilia/ciliacarta/"
+    },
+    {
+      "@id": "https://doi.org/10.1371/JOURNAL.PONE.0216705",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

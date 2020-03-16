@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
     "EMBOSS Contributors",
     "UK BBSRC",
+    "UK MRC",
     "Wellcome Trust"
   ],
   "sc:description": "Search for patterns in nucleotide sequences.",
@@ -31,8 +31,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/fuzznuc.html",
   "sc:version": "r6"

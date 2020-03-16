@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/magicviewer",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jinyu Wu",
     "Zhongsheng Sun",
+    "Jinyu Wu",
     "Erle Zhu",
     "Huabin Hou",
     "Linglin Zhou"

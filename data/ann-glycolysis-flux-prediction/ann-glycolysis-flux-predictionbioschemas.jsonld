@@ -10,6 +10,14 @@
   },
   "@graph": [
     {
+      "@id": "https://orcid.org/0000-0002-3568-9595",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1371/JOURNAL.PONE.0216178",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/ANN-Glycolysis-Flux-Prediction",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -39,18 +47,10 @@
       "sc:name": "ANN-Glycolysis-Flux-Prediction",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/DSIMB/ANN-Glycolysis-Flux-Prediction"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-3568-9595",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1371/JOURNAL.PONE.0216178",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/database/bat031",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/protein_model_portal",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Prof. Torsten Schwede",
@@ -34,23 +38,19 @@
           "@id": "edam:operation_3431"
         },
         {
-          "@id": "edam:operation_0224"
+          "@id": "edam:operation_2414"
         },
         {
-          "@id": "edam:operation_2414"
+          "@id": "edam:operation_0224"
         }
       ],
       "sc:name": "Protein Model Portal",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://www.proteinmodelportal.org"
-    },
-    {
-      "@id": "https://doi.org/10.1093/database/bat031",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
-    "Wellcome Trust",
     "EMBOSS Contributors",
-    "UK MRC"
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:description": "Compare and report features of two similar sequences.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "diffseq",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

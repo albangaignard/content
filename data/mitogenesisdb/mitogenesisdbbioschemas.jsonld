@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Gaelle LELANDAIS",
+    "Mickael ORGEUR",
     "Claude JACQ",
-    "Jean-Christophe GELLY",
-    "Mickael ORGEUR"
+    "Jean-Christophe GELLY"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:20833631",

@@ -23,12 +23,12 @@
   "sc:name": "arDock",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
-    "UCBL",
-    "CNRS"
+    "CNRS",
+    "UCBL"
   ],
   "sc:url": "http://ardock.ibcp.fr",
   "sc:version": "0.9"

@@ -11,19 +11,19 @@
   "@id": "https://bio.tools/hervd",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Database portal",
-    "Web application"
+    "Web application",
+    "Database portal"
   ],
   "sc:author": [
     "Jan Pačes",
     "Ondřej Moravčík"
   ],
   "sc:contributor": [
-    "Mirka Famfulí­ková",
-    "Lucie Studená",
     "Eva Prysiazhniuk",
+    "Lucie Studená",
+    "Radek Zí­ka",
     "Adam Pavlí­ček",
-    "Radek Zí­ka"
+    "Mirka Famfulí­ková"
   ],
   "sc:description": "Human endogenous retroviruses database.",
   "sc:license": "CC-BY-4.0",
