@@ -15,8 +15,8 @@
   "sc:description": "Prediction of protein disorder.",
   "sc:name": "CSpritz",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": "ELIXIR-ITA-PADOVA",

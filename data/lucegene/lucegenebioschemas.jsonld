@@ -15,8 +15,8 @@
   "sc:name": "LuceGene",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.gmod.org/wiki/LuceGene",
   "sc:version": "1.4"

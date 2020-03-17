@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/frog",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Administrator",
     "General",
+    "Administrator",
     "Bug report"
   ],
   "sc:additionalType": "Web application",
@@ -21,8 +21,8 @@
   "sc:name": "Frog",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://bioserv.rpbs.jussieu.fr/cgi-bin/Frog"
 }

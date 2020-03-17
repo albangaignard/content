@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/PhenoScanner",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Command-line tool",
-    "Web application",
     "Database portal",
+    "Web application",
+    "Command-line tool",
     "Web API"
   ],
   "sc:description": "Database of human genotype-phenotype associations.",
@@ -21,8 +21,8 @@
   "sc:name": "PhenoScanner",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.phenoscanner.medschl.cam.ac.uk/",
   "sc:version": "2"

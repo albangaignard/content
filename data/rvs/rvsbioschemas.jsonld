@@ -16,8 +16,8 @@
   "sc:name": "RVS",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://strug.ccb.sickkids.ca/rvs/index.html"
 }

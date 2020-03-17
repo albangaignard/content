@@ -27,15 +27,15 @@
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_2082"
+          "@id": "edam:data_2884"
         },
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_2082"
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
@@ -63,9 +63,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "SIAMCAT",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": [
         "European Molecular Biology Laboratory (EMBL)",

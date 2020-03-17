@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Youyi Fong",
       "sc:additionalType": "Library",
       "sc:citation": [
-        "pubmed:29037149",
         "pmcid:PMC5644082",
+        "pubmed:29037149",
         {
           "@id": "https://doi.org/10.1186/s12859-017-1863-x"
         }
@@ -29,8 +29,8 @@
       "sc:name": "chngpt",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/chngpt/",
       "sc:version": "2018.6-2"

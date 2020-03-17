@@ -18,30 +18,30 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_2048"
+          "@id": "edam:data_2884"
         },
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_2048"
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3295"
+          "@id": "edam:topic_0080"
         },
         {
           "@id": "edam:topic_3518"
         },
         {
-          "@id": "edam:topic_0080"
+          "@id": "edam:topic_3295"
         }
       ],
       "sc:author": [
-        "Pavlo Lutsik",
-        "Martin Slawski"
+        "Martin Slawski",
+        "Pavlo Lutsik"
       ],
       "sc:citation": [
         "pmcid:PMC5366155",
@@ -61,9 +61,9 @@
         "Mac"
       ],
       "sc:provider": [
-        "Walter lab",
+        "hdhub",
         "Hein Lab",
-        "hdhub"
+        "Walter lab"
       ],
       "sc:softwareHelp": {
         "@id": "https://github.com/lutsik/MeDeCom/blob/master/README"

@@ -38,8 +38,8 @@
       "sc:name": "CoNVaQ",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://convaq.compbio.sdu.dk/"
     }

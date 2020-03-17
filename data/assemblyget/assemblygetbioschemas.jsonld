@@ -13,21 +13,21 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
+    "UK BBSRC",
     "EMBOSS Contributors",
-    "UK MRC",
-    "UK BBSRC"
+    "UK MRC"
   ],
   "sc:description": "An Emboss tool that searches for a sequence assembly and returns the data in one of the EMBOSS assembly formats.",
   "sc:funder": [
-    "Wellcome Trust",
     "UK MRC",
+    "Wellcome Trust",
     "UK BBSRC"
   ],
   "sc:license": "Other",
   "sc:name": "assemblyget",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": [

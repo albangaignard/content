@@ -16,8 +16,8 @@
   "sc:name": "PheWAS",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://phewascatalog.org/"
 }

@@ -16,8 +16,8 @@
   "sc:license": "Freeware",
   "sc:name": "DosOpt",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://www.biit.cs.ut.ee/DosOpt"

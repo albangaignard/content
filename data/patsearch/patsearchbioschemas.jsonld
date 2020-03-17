@@ -16,8 +16,8 @@
   "sc:name": "PatSearch",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "ELIXIR-ITA-CNR",

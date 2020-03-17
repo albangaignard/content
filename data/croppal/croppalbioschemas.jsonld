@@ -19,8 +19,8 @@
   "sc:name": "cropPAL",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "unimelb.edu.au",

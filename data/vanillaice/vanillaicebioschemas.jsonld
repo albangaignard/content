@@ -43,9 +43,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "VanillaICE",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/VanillaICE.html",
       "sc:version": "1.36.0"

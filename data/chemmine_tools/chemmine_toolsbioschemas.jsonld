@@ -17,8 +17,8 @@
   "sc:name": "ChemMine Tools",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://chemmine.ucr.edu"
 }

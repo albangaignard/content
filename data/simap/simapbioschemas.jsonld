@@ -21,10 +21,10 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_1384"
+          "@id": "edam:data_1381"
         },
         {
-          "@id": "edam:data_1381"
+          "@id": "edam:data_1384"
         }
       ],
       "sc:additionalType": "Database portal",
@@ -48,9 +48,9 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "SIMAP",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": "AT-CUBE",
       "sc:softwareHelp": {

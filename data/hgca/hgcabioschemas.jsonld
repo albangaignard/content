@@ -42,8 +42,8 @@
       },
       "sc:name": "Human Gene Correlation Analysis (HGCA)",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://biobank-informatics.bioacademy.gr/coexpression/"

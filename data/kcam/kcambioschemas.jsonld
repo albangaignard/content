@@ -17,8 +17,8 @@
   "sc:name": "KCaM",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.genome.jp/tools/kcam/"
 }

@@ -30,8 +30,8 @@
         "pmcid:PMC4110347"
       ],
       "sc:contributor": [
-        "Martina Carducci",
-        "Michele Tinti"
+        "Michele Tinti",
+        "Martina Carducci"
       ],
       "sc:description": "Web resource designed to provide a central repository for the storage and the analysis of data on domain peptide recognition obtained with interaction assays exploiting peptide chip technology.",
       "sc:name": "PespotDB",

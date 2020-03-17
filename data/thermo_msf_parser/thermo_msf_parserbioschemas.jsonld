@@ -15,8 +15,8 @@
   "sc:name": "Thermo MSF Parser",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "ugent.be",
   "sc:url": "https://github.com/compomics/thermo-msf-parser",

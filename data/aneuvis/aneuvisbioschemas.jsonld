@@ -27,17 +27,17 @@
           "@id": "edam:operation_3799"
         },
         {
-          "@id": "edam:operation_1812"
+          "@id": "edam:operation_3233"
         },
         {
-          "@id": "edam:operation_3233"
+          "@id": "edam:operation_1812"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "Aneuvis",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "https://dpique.shinyapps.io/aneuvis/"

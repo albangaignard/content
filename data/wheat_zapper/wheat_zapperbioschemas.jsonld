@@ -16,8 +16,8 @@
   "sc:name": "Wheat Zapper",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://wge.ndsu.nodak.edu/wheatzapper/"
 }

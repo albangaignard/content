@@ -20,8 +20,8 @@
       "sc:additionalType": [
         "Web application",
         "Suite",
-        "Library",
-        "Workflow"
+        "Workflow",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:27612452",
@@ -38,8 +38,8 @@
       "sc:name": "Mergeomics",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://mergeomics.research.idre.ucla.edu/home.php"
     }

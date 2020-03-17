@@ -17,8 +17,8 @@
   "sc:name": "Histone Coder",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": "bmb.sdu.dk",
   "sc:url": "https://github.com/middle-down/Software",

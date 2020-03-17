@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/velvetoptimiser",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Simon Gladman",
     "Torsten Seemann",
+    "Simon Gladman",
     "Australia"
   ],
   "sc:additionalType": "Command-line tool",

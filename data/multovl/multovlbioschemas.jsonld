@@ -21,8 +21,8 @@
       "sc:name": "MULTOVL",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://www.interquadrat.eu/aa/software.php",
       "sc:version": "1.3"

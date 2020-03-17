@@ -16,8 +16,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "pedigreejs",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "https://ccge-boadicea.github.io/pedigreejs/"

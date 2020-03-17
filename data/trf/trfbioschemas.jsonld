@@ -23,8 +23,8 @@
   "sc:name": "TRF",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://tandem.bu.edu/trf/trf.html"
 }

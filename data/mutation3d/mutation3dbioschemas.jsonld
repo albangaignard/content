@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1002/HUMU.22963",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/mutation3d",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Haiyuan Yu",
@@ -36,6 +32,10 @@
         "Mac"
       ],
       "sc:url": "http://mutation3d.org/"
+    },
+    {
+      "@id": "https://doi.org/10.1002/HUMU.22963",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

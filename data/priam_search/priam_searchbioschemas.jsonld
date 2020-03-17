@@ -12,22 +12,22 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
     "Command-line tool",
-    "Web application",
-    "Database portal"
+    "Database portal",
+    "Web application"
   ],
   "sc:author": "Thomas Bernard",
   "sc:contributor": "Daniel Kahn",
   "sc:description": "Sequence search utility to annotate enzyme genes and generate draft metabolic networks.",
   "sc:name": "PRIAM search",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "INRA",
-    "Pole Rhone-Alpin de Bioinformatique",
     "Lyon 1 University",
+    "Pole Rhone-Alpin de Bioinformatique",
     "univ-lyon1.fr"
   ],
   "sc:url": "http://priam.prabi.fr/REL_MAR15/index_mar15.html"

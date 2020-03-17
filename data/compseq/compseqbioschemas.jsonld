@@ -13,14 +13,14 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
-    "UK MRC",
     "Wellcome Trust",
+    "UK MRC",
     "EMBOSS Contributors"
   ],
   "sc:description": "Calculate the composition of unique words in sequences.",
   "sc:funder": [
-    "Wellcome Trust",
     "UK MRC",
+    "Wellcome Trust",
     "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
