@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Janusz Bujnicki - Project coordinator",
-    "Kaja Milanowska - Server developer",
-    "Anna Philips -  Program developer"
+    "Anna Philips -  Program developer",
+    "Kaja Milanowska - Server developer"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:25726469",

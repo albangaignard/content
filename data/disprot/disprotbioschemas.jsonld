@@ -10,14 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gkw1279",
-      "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "https://orcid.org/0000-0003-4525-7793",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/disprot",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -36,15 +28,15 @@
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_1537"
+          "@id": "edam:data_1277"
         },
         {
-          "@id": "edam:data_1277"
+          "@id": "edam:data_1537"
         }
       ],
       "sc:additionalType": [
-        "Database portal",
         "Web application",
+        "Database portal",
         "Web API"
       ],
       "sc:applicationSubCategory": {
@@ -69,13 +61,21 @@
       "sc:license": "CC-BY-NC-1.0",
       "sc:name": "Database of protein disorder (DisProt)",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:provider": "University of Padua, Department of Biomedical Sciences, BioComputing UP lab",
       "sc:url": "http://www.disprot.org/",
       "sc:version": "7.0"
+    },
+    {
+      "@id": "https://orcid.org/0000-0003-4525-7793",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkw1279",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

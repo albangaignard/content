@@ -11,11 +11,11 @@
   "@id": "https://bio.tools/dolce",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Bohdan Schneider",
     "Petr Cech",
+    "Jiří Černý",
     "Daniel Svozil",
     "Filip Lankaš",
-    "Jiří Černý"
+    "Bohdan Schneider"
   ],
   "sc:additionalType": "Database portal",
   "sc:description": "Database of local biomolecular conformers, stores DNA structural data including the information about DNA local spatial arrangement.",

@@ -15,17 +15,17 @@
       "biotools:primaryContact": "Olivier Collin",
       "sc:additionalType": "Database portal",
       "sc:author": [
-        "Mauro T.",
         {
           "@id": "http://orcid.org/0000-0002-0527-1171"
         },
+        "Hallier M.",
         "Felden B.",
-        "Ivain L.",
         {
           "@id": "http://orcid.org/0000-0002-6816-5931"
         },
-        "Hallier M.",
-        "Chabelskaya S."
+        "Ivain L.",
+        "Chabelskaya S.",
+        "Mauro T."
       ],
       "sc:citation": [
         "pmcid:PMC4408781",
@@ -40,9 +40,9 @@
       },
       "sc:name": "Staphylococcus regulatory RNA database (SRD)",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:provider": [
         "irisa.fr",
@@ -51,16 +51,16 @@
       "sc:url": "http://srd.genouest.org/"
     },
     {
-      "@id": "http://orcid.org/0000-0002-6816-5931",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "http://orcid.org/0000-0002-0527-1171",
       "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1261/rna.049346.114",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-6816-5931",
+      "@type": "schema:Person"
     }
   ]
 }

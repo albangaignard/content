@@ -18,8 +18,8 @@
   "sc:name": "OSSE",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://www.osse-register.de/en/",
   "sc:version": "1.4"

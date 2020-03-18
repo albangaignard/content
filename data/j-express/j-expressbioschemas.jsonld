@@ -15,8 +15,8 @@
   "sc:name": "J-Express",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://jexpress.bioinfo.no/site/",
   "sc:version": "2012"

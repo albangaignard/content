@@ -10,12 +10,16 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1371/JOURNAL.PONE.0151064",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/clustom-cloud",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Kyuin Hwang",
         "Kyung Mo Kim",
-        "Jeongsu Oh",
-        "Kyuin Hwang"
+        "Jeongsu Oh"
       ],
       "sc:additionalType": "Desktop application",
       "sc:citation": [
@@ -36,10 +40,6 @@
         "Mac"
       ],
       "sc:url": "http://clustomcloud.kopri.re.kr/"
-    },
-    {
-      "@id": "https://doi.org/10.1371/JOURNAL.PONE.0151064",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

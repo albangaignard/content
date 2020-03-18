@@ -29,6 +29,9 @@
       ],
       "sc:applicationSubCategory": [
         {
+          "@id": "edam:topic_0659"
+        },
+        {
           "@id": "edam:topic_3519"
         },
         {
@@ -36,9 +39,6 @@
         },
         {
           "@id": "edam:topic_3518"
-        },
-        {
-          "@id": "edam:topic_0659"
         }
       ],
       "sc:citation": [
@@ -56,8 +56,8 @@
       "sc:name": "miRcomp",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/miRcomp.html",
       "sc:version": "1.4.0"

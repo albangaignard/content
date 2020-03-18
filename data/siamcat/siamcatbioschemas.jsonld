@@ -27,10 +27,10 @@
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_2082"
         },
         {
-          "@id": "edam:data_2082"
+          "@id": "edam:data_2884"
         }
       ],
       "sc:additionalType": [
@@ -42,10 +42,10 @@
           "@id": "edam:topic_3174"
         },
         {
-          "@id": "edam:topic_0622"
+          "@id": "edam:topic_2269"
         },
         {
-          "@id": "edam:topic_2269"
+          "@id": "edam:topic_0622"
         }
       ],
       "sc:citation": [
@@ -64,12 +64,12 @@
       "sc:name": "SIAMCAT",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": [
-        "European Molecular Biology Laboratory (EMBL)",
-        "HD-HuB"
+        "HD-HuB",
+        "European Molecular Biology Laboratory (EMBL)"
       ],
       "sc:softwareHelp": {
         "@id": "http://siamcat.embl.de/"

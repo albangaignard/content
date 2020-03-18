@@ -17,8 +17,8 @@
   "sc:name": "Zinc Finger Tools",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.scripps.edu/mb/barbas/zfdesign/zfdesignhome.php"
 }

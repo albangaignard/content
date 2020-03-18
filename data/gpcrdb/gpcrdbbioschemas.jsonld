@@ -19,8 +19,8 @@
   "sc:name": "GPCRDB",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": "GPCRDB",
   "sc:url": "http://gpcrdb.org"
