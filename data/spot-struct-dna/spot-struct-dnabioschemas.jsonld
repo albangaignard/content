@@ -15,8 +15,8 @@
   "sc:name": "SPOT-Struct-DNA",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://sparks-lab.org/yueyang/server/SPOT-Struct-DNA"
 }

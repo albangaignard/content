@@ -27,8 +27,8 @@
       },
       "sc:name": "E-TALEN",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://www.e-talen.org/E-TALEN/"

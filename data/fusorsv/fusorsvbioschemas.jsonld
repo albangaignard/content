@@ -40,8 +40,8 @@
       },
       "sc:name": "FusorSV",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/timothyjamesbecker/FusorSV"
     }

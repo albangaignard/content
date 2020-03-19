@@ -26,15 +26,15 @@
         "@id": "edam:data_3495"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0659"
+          "@id": "edam:topic_3170"
         },
         {
-          "@id": "edam:topic_3170"
+          "@id": "edam:topic_0659"
         }
       ],
       "sc:citation": [
@@ -59,9 +59,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "wavClusteR",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/wavClusteR.html",
       "sc:version": "2.8.0"

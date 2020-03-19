@@ -21,8 +21,8 @@
   "sc:name": "DeltaMass",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://github.com/chhh/deltamass",
   "sc:version": "1.0"

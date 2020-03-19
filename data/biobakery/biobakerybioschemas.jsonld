@@ -16,8 +16,8 @@
   "sc:name": "bioBakery",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://bitbucket.org/biobakery/biobakery/wiki/Home"
 }

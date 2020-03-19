@@ -20,8 +20,8 @@
   "sc:name": "SiMMap",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://simfam.life.nctu.edu.tw/"
 }

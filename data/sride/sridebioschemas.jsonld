@@ -16,8 +16,8 @@
   "sc:description": "A server for identifying stabilizing residues in proteins.",
   "sc:name": "SRide",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://sride.enzim.hu/"

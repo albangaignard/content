@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/IDADE2",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Allysha Winburn",
     "Marta San-Millán",
-    "Carme Rissech Badallo"
+    "Carme Rissech Badallo",
+    "Allysha Winburn"
   ],
   "sc:additionalType": [
     "Web service",

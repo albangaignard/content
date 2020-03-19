@@ -11,12 +11,12 @@
   "@id": "https://bio.tools/KinVis",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Dr. Ehsan Ullah",
-    "Dr. Halima Bensmail"
+    "Dr. Halima Bensmail",
+    "Dr. Ehsan Ullah"
   ],
   "sc:additionalType": [
-    "Web application",
-    "Web service"
+    "Web service",
+    "Web application"
   ],
   "sc:author": "Dr. Ehsan Ullah",
   "sc:description": "Visualization tool to detect cryptic relatedness in genetic datasets.",
@@ -24,8 +24,8 @@
   "sc:name": "KinVis",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://shiny-vis.qcri.org/public/kinvis/"
 }

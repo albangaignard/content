@@ -17,13 +17,13 @@
       "@id": "https://bio.tools/symbiogbr",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Pim Bongaerts",
-        "Linda Tonk"
+        "Linda Tonk",
+        "Pim Bongaerts"
       ],
       "sc:additionalType": "Database portal",
       "sc:citation": [
-        "pubmed:23497177",
         "pmcid:PMC3616961",
+        "pubmed:23497177",
         {
           "@id": "https://doi.org/10.1186/1472-6785-13-7"
         }

@@ -36,9 +36,9 @@
       ],
       "sc:name": "Bioclipse-R",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://www.bioclipse.net/bioclipse-r"
     }

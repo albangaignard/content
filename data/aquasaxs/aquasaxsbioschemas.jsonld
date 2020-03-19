@@ -17,8 +17,8 @@
   "sc:name": "AquaSAXS",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://lorentz.dynstr.pasteur.fr/aquasaxs.php"
 }

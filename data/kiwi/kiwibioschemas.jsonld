@@ -19,8 +19,8 @@
       "biotools:primaryContact": "Support",
       "sc:additionalType": "Library",
       "sc:citation": [
-        "pubmed:25496126",
         "pmcid:PMC4269931",
+        "pubmed:25496126",
         {
           "@id": "https://doi.org/10.1186/S12859-014-0408-9"
         }
@@ -36,8 +36,8 @@
       ],
       "sc:name": "Kiwi",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "https://pythonhosted.org/KiwiDist/index.html"

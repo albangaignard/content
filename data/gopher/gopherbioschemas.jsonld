@@ -33,9 +33,9 @@
       "sc:license": "Other",
       "sc:name": "GOPHER",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://github.com/TheJacksonLaboratory/Gopher"
     },

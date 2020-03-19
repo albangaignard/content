@@ -21,9 +21,9 @@
     "Linux"
   ],
   "sc:provider": [
-    "BiBiServ",
     "Bielefeld University",
-    "CeBiTec"
+    "CeBiTec",
+    "BiBiServ"
   ],
   "sc:url": "http://bibiserv.cebitec.uni-bielefeld.de/cgcat",
   "sc:version": "1"

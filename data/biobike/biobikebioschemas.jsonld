@@ -18,8 +18,8 @@
   "sc:name": "BioBIKE",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://biobike.csbc.vcu.edu/"
 }

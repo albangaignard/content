@@ -17,8 +17,8 @@
   "sc:name": "PolyQ",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://pxgrid.med.monash.edu.au/polyq"
 }

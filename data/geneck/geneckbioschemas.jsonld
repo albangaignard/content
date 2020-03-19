@@ -34,8 +34,8 @@
       "sc:name": "GeNeCK",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://lce.biohpc.swmed.edu/geneck",
       "sc:version": "1.0"

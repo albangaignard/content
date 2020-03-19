@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Tao Wang",
-    "Qing Xie",
     "Jinchen Li",
     "Huiqian Chen",
+    "Qing Xie",
     "Yi Jiang"
   ],
   "sc:additionalType": "Web application",

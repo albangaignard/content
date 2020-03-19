@@ -15,9 +15,9 @@
     "Jose Rodriguez"
   ],
   "sc:additionalType": [
+    "Web API",
     "Database portal",
-    "Web application",
-    "Web API"
+    "Web application"
   ],
   "sc:author": "Jose Rodriguez",
   "sc:contributor": "ISCIII",
@@ -25,8 +25,8 @@
   "sc:funder": "ISCIII",
   "sc:name": "APPRIS",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": [
