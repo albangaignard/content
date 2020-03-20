@@ -16,8 +16,8 @@
   "sc:name": "MODORAMA",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "ELIXIR-ITA-SAPIENZA",
   "sc:url": "http://modorama.org",

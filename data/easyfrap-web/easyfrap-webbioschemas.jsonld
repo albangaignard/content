@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gky508",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/easyFRAP-web",
       "@type": "sc:SoftwareApplication",
       "edam:has_input": {
@@ -39,14 +43,10 @@
       "sc:name": "easyFRAP-web",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://easyfrap.vmnet.upatras.gr/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gky508",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

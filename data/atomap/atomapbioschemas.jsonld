@@ -34,9 +34,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Atomap",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://atomap.org/",
       "sc:version": "0.1.2"

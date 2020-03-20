@@ -43,8 +43,8 @@
       "sc:name": "Drug ReposER",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://mfrlab.org/drugreposer/"
     },

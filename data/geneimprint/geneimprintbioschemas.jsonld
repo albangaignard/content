@@ -20,8 +20,8 @@
   "sc:name": "Geneimprint",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.geneimprint.com/site/genes-by-species"
 }

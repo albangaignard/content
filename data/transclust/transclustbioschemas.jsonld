@@ -20,17 +20,17 @@
         "@id": "http://orcid.org/0000-0002-0282-0462"
       },
       "sc:additionalType": [
-        "Desktop application",
         "Command-line tool",
-        "Web application"
+        "Web application",
+        "Desktop application"
       ],
       "sc:author": "Jan Baumbach",
       "sc:citation": "pubmed:20508635",
       "sc:description": "Comprehensive clustering tool that incorporates the hidden transitive nature occuring e.g. within biomedical data sets. It is based on Weighted Transitive Graph Projection problem.",
       "sc:name": "TransClust",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:provider": "bmb.sdu.dk",

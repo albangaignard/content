@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0002-7602-6675",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/rdt",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -39,10 +43,6 @@
         "Linux"
       ],
       "sc:url": "https://github.com/asad/ReactionDecoder"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-7602-6675",
-      "@type": "schema:Person"
     }
   ]
 }

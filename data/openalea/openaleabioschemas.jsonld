@@ -17,8 +17,8 @@
   "sc:name": "OpenAlea",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://openalea.gforge.inria.fr/"
 }

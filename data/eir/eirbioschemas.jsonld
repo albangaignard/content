@@ -15,13 +15,13 @@
       "biotools:primaryContact": "Thomas Girke",
       "edam:has_input": [
         {
+          "@id": "edam:data_1086"
+        },
+        {
           "@id": "edam:data_1463"
         },
         {
           "@id": "edam:data_0990"
-        },
-        {
-          "@id": "edam:data_1086"
         }
       ],
       "edam:has_output": [
@@ -59,8 +59,8 @@
       "sc:name": "eiR",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/eiR.html",
       "sc:version": "1.14.1"

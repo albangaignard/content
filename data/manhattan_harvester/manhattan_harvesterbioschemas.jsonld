@@ -37,8 +37,8 @@
       "sc:name": "Manhattan Harvester",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://www.geenivaramu.ee/en/tools/manhattan-harvester"
     },

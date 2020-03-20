@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0001-7885-4311",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1007/s00251-010-0441-4",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-7885-4311",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/netctlpan",
@@ -53,8 +53,8 @@
       "sc:license": "Other",
       "sc:name": "NetCTLpan",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:provider": "CBS",

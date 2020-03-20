@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0003-4588-7867",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1371/journal.pcbi.1002725",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0003-4588-7867",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/ddgraph",
@@ -27,8 +27,8 @@
         "Robert Stojnic"
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:23144600",
@@ -44,9 +44,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "ddgraph",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/ddgraph.html",
       "sc:version": "1.18.0"

@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0002-2528-8077",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/dmrforpairs",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -40,10 +36,10 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0160"
+          "@id": "edam:topic_3518"
         },
         {
-          "@id": "edam:topic_3518"
+          "@id": "edam:topic_0160"
         },
         {
           "@id": "edam:topic_3295"
@@ -68,12 +64,16 @@
       "sc:license": "GPL-2.0",
       "sc:name": "DMRforPairs",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/DMRforPairs.html",
       "sc:version": "1.10.0"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-2528-8077",
+      "@type": "schema:Person"
     }
   ]
 }

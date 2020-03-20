@@ -16,8 +16,8 @@
   "sc:name": "SNPAssoc",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bioinfo.iconcologia.net/es/SNPassoc"
 }

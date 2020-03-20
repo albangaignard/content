@@ -21,9 +21,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "SHAMAN",
   "sc:operatingSystem": [
+    "Mac",
     "Linux",
-    "Windows",
-    "Mac"
+    "Windows"
   ],
   "sc:provider": "Institut Pasteur",
   "sc:url": "http://shaman.c3bi.pasteur.fr/"

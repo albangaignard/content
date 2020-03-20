@@ -13,9 +13,9 @@
       "@id": "https://bio.tools/Meta-4mCpred",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Balachandran Manavalan",
         "Gwang Lee",
-        "Leyi Wei"
+        "Leyi Wei",
+        "Balachandran Manavalan"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -29,9 +29,9 @@
       "sc:license": "Unlicense",
       "sc:name": "Meta-4mCpred",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://thegleelab.org/Meta-4mCpred"
     },

@@ -15,13 +15,13 @@
       "biotools:primaryContact": "Ming Chen",
       "sc:additionalType": [
         "Web application",
-        "Web API",
-        "Database portal"
+        "Database portal",
+        "Web API"
       ],
       "sc:author": [
-        "Ming Chen",
+        "Dahui Hu",
         "Xianwen Meng",
-        "Dahui Hu"
+        "Ming Chen"
       ],
       "sc:citation": [
         "pmcid:PMC6360206",
@@ -33,20 +33,20 @@
       "sc:description": "Database that aims to provide a high-quality functional circRNA resource including experimentally validated and computationally predicted functions.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_3431"
         },
         {
           "@id": "edam:operation_2422"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_3501"
         }
       ],
       "sc:name": "CircFunBase",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://bis.zju.edu.cn/CircFunBase/"
     },

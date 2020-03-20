@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1186/s13062-016-0110-0",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/altools",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -39,6 +35,10 @@
       "sc:name": "Altools",
       "sc:operatingSystem": "Linux",
       "sc:url": "https://sourceforge.net/projects/altools/"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s13062-016-0110-0",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

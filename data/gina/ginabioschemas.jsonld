@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Juan Zalapa",
       "sc:additionalType": [
-        "Command-line tool",
-        "Desktop application"
+        "Desktop application",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:27529547",
@@ -31,8 +31,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "GiNA",
       "sc:operatingSystem": [
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/GiNA/index.html",
       "sc:version": "1.0.1"

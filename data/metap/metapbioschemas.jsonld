@@ -19,8 +19,8 @@
   "sc:name": "metaP",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://metap.helmholtz-muenchen.de/metap2/",
   "sc:version": "2"

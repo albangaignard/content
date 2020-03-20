@@ -11,23 +11,23 @@
   "@id": "https://bio.tools/suba3",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Australia",
+    "Cornelia Hooper",
     "Sandra Tanz",
-    "Cornelia Hooper"
+    "Australia"
   ],
   "sc:additionalType": "Database portal",
   "sc:contributor": [
-    "Cornelia Hooper",
-    "Sandra Tanz",
     "Harvey Millar",
-    "Ian Castleden"
+    "Sandra Tanz",
+    "Ian Castleden",
+    "Cornelia Hooper"
   ],
   "sc:description": "A subcellular localisation database for Arabidopsis proteins, with online search interface.",
   "sc:name": "SUBA3",
   "sc:operatingSystem": [
+    "Linux",
     "Mac",
-    "Windows",
-    "Linux"
+    "Windows"
   ],
   "sc:provider": [
     "University of Western Australia",

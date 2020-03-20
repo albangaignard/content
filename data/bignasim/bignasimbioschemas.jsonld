@@ -12,12 +12,12 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Adam Hospital",
   "sc:additionalType": [
-    "Database portal",
-    "Workbench"
+    "Workbench",
+    "Database portal"
   ],
   "sc:author": [
-    "Cesare Cugnasco",
     "Laia Codó",
+    "Cesare Cugnasco",
     "Adam Hospital",
     "Pau Andrio"
   ],

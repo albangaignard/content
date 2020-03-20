@@ -18,8 +18,8 @@
   "sc:name": "GENSCAN",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://hollywood.mit.edu/GENSCAN.html"
 }

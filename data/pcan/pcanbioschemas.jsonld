@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "http://orcid.org/0000-0002-3571-0374",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1186/s12859-016-1401-2",
       "@type": "sc:CreativeWork"
     },
@@ -26,15 +22,15 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         {
-          "@id": "http://orcid.org/0000-0001-6257-9730"
+          "@id": "http://orcid.org/0000-0002-3571-0374"
         },
         {
-          "@id": "http://orcid.org/0000-0002-3571-0374"
+          "@id": "http://orcid.org/0000-0001-6257-9730"
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC5142268",
@@ -61,6 +57,10 @@
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/PCAN.html",
       "sc:version": "1.2.1"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-3571-0374",
+      "@type": "schema:Person"
     }
   ]
 }
