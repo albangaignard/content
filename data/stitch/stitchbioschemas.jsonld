@@ -19,8 +19,8 @@
       "biotools:primaryContact": "Michael Kuhn",
       "sc:additionalType": [
         "Command-line tool",
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:author": "Michael Kuhn",
       "sc:citation": [
@@ -33,28 +33,28 @@
       ],
       "sc:contributor": [
         "EMBL",
-        "EC FP6",
-        "EMBO",
-        "SUND-KU",
         "BMBF",
         "CPR",
-        "TUD"
+        "EMBO",
+        "EC FP6",
+        "TUD",
+        "SUND-KU"
       ],
       "sc:description": "Resource to explore known and predicted interactions of chemicals and proteins. Chemicals are linked to other chemicals and proteins by evidence derived from experiments, databases and the literature.",
       "sc:funder": [
-        "BMBF",
         "EC FP6",
-        "TUD",
-        "SUND-KU",
-        "CPR",
         "EMBO",
-        "EMBL"
+        "BMBF",
+        "EMBL",
+        "CPR",
+        "TUD",
+        "SUND-KU"
       ],
       "sc:name": "STITCH",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": "HD-HuB",
       "sc:url": "http://stitch.embl.de/"

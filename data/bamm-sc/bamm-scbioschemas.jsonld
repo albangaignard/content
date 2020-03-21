@@ -44,8 +44,8 @@
       "sc:name": "BAMM-SC",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://github.com/lichen-lab/BAMMSC",
       "sc:version": "1.0.0"

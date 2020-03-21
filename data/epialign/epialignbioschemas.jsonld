@@ -10,13 +10,17 @@
   },
   "@graph": [
     {
+      "@id": "https://orcid.org/0000-0002-9288-5648",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/EpiAlign",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Haowen Zhang",
         {
           "@id": "https://orcid.org/0000-0002-9288-5648"
-        }
+        },
+        "Haowen Zhang"
       ],
       "sc:additionalType": "Script",
       "sc:citation": [
@@ -37,15 +41,11 @@
       ],
       "sc:name": "EpiAlign",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "https://github.com/zzz3639/EpiAlign"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-9288-5648",
-      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1093/NAR/GKZ287",

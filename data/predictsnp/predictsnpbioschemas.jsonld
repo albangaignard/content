@@ -15,9 +15,9 @@
     "Web application"
   ],
   "sc:author": [
+    "Jiri Damborsky",
     "Ondrej Salanda",
     "Jan Brezovsky",
-    "Jiri Damborsky",
     "Jaroslav Bendl",
     "Jan Stourac"
   ],
@@ -34,11 +34,11 @@
     "Linux"
   ],
   "sc:provider": [
-    "Masaryk University, Brno, Czech Republic",
+    "International Centre for Clinical Research, Brno, Czech Republic",
+    "Loschmidt Laboratories",
     "Mayo Clinic, Rochester, New York, United States of America",
     "Brno University of Technology, Brno, Czech Republic",
-    "Loschmidt Laboratories",
-    "International Centre for Clinical Research, Brno, Czech Republic"
+    "Masaryk University, Brno, Czech Republic"
   ],
   "sc:url": "http://loschmidt.chemi.muni.cz/predictsnp",
   "sc:version": "1.0"

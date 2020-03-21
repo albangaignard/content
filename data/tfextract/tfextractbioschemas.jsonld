@@ -13,22 +13,22 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK MRC",
-    "EMBOSS Contributors",
     "UK BBSRC",
+    "EMBOSS Contributors",
     "Wellcome Trust"
   ],
   "sc:description": "Process TRANSFAC transcription factor database for use by tfscan.",
   "sc:funder": [
-    "UK MRC",
     "Wellcome Trust",
-    "UK BBSRC"
+    "UK BBSRC",
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "tfextract",
   "sc:operatingSystem": [
-    "Mac",
+    "Linux",
     "Windows",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

@@ -18,8 +18,8 @@
   "sc:name": "IONiseR",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "EMBL Heidelberg",

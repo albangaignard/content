@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/erne",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Francesco Vezzi",
+    "Cristian Del Fabbro",
     "Giuseppe Pigola",
-    "Cristian Del Fabbro"
+    "Francesco Vezzi"
   ],
   "sc:additionalType": "Suite",
   "sc:citation": "pubmed:24376861",
@@ -22,8 +22,8 @@
   "sc:name": "ERNE",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://erne.sourceforge.net"
 }

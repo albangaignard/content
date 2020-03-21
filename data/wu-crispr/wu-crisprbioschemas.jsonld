@@ -19,8 +19,8 @@
   "sc:name": "WU-CRISPR",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://crispr.wustl.edu/"
 }

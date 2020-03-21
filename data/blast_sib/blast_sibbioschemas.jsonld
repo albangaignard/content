@@ -19,8 +19,8 @@
   "sc:name": "BLAST (SIB)",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://web.expasy.org/blast/"
 }

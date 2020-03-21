@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/HyPhy",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Desktop application",
-    "Command-line tool"
+    "Command-line tool",
+    "Desktop application"
   ],
   "sc:author": [
     "Sergei L Kosakovsky Pond",
@@ -24,8 +24,8 @@
   "sc:license": "Unlicense",
   "sc:name": "HyPhy",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://hyphy.org"

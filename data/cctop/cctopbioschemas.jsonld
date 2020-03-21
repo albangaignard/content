@@ -27,8 +27,8 @@
       },
       "sc:name": "CCTOP",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://cctop.enzim.ttk.mta.hu/"

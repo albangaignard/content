@@ -17,9 +17,9 @@
     "Jiri Filipovic"
   ],
   "sc:contributor": [
+    "Ludek Matyska",
     "Jiri Damborsky",
     "David Bednar",
-    "Ludek Matyska",
     "Jan Brezovsky",
     "Sergio Manuel Marques"
   ],
@@ -27,9 +27,9 @@
   "sc:license": "Proprietary",
   "sc:name": "CaverDock",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://loschmidt.chemi.muni.cz/caverdock/",
   "sc:version": "1.0"

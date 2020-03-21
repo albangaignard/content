@@ -19,8 +19,8 @@
   "sc:name": "VARIANT",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "http://bioinfo.cipf.es",

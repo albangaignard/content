@@ -10,15 +10,19 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkp353",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/medline_ranker",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Jean Fred Fontaine",
       "edam:has_input": [
         {
-          "@id": "edam:data_0968"
+          "@id": "edam:data_1088"
         },
         {
-          "@id": "edam:data_1088"
+          "@id": "edam:data_0968"
         }
       ],
       "edam:has_output": {
@@ -54,10 +58,6 @@
         "Mac"
       ],
       "sc:url": "http://cbdm.uni-mainz.de/medlineranker"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkp353",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -21,11 +21,11 @@
       "@id": "https://bio.tools/switchbox",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Wikum Dinalankara",
-        "Bahman Afsari",
         {
           "@id": "http://orcid.org/0000-0002-7336-8071"
-        }
+        },
+        "Bahman Afsari",
+        "Wikum Dinalankara"
       ],
       "edam:has_input": {
         "@id": "edam:data_2603"
@@ -59,8 +59,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "switchBox",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/switchBox.html",
