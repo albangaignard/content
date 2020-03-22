@@ -15,23 +15,23 @@
     "Dr. Chris de Graaf"
   ],
   "sc:additionalType": [
-    "Web application",
     "Web API",
-    "Command-line tool",
-    "Database portal"
+    "Database portal",
+    "Web application",
+    "Command-line tool"
   ],
   "sc:author": [
     "Division of Medicinal Chemistry (Vrije Universiteit Amsterdam)",
     "Georgi K. Kanev",
-    "Chris de Graaf",
     "Albert J. Kooistra",
-    "Chimed Jansen"
+    "Chimed Jansen",
+    "Chris de Graaf"
   ],
   "sc:contributor": [
+    "TI Pharma grant T4-302",
     "Rob Leurs",
-    "European Commission seventh Framework Programme FP7-HEALTH-2013-INNOVATION-1, PDE4NPD (no. 602666)",
     "Iwan J.P. de Esch",
-    "TI Pharma grant T4-302"
+    "European Commission seventh Framework Programme FP7-HEALTH-2013-INNOVATION-1, PDE4NPD (no. 602666)"
   ],
   "sc:description": "The database revolves around the protein structure of catalytic PDE domains and the way PDE inhibitors can interact with them. It contains a systematic analysis of all phosphodiesterase (PDE) catalytic domain crystal structures present in the Protein Data Bank (PDB) with a focus on PDE-ligand interactions.",
   "sc:funder": [
@@ -40,9 +40,9 @@
   ],
   "sc:name": "PDEStrIAn",
   "sc:operatingSystem": [
-    "Linux",
+    "Windows",
     "Mac",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
     "Vrije Universiteit Amsterdam",

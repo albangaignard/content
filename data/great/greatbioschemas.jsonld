@@ -15,8 +15,8 @@
   "sc:name": "GREAT",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://bejerano.stanford.edu/great/public/html/"
 }

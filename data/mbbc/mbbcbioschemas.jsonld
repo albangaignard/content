@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/mbbc",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Xiaoman Li",
         "Ying Wang",
+        "Xiaoman Li",
         "Haiyan Hu"
       ],
       "sc:additionalType": "Desktop application",
@@ -31,8 +31,8 @@
       },
       "sc:name": "MBBC",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://eecs.ucf.edu/~xiaoman/MBBC/MBBC.html"
     },

@@ -23,8 +23,8 @@
   "sc:name": "arDock",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "UCBL",

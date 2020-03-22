@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.1093/GIGASCIENCE/GIZ035",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/Datastorr",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -37,15 +41,11 @@
       "sc:license": "MIT",
       "sc:name": "Datastorr",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://github.com/ropenscilabs/datastorr"
-    },
-    {
-      "@id": "https://doi.org/10.1093/GIGASCIENCE/GIZ035",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

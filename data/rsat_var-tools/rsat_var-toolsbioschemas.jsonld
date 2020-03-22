@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/RSAT_Var-tools",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jacques van Helden",
-    "Alejandra Medina-Rivera"
+    "Alejandra Medina-Rivera",
+    "Jacques van Helden"
   ],
   "sc:additionalType": [
     "Web application",
@@ -23,8 +23,8 @@
   "sc:name": "RSAT Var-tools",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://rsat.eu"
 }

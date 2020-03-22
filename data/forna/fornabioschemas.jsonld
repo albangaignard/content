@@ -34,8 +34,8 @@
         }
       ],
       "sc:citation": [
-        "pmcid:PMC4595900",
         "pubmed:26099263",
+        "pmcid:PMC4595900",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/btv372"
         }
@@ -46,8 +46,8 @@
       },
       "sc:name": "Forna",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:provider": "bioinf.uni-leipzig.de",

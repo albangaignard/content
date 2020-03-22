@@ -34,17 +34,17 @@
           "@id": "edam:operation_0224"
         },
         {
-          "@id": "edam:operation_2414"
+          "@id": "edam:operation_3431"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_2414"
         }
       ],
       "sc:name": "Protein Model Portal",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://www.proteinmodelportal.org"
     },

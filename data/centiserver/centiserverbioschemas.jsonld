@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Mahdi Jalili",
       "sc:additionalType": [
-        "Web application",
         "Command-line tool",
+        "Web application",
         "Library"
       ],
       "sc:citation": [

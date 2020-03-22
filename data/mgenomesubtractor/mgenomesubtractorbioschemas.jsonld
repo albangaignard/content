@@ -17,8 +17,8 @@
   "sc:name": "mGenomeSubtractor",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://bioinfo-mml.sjtu.edu.cn/mGS/"
 }

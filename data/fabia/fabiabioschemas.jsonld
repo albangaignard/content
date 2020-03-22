@@ -43,8 +43,8 @@
       "sc:name": "fabia",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/fabia.html",
       "sc:version": "2.20.0"

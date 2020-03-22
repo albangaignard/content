@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1038/nature09944",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/enterotyping",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -48,9 +44,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Enterotyping",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:provider": [
         "European Molecular Biology Laboratory (EMBL)",
@@ -61,6 +57,10 @@
       },
       "sc:url": "http://enterotype.embl.de",
       "sc:version": "1.0"
+    },
+    {
+      "@id": "https://doi.org/10.1038/nature09944",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

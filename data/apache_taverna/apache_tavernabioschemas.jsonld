@@ -15,10 +15,10 @@
     "Apache Taverna mailing lists"
   ],
   "sc:additionalType": [
-    "Desktop application",
     "Web API",
-    "Command-line tool",
+    "Desktop application",
     "Web service",
+    "Command-line tool",
     "Web application",
     "Workbench"
   ],
@@ -27,9 +27,9 @@
   "sc:license": "Apache-2.0",
   "sc:name": "Apache Taverna",
   "sc:operatingSystem": [
-    "Linux",
+    "Mac",
     "Windows",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
     "Apache Software Foundation",

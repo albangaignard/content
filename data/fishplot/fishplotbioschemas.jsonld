@@ -31,8 +31,8 @@
       "sc:name": "fishplot",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://github.com/chrisamiller/fishplot"
     },

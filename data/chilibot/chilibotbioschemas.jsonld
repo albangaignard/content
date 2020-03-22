@@ -17,8 +17,8 @@
   "sc:name": "Chilibot",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.chilibot.net/"
 }

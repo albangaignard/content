@@ -11,14 +11,14 @@
   "@id": "https://bio.tools/bandage",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Australia",
-    "Ryan Wick"
+    "Ryan Wick",
+    "Australia"
   ],
   "sc:additionalType": "Desktop application",
   "sc:author": "Ryan Wick",
   "sc:contributor": [
-    "Kathryn Holt",
     "Mark Schultz",
+    "Kathryn Holt",
     "Rayan Chikhi",
     "Justin Zobel",
     "Elmar Pruesse"
@@ -27,13 +27,13 @@
   "sc:license": "GPL-3.0",
   "sc:name": "Bandage",
   "sc:operatingSystem": [
-    "Mac",
+    "Windows",
     "Linux",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
-    "unimelb.edu.au",
-    "University of Melbourne, Australia"
+    "University of Melbourne, Australia",
+    "unimelb.edu.au"
   ],
   "sc:url": "https://rrwick.github.io/Bandage/",
   "sc:version": "1"

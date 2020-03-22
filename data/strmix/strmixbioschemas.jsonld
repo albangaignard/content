@@ -18,8 +18,8 @@
   "sc:name": "STRmix",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://www.strmix.com/"
 }
