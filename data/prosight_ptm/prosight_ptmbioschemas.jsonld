@@ -16,8 +16,8 @@
   "sc:name": "ProSight PTM",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://prosightptm.northwestern.edu/"
 }

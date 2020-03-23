@@ -28,8 +28,8 @@
       "sc:name": "RiboCAT",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5238798/"
     },

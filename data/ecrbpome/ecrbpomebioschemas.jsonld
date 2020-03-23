@@ -36,17 +36,17 @@
           "@id": "edam:operation_3431"
         },
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_3901"
         },
         {
-          "@id": "edam:operation_3901"
+          "@id": "edam:operation_3501"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "EcRBPome",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://caps.ncbs.res.in/ecrbpome"

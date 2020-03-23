@@ -14,18 +14,18 @@
       "@type": "sc:SoftwareApplication",
       "edam:has_input": [
         {
-          "@id": "edam:data_2388"
+          "@id": "edam:data_0842"
         },
         {
-          "@id": "edam:data_0842"
+          "@id": "edam:data_2388"
         }
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_0916"
+          "@id": "edam:data_2093"
         },
         {
-          "@id": "edam:data_2093"
+          "@id": "edam:data_0916"
         }
       ],
       "sc:additionalType": "Database portal",

@@ -16,8 +16,8 @@
   "sc:name": "TreeKO",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://treeko.cgenomics.org/"
 }

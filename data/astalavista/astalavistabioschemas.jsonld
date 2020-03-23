@@ -18,8 +18,8 @@
   "sc:name": "AStalavista",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "Lab Roderic Guigo Group",

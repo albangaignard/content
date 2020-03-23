@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0001-5474-8776",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/smallanimalmrghifu",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -38,10 +42,6 @@
       "sc:name": "smallAnimalMRgHIFU",
       "sc:operatingSystem": "Windows",
       "sc:url": "https://github.com/poormanme/smallAnimalMRgHIFU"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-5474-8776",
-      "@type": "schema:Person"
     }
   ]
 }

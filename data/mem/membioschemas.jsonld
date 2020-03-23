@@ -22,8 +22,8 @@
   "sc:name": "Multi Experiment Matrix (MEM)",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://biit.cs.ut.ee/mem/"
 }

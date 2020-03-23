@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://orcid.org/0000-0003-1554-8987",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.1186/1471-2105-10-334",
       "@type": "sc:CreativeWork"
     },
@@ -25,8 +29,8 @@
         {
           "@id": "https://doi.org/10.1186/1471-2105-10-334"
         },
-        "pmcid:PMC2771019",
-        "pubmed:19832968"
+        "pubmed:19832968",
+        "pmcid:PMC2771019"
       ],
       "sc:contributor": {
         "@id": "https://orcid.org/0000-0003-1554-8987"
@@ -40,10 +44,10 @@
           "@id": "edam:operation_3761"
         },
         {
-          "@id": "edam:operation_0224"
+          "@id": "edam:operation_3695"
         },
         {
-          "@id": "edam:operation_3695"
+          "@id": "edam:operation_0224"
         }
       ],
       "sc:license": "GPL-3.0",
@@ -56,10 +60,6 @@
       "sc:provider": "uma.es",
       "sc:url": "http://bitlab-es.com/magallanes/",
       "sc:version": "1"
-    },
-    {
-      "@id": "https://orcid.org/0000-0003-1554-8987",
-      "@type": "schema:Person"
     }
   ]
 }

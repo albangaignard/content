@@ -17,8 +17,8 @@
   "sc:name": "eF-seek",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://ef-site.hgc.jp/eF-seek/index.jsp"
 }

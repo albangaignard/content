@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0001-6155-5702",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1093/nar/gku463",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-6155-5702",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/chipenrich",
@@ -61,9 +61,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "chipenrich",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/chipenrich.html",
       "sc:version": "1.12.0"

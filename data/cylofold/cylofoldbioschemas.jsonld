@@ -21,8 +21,8 @@
   "sc:name": "CyloFold",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://cylofold.ncifcrf.gov"
 }

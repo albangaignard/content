@@ -20,8 +20,8 @@
   "sc:description": "Identifies small molecules likely to bind to given protein.",
   "sc:name": "LigSearch",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": "EMBL-EBI",

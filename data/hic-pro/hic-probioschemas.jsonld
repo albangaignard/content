@@ -39,12 +39,12 @@
       },
       "sc:name": "HiC-Pro",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": [
-        "Institut Curie",
-        "curie.fr"
+        "curie.fr",
+        "Institut Curie"
       ],
       "sc:url": "https://github.com/nservant/HiC-Pro",
       "sc:version": "2.7.8"

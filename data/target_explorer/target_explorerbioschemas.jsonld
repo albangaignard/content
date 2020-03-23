@@ -18,8 +18,8 @@
   "sc:name": "Target Explorer",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://luna.bioc.columbia.edu/Target_Explorer/"
 }

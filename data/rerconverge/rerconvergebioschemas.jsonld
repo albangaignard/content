@@ -12,16 +12,16 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Wynn Meyer",
+    "Nathan Clark",
     "Weiguang (Wayne) Mao",
-    "Raghavendran Partha",
     "Maria Chikina",
-    "Nathan Clark"
+    "Raghavendran Partha"
   ],
   "sc:additionalType": "Library",
   "sc:author": [
-    "Wynn Meyer",
-    "Weiguang (Wayne) Mao",
     "Amanda Kowalczyk",
+    "Weiguang (Wayne) Mao",
+    "Wynn Meyer",
     "Nathan Clark",
     "Raghavendran Partha",
     "Maria Chikina"
@@ -32,8 +32,8 @@
   "sc:name": "RERconverge",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://github.com/nclark-lab/RERconverge"
 }

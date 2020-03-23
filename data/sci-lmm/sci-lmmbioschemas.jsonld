@@ -43,9 +43,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Sci-LMM",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://github.com/TalShor/SciLMM"
     }

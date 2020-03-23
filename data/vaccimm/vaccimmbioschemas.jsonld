@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/vaccimm",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Robert Preissner",
-        "Joachim von Eichborn"
+        "Joachim von Eichborn",
+        "Robert Preissner"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -34,9 +34,9 @@
       },
       "sc:name": "VaccImm",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioinformatics.charite.de/vaccimm/"
     }
