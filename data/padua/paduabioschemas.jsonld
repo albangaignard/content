@@ -18,8 +18,8 @@
   "sc:name": "PaDuA",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/mfitzp/padua"
 }

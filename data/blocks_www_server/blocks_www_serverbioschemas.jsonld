@@ -17,8 +17,8 @@
   "sc:name": "Blocks WWW Server",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://blocks.fhcrc.org/"
 }

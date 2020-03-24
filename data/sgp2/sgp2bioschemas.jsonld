@@ -17,16 +17,16 @@
   ],
   "sc:author": [
     "Josep Abril",
-    "Roderic Guigo",
-    "Genis Parra"
+    "Genis Parra",
+    "Roderic Guigo"
   ],
   "sc:description": "Program to predict genes by comparing anonymous genomic sequences from different species. It combines tblastx, a sequence similarity search program, with geneid, an ab initio gene prediction program.",
   "sc:license": "GPL-3.0",
   "sc:name": "SGP2",
   "sc:operatingSystem": [
+    "Mac",
     "Windows",
-    "Linux",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
     "Lab Roderic Guigo Group",

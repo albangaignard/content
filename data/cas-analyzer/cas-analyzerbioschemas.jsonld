@@ -19,8 +19,8 @@
   "sc:license": "Unlicense",
   "sc:name": "Cas-analyzer",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://www.rgenome.net/cas-analyzer/"

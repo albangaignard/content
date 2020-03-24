@@ -55,8 +55,8 @@
       "sc:license": "BSL-1.0",
       "sc:name": "Sebnif",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://sunlab.lihs.cuhk.edu.hk/sebnif/",
       "sc:version": "1.3rc"

@@ -16,8 +16,8 @@
   "sc:name": "DMU",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://dmu.agrsci.dk/",
   "sc:version": "v6-R5-2"

@@ -11,21 +11,21 @@
   "@id": "https://bio.tools/EWAS",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Fanwu Kong",
     "Yongshuai Jiang",
-    "Liangde Xu"
+    "Liangde Xu",
+    "Fanwu Kong"
   ],
   "sc:additionalType": [
-    "Command-line tool",
-    "Desktop application"
+    "Desktop application",
+    "Command-line tool"
   ],
   "sc:description": "Epigenome-wide association study software.",
   "sc:license": "Unlicense",
   "sc:name": "EWAS",
   "sc:operatingSystem": [
+    "Linux",
     "Windows",
-    "Mac",
-    "Linux"
+    "Mac"
   ],
   "sc:url": "http://www.bioapp.org/ewas/"
 }

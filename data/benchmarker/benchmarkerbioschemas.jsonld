@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/Benchmarker",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Rebecca Fine",
-        "Joel N. Hirschhorn"
+        "Joel N. Hirschhorn",
+        "Rebecca Fine"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
@@ -31,9 +31,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Benchmarker",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://github.com/RebeccaFine/benchmarker"
     },

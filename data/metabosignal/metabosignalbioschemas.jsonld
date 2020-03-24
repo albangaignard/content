@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/metabosignal",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Rafael Ayala",
-        "Andrea Rodriguez-Martinez"
+        "Andrea Rodriguez-Martinez",
+        "Rafael Ayala"
       ],
       "sc:additionalType": [
         "Library",
@@ -38,9 +38,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "MetaboSignal",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/MetaboSignal.html",
       "sc:version": "1.4.0"

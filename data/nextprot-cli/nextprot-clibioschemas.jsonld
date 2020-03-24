@@ -13,8 +13,8 @@
   "sc:additionalType": [
     "Command-line tool",
     "SPARQL endpoint",
-    "Library",
-    "Web API"
+    "Web API",
+    "Library"
   ],
   "sc:description": "This node module contains methods to access the neXtProt API as well as the SPARQL endpoint.",
   "sc:license": "GPL-2.0",

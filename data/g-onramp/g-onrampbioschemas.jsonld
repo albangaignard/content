@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Jeremy Goecks",
-    "Wilson Leung",
     "Luke Sargent",
+    "Wilson Leung",
     "Sarah C.R. Elgin"
   ],
   "sc:additionalType": "Web application",
@@ -22,9 +22,9 @@
   "sc:license": "Unlicense",
   "sc:name": "G-OnRamp",
   "sc:operatingSystem": [
+    "Mac",
     "Linux",
-    "Windows",
-    "Mac"
+    "Windows"
   ],
   "sc:url": "http://gonramp.wustl.edu/"
 }

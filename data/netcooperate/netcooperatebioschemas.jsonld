@@ -10,23 +10,19 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s12859-015-0588-y",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/netcooperate",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Elhanan Borenstein",
-        "Rogan Carr",
-        "Anat Kreimer",
         "Shiri Freilich",
-        "Roie Levy"
+        "Roie Levy",
+        "Rogan Carr",
+        "Elhanan Borenstein",
+        "Anat Kreimer"
       ],
       "sc:additionalType": [
-        "Web application",
+        "Library",
         "Command-line tool",
-        "Library"
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:25980407",
@@ -47,6 +43,10 @@
         "Windows"
       ],
       "sc:url": "http://elbo.gs.washington.edu/software_netcooperate.html"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s12859-015-0588-y",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

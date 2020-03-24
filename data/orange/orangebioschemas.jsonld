@@ -26,15 +26,15 @@
       ],
       "sc:author": [
         "Janez Demšar",
+        "Marko Toplak",
+        "Martin Stražar",
+        "Andrej Čopar",
+        "Anže Starič",
+        "Aleš Erjavec",
         "Lan Žagar",
         "Tomaž Curk",
-        "Martin Stražar",
-        "Anže Starič",
-        "Jernej Kernc",
-        "Aleš Erjavec",
-        "Marko Toplak",
         "Vesna Tanko",
-        "Andrej Čopar"
+        "Jernej Kernc"
       ],
       "sc:citation": "pubmed:17586552",
       "sc:contributor": {
@@ -44,8 +44,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Orange",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:provider": [

@@ -14,19 +14,15 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "https://orcid.org/0000-0002-6129-567X",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/SeqTailor",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "https://orcid.org/0000-0002-6129-567X"
       },
       "sc:additionalType": [
+        "Command-line tool",
         "Web application",
-        "Web service",
-        "Command-line tool"
+        "Web service"
       ],
       "sc:citation": [
         "pubmed:31045209",
@@ -41,10 +37,10 @@
           "@id": "edam:operation_3227"
         },
         {
-          "@id": "edam:operation_3216"
+          "@id": "edam:operation_0433"
         },
         {
-          "@id": "edam:operation_0433"
+          "@id": "edam:operation_3216"
         }
       ],
       "sc:license": "Unlicense",
@@ -55,6 +51,10 @@
         "Windows"
       ],
       "sc:url": "http://shiva.rockefeller.edu/SeqTailor/"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-6129-567X",
+      "@type": "schema:Person"
     }
   ]
 }

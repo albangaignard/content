@@ -18,8 +18,8 @@
   "sc:name": "RAxML",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://sco.h-its.org/exelixis/web/software/raxml/"
 }

@@ -32,8 +32,8 @@
       ],
       "sc:name": "xenoGI",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://siva.cs.hmc.edu/xgicgi/wxgi.py/form"
