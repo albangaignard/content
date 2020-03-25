@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s12885-017-3689-3",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/grcalculator",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Nicholas A. Clark",
@@ -34,11 +30,15 @@
       },
       "sc:name": "GRcalculator",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://www.grcalculator.org/grcalculator/"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s12885-017-3689-3",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

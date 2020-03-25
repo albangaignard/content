@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/coeus",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Pedro Lopes",
-        "Pedro Sernadela"
+        "Pedro Sernadela",
+        "Pedro Lopes"
       ],
       "sc:additionalType": [
         "Web application",
@@ -46,9 +46,9 @@
       "sc:license": "CC-BY-3.0",
       "sc:name": "COEUS",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioinformatics.ua.pt/coeus/"
     }

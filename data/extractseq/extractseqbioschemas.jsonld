@@ -13,26 +13,26 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK MRC",
-    "UK BBSRC",
     "EMBOSS Contributors",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:description": "Extract regions from a sequence.",
   "sc:funder": [
-    "UK MRC",
     "UK BBSRC",
+    "UK MRC",
     "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "extractseq",
   "sc:operatingSystem": [
-    "Linux",
+    "Mac",
     "Windows",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/extractseq.html",
   "sc:version": "r6"

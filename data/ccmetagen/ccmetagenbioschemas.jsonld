@@ -21,8 +21,8 @@
   "sc:name": "CCMetagen",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://cge.cbs.dtu.dk/services/ccmetagen/"
 }

@@ -17,18 +17,18 @@
   "sc:additionalType": "Command-line tool",
   "sc:author": "Torsten Seemann",
   "sc:contributor": [
-    "JC Kwong",
     "MB Schultz",
-    "DM Bulach",
     "BP Howden",
+    "DM Bulach",
+    "JC Kwong",
     "A Goncalves da Silva"
   ],
   "sc:description": "Pipeline to generate complete public health microbiology reports from isolates sequenced with Illumina paired-end sequencing.",
   "sc:license": "GPL-2.0",
   "sc:name": "nullarbor",
   "sc:operatingSystem": [
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "unimelb.edu.au",

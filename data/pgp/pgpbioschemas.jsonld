@@ -16,8 +16,8 @@
   ],
   "sc:additionalType": "Library",
   "sc:contributor": [
-    "German Federal Ministry of Education and Research within the German-Plant-Phenotyping Network",
     "European Commission within the transPlant project",
+    "German Federal Ministry of Education and Research within the German-Plant-Phenotyping Network",
     "Leibniz Institute of Plant Genetics and Crop Plant Research as infrastructural service",
     "Astrid Junker",
     "Uwe Scholz"
@@ -32,12 +32,12 @@
   "sc:name": "Plant Genomics and Phenomics Research Data Repository (PGP)",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
-    "ipk",
-    "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK) Gatersleben"
+    "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK) Gatersleben",
+    "ipk"
   ],
   "sc:url": "http://edal-pgp.ipk-gatersleben.de/"
 }

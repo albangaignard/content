@@ -26,15 +26,15 @@
       ],
       "sc:author": [
         "Janez Demšar",
-        "Marko Toplak",
-        "Martin Stražar",
-        "Andrej Čopar",
-        "Anže Starič",
-        "Aleš Erjavec",
         "Lan Žagar",
-        "Tomaž Curk",
+        "Martin Stražar",
         "Vesna Tanko",
-        "Jernej Kernc"
+        "Jernej Kernc",
+        "Tomaž Curk",
+        "Aleš Erjavec",
+        "Marko Toplak",
+        "Andrej Čopar",
+        "Anže Starič"
       ],
       "sc:citation": "pubmed:17586552",
       "sc:contributor": {
@@ -45,8 +45,8 @@
       "sc:name": "Orange",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": [
         "ELIXIR-SI-hackathon",

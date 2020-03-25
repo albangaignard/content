@@ -23,8 +23,8 @@
   "sc:name": "Hubba",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://hub.iis.sinica.edu.tw/Hubba"
 }

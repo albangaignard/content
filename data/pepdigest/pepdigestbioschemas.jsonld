@@ -19,16 +19,16 @@
   ],
   "sc:description": "Report on protein proteolytic enzyme or reagent cleavage sites.",
   "sc:funder": [
-    "UK MRC",
+    "Wellcome Trust",
     "UK BBSRC",
-    "Wellcome Trust"
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "pepdigest",
   "sc:operatingSystem": [
-    "Windows",
+    "Linux",
     "Mac",
-    "Linux"
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

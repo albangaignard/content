@@ -13,8 +13,8 @@
   "biotools:primaryContact": "PredictProtein Help Desk",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Guy Yachdav",
-    "Laszlo Kajan"
+    "Laszlo Kajan",
+    "Guy Yachdav"
   ],
   "sc:contributor": [
     "Edda Kloppmann",
@@ -31,8 +31,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "RostLab",
-    "Technische Universität München"
+    "Technische Universität München",
+    "RostLab"
   ],
   "sc:url": "http://ppopen.informatik.tu-muenchen.de/",
   "sc:version": "1.1.07"

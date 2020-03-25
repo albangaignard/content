@@ -13,12 +13,12 @@
       "@id": "https://bio.tools/BAMM-SC",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Zhe Sun",
-        "Li Chen"
+        "Li Chen",
+        "Zhe Sun"
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC6456731",

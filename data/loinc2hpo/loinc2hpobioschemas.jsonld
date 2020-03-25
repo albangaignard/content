@@ -32,8 +32,8 @@
       "sc:name": "LOINC2HPO",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/monarch-initiative/loinc2hpo"
     },

@@ -16,8 +16,8 @@
   "sc:name": "USEARCH",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.drive5.com/usearch/"
 }

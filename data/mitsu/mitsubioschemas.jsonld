@@ -17,8 +17,8 @@
   "sc:name": "MITSU",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://sourceforge.net/projects/mitsu-motif/"
 }

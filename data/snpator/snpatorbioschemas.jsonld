@@ -12,13 +12,13 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Web application",
   "sc:author": [
+    "Tere Páramo Prieto",
     "José Marí­a Heredia Genestar",
+    "Angel Carreño Torres",
     "Pep Alegre",
     "Carlos Morcillo Suarez",
-    "Angel Carreño Torres",
-    "Ricard Sangrós",
-    "Tere Páramo Prieto",
-    "Arcadi Navarro Cuartiellas"
+    "Arcadi Navarro Cuartiellas",
+    "Ricard Sangrós"
   ],
   "sc:citation": "pubmed:18515823",
   "sc:contributor": [
@@ -33,8 +33,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "Instituto Nacional de Bioinformática (INB)",
-    "upf.edu"
+    "upf.edu",
+    "Instituto Nacional de Bioinformática (INB)"
   ],
   "sc:url": "http://www.snpator.org/",
   "sc:version": "1"

@@ -17,8 +17,8 @@
   "sc:name": "ZiFiT",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bindr.gdcb.iastate.edu/ZiFiT/"
 }

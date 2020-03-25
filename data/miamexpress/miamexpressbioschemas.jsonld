@@ -17,8 +17,8 @@
   "sc:name": "MIAMExpress",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.ebi.ac.uk/microarray/MIAMExpress/miamexpress.html"
 }

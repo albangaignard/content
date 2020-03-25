@@ -17,8 +17,8 @@
   "sc:name": "VisANT",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://visant.bu.edu/"
 }

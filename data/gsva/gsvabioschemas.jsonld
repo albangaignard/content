@@ -18,8 +18,8 @@
         "Library"
       ],
       "sc:citation": [
-        "pmcid:PMC3618321",
         "pubmed:23323831",
+        "pmcid:PMC3618321",
         {
           "@id": "https://doi.org/10.1186/1471-2105-14-7"
         }
