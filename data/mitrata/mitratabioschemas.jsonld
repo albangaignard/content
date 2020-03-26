@@ -17,8 +17,8 @@
   "sc:name": "miTRATA",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://wasabi.ddpsc.org/~apps/ta/"
 }

@@ -26,9 +26,9 @@
   "sc:license": "Other",
   "sc:name": "assemblyget",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "EMBOSS",

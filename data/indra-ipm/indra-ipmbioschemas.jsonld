@@ -18,8 +18,8 @@
   "sc:name": "INDRA-IPM",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://pathwaymap.indra.bio/"
 }

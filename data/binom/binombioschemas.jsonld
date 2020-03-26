@@ -16,8 +16,8 @@
   "sc:license": "LGPL-2.0",
   "sc:name": "BiNoM",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:url": "https://binom.curie.fr/"

@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Zhongsheng Sun",
-    "Huabin Hou",
     "Jinyu Wu",
-    "Linglin Zhou",
-    "Erle Zhu"
+    "Huabin Hou",
+    "Erle Zhu",
+    "Linglin Zhou"
   ],
   "sc:additionalType": "Desktop application",
   "sc:description": "Large-scale short reads and sequencing depth visualization.",

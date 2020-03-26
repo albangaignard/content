@@ -12,18 +12,18 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Weiguang (Wayne) Mao",
-    "Nathan Clark",
     "Raghavendran Partha",
     "Wynn Meyer",
-    "Maria Chikina"
+    "Maria Chikina",
+    "Nathan Clark"
   ],
   "sc:additionalType": "Library",
   "sc:author": [
+    "Weiguang (Wayne) Mao",
+    "Amanda Kowalczyk",
     "Raghavendran Partha",
     "Wynn Meyer",
-    "Weiguang (Wayne) Mao",
     "Maria Chikina",
-    "Amanda Kowalczyk",
     "Nathan Clark"
   ],
   "sc:citation": "pubmed:31192356",

@@ -17,8 +17,8 @@
   "sc:name": "WAViS",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://wavis.img.cas.cz/"
 }

@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/HMP2",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Curtis Huttenhower",
-        "Ramnik J. Xavier"
+        "Ramnik J. Xavier",
+        "Curtis Huttenhower"
       ],
       "sc:additionalType": "Workflow",
       "sc:citation": [

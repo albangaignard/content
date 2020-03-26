@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/btu168",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/variantannotation",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Valerie Obenchain",
@@ -30,10 +26,10 @@
         "Command-line tool"
       ],
       "sc:citation": [
+        "pubmed:24681907",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/btu168"
         },
-        "pubmed:24681907",
         "pmcid:PMC4080743"
       ],
       "sc:description": "Annotate variants, compute amino acid coding changes, predict coding outcomes.",
@@ -51,12 +47,16 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "VariantAnnotation",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/VariantAnnotation.html",
       "sc:version": "1.20.2"
+    },
+    {
+      "@id": "https://doi.org/10.1093/bioinformatics/btu168",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -24,10 +24,10 @@
       "sc:additionalType": "Command-line tool",
       "sc:author": "Steffen Durinck",
       "sc:citation": [
-        "pubmed:19617889",
         {
           "@id": "https://doi.org/10.1038/nprot.2009.97"
         },
+        "pubmed:19617889",
         "pmcid:PMC3159387"
       ],
       "sc:contributor": {

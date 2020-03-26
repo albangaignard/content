@@ -32,8 +32,8 @@
       "sc:name": "Snoopy hybrid simulator",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://www-dssz.informatik.tu-cottbus.de/DSSZ/Software/Snoopy"
     }

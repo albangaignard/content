@@ -16,8 +16,8 @@
   "sc:name": "VarSifter",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://research.nhgri.nih.gov/software/VarSifter/"
 }

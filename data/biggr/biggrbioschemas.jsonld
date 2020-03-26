@@ -13,12 +13,12 @@
       "@id": "https://bio.tools/biggr",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Anand K. Gavai",
-        "Hannes Hettling"
+        "Hannes Hettling",
+        "Anand K. Gavai"
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         {
@@ -34,8 +34,8 @@
       "sc:name": "BiGGR",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/BiGGR.html",
       "sc:version": "1.10.0"

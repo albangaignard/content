@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Ashutosh Singh",
-    "Garima Singh",
-    "Basharat Ahmad Bhat"
+    "Basharat Ahmad Bhat",
+    "Garima Singh"
   ],
   "sc:additionalType": "Web application",
   "sc:description": "Multiple sequence alignment tool for transmembrane proteins with reduced time and improved accuracy.",

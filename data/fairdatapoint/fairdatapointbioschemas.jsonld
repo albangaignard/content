@@ -29,14 +29,14 @@
         }
       ],
       "sc:additionalType": [
-        "Web application",
-        "Web API"
+        "Web API",
+        "Web application"
       ],
       "sc:author": [
+        "Kees burger",
         {
           "@id": "https://orcid.org/0000-0002-1215-167X"
-        },
-        "Kees burger"
+        }
       ],
       "sc:contributor": [
         "Mark Thompson",
@@ -49,8 +49,8 @@
       "sc:license": "MIT",
       "sc:name": "FAIRDataPoint",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "https://github.com/FAIRDataTeam/FAIRDataPoint"

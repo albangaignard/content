@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/mipav",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Developers",
     "Ideas for features",
+    "Developers",
     "Bugs"
   ],
   "sc:additionalType": "Desktop application",
@@ -21,8 +21,8 @@
   "sc:name": "MIPAV",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://mipav.cit.nih.gov/"
 }

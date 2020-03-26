@@ -28,10 +28,10 @@
           "@id": "edam:data_1009"
         },
         {
-          "@id": "edam:data_2723"
+          "@id": "edam:data_3021"
         },
         {
-          "@id": "edam:data_3021"
+          "@id": "edam:data_2723"
         }
       ],
       "edam:has_output": [
@@ -43,9 +43,9 @@
         }
       ],
       "sc:additionalType": [
-        "Web API",
+        "Database portal",
         "Web application",
-        "Database portal"
+        "Web API"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_3538"
@@ -69,8 +69,8 @@
       "sc:license": "CC-BY-NC-1.0",
       "sc:name": "Database of protein disorder (DisProt)",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:provider": "University of Padua, Department of Biomedical Sciences, BioComputing UP lab",

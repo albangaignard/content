@@ -15,8 +15,8 @@
   "sc:description": "Simple statistics calculation on BAM files.",
   "sc:name": "samtools_flagstat",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:url": "http://www.htslib.org/",

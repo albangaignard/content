@@ -22,14 +22,14 @@
   "sc:funder": "The Research Council of Norway",
   "sc:name": "Stitchprofiles",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
+    "University of Oslo",
     "The Norwegian Radium Hospital",
-    "UiO",
-    "University of Oslo"
+    "UiO"
   ],
   "sc:url": "http://stitchprofiles.uio.no/",
   "sc:version": "1"

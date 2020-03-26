@@ -17,8 +17,8 @@
         "Prof. Fengzhu Sun"
       ],
       "sc:additionalType": [
-        "Desktop application",
-        "Command-line tool"
+        "Command-line tool",
+        "Desktop application"
       ],
       "sc:citation": [
         "pubmed:28472388",
@@ -38,9 +38,9 @@
       ],
       "sc:name": "CAFE",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/younglululu/CAFE"
     },

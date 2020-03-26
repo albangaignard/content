@@ -16,8 +16,8 @@
   "sc:license": "Other",
   "sc:name": "biotmle",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/biotmle.html",

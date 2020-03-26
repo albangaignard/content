@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "UK BBSRC",
     "EMBOSS Contributors",
     "UK MRC",
-    "UK BBSRC",
     "Wellcome Trust"
   ],
   "sc:description": "An Emboss tool that reads a reference sequence and returns the data in one of the EMBOSS reference sequence formats.",
@@ -26,8 +26,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "refseqget",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": [
