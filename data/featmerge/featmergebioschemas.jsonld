@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "EMBOSS Contributors",
-    "UK MRC",
     "UK BBSRC",
+    "UK MRC",
     "Wellcome Trust"
   ],
   "sc:description": "An Emboss tool that merges two overlapping feature tables into one single table.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "featmerge",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
     "EMBOSS",

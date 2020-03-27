@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/database/bay125",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/PhytoTypeDB",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
@@ -41,11 +37,15 @@
       ],
       "sc:name": "PhytoTypeDB",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://phytotypedb.bio.unipd.it/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/database/bay125",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

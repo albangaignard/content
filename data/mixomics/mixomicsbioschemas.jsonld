@@ -16,8 +16,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "mixomics",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": "unimelb.edu.au",

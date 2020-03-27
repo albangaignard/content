@@ -16,8 +16,8 @@
   "sc:name": "SIMCEP",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.cs.tut.fi/sgn/csb/simcep/index.html"
 }

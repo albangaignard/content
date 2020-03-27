@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0002-6245-8071",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/stemcellnet",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -28,10 +32,10 @@
       "sc:additionalType": "Web application",
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3307"
+          "@id": "edam:topic_3344"
         },
         {
-          "@id": "edam:topic_3344"
+          "@id": "edam:topic_3307"
         }
       ],
       "sc:citation": [
@@ -48,19 +52,15 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "StemCellNet",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:softwareHelp": {
         "@id": "http://193.136.227.181:8080/stemcellnet/help.jsf"
       },
       "sc:url": "http://stemcellnet.sysbiolab.eu",
       "sc:version": "1.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-6245-8071",
-      "@type": "schema:Person"
     }
   ]
 }

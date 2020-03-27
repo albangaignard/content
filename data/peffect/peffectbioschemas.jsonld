@@ -14,9 +14,9 @@
   "sc:author": "Tatyana Goldberg",
   "sc:contributor": [
     "Ernst Ludwig Ehrlich Studienwerk",
-    "Burkhard Rost",
     "Yana Bromberg",
-    "Alexander von Humboldt foundation through the German Federal Ministry for Education and Research"
+    "Alexander von Humboldt foundation through the German Federal Ministry for Education and Research",
+    "Burkhard Rost"
   ],
   "sc:description": "Prediction of type III effector proteins from protein sequence.",
   "sc:funder": [

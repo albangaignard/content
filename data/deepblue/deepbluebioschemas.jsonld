@@ -29,13 +29,13 @@
   "sc:license": "GPL-3.0",
   "sc:name": "DeepBlue Epigenomic Data Server",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
-    "mpi-inf.mpg.de",
-    "Max Planck Institute for Informatics"
+    "Max Planck Institute for Informatics",
+    "mpi-inf.mpg.de"
   ],
   "sc:url": "http://deepblue.mpi-inf.mpg.de/"
 }

@@ -23,9 +23,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "Collector",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://phi.upf.edu/collector/"
 }

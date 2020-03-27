@@ -31,8 +31,8 @@
       },
       "sc:name": "LAMP",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://biotechlab.fudan.edu.cn/database/lamp/"

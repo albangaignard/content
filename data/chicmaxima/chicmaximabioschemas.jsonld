@@ -37,8 +37,8 @@
       "sc:name": "ChiCMaxima",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/yousra291987/ChiCMaxima"
     },

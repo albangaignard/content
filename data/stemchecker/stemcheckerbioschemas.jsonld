@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gkv529",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0002-6245-8071",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/stemchecker",
@@ -42,15 +42,15 @@
       "sc:name": "StemChecker",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://193.136.227.168:8080/stemchecker/stemsethome.jsf",
       "sc:version": "1.2.1"
     },
     {
-      "@id": "http://orcid.org/0000-0002-6245-8071",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1093/nar/gkv529",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -34,8 +34,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "CyAnimator",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://www.cgl.ucsf.edu/cytoscape/CyAnimator/index.shtml",
