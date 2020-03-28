@@ -15,10 +15,10 @@
       "biotools:primaryContact": "Laboratory of Computational Systems Biotechnology",
       "sc:additionalType": "Library",
       "sc:citation": [
-        "pmcid:PMC6298055",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/bty499"
         },
+        "pmcid:PMC6298055",
         "pubmed:30561545"
       ],
       "sc:description": "Python package for thermodynamics-based flux analysis.",
@@ -26,8 +26,8 @@
       "sc:name": "pyTFA",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://github.com/EPFL-LCSB/pytfa"
     },

@@ -17,8 +17,8 @@
   "sc:name": "MINAS",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.minas.uzh.ch/"
 }

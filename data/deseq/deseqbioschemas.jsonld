@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/gb-2010-11-10-r106",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0003-4868-1805",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/deseq",
@@ -42,8 +42,8 @@
       "sc:version": "1.26.0"
     },
     {
-      "@id": "http://orcid.org/0000-0003-4868-1805",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1186/gb-2010-11-10-r106",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

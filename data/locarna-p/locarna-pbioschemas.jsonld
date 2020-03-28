@@ -31,10 +31,10 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_1916"
+          "@id": "edam:data_0872"
         },
         {
-          "@id": "edam:data_0872"
+          "@id": "edam:data_1916"
         },
         {
           "@id": "edam:data_1465"
@@ -43,10 +43,10 @@
       "sc:additionalType": "Command-line tool",
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0097"
+          "@id": "edam:topic_0080"
         },
         {
-          "@id": "edam:topic_0080"
+          "@id": "edam:topic_0097"
         }
       ],
       "sc:author": [
@@ -69,12 +69,12 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "LocARNA-P",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": [
-        "rnateam",
-        "University Freiburg"
+        "University Freiburg",
+        "rnateam"
       ],
       "sc:softwareHelp": {
         "@id": "http://www.bioinf.uni-freiburg.de/Software/LocARNA/"

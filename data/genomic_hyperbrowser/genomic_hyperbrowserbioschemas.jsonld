@@ -17,8 +17,8 @@
   "sc:name": "Genomic HyperBrowser",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://hyperbrowser.uio.no"
 }

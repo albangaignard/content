@@ -10,16 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1021/ACS.JCIM.6B00686",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/3d-e-chem",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "C. De. Graaf",
         "Ross Mcguire",
-        "S. Verhoeven",
-        "C. De. Graaf"
+        "S. Verhoeven"
       ],
       "sc:additionalType": "Desktop application",
       "sc:citation": [
@@ -48,6 +44,10 @@
         "Windows"
       ],
       "sc:url": "http://3d-e-chem.github.io/3D-e-Chem-VM/"
+    },
+    {
+      "@id": "https://doi.org/10.1021/ACS.JCIM.6B00686",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -31,8 +31,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "SNooPer",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "https://www.somaticsnooper.com/"

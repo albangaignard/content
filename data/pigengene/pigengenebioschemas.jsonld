@@ -41,9 +41,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "Pigengene",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/Pigengene.html",
       "sc:version": "1.0.0"

@@ -20,8 +20,8 @@
   "sc:name": "Pratt",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "University of Bergen",

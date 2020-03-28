@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/bioinformatics/bty855",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/CANDI",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "M. A. Badgeley",
@@ -34,14 +38,10 @@
       "sc:name": "CANDI",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://candi.nextgenhealthcare.org/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/bioinformatics/bty855",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

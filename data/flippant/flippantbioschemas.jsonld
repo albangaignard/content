@@ -29,8 +29,8 @@
       "sc:name": "flippant",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://bitbucket.org/graumannlabtools/flippant"
     },

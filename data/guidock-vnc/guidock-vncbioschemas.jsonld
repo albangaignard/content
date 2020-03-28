@@ -16,8 +16,8 @@
   "sc:license": "MIT",
   "sc:name": "GUIdock-VNC",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "https://github.com/BioDepot/GUIdock-VNC"

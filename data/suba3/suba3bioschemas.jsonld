@@ -17,17 +17,17 @@
   ],
   "sc:additionalType": "Database portal",
   "sc:contributor": [
+    "Harvey Millar",
     "Cornelia Hooper",
-    "Sandra Tanz",
     "Ian Castleden",
-    "Harvey Millar"
+    "Sandra Tanz"
   ],
   "sc:description": "A subcellular localisation database for Arabidopsis proteins, with online search interface.",
   "sc:name": "SUBA3",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "unimelb.edu.au",

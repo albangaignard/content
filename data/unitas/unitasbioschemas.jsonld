@@ -29,8 +29,8 @@
       "sc:name": "unitas",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://sourceforge.net/projects/unitas/files/"
     },

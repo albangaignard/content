@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0002-5427-6462",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1186/S12859-019-2805-6",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-5427-6462",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/BRM",
@@ -49,9 +49,9 @@
       "sc:license": "Unlicense",
       "sc:name": "BRM",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://cbb.pnnl.gov/brm/"
     }

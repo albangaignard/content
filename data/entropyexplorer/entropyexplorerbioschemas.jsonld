@@ -29,8 +29,8 @@
       "sc:name": "EntropyExplorer",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/EntropyExplorer/index.html",
       "sc:version": "1.1"
