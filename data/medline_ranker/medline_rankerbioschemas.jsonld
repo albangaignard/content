@@ -29,8 +29,8 @@
         "@id": "edam:data_0972"
       },
       "sc:additionalType": [
-        "Web application",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_0218"
@@ -53,9 +53,9 @@
       ],
       "sc:name": "Medline Ranker",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://cbdm.uni-mainz.de/medlineranker"
     }

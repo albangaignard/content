@@ -18,8 +18,8 @@
   "sc:license": "Unlicense",
   "sc:name": "SZN Zoological Collection Database",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://szn.i.hosei.ac.jp/HTML/index.php"

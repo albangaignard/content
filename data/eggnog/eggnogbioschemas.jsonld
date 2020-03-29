@@ -37,8 +37,8 @@
       "sc:name": "eggNOG",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": [
         "HD-HuB",

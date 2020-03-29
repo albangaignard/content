@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Tianhua Niu",
-    "Zhenjun Hu",
     "Zhiping Weng",
+    "Zhenjun Hu",
     "Martin Frith"
   ],
   "sc:additionalType": "Web application",
@@ -21,9 +21,9 @@
   "sc:description": "Tool for sequence feature visualization and comparison; integrates with Internet Explorer;  accepts GenBank Flat Files, GenBank HTML, FASTA files; plugins exist for visualization of output from RepeatMasker, PsiPred, and Cister.",
   "sc:name": "SeqVISTA",
   "sc:operatingSystem": [
+    "Mac",
     "Linux",
-    "Windows",
-    "Mac"
+    "Windows"
   ],
   "sc:url": "http://zlab.bu.edu/SeqVISTA/"
 }

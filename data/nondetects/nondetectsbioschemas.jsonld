@@ -29,10 +29,10 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0203"
+          "@id": "edam:topic_3519"
         },
         {
-          "@id": "edam:topic_3519"
+          "@id": "edam:topic_0203"
         }
       ],
       "sc:citation": [
@@ -48,17 +48,17 @@
           "@id": "edam:operation_3566"
         },
         {
-          "@id": "edam:operation_3435"
+          "@id": "edam:operation_3557"
         },
         {
-          "@id": "edam:operation_3557"
+          "@id": "edam:operation_3435"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "nondetects",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/nondetects.html",

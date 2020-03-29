@@ -31,9 +31,9 @@
       },
       "sc:name": "coMET",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://epigen.kcl.ac.uk/comet/"
     }

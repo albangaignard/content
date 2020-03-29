@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Jesper Maag",
       "sc:additionalType": [
-        "Library",
-        "Web application"
+        "Web application",
+        "Library"
       ],
       "sc:citation": [
         {
@@ -39,8 +39,8 @@
       ],
       "sc:name": "gganatogram",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/jespermaag/gganatogram"
     }

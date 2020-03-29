@@ -28,8 +28,8 @@
       "sc:name": "Metascape",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://metascape.org/gp/index.html#/main/step1"
     },

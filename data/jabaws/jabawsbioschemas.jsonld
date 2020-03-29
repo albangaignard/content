@@ -20,8 +20,8 @@
   "sc:name": "JABAWS",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.compbio.dundee.ac.uk/jabaws/"
 }

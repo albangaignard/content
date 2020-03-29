@@ -16,8 +16,8 @@
   "sc:name": "htseqcount",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://htseq.readthedocs.io/en/release_0.9.1/",
   "sc:version": "0.6.1p1"

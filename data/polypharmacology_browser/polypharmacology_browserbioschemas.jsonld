@@ -30,17 +30,17 @@
           "@id": "edam:operation_2929"
         },
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_2489"
         },
         {
-          "@id": "edam:operation_2489"
+          "@id": "edam:operation_3501"
         }
       ],
       "sc:name": "PPB",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://gdbtools.unibe.ch:8080/PPB/"
     },

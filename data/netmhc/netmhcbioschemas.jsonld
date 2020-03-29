@@ -35,8 +35,8 @@
       "sc:license": "Other",
       "sc:name": "NetMHC",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": "CBS",
       "sc:url": "http://cbs.dtu.dk/services/NetMHC/",

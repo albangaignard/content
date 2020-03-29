@@ -19,8 +19,8 @@
   "sc:name": "NeuronActivityTool",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://www.biozentrum.uni-wuerzburg.de/bioinfo/computing/neuralactivitycubic/"
 }

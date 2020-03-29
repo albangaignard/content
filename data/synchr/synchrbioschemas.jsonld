@@ -27,8 +27,8 @@
       },
       "sc:name": "SynChr",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://www.lcqb.upmc.fr/CHROnicle/SynChro.html"
     },

@@ -20,15 +20,15 @@
   "sc:description": "Draw a hydropathy plot for a protein sequence.",
   "sc:funder": [
     "UK BBSRC",
-    "UK MRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "pepwindow",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "EMBOSS",

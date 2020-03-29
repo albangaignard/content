@@ -13,8 +13,8 @@
   "biotools:primaryContact": "Andrés Cañada Pallarés",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Andrés Cañada",
-    "Martin Krallinger"
+    "Martin Krallinger",
+    "Andrés Cañada"
   ],
   "sc:description": "Text mining for toxicology.",
   "sc:name": "LimTox",

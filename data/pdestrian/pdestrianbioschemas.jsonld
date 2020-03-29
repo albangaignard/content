@@ -11,20 +11,20 @@
   "@id": "https://bio.tools/pdestrian",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Dr. Chris de Graaf",
-    "Dr. Albert J. Kooistra"
+    "Dr. Albert J. Kooistra",
+    "Dr. Chris de Graaf"
   ],
   "sc:additionalType": [
-    "Web application",
-    "Command-line tool",
     "Database portal",
-    "Web API"
+    "Web API",
+    "Command-line tool",
+    "Web application"
   ],
   "sc:author": [
     "Georgi K. Kanev",
-    "Division of Medicinal Chemistry (Vrije Universiteit Amsterdam)",
     "Chimed Jansen",
     "Albert J. Kooistra",
+    "Division of Medicinal Chemistry (Vrije Universiteit Amsterdam)",
     "Chris de Graaf"
   ],
   "sc:contributor": [
@@ -40,8 +40,8 @@
   ],
   "sc:name": "PDEStrIAn",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": [

@@ -19,8 +19,8 @@
   "sc:name": "DeTECTOR",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": "ELIXIR-ITA-CRS4",
   "sc:url": "http://detector.bioinformatica.crs4.it/",

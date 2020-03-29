@@ -17,8 +17,8 @@
         "Simon Larsen"
       ],
       "sc:additionalType": [
-        "Library",
-        "Web application"
+        "Web application",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:29776329",
@@ -34,8 +34,8 @@
       "sc:name": "CoNVaQ",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://convaq.compbio.sdu.dk/"
     },

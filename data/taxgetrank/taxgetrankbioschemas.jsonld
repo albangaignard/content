@@ -14,8 +14,8 @@
   "sc:contributor": [
     "Wellcome Trust",
     "UK BBSRC",
-    "EMBOSS Contributors",
-    "UK MRC"
+    "UK MRC",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Get parents of taxon(s).",
   "sc:funder": [
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "taxgetrank",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "EMBL EBI",

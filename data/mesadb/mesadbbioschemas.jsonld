@@ -11,11 +11,11 @@
   "@id": "https://bio.tools/mesadb",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Aybar C. Acar",
+    "Gökhan Karakülah",
     "Cengiz Yakicier",
     "Özlen Konu",
-    "Gökhan Karakülah",
-    "Koray D. Kaya",
-    "Aybar C. Acar"
+    "Koray D. Kaya"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:21177657",
