@@ -18,8 +18,8 @@
   "sc:name": "R",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.r-project.org/"
 }

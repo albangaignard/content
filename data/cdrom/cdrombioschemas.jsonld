@@ -19,8 +19,8 @@
       "biotools:primaryContact": "Raquel Assis",
       "sc:additionalType": "Library",
       "sc:citation": [
-        "pubmed:27080514",
         "pmcid:PMC4832533",
+        "pubmed:27080514",
         {
           "@id": "https://doi.org/10.1186/S12862-016-0644-X"
         }
@@ -36,9 +36,9 @@
       ],
       "sc:name": "CDROM",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://cran.rstudio.com/web/packages/CDROM/"
     }

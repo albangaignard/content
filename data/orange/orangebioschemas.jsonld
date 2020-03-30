@@ -25,16 +25,16 @@
         "Desktop application"
       ],
       "sc:author": [
-        "Tomaž Curk",
-        "Janez Demšar",
         "Aleš Erjavec",
         "Anže Starič",
+        "Lan Žagar",
         "Andrej Čopar",
-        "Marko Toplak",
-        "Martin Stražar",
-        "Jernej Kernc",
         "Vesna Tanko",
-        "Lan Žagar"
+        "Janez Demšar",
+        "Marko Toplak",
+        "Jernej Kernc",
+        "Martin Stražar",
+        "Tomaž Curk"
       ],
       "sc:citation": "pubmed:17586552",
       "sc:contributor": {
@@ -49,8 +49,8 @@
         "Mac"
       ],
       "sc:provider": [
-        "ELIXIR-SI-hackathon",
-        "Faculty of Computer and Information Science, University of Ljubljana, Slovenia"
+        "Faculty of Computer and Information Science, University of Ljubljana, Slovenia",
+        "ELIXIR-SI-hackathon"
       ],
       "sc:url": "https://orange.biolab.si/",
       "sc:version": "2.7"

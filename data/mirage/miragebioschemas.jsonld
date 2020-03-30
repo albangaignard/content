@@ -24,10 +24,10 @@
         "Library"
       ],
       "sc:citation": [
+        "pmcid:PMC3257129",
         {
           "@id": "https://doi.org/10.3390/ijms12129265"
         },
-        "pmcid:PMC3257129",
         "pubmed:22272132"
       ],
       "sc:description": "The package contains functions for inferece of target gene regulation by miRNA, based on only target gene expression profile.",
@@ -37,9 +37,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "MiRaGE",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/MiRaGE.html",
       "sc:version": "1.16.0"

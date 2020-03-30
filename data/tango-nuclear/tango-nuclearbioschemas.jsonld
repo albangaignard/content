@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/tango-nuclear",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Thomas Boudier",
         "Jean Ollion",
+        "Thomas Boudier",
         "Julien Cochennec"
       ],
       "sc:additionalType": [

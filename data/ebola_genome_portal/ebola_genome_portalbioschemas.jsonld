@@ -35,9 +35,9 @@
       ],
       "sc:name": "UCSC Ebola Genome Portal",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": "rki.de",
       "sc:url": "https://genome.ucsc.edu/ebolaPortal/"

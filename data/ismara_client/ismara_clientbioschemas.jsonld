@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.12688/F1000RESEARCH.9794.1",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/ismara_client",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Mikhail Pachkov",
@@ -36,14 +40,10 @@
       "sc:license": "GPL-2.0",
       "sc:name": "ISMARA client",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://ismara.unibas.ch/ISMARA/client/"
-    },
-    {
-      "@id": "https://doi.org/10.12688/F1000RESEARCH.9794.1",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

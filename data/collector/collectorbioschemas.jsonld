@@ -24,8 +24,8 @@
   "sc:name": "Collector",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://phi.upf.edu/collector/"
 }

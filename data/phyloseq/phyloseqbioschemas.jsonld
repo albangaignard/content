@@ -16,8 +16,8 @@
         "@id": "http://orcid.org/0000-0001-8879-3954"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:23630581",
@@ -41,9 +41,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "phyloseq",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/phyloseq.html",
       "sc:version": "1.19.1"

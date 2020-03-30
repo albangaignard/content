@@ -15,8 +15,8 @@
   "sc:name": "SIBMED",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://csg.sph.umich.edu/boehnke/sibmed.php",
   "sc:version": "1.0"

@@ -27,10 +27,10 @@
           "@id": "edam:data_1669"
         },
         {
-          "@id": "edam:data_0862"
+          "@id": "edam:data_2884"
         },
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_0862"
         }
       ],
       "sc:additionalType": [
@@ -39,10 +39,10 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0092"
+          "@id": "edam:topic_3053"
         },
         {
-          "@id": "edam:topic_3053"
+          "@id": "edam:topic_0092"
         }
       ],
       "sc:citation": [
@@ -55,10 +55,10 @@
       "sc:description": "This package implements methods to analyze and visualize functional profiles (GO and KEGG) of gene and gene clusters.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2436"
+          "@id": "edam:operation_2238"
         },
         {
-          "@id": "edam:operation_2238"
+          "@id": "edam:operation_2436"
         }
       ],
       "sc:isAccessibleForFree": true,
@@ -66,8 +66,8 @@
       "sc:name": "clusterProfiler",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:softwareHelp": {
         "@id": "http://bioconductor.org/packages/release/bioc/html/clusterProfiler.html"

@@ -35,8 +35,8 @@
       "sc:name": "Wombat",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://didgeridoo.une.edu.au/km/wombat.php"
     },

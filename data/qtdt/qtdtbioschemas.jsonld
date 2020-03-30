@@ -15,8 +15,8 @@
   "sc:license": "BSD-3-Clause",
   "sc:name": "QTDT",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://csg.sph.umich.edu/abecasis/qtdt/"

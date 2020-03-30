@@ -16,8 +16,8 @@
   "sc:name": "PatSearch",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "C.N.R. - Institute of Biomedical Technology",

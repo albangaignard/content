@@ -33,8 +33,8 @@
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC5142268",
@@ -55,9 +55,9 @@
       "sc:license": "CC-BY-NC-ND-4.0",
       "sc:name": "PCAN",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/PCAN.html",
       "sc:version": "1.2.1"

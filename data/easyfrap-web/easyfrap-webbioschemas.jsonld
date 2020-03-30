@@ -42,9 +42,9 @@
       "sc:license": "Unlicense",
       "sc:name": "easyFRAP-web",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://easyfrap.vmnet.upatras.gr/"
     }

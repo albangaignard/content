@@ -22,8 +22,8 @@
         "@id": "edam:data_2884"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_0749"
@@ -41,18 +41,18 @@
           "@id": "edam:operation_0239"
         },
         {
-          "@id": "edam:operation_0438"
+          "@id": "edam:operation_0445"
         },
         {
-          "@id": "edam:operation_0445"
+          "@id": "edam:operation_0438"
         }
       ],
       "sc:license": "GPL-2.0",
       "sc:name": "TFBSTools",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/TFBSTools.html",
       "sc:version": "1.12.1"

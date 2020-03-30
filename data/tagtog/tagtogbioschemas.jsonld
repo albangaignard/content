@@ -16,14 +16,14 @@
     "Web API"
   ],
   "sc:author": [
-    "Juan Miguel Cejuela",
-    "Jorge Campos"
+    "Jorge Campos",
+    "Juan Miguel Cejuela"
   ],
   "sc:description": "Automatic, manual, and search annotation tool.",
   "sc:name": "tagtog",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "tagtog.net",

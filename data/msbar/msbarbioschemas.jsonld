@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
-    "UK BBSRC",
     "UK MRC",
+    "UK BBSRC",
     "EMBOSS Contributors"
   ],
   "sc:description": "Mutate a sequence.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "msbar",
   "sc:operatingSystem": [
+    "Linux",
     "Mac",
-    "Windows",
-    "Linux"
+    "Windows"
   ],
   "sc:provider": [
     "EMBL EBI",

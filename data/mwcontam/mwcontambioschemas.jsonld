@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "EMBOSS Contributors",
-    "Wellcome Trust",
     "UK BBSRC",
+    "Wellcome Trust",
+    "EMBOSS Contributors",
     "UK MRC"
   ],
   "sc:description": "Find weights common to multiple molecular weights files.",

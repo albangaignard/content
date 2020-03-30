@@ -19,9 +19,9 @@
   ],
   "sc:description": "Calculate and plot enzyme reaction data.",
   "sc:funder": [
-    "Wellcome Trust",
     "UK BBSRC",
-    "UK MRC"
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "findkm",

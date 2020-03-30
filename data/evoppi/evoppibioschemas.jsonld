@@ -10,15 +10,15 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0002-6476-7206",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://orcid.org/0000-0001-7032-5220",
       "@type": "schema:Person"
     },
     {
       "@id": "https://orcid.org/0000-0002-3943-8013",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-6476-7206",
       "@type": "schema:Person"
     },
     {
@@ -37,10 +37,10 @@
       },
       "sc:additionalType": "Database portal",
       "sc:author": [
-        "Noé Vázquez",
         {
           "@id": "https://orcid.org/0000-0002-6476-7206"
         },
+        "Noé Vázquez",
         {
           "@id": "https://orcid.org/0000-0001-8749-2703"
         }

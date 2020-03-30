@@ -34,13 +34,13 @@
       "sc:description": "Topological gap-filling of genome-scale draft metabolic networks.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3715"
-        },
-        {
           "@id": "edam:operation_3803"
         },
         {
           "@id": "edam:operation_3660"
+        },
+        {
+          "@id": "edam:operation_3715"
         }
       ],
       "sc:license": "GPL-3.0",

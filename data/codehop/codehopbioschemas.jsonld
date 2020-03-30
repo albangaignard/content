@@ -17,8 +17,8 @@
   "sc:name": "CODEHOP",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://blocks.fhcrc.org/codehop.html"
 }

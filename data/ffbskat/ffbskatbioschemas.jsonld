@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/ffbskat",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "N.M. Belonogova",
-        "G.R. Svishcheva"
+        "G.R. Svishcheva",
+        "N.M. Belonogova"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -31,8 +31,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "FFBSKAT",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://mga.bionet.nsc.ru/soft/FFBSKAT/"

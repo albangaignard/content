@@ -17,8 +17,8 @@
   "sc:name": "HyPe",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://metabiosys.iiserb.ac.in/hype/"
 }
