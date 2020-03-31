@@ -27,8 +27,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "PS-Plant",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "https://github.com/g2-bernotas/PS-Plant-Framework"

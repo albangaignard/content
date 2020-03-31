@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-2323-0963",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.1186/1471-2164-14-S3-S2",
       "@type": "sc:CreativeWork"
     },
@@ -56,18 +60,14 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "Meta-SNP",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:softwareHelp": {
         "@id": "http://snps.biofold.org/meta-snp/pages/help.html"
       },
       "sc:url": "http://snps.biofold.org/meta-snp"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-2323-0963",
-      "@type": "schema:Person"
     }
   ]
 }

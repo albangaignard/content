@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.1186/S12920-019-0524-5",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/a-o-tool",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -30,13 +34,13 @@
       "sc:description": "Exploiting orthology and de novo transcriptome assembly to refine target sequence information.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3258"
+          "@id": "edam:operation_0476"
         },
         {
           "@id": "edam:operation_3644"
         },
         {
-          "@id": "edam:operation_0476"
+          "@id": "edam:operation_3258"
         }
       ],
       "sc:license": "GPL-3.0",
@@ -47,10 +51,6 @@
         "Linux"
       ],
       "sc:url": "https://github.com/Julia-F-S/a-o-tool"
-    },
-    {
-      "@id": "https://doi.org/10.1186/S12920-019-0524-5",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

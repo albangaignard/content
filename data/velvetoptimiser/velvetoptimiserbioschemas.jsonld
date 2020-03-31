@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/velvetoptimiser",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Torsten Seemann",
     "Australia",
-    "Simon Gladman",
-    "Torsten Seemann"
+    "Simon Gladman"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:author": [
@@ -24,8 +24,8 @@
   "sc:license": "GPL-2.0",
   "sc:name": "VelvetOptimiser",
   "sc:operatingSystem": [
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "unimelb.edu.au",

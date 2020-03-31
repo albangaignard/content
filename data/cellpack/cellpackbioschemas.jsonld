@@ -31,9 +31,9 @@
       },
       "sc:name": "cellPACK",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://www.cellpack.org/"
     }

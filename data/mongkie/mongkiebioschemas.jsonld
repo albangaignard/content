@@ -28,8 +28,8 @@
       "sc:license": "AGPL-3.0",
       "sc:name": "MONGKIE",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://yjjang.github.io/mongkie/"

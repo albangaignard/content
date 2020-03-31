@@ -19,8 +19,8 @@
   "sc:name": "LogMiNeR",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://bitbucket.org/kleinstein/logminer"
 }

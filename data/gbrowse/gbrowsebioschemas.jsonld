@@ -17,8 +17,8 @@
   "sc:name": "GBrowse",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://gmod.org/wiki/GBrowse"
 }

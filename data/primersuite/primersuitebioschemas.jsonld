@@ -31,9 +31,9 @@
       },
       "sc:name": "PrimerSuite",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://www.primer-suite.com/"
     }

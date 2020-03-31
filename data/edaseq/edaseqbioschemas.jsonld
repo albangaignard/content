@@ -36,9 +36,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "EDASeq",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/EDASeq.html",
       "sc:version": "2.8.0"

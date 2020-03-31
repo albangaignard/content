@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/mirtrios",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Qing Xie",
     "Yi Jiang",
     "Tao Wang",
-    "Qing Xie",
     "Jinchen Li",
     "Huiqian Chen"
   ],
@@ -22,8 +22,8 @@
   "sc:description": "Web server to accurately detect de novo mutations (DNMs) based on Expectation-maximization (EM) model. mirTrios also surports identification of rare inherited mutations, known diagnostic variants, as well as the prioritisation of novel and promising candidate genes.",
   "sc:name": "MirTrios",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://centre.bioinformatics.zj.cn/mirTrios/"

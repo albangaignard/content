@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
+    "UK MRC",
     "Wellcome Trust",
     "EMBOSS Contributors",
-    "UK MRC"
+    "UK BBSRC"
   ],
   "sc:description": "Write a sequence with masked features.",
   "sc:funder": [

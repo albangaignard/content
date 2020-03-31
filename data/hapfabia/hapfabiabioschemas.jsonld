@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0001-7449-2528",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/hapfabia",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -58,16 +62,12 @@
       "sc:license": "GPL-2.0",
       "sc:name": "hapFabia",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/hapFabia.html",
       "sc:version": "1.16.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-7449-2528",
-      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1093/nar/gkt1013",

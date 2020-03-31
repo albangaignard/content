@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gku1180",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/dorina",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -54,10 +58,10 @@
       ],
       "sc:softwareHelp": [
         {
-          "@id": "http://dorina.mdc-berlin.de/tutorials"
+          "@id": "http://dorina.mdc-berlin.de/acknowledgements"
         },
         {
-          "@id": "http://dorina.mdc-berlin.de/acknowledgements"
+          "@id": "http://dorina.mdc-berlin.de/tutorials"
         }
       ],
       "sc:url": "http://dorina.mdc-berlin.de/"
@@ -65,10 +69,6 @@
     {
       "@id": "http://orcid.org/0000-0002-0468-0117",
       "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gku1180",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Chia-Hao Chin",
+    "Chin-Wen Ho",
     "Hsin-Hung Wu",
     "Shu-Hwa Chen",
-    "Chin-Wen Ho",
     "Chung-Yen Lin"
   ],
   "sc:additionalType": "Web application",

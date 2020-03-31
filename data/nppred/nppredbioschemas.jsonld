@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0002-8902-2876",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1186/1471-2105-10-22",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-8902-2876",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/nppred",
@@ -37,8 +37,8 @@
       },
       "sc:name": "NpPred",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://www.imtech.res.in/raghava/nppred/"

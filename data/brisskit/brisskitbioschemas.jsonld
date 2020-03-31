@@ -15,15 +15,15 @@
     "Shajid Issa"
   ],
   "sc:additionalType": [
-    "Workbench",
-    "Web application",
-    "Database portal",
     "Command-line tool",
-    "Web API"
+    "Workbench",
+    "Web API",
+    "Database portal",
+    "Web application"
   ],
   "sc:author": [
-    "Dr Olly Butters (former Technical Lead)",
-    "Shajid Issa (Technical Lead)"
+    "Shajid Issa (Technical Lead)",
+    "Dr Olly Butters (former Technical Lead)"
   ],
   "sc:contributor": [
     "HEFCE UMF",
@@ -37,9 +37,9 @@
   ],
   "sc:name": "BRISSKit",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
     "University of Bristol",

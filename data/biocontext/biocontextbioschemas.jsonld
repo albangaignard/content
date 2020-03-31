@@ -16,8 +16,8 @@
   "sc:name": "BioContext",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://biocontext.org/"
 }

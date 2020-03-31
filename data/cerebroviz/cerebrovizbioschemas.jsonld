@@ -32,8 +32,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "cerebroViz",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://github.com/ethanbahl/cerebroViz"

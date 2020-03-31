@@ -31,21 +31,21 @@
       "sc:description": "Interactive web server to explore and retrieve gene and disease variants aggregated in ClinVar database.",
       "sc:featureList": [
         {
+          "@id": "edam:operation_3197"
+        },
+        {
           "@id": "edam:operation_3436"
         },
         {
           "@id": "edam:operation_3461"
-        },
-        {
-          "@id": "edam:operation_3197"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "Simple ClinVar",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://simple-clinvar.broadinstitute.org/"
     },

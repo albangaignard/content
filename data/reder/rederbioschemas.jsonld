@@ -47,9 +47,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "RedeR",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/RedeR.html",
       "sc:version": "1.22.0"
