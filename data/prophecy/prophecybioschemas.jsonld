@@ -14,8 +14,8 @@
   "sc:description": "Profiling of phenotypic characteristics in yeast.",
   "sc:name": "PROPHECY",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "bils.se",

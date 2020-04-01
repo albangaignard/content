@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/database/bay137",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/PubTerm",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Victor Trevino",
@@ -24,10 +28,10 @@
       "sc:description": "Web tool for organizing, annotating and curating genes, diseases, molecules and other concepts from PubMed records.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_2422"
         },
         {
-          "@id": "edam:operation_2422"
+          "@id": "edam:operation_3501"
         }
       ],
       "sc:name": "PubTerm",
@@ -37,10 +41,6 @@
         "Mac"
       ],
       "sc:url": "http://bioinformatica.mty.itesm.mx:8080/Biomatec/pubterm.html"
-    },
-    {
-      "@id": "https://doi.org/10.1093/database/bay137",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

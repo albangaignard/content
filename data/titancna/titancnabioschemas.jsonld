@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1101/gr.180281.114",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/titancna",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -35,25 +39,21 @@
           "@id": "edam:operation_3202"
         },
         {
-          "@id": "edam:operation_2403"
+          "@id": "edam:operation_3228"
         },
         {
-          "@id": "edam:operation_3228"
+          "@id": "edam:operation_2403"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "TitanCNA",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/TitanCNA.html",
       "sc:version": "1.16.0"
-    },
-    {
-      "@id": "https://doi.org/10.1101/gr.180281.114",
-      "@type": "sc:CreativeWork"
     },
     {
       "@id": "http://orcid.org/0000-0001-7578-7272",

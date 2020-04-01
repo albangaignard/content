@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/GLUE",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Josh Singer",
-        "Robert Gifford"
+        "Robert Gifford",
+        "Josh Singer"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
@@ -39,9 +39,9 @@
       "sc:license": "AGPL-3.0",
       "sc:name": "GLUE",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://tools.glue.cvr.ac.uk/#/home"
     },

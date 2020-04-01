@@ -19,8 +19,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "RAxML-NG",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "https://raxml-ng.vital-it.ch/",

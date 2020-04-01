@@ -10,14 +10,18 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/bioinformatics/btp578",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/htqpcr",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0003-1741-0738"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         {
@@ -43,10 +47,6 @@
     {
       "@id": "http://orcid.org/0000-0003-1741-0738",
       "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1093/bioinformatics/btp578",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

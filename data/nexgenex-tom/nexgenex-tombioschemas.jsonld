@@ -23,8 +23,8 @@
   "sc:name": "NexGenEx-Tom",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://140.164.45.142/NexGenEx-Tom/expression/exp-search.aspx",
   "sc:version": "1"

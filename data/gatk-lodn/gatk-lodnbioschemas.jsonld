@@ -21,8 +21,8 @@
       "@id": "https://bio.tools/gatk-lodn",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Ítalo Faria do Valle",
         "Gastone Castellani",
+        "Ítalo Faria do Valle",
         {
           "@id": "http://orcid.org/0000-0003-3185-7456"
         }
@@ -52,8 +52,8 @@
       "sc:license": "Apache-1.0",
       "sc:name": "GATK-LODn",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://bitbucket.org/BBDA-UNIBO/wes-pipeline"
     }

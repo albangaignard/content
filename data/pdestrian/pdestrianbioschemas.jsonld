@@ -11,25 +11,25 @@
   "@id": "https://bio.tools/pdestrian",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Dr. Chris de Graaf",
-    "Dr. Albert J. Kooistra"
+    "Dr. Albert J. Kooistra",
+    "Dr. Chris de Graaf"
   ],
   "sc:additionalType": [
-    "Database portal",
-    "Web application",
     "Web API",
-    "Command-line tool"
+    "Command-line tool",
+    "Web application",
+    "Database portal"
   ],
   "sc:author": [
-    "Albert J. Kooistra",
+    "Division of Medicinal Chemistry (Vrije Universiteit Amsterdam)",
     "Chris de Graaf",
-    "Georgi K. Kanev",
+    "Albert J. Kooistra",
     "Chimed Jansen",
-    "Division of Medicinal Chemistry (Vrije Universiteit Amsterdam)"
+    "Georgi K. Kanev"
   ],
   "sc:contributor": [
-    "Rob Leurs",
     "TI Pharma grant T4-302",
+    "Rob Leurs",
     "European Commission seventh Framework Programme FP7-HEALTH-2013-INNOVATION-1, PDE4NPD (no. 602666)",
     "Iwan J.P. de Esch"
   ],
@@ -40,13 +40,13 @@
   ],
   "sc:name": "PDEStrIAn",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": [
-    "vu.nl",
-    "Vrije Universiteit Amsterdam"
+    "Vrije Universiteit Amsterdam",
+    "vu.nl"
   ],
   "sc:url": "http://pdestrian.vu-compmedchem.nl"
 }

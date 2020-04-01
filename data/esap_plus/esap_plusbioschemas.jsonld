@@ -29,8 +29,8 @@
       "sc:name": "ESAP plus",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://gbp.kku.ac.th/esap_plus/"
     },

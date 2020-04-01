@@ -33,20 +33,20 @@
       "sc:license": "GPL-3.0",
       "sc:name": "SeqFeatR",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://seqfeatr.zmb.uni-due.de/",
       "sc:version": "0.2.7"
     },
     {
-      "@id": "http://orcid.org/0000-0002-9313-8636",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1371/journal.pone.0146409",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-9313-8636",
+      "@type": "schema:Person"
     }
   ]
 }

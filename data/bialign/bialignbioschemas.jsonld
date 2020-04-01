@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/BiAlign",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Ivo L. Hofacker",
     "Michael T. Wolfinger",
     "Sebastian Will",
+    "Ivo L. Hofacker",
     "Maria Waldl"
   ],
   "sc:additionalType": "Script",
@@ -21,9 +21,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "BiAlign",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:url": "https://github.com/s-will/BiAlign"
 }

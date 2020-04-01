@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-7496-7578",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1371/journal.ppat.1000376",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-7496-7578",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/effectivet3",
@@ -27,8 +27,8 @@
         "@id": "edam:data_0896"
       },
       "sc:additionalType": [
-        "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_0080"
@@ -50,9 +50,9 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "EffectiveT3",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:provider": "AT-CUBE",
       "sc:softwareHelp": {

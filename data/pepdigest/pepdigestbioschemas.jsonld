@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "pepdigest",
   "sc:operatingSystem": [
+    "Linux",
     "Windows",
-    "Mac",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
     "EMBOSS",
