@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/gnomad",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC5018207",
@@ -41,9 +41,9 @@
       "sc:license": "ODbL-1.0",
       "sc:name": "gnomAD",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://gnomad.broadinstitute.org/"
     },

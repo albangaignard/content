@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
-    "UK MRC",
     "UK BBSRC",
+    "UK MRC",
     "EMBOSS Contributors"
   ],
   "sc:description": "Replace tabs with spaces in an ASCII text file.",
@@ -26,8 +26,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "notab",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": [

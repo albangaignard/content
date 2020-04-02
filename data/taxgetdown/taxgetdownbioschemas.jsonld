@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
-    "EMBOSS Contributors",
+    "UK BBSRC",
     "UK MRC",
-    "UK BBSRC"
+    "EMBOSS Contributors"
   ],
   "sc:description": "Get descendants of taxon(s).",
   "sc:funder": [

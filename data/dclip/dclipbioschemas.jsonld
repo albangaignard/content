@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Contact Address",
-    "Guanghua Xiao",
     "Bo Yao",
+    "Guanghua Xiao",
     "Yang Xie"
   ],
   "sc:additionalType": "Command-line tool",

@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0003-4525-7793",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/inga",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -54,9 +50,9 @@
       },
       "sc:name": "INGA",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:provider": [
         "University of Padua, Department of Biomedical Sciences, BioComputing UP lab",
@@ -64,6 +60,10 @@
       ],
       "sc:url": "http://protein.bio.unipd.it/inga",
       "sc:version": "1.1"
+    },
+    {
+      "@id": "http://orcid.org/0000-0003-4525-7793",
+      "@type": "schema:Person"
     }
   ]
 }

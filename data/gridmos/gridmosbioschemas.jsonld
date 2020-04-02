@@ -14,8 +14,8 @@
     "GiuliaPaganelli",
     "AlessandroBevilacqua",
     "FilippoPiccinini",
-    "AnnaTesei",
-    "WainerZoli"
+    "WainerZoli",
+    "AnnaTesei"
   ],
   "sc:additionalType": "Desktop application",
   "sc:citation": "pubmed:25438936",
@@ -23,8 +23,8 @@
   "sc:name": "GridMos",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://sourceforge.net/projects/gridmos/"
 }

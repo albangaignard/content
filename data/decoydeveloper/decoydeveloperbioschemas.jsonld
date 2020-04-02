@@ -15,9 +15,9 @@
   "sc:license": "Unlicense",
   "sc:name": "DecoyDeveloper",
   "sc:operatingSystem": [
+    "Mac",
     "Linux",
-    "Windows",
-    "Mac"
+    "Windows"
   ],
   "sc:url": "http://glycopro.chem.ku.edu/JHome.php"
 }

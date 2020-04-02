@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Shou-Jiang Gao",
-    "Yidong Chen",
     "Jia Meng",
+    "Yidong Chen",
     "yufei.huang@utsa.edu"
   ],
   "sc:additionalType": "Command-line tool",
@@ -22,8 +22,8 @@
   "sc:name": "PathRNet",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://compgenomics.utsa.edu/tvnet.html"
 }

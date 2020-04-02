@@ -17,9 +17,9 @@
   "sc:additionalType": "Desktop application",
   "sc:author": "Ryan Wick",
   "sc:contributor": [
-    "Elmar Pruesse",
-    "Justin Zobel",
     "Mark Schultz",
+    "Justin Zobel",
+    "Elmar Pruesse",
     "Kathryn Holt",
     "Rayan Chikhi"
   ],
@@ -27,9 +27,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "Bandage",
   "sc:operatingSystem": [
+    "Linux",
     "Mac",
-    "Windows",
-    "Linux"
+    "Windows"
   ],
   "sc:provider": [
     "unimelb.edu.au",

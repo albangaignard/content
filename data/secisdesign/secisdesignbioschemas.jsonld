@@ -38,8 +38,8 @@
         "Linux"
       ],
       "sc:provider": [
-        "rnateam",
-        "University Freiburg"
+        "University Freiburg",
+        "rnateam"
       ],
       "sc:url": "http://rna.informatik.uni-freiburg.de/SECISDesign/",
       "sc:version": "1.0.0"

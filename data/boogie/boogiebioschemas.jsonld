@@ -15,8 +15,8 @@
   "sc:description": "A framework for blood type prediction from genotype data.",
   "sc:name": "BOOGIE",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "ELIXIR-ITA-PADOVA",

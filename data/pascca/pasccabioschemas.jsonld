@@ -43,9 +43,9 @@
       "sc:license": "Apache-2.0",
       "sc:name": "PASCCA",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://github.com/BMILAB/PASCCA",
       "sc:version": "0.1.0"

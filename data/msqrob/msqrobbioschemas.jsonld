@@ -21,8 +21,8 @@
       "sc:name": "MSqRob",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://github.com/ludgergoeminne/MSqRob"
     },

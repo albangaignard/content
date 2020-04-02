@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/29.22.4633",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/reputer",
       "@type": "sc:SoftwareApplication",
       "edam:has_input": {
@@ -20,23 +24,23 @@
       },
       "sc:additionalType": [
         "Web API",
-        "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0157"
+          "@id": "edam:topic_0654"
         },
         {
           "@id": "edam:topic_0622"
         },
         {
-          "@id": "edam:topic_0654"
+          "@id": "edam:topic_0157"
         }
       ],
       "sc:citation": [
-        "pmcid:PMC92531",
         "pubmed:11713313",
+        "pmcid:PMC92531",
         {
           "@id": "https://doi.org/10.1093/nar/29.22.4633"
         }
@@ -62,10 +66,6 @@
       },
       "sc:url": "http://bibiserv.cebitec.uni-bielefeld.de/reputer",
       "sc:version": "1"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/29.22.4633",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

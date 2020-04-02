@@ -28,13 +28,13 @@
       "sc:description": "Coding Potential Calculator (CPC) is a support vector machine-based classifier to assess the protein-coding potential of a transcript based on six biologically meaningful sequence features.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0235"
-        },
-        {
           "@id": "edam:operation_0314"
         },
         {
           "@id": "edam:operation_0256"
+        },
+        {
+          "@id": "edam:operation_0235"
         },
         {
           "@id": "edam:operation_0253"

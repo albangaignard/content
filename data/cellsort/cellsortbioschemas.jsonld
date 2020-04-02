@@ -16,8 +16,8 @@
   "sc:license": "Unlicense",
   "sc:name": "CellSort",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:url": "https://tyolab.northwestern.edu/tools/"

@@ -19,8 +19,8 @@
   "sc:name": "SOCKET",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://coiledcoils.chm.bris.ac.uk/socket/"
 }

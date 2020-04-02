@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-3564-4813",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/csaw",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -20,13 +24,13 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_2012"
-        },
-        {
           "@id": "edam:data_0867"
         },
         {
           "@id": "edam:data_2884"
+        },
+        {
+          "@id": "edam:data_2012"
         }
       ],
       "sc:additionalType": [
@@ -48,10 +52,10 @@
         }
       ],
       "sc:citation": [
-        "pubmed:24852250",
         {
           "@id": "https://doi.org/10.1093/nar/gku351"
         },
+        "pubmed:24852250",
         "pmcid:PMC4066778"
       ],
       "sc:description": "Detection of differentially bound regions in ChIP-seq data with sliding windows, with methods for normalization and proper FDR control.",
@@ -71,10 +75,6 @@
     {
       "@id": "https://doi.org/10.1093/nar/gku351",
       "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-3564-4813",
-      "@type": "schema:Person"
     }
   ]
 }

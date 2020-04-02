@@ -30,8 +30,8 @@
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
-        "pmcid:PMC6643886",
         "pubmed:31088905",
+        "pmcid:PMC6643886",
         {
           "@id": "https://doi.org/10.1534/G3.119.400185"
         }
@@ -51,9 +51,9 @@
       "sc:license": "MIT",
       "sc:name": "ARMOR",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://github.com/csoneson/ARMOR"
     },

@@ -29,8 +29,8 @@
       },
       "sc:name": "3D-BLAST beta",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://3d-blast.life.nctu.edu.tw/",

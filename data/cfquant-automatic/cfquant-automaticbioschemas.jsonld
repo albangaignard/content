@@ -29,8 +29,8 @@
       "sc:name": "CFQuant-automatic",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://www.energylabtau.com/cfquant"
     },
