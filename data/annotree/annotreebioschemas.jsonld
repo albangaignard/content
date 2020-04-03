@@ -16,8 +16,8 @@
   "sc:name": "AnnoTree",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://annotree.uwaterloo.ca"
 }

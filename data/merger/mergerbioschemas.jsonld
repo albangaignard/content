@@ -19,9 +19,9 @@
   ],
   "sc:description": "Merge two overlapping sequences.",
   "sc:funder": [
-    "Wellcome Trust",
     "UK MRC",
-    "UK BBSRC"
+    "UK BBSRC",
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "merger",

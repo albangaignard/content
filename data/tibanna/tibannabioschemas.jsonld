@@ -23,8 +23,8 @@
   "sc:name": "Tibanna",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://github.com/4dn-dcic/tibanna"
 }

@@ -21,8 +21,8 @@
   "sc:name": "T346Hunter",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bacterial-virulence-factors.cbgp.upm.es/T346Hunter"
 }

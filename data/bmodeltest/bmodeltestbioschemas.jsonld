@@ -32,8 +32,8 @@
       "sc:license": "LGPL-2.0",
       "sc:name": "bModelTest",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "https://github.com/BEAST2-Dev/bModelTest"

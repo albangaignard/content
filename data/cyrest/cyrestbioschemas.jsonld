@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.12688/F1000RESEARCH.6767.1",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/cyrest",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Web service",
@@ -39,11 +35,15 @@
       "sc:license": "MIT",
       "sc:name": "CyREST",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://apps.cytoscape.org/apps/cyrest"
+    },
+    {
+      "@id": "https://doi.org/10.12688/F1000RESEARCH.6767.1",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

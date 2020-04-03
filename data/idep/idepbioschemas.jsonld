@@ -36,8 +36,8 @@
       "sc:license": "Unlicense",
       "sc:name": "iDEP",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://bioinformatics.sdstate.edu/idep/"

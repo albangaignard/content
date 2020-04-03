@@ -16,14 +16,14 @@
   ],
   "sc:additionalType": [
     "Workbench",
-    "Command-line tool",
-    "Web API"
+    "Web API",
+    "Command-line tool"
   ],
   "sc:author": [
-    "Morgan Taschuk",
-    "Brian O'Connor",
     "Solomon Shorser",
-    "Denis Yuen"
+    "Morgan Taschuk",
+    "Denis Yuen",
+    "Brian O'Connor"
   ],
   "sc:description": "Portable software infrastructure designed to analyze massive genomics datasets produced by contemporary and emerging technologies, in particular Next Generation Sequencing (NGS) platforms.",
   "sc:license": "LGPL-2.1",

@@ -32,9 +32,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Dragonfly",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://duaneloh.github.io/Dragonfly/"
     }

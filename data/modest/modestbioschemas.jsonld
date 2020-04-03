@@ -16,8 +16,8 @@
   "sc:name": "MODEST",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://modest.biosustain.dtu.dk"
 }

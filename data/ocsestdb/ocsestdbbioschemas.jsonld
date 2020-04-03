@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s12870-014-0399-8",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/ocsestdb",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Workflow",
@@ -39,11 +35,15 @@
       "sc:license": "Not licensed",
       "sc:name": "ocsESTdb",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://ocri-genomics.org/ocsESTdb/"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s12870-014-0399-8",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

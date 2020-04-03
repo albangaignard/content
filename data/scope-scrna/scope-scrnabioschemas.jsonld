@@ -19,8 +19,8 @@
       "sc:additionalType": "Web application",
       "sc:author": [
         "Maxime De Waegeneer",
-        "Kristofer Davie",
-        "Lukasz Kreft"
+        "Lukasz Kreft",
+        "Kristofer Davie"
       ],
       "sc:contributor": {
         "@id": "https://orcid.org/0000-0002-8006-0315"

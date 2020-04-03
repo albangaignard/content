@@ -18,8 +18,8 @@
   "sc:name": "CoMetGeNe",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://cometgene.lri.fr"
 }

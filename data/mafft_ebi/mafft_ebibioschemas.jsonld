@@ -15,8 +15,8 @@
   "sc:name": "MAFFT (EBI)",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://www.ebi.ac.uk/Tools/msa/mafft/",
   "sc:version": "1"

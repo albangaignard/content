@@ -21,9 +21,9 @@
         "George Potamias"
       ],
       "sc:additionalType": [
+        "Web application",
         "Web service",
-        "Web API",
-        "Web application"
+        "Web API"
       ],
       "sc:citation": [
         {
@@ -44,9 +44,9 @@
       "sc:license": "Other",
       "sc:name": "ePGA",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://www.epga.gr"
     }

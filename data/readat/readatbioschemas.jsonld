@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-3015-5850",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.1186/s12859-016-1007-8",
       "@type": "sc:CreativeWork"
     },
@@ -18,8 +22,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Richard Cotton",
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         {
@@ -44,15 +48,11 @@
       "sc:name": "readat",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/readat.html",
       "sc:version": "1.0.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-3015-5850",
-      "@type": "schema:Person"
     }
   ]
 }

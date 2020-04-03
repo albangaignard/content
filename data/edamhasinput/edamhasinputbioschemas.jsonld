@@ -20,19 +20,19 @@
   "sc:description": "Find EDAM ontology terms by has_input relation.",
   "sc:funder": [
     "UK BBSRC",
-    "UK MRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "edamhasinput",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/edamhasinput.html",
   "sc:version": "r6"

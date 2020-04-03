@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/1471-2164-13-591",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/copynumber",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Gro Nilsen",
@@ -23,18 +27,18 @@
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_1636"
+          "@id": "edam:data_2884"
         },
         {
           "@id": "edam:data_1622"
         },
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_1636"
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
@@ -48,8 +52,8 @@
         }
       ],
       "sc:citation": [
-        "pubmed:23442169",
         "pmcid:PMC3582591",
+        "pubmed:23442169",
         {
           "@id": "https://doi.org/10.1186/1471-2164-13-591"
         }
@@ -66,16 +70,12 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "copynumber",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/copynumber.html",
       "sc:version": "1.14.0"
-    },
-    {
-      "@id": "https://doi.org/10.1186/1471-2164-13-591",
-      "@type": "sc:CreativeWork"
     }
   ]
 }
