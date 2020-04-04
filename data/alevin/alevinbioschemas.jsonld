@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/Alevin",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Rob Patro",
-        "A. Srivastava"
+        "A. Srivastava",
+        "Rob Patro"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
@@ -34,10 +34,10 @@
           "@id": "edam:operation_2495"
         },
         {
-          "@id": "edam:operation_3799"
+          "@id": "edam:operation_3200"
         },
         {
-          "@id": "edam:operation_3200"
+          "@id": "edam:operation_3799"
         }
       ],
       "sc:license": "GPL-3.0",

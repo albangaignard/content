@@ -18,8 +18,8 @@
     "Leonardo Briganti"
   ],
   "sc:contributor": [
-    "Elena Santonico",
     "Gianni Cesareni",
+    "Elena Santonico",
     "Marta Iannuccelli",
     "Livia Perfetto"
   ],
@@ -27,13 +27,13 @@
   "sc:license": "CC-BY-SA-4.0",
   "sc:name": "SIGNOR",
   "sc:operatingSystem": [
-    "Mac",
+    "Linux",
     "Windows",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
-    "Molecular Genetic Group, University of Rome \"Tor Vergata\", Rome, Italy",
-    "ELIXIR-ITA-TORVERGATA"
+    "ELIXIR-ITA-TORVERGATA",
+    "Molecular Genetic Group, University of Rome \"Tor Vergata\", Rome, Italy"
   ],
   "sc:url": "http://signor.uniroma2.it/"
 }

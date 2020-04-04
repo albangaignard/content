@@ -16,8 +16,8 @@
   "sc:name": "spongeScan",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://spongescan.rc.ufl.edu/"
 }

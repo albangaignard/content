@@ -17,17 +17,17 @@
   ],
   "sc:contributor": [
     "Marek Basler",
+    "Bjorn Grunenfelder",
     "Jan Bobek",
-    "Urs Jenal",
     "Karel Mikulik",
-    "Bjorn Grunenfelder"
+    "Urs Jenal"
   ],
   "sc:description": "A proteomics web database.",
   "sc:name": "SWICZ",
   "sc:operatingSystem": "Windows",
   "sc:provider": [
-    "Biozentrum, Univ. Basel, Switzerland",
-    "Institute of Microbiology, Prague, Czech Republic"
+    "Institute of Microbiology, Prague, Czech Republic",
+    "Biozentrum, Univ. Basel, Switzerland"
   ],
   "sc:url": "http://proteom.biomed.cas.cz/"
 }

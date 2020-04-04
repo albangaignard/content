@@ -18,8 +18,8 @@
   "sc:name": "PRINSEQ",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://edwards.sdsu.edu/prinseq"
 }

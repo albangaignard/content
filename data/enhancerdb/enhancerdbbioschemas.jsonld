@@ -19,15 +19,15 @@
       "biotools:primaryContact": "Z. Guo",
       "sc:additionalType": [
         "Database portal",
-        "Web API",
-        "Web application"
+        "Web application",
+        "Web API"
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1093/database/bay141"
         },
-        "pubmed:30689845",
-        "pmcid:PMC6344666"
+        "pmcid:PMC6344666",
+        "pubmed:30689845"
       ],
       "sc:description": "Database to discover the regulate relationships in the context of enhancers.",
       "sc:featureList": [
@@ -35,10 +35,10 @@
           "@id": "edam:operation_3232"
         },
         {
-          "@id": "edam:operation_0441"
+          "@id": "edam:operation_3792"
         },
         {
-          "@id": "edam:operation_3792"
+          "@id": "edam:operation_0441"
         }
       ],
       "sc:name": "EnhancerDB",

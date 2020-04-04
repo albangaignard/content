@@ -17,8 +17,8 @@
   "sc:name": "SNPitty",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "Cancer Computational Biology Center",

@@ -15,8 +15,8 @@
   "sc:license": "Unlicense",
   "sc:name": "ConPlex",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "http://sbi.postech.ac.kr/ConPlex/"

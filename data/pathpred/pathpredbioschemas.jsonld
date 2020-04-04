@@ -17,8 +17,8 @@
   "sc:name": "PathPred",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.genome.jp/tools/pathpred/"
 }

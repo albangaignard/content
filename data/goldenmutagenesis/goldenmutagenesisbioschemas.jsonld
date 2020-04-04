@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/GoldenMutagenesis",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web application",
-        "Library"
+        "Library",
+        "Web application"
       ],
       "sc:author": {
         "@id": "https://orcid.org/0000-0001-5444-9282"
@@ -30,8 +30,8 @@
       "sc:license": "LGPL-3.0",
       "sc:name": "GoldenMutagenesis",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "https://msbi.ipb-halle.de/GoldenMutagenesisWeb",

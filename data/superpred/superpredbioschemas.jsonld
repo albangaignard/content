@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Bjoern-Oliver Gohlke",
+    "Mathias Dunke",
     "Jevgeni Ehreman",
     "Janette Nickel",
-    "Priyanka Banerjee",
-    "Mathias Dunke"
+    "Priyanka Banerjee"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:18499712",

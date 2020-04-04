@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
-    "UK MRC",
     "EMBOSS Contributors",
-    "UK BBSRC"
+    "UK BBSRC",
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:description": "Report restriction enzyme cleavage sites in a nucleotide sequence.",
   "sc:funder": [

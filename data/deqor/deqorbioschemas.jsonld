@@ -38,8 +38,8 @@
       "sc:license": "Unlicense",
       "sc:name": "DEQOR",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://144.76.155.9/deqor_new/input.html",

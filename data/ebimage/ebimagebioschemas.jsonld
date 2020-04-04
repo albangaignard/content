@@ -22,13 +22,13 @@
       },
       "sc:additionalType": "Command-line tool",
       "sc:author": [
-        "Mike Smith",
-        "Gregoire Pau",
+        "Oleg Sklyar",
+        "Andrzej Oleś",
         {
           "@id": "http://orcid.org/0000-0002-0474-2218"
         },
-        "Andrzej Oleś",
-        "Oleg Sklyar"
+        "Gregoire Pau",
+        "Mike Smith"
       ],
       "sc:citation": [
         "pubmed:20338898",
@@ -44,13 +44,13 @@
       "sc:license": "LGPL-2.1",
       "sc:name": "EBImage",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:provider": [
-        "European Molecular Biology Laboratory",
-        "hdhub"
+        "hdhub",
+        "European Molecular Biology Laboratory"
       ],
       "sc:url": "http://bioconductor.org/packages/EBImage/",
       "sc:version": "4"

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-9313-8636",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/seqfeatr",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -33,16 +37,12 @@
       "sc:license": "GPL-3.0",
       "sc:name": "SeqFeatR",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://seqfeatr.zmb.uni-due.de/",
       "sc:version": "0.2.7"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-9313-8636",
-      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1371/journal.pone.0146409",

@@ -44,9 +44,9 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "StemCellNet",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:softwareHelp": {
         "@id": "http://193.136.227.181:8080/stemcellnet/help.jsf"

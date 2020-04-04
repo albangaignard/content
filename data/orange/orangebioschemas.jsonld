@@ -25,16 +25,16 @@
         "Desktop application"
       ],
       "sc:author": [
-        "Jernej Kernc",
-        "Aleš Erjavec",
-        "Marko Toplak",
-        "Vesna Tanko",
-        "Martin Stražar",
-        "Anže Starič",
-        "Andrej Čopar",
-        "Tomaž Curk",
+        "Lan Žagar",
         "Janez Demšar",
-        "Lan Žagar"
+        "Vesna Tanko",
+        "Anže Starič",
+        "Martin Stražar",
+        "Marko Toplak",
+        "Aleš Erjavec",
+        "Tomaž Curk",
+        "Jernej Kernc",
+        "Andrej Čopar"
       ],
       "sc:citation": "pubmed:17586552",
       "sc:contributor": {
@@ -45,12 +45,12 @@
       "sc:name": "Orange",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:provider": [
-        "Faculty of Computer and Information Science, University of Ljubljana, Slovenia",
-        "ELIXIR-SI-hackathon"
+        "ELIXIR-SI-hackathon",
+        "Faculty of Computer and Information Science, University of Ljubljana, Slovenia"
       ],
       "sc:url": "https://orange.biolab.si/",
       "sc:version": "2.7"

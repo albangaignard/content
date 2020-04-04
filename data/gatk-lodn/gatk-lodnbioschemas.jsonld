@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0003-3185-7456",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.1186/s12859-016-1190-7",
       "@type": "sc:CreativeWork"
     },
@@ -48,14 +52,10 @@
       "sc:license": "Apache-1.0",
       "sc:name": "GATK-LODn",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://bitbucket.org/BBDA-UNIBO/wes-pipeline"
-    },
-    {
-      "@id": "http://orcid.org/0000-0003-3185-7456",
-      "@type": "schema:Person"
     }
   ]
 }

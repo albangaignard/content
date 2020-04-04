@@ -12,15 +12,15 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Library",
   "sc:author": [
-    "Genís Bayarri",
-    "Pau Andrio"
+    "Pau Andrio",
+    "Genís Bayarri"
   ],
   "sc:description": "Biobb (BioExcel building blocks) are Python building blocks wrapping popular computational biomolecular tools.",
   "sc:license": "Apache-2.0",
   "sc:name": "BioExcel Building Blocks (biobb)",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "BioExcel Center of Excellence for Computational Biomolecular Research",
