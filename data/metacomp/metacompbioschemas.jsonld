@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Huaiqiu Zhu",
-    "Longshu Yang",
-    "Peng Zhai"
+    "Peng Zhai",
+    "Longshu Yang"
   ],
   "sc:additionalType": "Desktop application",
   "sc:description": "Tool for meta-omics comparative analysis.",

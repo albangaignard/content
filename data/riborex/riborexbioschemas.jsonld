@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/riborex",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Wenzheng Li",
     "Andrew D. Smith",
+    "Wenzheng Li",
     "Weili Wang"
   ],
   "sc:additionalType": "Command-line tool",

@@ -30,8 +30,8 @@
       "sc:license": "BSD-3-Clause",
       "sc:name": "DREAMTools",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "https://github.com/dreamtools/dreamtools"

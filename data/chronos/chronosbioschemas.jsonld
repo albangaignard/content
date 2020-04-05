@@ -23,8 +23,8 @@
   "sc:license": "GPL-2.0",
   "sc:name": "CHRONOS",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/CHRONOS/",

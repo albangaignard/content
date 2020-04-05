@@ -16,8 +16,8 @@
   "sc:name": "Wregex",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://wregex.ehubio.es/"
 }

@@ -17,8 +17,8 @@
   "sc:name": "DATF",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://datf.cbi.pku.edu.cn"
 }

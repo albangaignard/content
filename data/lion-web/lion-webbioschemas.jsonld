@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/GIGASCIENCE/GIZ061",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/LION-web",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -26,10 +30,10 @@
       "sc:description": "Web-based ontology enrichment tool for lipidomic data analysis.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_0335"
         },
         {
-          "@id": "edam:operation_0335"
+          "@id": "edam:operation_3501"
         },
         {
           "@id": "edam:operation_3629"
@@ -39,14 +43,10 @@
       "sc:name": "LION-web",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://www.lipidontology.com/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/GIGASCIENCE/GIZ061",
-      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://orcid.org/0000-0001-7311-3821",

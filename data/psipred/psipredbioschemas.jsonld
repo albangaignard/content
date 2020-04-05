@@ -17,8 +17,8 @@
   "sc:name": "PSIPRED",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://bioinf.cs.ucl.ac.uk/psipred/"
 }

@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
-    "EMBOSS Contributors",
+    "Wellcome Trust",
     "UK BBSRC",
-    "Wellcome Trust"
+    "EMBOSS Contributors",
+    "UK MRC"
   ],
   "sc:description": "Display the trace in an ABI sequencer file.",
   "sc:funder": [
@@ -27,12 +27,12 @@
   "sc:name": "abiview",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/abiview.html",
   "sc:version": "r6"

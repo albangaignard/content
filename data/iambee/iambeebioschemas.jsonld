@@ -16,8 +16,8 @@
         "@id": "https://orcid.org/0000-0002-9998-2408"
       },
       "sc:additionalType": [
-        "Web application",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC6602435",
@@ -41,19 +41,19 @@
       "sc:license": "Unlicense",
       "sc:name": "IAMBEE",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioinformatics.intec.ugent.be/iambee/"
     },
     {
-      "@id": "https://orcid.org/0000-0002-9998-2408",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1093/NAR/GKZ451",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-9998-2408",
+      "@type": "schema:Person"
     }
   ]
 }

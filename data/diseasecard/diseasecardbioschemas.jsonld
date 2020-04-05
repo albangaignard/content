@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/diseasecard",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "José Luis Oliveira",
-    "Pedro Lopes"
+    "Pedro Lopes",
+    "José Luis Oliveira"
   ],
   "sc:additionalType": [
     "Web application",
@@ -24,8 +24,8 @@
   "sc:name": "Diseasecard",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bioinformatics.ua.pt/diseasecard/"
 }

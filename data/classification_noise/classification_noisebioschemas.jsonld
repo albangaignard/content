@@ -19,8 +19,8 @@
       "biotools:primaryContact": "Leo C. McHugh",
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pubmed:31116772",
         "pmcid:PMC6530857",
+        "pubmed:31116772",
         {
           "@id": "https://doi.org/10.1371/JOURNAL.PONE.0217146"
         }
@@ -30,8 +30,8 @@
       "sc:name": "classification noise",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://imperfect-gold-standard.shinyapps.io/classification-noise/"
     }

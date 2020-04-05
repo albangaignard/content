@@ -15,9 +15,9 @@
       "biotools:primaryContact": "Douglas Arneson",
       "sc:additionalType": [
         "Workflow",
+        "Web application",
         "Suite",
-        "Library",
-        "Web application"
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC5016927",

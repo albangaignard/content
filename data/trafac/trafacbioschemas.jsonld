@@ -17,8 +17,8 @@
   "sc:name": "TraFaC",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://trafac.cchmc.org/trafac/index.jsp"
 }

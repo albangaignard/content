@@ -16,8 +16,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "Breakway",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "https://sourceforge.net/projects/breakway/"

@@ -32,8 +32,8 @@
       "sc:name": "grtools",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://github.com/fsotoc/grtools"
     }

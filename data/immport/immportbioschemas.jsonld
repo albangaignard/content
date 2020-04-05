@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/ImmPort",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pubmed:29485622",

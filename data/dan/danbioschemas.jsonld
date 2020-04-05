@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
-    "Wellcome Trust",
     "EMBOSS Contributors",
+    "Wellcome Trust",
     "UK MRC"
   ],
   "sc:description": "Calculate nucleic acid melting temperature.",

@@ -36,9 +36,9 @@
       "sc:license": "Apache-2.0",
       "sc:name": "MS-Helios",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://sourceforge.net/projects/ms-helios/",
       "sc:version": "1.1.8"

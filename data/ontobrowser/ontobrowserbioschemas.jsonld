@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Philippe MARC",
   "sc:additionalType": [
-    "Web application",
-    "Web API"
+    "Web API",
+    "Web application"
   ],
   "sc:author": "Carlo Ravagli",
   "sc:contributor": [
