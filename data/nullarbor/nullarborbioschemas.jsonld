@@ -17,11 +17,11 @@
   "sc:additionalType": "Command-line tool",
   "sc:author": "Torsten Seemann",
   "sc:contributor": [
-    "DM Bulach",
-    "MB Schultz",
     "JC Kwong",
-    "A Goncalves da Silva",
-    "BP Howden"
+    "MB Schultz",
+    "DM Bulach",
+    "BP Howden",
+    "A Goncalves da Silva"
   ],
   "sc:description": "Pipeline to generate complete public health microbiology reports from isolates sequenced with Illumina paired-end sequencing.",
   "sc:license": "GPL-2.0",

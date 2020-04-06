@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "yufei.huang@utsa.edu",
-    "Shou-Jiang Gao",
+    "Yidong Chen",
     "Jia Meng",
-    "Yidong Chen"
+    "Shou-Jiang Gao"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:21143778",

@@ -21,8 +21,8 @@
   "sc:name": "NGSEP",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://ngsep.sf.net"
 }

@@ -20,8 +20,8 @@
         "@id": "http://orcid.org/0000-0001-6104-7134"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:26040557",
@@ -37,9 +37,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "geNetClassifier",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/geNetClassifier.html",
       "sc:version": "1.14.0"

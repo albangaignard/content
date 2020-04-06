@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/fragmentstore",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Robert Preissner",
     "Jessica Ahmed",
     "Paul Thaben",
-    "Robert Preissner",
     "Catherine Sargent"
   ],
   "sc:additionalType": "Database portal",

@@ -28,13 +28,13 @@
       ],
       "sc:applicationSubCategory": [
         {
+          "@id": "edam:topic_0659"
+        },
+        {
           "@id": "edam:topic_3512"
         },
         {
           "@id": "edam:topic_3170"
-        },
-        {
-          "@id": "edam:topic_0659"
         }
       ],
       "sc:citation": [
@@ -59,8 +59,8 @@
       "sc:license": "BSL-1.0",
       "sc:name": "Sebnif",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://sunlab.lihs.cuhk.edu.hk/sebnif/",
       "sc:version": "1.3rc"

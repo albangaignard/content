@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/mobilomefinder",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Hong-Yu Ou",
     "Kumar Rajakumar",
+    "Hong-Yu Ou",
     "Zixin Deng"
   ],
   "sc:additionalType": "Web application",

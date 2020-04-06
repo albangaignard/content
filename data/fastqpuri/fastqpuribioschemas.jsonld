@@ -33,10 +33,10 @@
       "sc:description": "High-performance preprocessing tool for RNA-seq data.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3180"
+          "@id": "edam:operation_3219"
         },
         {
-          "@id": "edam:operation_3219"
+          "@id": "edam:operation_3180"
         },
         {
           "@id": "edam:operation_3800"

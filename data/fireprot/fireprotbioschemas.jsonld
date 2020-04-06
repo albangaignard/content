@@ -17,9 +17,9 @@
   ],
   "sc:contributor": [
     "Jaroslav Bendl",
-    "Tomas Martinek",
-    "Jan Brezovsky",
     "Jaroslav Zendulka",
+    "Jan Brezovsky",
+    "Tomas Martinek",
     "Zbynek Prokop",
     "David Bednar",
     "Jiri Damborsky"
@@ -29,8 +29,8 @@
   "sc:name": "FireProt",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://loschmidt.chemi.muni.cz/fireprot/",
   "sc:version": "1.1"

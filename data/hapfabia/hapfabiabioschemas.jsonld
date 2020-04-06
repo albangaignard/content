@@ -23,13 +23,13 @@
           "@id": "edam:data_1276"
         },
         {
+          "@id": "edam:data_2884"
+        },
+        {
           "@id": "edam:data_2048"
         },
         {
           "@id": "edam:data_1863"
-        },
-        {
-          "@id": "edam:data_2884"
         }
       ],
       "sc:additionalType": [
@@ -38,10 +38,10 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0102"
+          "@id": "edam:topic_0625"
         },
         {
-          "@id": "edam:topic_0625"
+          "@id": "edam:topic_0102"
         }
       ],
       "sc:citation": [

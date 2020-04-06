@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
-    "EMBOSS Contributors",
     "UK MRC",
+    "EMBOSS Contributors",
+    "UK BBSRC",
     "Wellcome Trust"
   ],
   "sc:description": "Search protein sequences by digest fragment molecular weight.",
@@ -26,13 +26,13 @@
   "sc:license": "GPL-3.0",
   "sc:name": "emowse",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/emowse.html",
   "sc:version": "r6"

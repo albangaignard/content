@@ -16,8 +16,8 @@
   "sc:description": "Prediction of interaction sites in proteins.",
   "sc:name": "ISPRED",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "ELIXIR-ITA-BOLOGNA",

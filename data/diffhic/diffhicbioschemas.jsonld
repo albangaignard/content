@@ -20,15 +20,15 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_2589"
+          "@id": "edam:data_2884"
         },
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_2589"
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
@@ -57,9 +57,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "diffHic",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/diffHic.html",
       "sc:version": "1.6.0"

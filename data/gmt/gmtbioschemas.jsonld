@@ -31,18 +31,18 @@
           "@id": "edam:operation_3192"
         },
         {
-          "@id": "edam:operation_3797"
+          "@id": "edam:operation_3431"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_3797"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "GmT",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://galaxyproject.org/use/gmt/"
     }

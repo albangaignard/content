@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.6026/97320630013101",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/optcluster",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -36,11 +32,15 @@
       "sc:license": "GPL-2.0",
       "sc:name": "optCluster",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/optCluster/index.html"
+    },
+    {
+      "@id": "https://doi.org/10.6026/97320630013101",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -31,9 +31,9 @@
       },
       "sc:name": "GeNN",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://genn-team.github.io/genn/"
     }

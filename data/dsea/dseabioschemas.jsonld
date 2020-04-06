@@ -20,8 +20,8 @@
   "sc:license": "Other",
   "sc:name": "DSEA",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://dsea.tigem.it/"

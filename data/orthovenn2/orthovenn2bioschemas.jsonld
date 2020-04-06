@@ -18,9 +18,9 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Yi Wang",
       "sc:additionalType": [
-        "Web application",
+        "Web service",
         "Web API",
-        "Web service"
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC6602458",
@@ -33,8 +33,8 @@
       "sc:license": "Unlicense",
       "sc:name": "OrthoVenn2",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://orthovenn2.bioinfotoolkits.net"

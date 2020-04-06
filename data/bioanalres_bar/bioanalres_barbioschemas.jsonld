@@ -17,8 +17,8 @@
   "sc:name": "Bio-Analytic Resource (BAR)",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bar.utoronto.ca/welcome.htm"
 }

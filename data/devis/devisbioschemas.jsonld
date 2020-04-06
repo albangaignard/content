@@ -36,9 +36,9 @@
       "sc:license": "LGPL-2.0",
       "sc:name": "DEvis",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://cran.r-project.org/package=DEVis"
     },
