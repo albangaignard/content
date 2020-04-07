@@ -40,8 +40,8 @@
       "sc:license": "LGPL-2.1",
       "sc:name": "Bazam",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/ssadedin/bazam"
     }

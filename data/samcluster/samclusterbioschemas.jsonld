@@ -16,8 +16,8 @@
   "sc:name": "SamCluster",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.biosun.org.cn/SamCluster/index.htm"
 }

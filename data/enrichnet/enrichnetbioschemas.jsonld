@@ -35,15 +35,15 @@
         "@id": "edam:data_2600"
       },
       "sc:additionalType": [
-        "Web application",
-        "Web API"
+        "Web API",
+        "Web application"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0121"
+          "@id": "edam:topic_3308"
         },
         {
-          "@id": "edam:topic_3308"
+          "@id": "edam:topic_0121"
         }
       ],
       "sc:citation": [
@@ -60,8 +60,8 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "EnrichNet",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:provider": "lumc.nl",

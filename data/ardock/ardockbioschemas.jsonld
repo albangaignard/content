@@ -22,8 +22,8 @@
   "sc:description": "Analysis of surfaces of protein structures.",
   "sc:name": "arDock",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": [

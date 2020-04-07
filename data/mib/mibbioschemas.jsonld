@@ -35,8 +35,8 @@
       "sc:name": "MIB",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://mib.helsinki.fi/index.html"
     },

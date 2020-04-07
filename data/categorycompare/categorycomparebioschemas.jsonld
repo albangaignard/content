@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0001-8141-7788",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/categorycompare",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -35,15 +31,15 @@
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0203"
+          "@id": "edam:topic_3047"
         },
         {
-          "@id": "edam:topic_3047"
+          "@id": "edam:topic_0203"
         }
       ],
       "sc:citation": [
@@ -60,12 +56,16 @@
       "sc:license": "GPL-2.0",
       "sc:name": "categoryCompare",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/categoryCompare.html",
       "sc:version": "1.18.0"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-8141-7788",
+      "@type": "schema:Person"
     }
   ]
 }

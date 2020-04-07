@@ -30,8 +30,8 @@
         "@id": "edam:data_3496"
       },
       "sc:additionalType": [
-        "Command-line tool",
         "Database portal",
+        "Command-line tool",
         "Web application"
       ],
       "sc:applicationSubCategory": {
@@ -48,13 +48,13 @@
         "pmcid:PMC2996960"
       ],
       "sc:contributor": [
-        "Ivo Hofacker",
-        "Austrian GEN-AU projects \"bioinformatics integration network III\""
+        "Austrian GEN-AU projects \"bioinformatics integration network III\"",
+        "Ivo Hofacker"
       ],
       "sc:description": "Wrapper tool for rnpB gene prediction by combining speed of rnabob descriptor model and sensitivity of infernal covariance model.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0349"
+          "@id": "edam:operation_0346"
         },
         {
           "@id": "edam:operation_0489"
@@ -63,7 +63,7 @@
           "@id": "edam:operation_0362"
         },
         {
-          "@id": "edam:operation_0346"
+          "@id": "edam:operation_0349"
         }
       ],
       "sc:funder": "Austrian GEN-AU projects \"bioinformatics integration network III\"",

@@ -16,14 +16,14 @@
   ],
   "sc:additionalType": "Web application",
   "sc:author": [
+    "Mihir Samdarshi",
+    "Britain J. Southwick",
+    "Kam D. Dahlquist",
+    "Anindita Varshneya",
+    "Jen Shin",
     "Eileen Choe",
     "John David N. Dionisio",
-    "Jen Shin",
     "Ben G. Fitzpatrick",
-    "Britain J. Southwick",
-    "Anindita Varshneya",
-    "Mihir Samdarshi",
-    "Kam D. Dahlquist",
     "Nicole A. Anguiano"
   ],
   "sc:contributor": "NSF award 0921038; LMU Rains Research Assistant Program; LMU Summer Undergraduate Research Program",
@@ -32,9 +32,9 @@
   "sc:license": "BSD-3-Clause",
   "sc:name": "GRNsight",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "lmu.edu",

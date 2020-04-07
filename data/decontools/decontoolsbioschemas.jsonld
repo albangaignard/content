@@ -19,8 +19,8 @@
   "sc:name": "DeconTools",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://omics.pnl.gov/software/DeconTools.php"
 }

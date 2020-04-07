@@ -32,8 +32,8 @@
       "sc:name": "PROPER",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/PROPER.html",
       "sc:version": "1.6.0"

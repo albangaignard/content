@@ -16,8 +16,8 @@
   "sc:name": "WNV Typer",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bioinfo.net.in/wnv/homepage.html"
 }

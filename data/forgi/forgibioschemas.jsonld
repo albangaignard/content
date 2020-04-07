@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.12688/F1000RESEARCH.18458.2",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/forgi",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Bernhard C. Thiel",
@@ -41,10 +45,6 @@
         "Linux"
       ],
       "sc:url": "https://github.com/ViennaRNA/forgi"
-    },
-    {
-      "@id": "https://doi.org/10.12688/F1000RESEARCH.18458.2",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

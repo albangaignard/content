@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/btq046",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/ebimage",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Andrzej Oleś",
@@ -22,13 +18,13 @@
       },
       "sc:additionalType": "Command-line tool",
       "sc:author": [
+        "Mike Smith",
+        "Andrzej Oleś",
         "Gregoire Pau",
+        "Oleg Sklyar",
         {
           "@id": "http://orcid.org/0000-0002-0474-2218"
-        },
-        "Mike Smith",
-        "Oleg Sklyar",
-        "Andrzej Oleś"
+        }
       ],
       "sc:citation": [
         {
@@ -58,6 +54,10 @@
     {
       "@id": "http://orcid.org/0000-0002-0474-2218",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/bioinformatics/btq046",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

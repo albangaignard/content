@@ -12,14 +12,14 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Adam Hospital",
   "sc:additionalType": [
-    "Database portal",
-    "Workbench"
+    "Workbench",
+    "Database portal"
   ],
   "sc:author": [
     "Adam Hospital",
+    "Cesare Cugnasco",
     "Laia Codó",
-    "Pau Andrio",
-    "Cesare Cugnasco"
+    "Pau Andrio"
   ],
   "sc:description": "Comprehensive platform including a database system and an analysis portal, aimed to be a general database for handling nucleic acids simulations.",
   "sc:name": "BigNASim",
@@ -27,8 +27,8 @@
   "sc:provider": [
     "Institute of Research In Biomedicine - Barcelona",
     "University of Barcelona",
-    "Barcelona Supercomputing Center",
-    "Technic University of Catalonia"
+    "Technic University of Catalonia",
+    "Barcelona Supercomputing Center"
   ],
   "sc:url": "http://mmb.irbbarcelona.org/BIGNASim/"
 }

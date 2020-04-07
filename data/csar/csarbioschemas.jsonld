@@ -38,8 +38,8 @@
       "sc:name": "CSAR",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/CSAR.html",
       "sc:version": "1.26.0"

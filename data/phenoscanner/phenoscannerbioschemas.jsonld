@@ -13,8 +13,8 @@
   "sc:additionalType": [
     "Command-line tool",
     "Web application",
-    "Database portal",
-    "Web API"
+    "Web API",
+    "Database portal"
   ],
   "sc:description": "Database of human genotype-phenotype associations.",
   "sc:license": "Unlicense",

@@ -15,8 +15,8 @@
     "Alexander R. Pico"
   ],
   "sc:additionalType": [
-    "Database portal",
     "Web service",
+    "Database portal",
     "Web API",
     "Web application"
   ],
@@ -24,9 +24,9 @@
   "sc:license": "Apache-2.0",
   "sc:name": "WikiPathways",
   "sc:operatingSystem": [
-    "Windows",
+    "Linux",
     "Mac",
-    "Linux"
+    "Windows"
   ],
   "sc:url": "http://www.wikipathways.org"
 }

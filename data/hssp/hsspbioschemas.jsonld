@@ -15,8 +15,8 @@
   "sc:name": "HSSP",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://swift.cmbi.ru.nl/gv/hssp/"
 }
