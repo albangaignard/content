@@ -17,8 +17,8 @@
   "sc:name": "chronic vs clinic",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://bitbucket.org/adv_bio_coll/chronic_vs_clinic"
 }

@@ -28,9 +28,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "karyoploteR",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/karyoploteR.html",
       "sc:version": "1.6.0"

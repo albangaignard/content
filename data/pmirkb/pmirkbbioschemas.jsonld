@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Lingfeng Gou",
-    "Dijun Chen",
     "Ming Chen",
+    "Dijun Chen",
     "Yijun Meng"
   ],
   "sc:additionalType": "Database portal",

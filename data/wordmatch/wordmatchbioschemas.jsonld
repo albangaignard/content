@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "EMBOSS Contributors",
-    "UK BBSRC",
+    "Wellcome Trust",
     "UK MRC",
-    "Wellcome Trust"
+    "UK BBSRC"
   ],
   "sc:description": "Find regions of identity (exact matches) of two sequences.",
   "sc:funder": [

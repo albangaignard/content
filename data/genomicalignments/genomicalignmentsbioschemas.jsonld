@@ -27,15 +27,15 @@
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_1383"
+          "@id": "edam:data_0867"
         },
         {
-          "@id": "edam:data_0867"
+          "@id": "edam:data_1383"
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_0080"
@@ -53,18 +53,18 @@
           "@id": "edam:operation_3563"
         },
         {
-          "@id": "edam:operation_2478"
+          "@id": "edam:operation_3230"
         },
         {
-          "@id": "edam:operation_3230"
+          "@id": "edam:operation_2478"
         }
       ],
       "sc:license": "Artistic-2.0",
       "sc:name": "GenomicAlignments",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/GenomicAlignments.html",
       "sc:version": "1.10.0"

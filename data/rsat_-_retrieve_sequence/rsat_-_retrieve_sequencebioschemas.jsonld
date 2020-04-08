@@ -21,9 +21,9 @@
       },
       "sc:additionalType": [
         "Web service",
+        "Command-line tool",
         "Web application",
-        "Web API",
-        "Command-line tool"
+        "Web API"
       ],
       "sc:author": {
         "@id": "https://orcid.org/0000-0002-8799-8584"

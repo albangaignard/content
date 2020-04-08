@@ -49,8 +49,8 @@
         "Windows"
       ],
       "sc:provider": [
-        "HD-HuB",
-        "European Molecular Biology Laboratory (EMBL)"
+        "European Molecular Biology Laboratory (EMBL)",
+        "HD-HuB"
       ],
       "sc:softwareHelp": {
         "@id": "http://enterotype.embl.de/enterotypes.html"

@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
+    "EMBOSS Contributors",
     "Wellcome Trust",
-    "UK MRC",
-    "EMBOSS Contributors"
+    "UK MRC"
   ],
   "sc:description": "Display features of a sequence in pretty format.",
   "sc:funder": [

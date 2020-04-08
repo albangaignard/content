@@ -14,8 +14,8 @@
   "sc:additionalType": "Web application",
   "sc:author": [
     "Anthony Talvas",
-    "Christian Delamarche",
-    "Mathieu Emily"
+    "Mathieu Emily",
+    "Christian Delamarche"
   ],
   "sc:description": "Prediction of amyloid fragments.",
   "sc:name": "MetAmyl",

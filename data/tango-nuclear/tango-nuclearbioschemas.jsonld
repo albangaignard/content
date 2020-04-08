@@ -14,12 +14,12 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Julien Cochennec",
-        "Thomas Boudier",
-        "Jean Ollion"
+        "Jean Ollion",
+        "Thomas Boudier"
       ],
       "sc:additionalType": [
-        "Library",
-        "Plug-in"
+        "Plug-in",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC3702251",

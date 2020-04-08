@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0003-2388-6046",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/massir",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -46,11 +50,11 @@
         }
       ],
       "sc:citation": [
-        "pmcid:PMC4080740",
-        "pubmed:24659105",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/btu161"
-        }
+        },
+        "pmcid:PMC4080740",
+        "pubmed:24659105"
       ],
       "sc:description": "Predicts the sex of samples in gene expression microarray datasets.",
       "sc:featureList": {
@@ -65,10 +69,6 @@
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/massiR.html",
       "sc:version": "1.10.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0003-2388-6046",
-      "@type": "schema:Person"
     }
   ]
 }

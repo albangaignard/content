@@ -11,12 +11,12 @@
   "@id": "https://bio.tools/JAL",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Minh N. Nguyen",
-    "Chandra S. Verma"
+    "Chandra S. Verma",
+    "Minh N. Nguyen"
   ],
   "sc:additionalType": [
-    "Web application",
     "Web service",
+    "Web application",
     "Command-line tool"
   ],
   "sc:citation": "pubmed:31140800",

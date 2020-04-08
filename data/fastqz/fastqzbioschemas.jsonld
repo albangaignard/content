@@ -34,8 +34,8 @@
       "sc:name": "Fastqz",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://mattmahoney.net/dc/fastqz/",
       "sc:version": "1.5"

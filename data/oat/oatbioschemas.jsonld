@@ -17,8 +17,8 @@
   "sc:name": "OAT",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.ezbiocloud.net/sw/oat"
 }

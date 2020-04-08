@@ -21,8 +21,8 @@
         "Yang Lu"
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Desktop application"
+        "Desktop application",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:28472388",
@@ -42,9 +42,9 @@
       ],
       "sc:name": "CAFE",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://github.com/younglululu/CAFE"
     }

@@ -19,16 +19,16 @@
   ],
   "sc:description": "Find matrix/scaffold recognition (MRS) signatures in DNA sequences.",
   "sc:funder": [
-    "UK MRC",
     "Wellcome Trust",
+    "UK MRC",
     "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "marscan",
   "sc:operatingSystem": [
+    "Mac",
     "Linux",
-    "Windows",
-    "Mac"
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

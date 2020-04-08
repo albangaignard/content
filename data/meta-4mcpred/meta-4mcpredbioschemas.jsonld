@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/Meta-4mCpred",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Leyi Wei",
         "Gwang Lee",
+        "Leyi Wei",
         "Balachandran Manavalan"
       ],
       "sc:additionalType": "Web application",

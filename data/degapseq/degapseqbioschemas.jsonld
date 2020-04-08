@@ -20,8 +20,8 @@
   "sc:description": "Remove non-alphabetic (e.g. gap) characters from sequences.",
   "sc:funder": [
     "UK MRC",
-    "UK BBSRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "degapseq",

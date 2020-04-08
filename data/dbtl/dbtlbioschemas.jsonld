@@ -18,8 +18,8 @@
   "sc:name": "DBTL",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://panoramaweb.org/DBTL-ML-for-dodencanol-production-in-e-coli.url"
 }

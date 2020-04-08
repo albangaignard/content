@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0001-6831-4557",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1093/NAR/GKW989",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-6831-4557",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/progenomes",
@@ -44,8 +44,8 @@
       "sc:name": "proGenomes",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": [
         "European Molecular Biology Laboratory (EMBL)",

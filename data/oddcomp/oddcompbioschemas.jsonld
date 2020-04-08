@@ -19,20 +19,20 @@
   ],
   "sc:description": "Identify proteins with specified sequence word composition.",
   "sc:funder": [
-    "UK BBSRC",
+    "Wellcome Trust",
     "UK MRC",
-    "Wellcome Trust"
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "oddcomp",
   "sc:operatingSystem": [
+    "Windows",
     "Mac",
-    "Linux",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/oddcomp.html",
   "sc:version": "r6"

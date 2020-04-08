@@ -28,9 +28,6 @@
       "sc:description": "The tool enables to create context-sensitive protein interaction networks for organisms, tissues and user-defined contexts.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3439"
-        },
-        {
           "@id": "edam:operation_2949"
         },
         {
@@ -38,13 +35,16 @@
         },
         {
           "@id": "edam:operation_0276"
+        },
+        {
+          "@id": "edam:operation_3439"
         }
       ],
       "sc:name": "MyproteinNet",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://netbio.bgu.ac.il/myproteinnet/"
     }
