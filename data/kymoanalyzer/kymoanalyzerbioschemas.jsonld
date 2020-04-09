@@ -27,9 +27,9 @@
       "sc:license": "Other",
       "sc:name": "KymoAnalyzer",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "https://www.encalada.scripps.edu/kymoanalyzer",
       "sc:version": "1.01"

@@ -17,20 +17,20 @@
         "Janez Demsar"
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Desktop application"
+        "Desktop application",
+        "Command-line tool"
       ],
       "sc:author": [
         "Jernej Kernc",
-        "Lan Žagar",
-        "Tomaž Curk",
+        "Anže Starič",
         "Aleš Erjavec",
+        "Vesna Tanko",
         "Janez Demšar",
+        "Lan Žagar",
+        "Martin Stražar",
         "Andrej Čopar",
         "Marko Toplak",
-        "Anže Starič",
-        "Martin Stražar",
-        "Vesna Tanko"
+        "Tomaž Curk"
       ],
       "sc:citation": "pubmed:17586552",
       "sc:contributor": {

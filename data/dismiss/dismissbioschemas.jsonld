@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Martin T. Swain",
       "sc:additionalType": [
-        "Plug-in",
-        "Command-line tool"
+        "Command-line tool",
+        "Plug-in"
       ],
       "sc:citation": [
         {
@@ -32,8 +32,8 @@
       "sc:name": "DISMISS",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://uhkniazi.github.io/dismiss/"
     },

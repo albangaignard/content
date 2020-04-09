@@ -11,25 +11,25 @@
   "@id": "https://bio.tools/klifs",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Dr. Chris de Graaf",
-    "Dr. Albert J. Kooistra"
+    "Dr. Albert J. Kooistra",
+    "Dr. Chris de Graaf"
   ],
   "sc:additionalType": [
-    "Web application",
-    "Command-line tool",
     "Web API",
-    "Database portal"
+    "Database portal",
+    "Command-line tool",
+    "Web application"
   ],
   "sc:author": [
-    "Chris de Graaf",
     "Oscar P.J. van Linden",
-    "Georgi K. Kanev",
     "Albert J. Kooistra",
-    "Division of Medicinal Chemistry (Vrije Universiteit Amsterdam)"
+    "Division of Medicinal Chemistry (Vrije Universiteit Amsterdam)",
+    "Chris de Graaf",
+    "Georgi K. Kanev"
   ],
   "sc:contributor": [
-    "Amsterdam Academic Alliance",
     "Iwan J.P. de Esch",
+    "Amsterdam Academic Alliance",
     "Rob Leurs",
     "Netherlands eScience Center (NLeSC)"
   ],
@@ -45,8 +45,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "vu.nl",
-    "Vrije Universiteit Amsterdam"
+    "Vrije Universiteit Amsterdam",
+    "vu.nl"
   ],
   "sc:url": "http://klifs.vu-compmedchem.nl"
 }

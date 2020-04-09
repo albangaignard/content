@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/pepdistiller",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Yunping Zhu",
     "Fuchu He",
+    "Yunping Zhu",
     "Ning Li"
   ],
   "sc:additionalType": "Command-line tool",

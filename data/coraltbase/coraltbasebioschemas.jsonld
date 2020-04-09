@@ -19,8 +19,8 @@
         }
       ],
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pubmed:31101011",
@@ -45,8 +45,8 @@
       "sc:name": "CoralTBase",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://www.comp.hkbu.edu.hk/~db/CoralTBase"
     },

@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0001-6762-2582",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1101/gr.175141.114",
       "@type": "sc:CreativeWork"
     },
@@ -42,11 +38,15 @@
       "sc:name": "QDNAseq",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/QDNAseq.html",
       "sc:version": "1.10.0"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-6762-2582",
+      "@type": "schema:Person"
     }
   ]
 }

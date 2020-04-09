@@ -31,8 +31,8 @@
       },
       "sc:name": "T-lex2",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://petrov.stanford.edu/cgi-bin/Tlex.html"
     }

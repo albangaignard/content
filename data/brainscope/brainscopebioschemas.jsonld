@@ -10,11 +10,15 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/NAR/GKX046",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/brainscope",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Baldur van Lew",
-        "Sjoerd M.H. Huisman"
+        "Sjoerd M.H. Huisman",
+        "Baldur van Lew"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -36,10 +40,6 @@
         "Windows"
       ],
       "sc:url": "http://www.brainscope.nl/brainscope"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKX046",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

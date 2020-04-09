@@ -42,9 +42,9 @@
       ],
       "sc:name": "CAFE",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://github.com/younglululu/CAFE"
     }

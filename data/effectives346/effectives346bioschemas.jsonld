@@ -40,10 +40,10 @@
         }
       ],
       "sc:citation": [
+        "pubmed:21071416",
         {
           "@id": "https://doi.org/10.1093/nar/gkq1154"
         },
-        "pubmed:21071416",
         "pmcid:PMC3013723"
       ],
       "sc:description": "Prediction of intact secretion systems III, IV and VI in bacterial genomes by using a Support Vector Machine (SVM) approach.",
@@ -54,12 +54,12 @@
       "sc:name": "EffectiveS346",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": [
-        "AT-CUBE",
-        "CUBE - Computational Systems Biology"
+        "CUBE - Computational Systems Biology",
+        "AT-CUBE"
       ],
       "sc:softwareHelp": {
         "@id": "http://www.effectivedb.org/method/effectives346"

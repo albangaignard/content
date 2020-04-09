@@ -17,8 +17,8 @@
   "sc:name": "The Hymenoptera Genome Database (HGD)",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://HymenopteraGenome.org"
 }

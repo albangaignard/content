@@ -13,13 +13,13 @@
       "@id": "https://bio.tools/Cistrome-GO",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "X Shirley Liu",
-        "Clifford A Meyer"
+        "Clifford A Meyer",
+        "X Shirley Liu"
       ],
       "sc:additionalType": [
-        "Command-line tool",
+        "Web application",
         "Web service",
-        "Web application"
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:31053864",
@@ -31,10 +31,10 @@
       "sc:description": "Web server for functional enrichment analysis of transcription factor ChIP-seq peaks.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3222"
+          "@id": "edam:operation_3501"
         },
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_3222"
         },
         {
           "@id": "edam:operation_3223"
@@ -43,8 +43,8 @@
       "sc:license": "Other",
       "sc:name": "Cistrome-GO",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://go.cistrome.org/"

@@ -17,8 +17,8 @@
   "sc:name": "CRP",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://fasta.bioch.virginia.edu/crp/"
 }

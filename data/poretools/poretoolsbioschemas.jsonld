@@ -16,8 +16,8 @@
   "sc:name": "Poretools",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://github.com/arq5x/poretools"
 }

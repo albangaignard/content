@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/Conbase",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Ezeddin Al Hakim",
-        "Marie Kindblom"
+        "Marie Kindblom",
+        "Ezeddin Al Hakim"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [

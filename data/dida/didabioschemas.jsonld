@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1093/nar/gkv1068",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/dida",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -40,20 +36,24 @@
           "@id": "edam:operation_3197"
         },
         {
-          "@id": "edam:operation_2421"
+          "@id": "edam:operation_3661"
         },
         {
-          "@id": "edam:operation_3661"
+          "@id": "edam:operation_2421"
         }
       ],
       "sc:name": "Digenic Diseases Database (DIDA)",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:provider": "Interuniversity Institute of Bioinformatics in Brussels",
       "sc:url": "http://dida.ibsquare.be"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkv1068",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

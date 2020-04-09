@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "https://orcid.org/0000-0001-7734-9102",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/OG",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -50,6 +46,10 @@
         "Linux"
       ],
       "sc:url": "https://github.com/meringlab/og_consistency_pipeline"
+    },
+    {
+      "@id": "https://orcid.org/0000-0001-7734-9102",
+      "@type": "schema:Person"
     }
   ]
 }
