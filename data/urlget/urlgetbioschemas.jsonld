@@ -20,15 +20,15 @@
   "sc:description": "Get URLs of data resources.",
   "sc:funder": [
     "Wellcome Trust",
-    "UK MRC",
-    "UK BBSRC"
+    "UK BBSRC",
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "urlget",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

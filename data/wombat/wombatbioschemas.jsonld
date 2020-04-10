@@ -34,9 +34,9 @@
       "sc:license": "Not licensed",
       "sc:name": "Wombat",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://didgeridoo.une.edu.au/km/wombat.php"
     },

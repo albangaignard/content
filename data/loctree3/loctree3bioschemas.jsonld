@@ -15,11 +15,11 @@
     "Command-line tool"
   ],
   "sc:author": [
-    "Timothy Karl",
-    "Tobias Hamp",
-    "Guy Yachdav",
     "Maximilian Hecht",
-    "Tatyana Goldberg"
+    "Tobias Hamp",
+    "Timothy Karl",
+    "Tatyana Goldberg",
+    "Guy Yachdav"
   ],
   "sc:contributor": [
     "Burkhard Rost",

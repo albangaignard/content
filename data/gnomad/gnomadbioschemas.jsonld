@@ -33,13 +33,13 @@
           "@id": "edam:operation_2422"
         },
         {
+          "@id": "edam:operation_2421"
+        },
+        {
           "@id": "edam:operation_3436"
         },
         {
           "@id": "edam:operation_3197"
-        },
-        {
-          "@id": "edam:operation_2421"
         }
       ],
       "sc:license": "ODbL-1.0",

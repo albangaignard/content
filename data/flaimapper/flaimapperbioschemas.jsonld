@@ -15,8 +15,8 @@
   "sc:description": "Method that extracts and annotates the locations of sncRNA-derived RNAs (sncdRNAs).",
   "sc:name": "FlaiMapper",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "https://github.com/yhoogstrate/flaimapper"

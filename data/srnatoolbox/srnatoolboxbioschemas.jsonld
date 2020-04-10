@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Michael Hackenberg",
       "sc:additionalType": [
-        "Web application",
-        "Suite"
+        "Suite",
+        "Web application"
       ],
       "sc:citation": [
         {
@@ -31,10 +31,10 @@
       "sc:description": "Intuitive fast small RNA profiling and differential expression.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_0463"
         },
         {
-          "@id": "edam:operation_0463"
+          "@id": "edam:operation_3431"
         },
         {
           "@id": "edam:operation_3792"
@@ -43,9 +43,9 @@
       "sc:license": "Unlicense",
       "sc:name": "sRNAtoolbox",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://arn.ugr.es/srnatoolbox/"
     }

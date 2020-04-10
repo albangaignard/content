@@ -41,8 +41,8 @@
       "sc:license": "Unlicense",
       "sc:name": "TYGS",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "https://tygs.dsmz.de"

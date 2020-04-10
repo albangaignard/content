@@ -15,8 +15,8 @@
   "sc:license": "Unlicense",
   "sc:name": "d-Omix",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://www.biotec.or.th/isl/Domix"

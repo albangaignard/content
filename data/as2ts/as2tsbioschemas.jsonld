@@ -18,8 +18,8 @@
   "sc:name": "AS2TS",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://proteinmodel.org/"
 }

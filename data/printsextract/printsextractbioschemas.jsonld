@@ -13,21 +13,21 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
-    "EMBOSS Contributors",
     "UK MRC",
-    "UK BBSRC"
+    "UK BBSRC",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Extract data from PRINTS database for use by pscan.",
   "sc:funder": [
-    "UK MRC",
     "UK BBSRC",
+    "UK MRC",
     "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "printsextract",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": [

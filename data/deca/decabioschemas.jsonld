@@ -17,8 +17,8 @@
   "sc:name": "DECA",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.nactem.ac.uk/deca_details/start.cgi"
 }

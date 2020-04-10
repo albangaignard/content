@@ -23,8 +23,8 @@
   "sc:name": "Graemlin",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://graemlin.stanford.edu/"
 }

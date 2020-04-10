@@ -17,9 +17,9 @@
       "@id": "https://bio.tools/reportingtools",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Jason A. Hackney",
+        "Gabriel Becker",
         "Jessica L. Larson",
-        "Gabriel Becker"
+        "Jason A. Hackney"
       ],
       "edam:has_input": {
         "@id": "edam:data_2603"

@@ -17,8 +17,8 @@
   "sc:name": "MimoDB",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://immunet.cn/mimodb/"
 }

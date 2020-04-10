@@ -17,8 +17,8 @@
   "sc:name": "MILLIPEDE",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.cs.duke.edu/~amink/software/millipede/"
 }

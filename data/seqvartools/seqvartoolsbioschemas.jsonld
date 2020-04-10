@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/seqvartools",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Xiuwen Zheng",
+    "Stephanie M. Gogarten",
     "Adrienne Stilp",
-    "Stephanie M. Gogarten"
+    "Xiuwen Zheng"
   ],
   "sc:additionalType": [
     "Command-line tool",

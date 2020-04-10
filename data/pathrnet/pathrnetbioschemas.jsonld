@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Shou-Jiang Gao",
-    "Yidong Chen",
     "yufei.huang@utsa.edu",
+    "Yidong Chen",
     "Jia Meng"
   ],
   "sc:additionalType": "Command-line tool",

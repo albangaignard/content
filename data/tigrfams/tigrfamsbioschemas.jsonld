@@ -44,9 +44,9 @@
       },
       "sc:name": "TIGRFAMS  protein family database",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:provider": "J Craig Venter Institute",
       "sc:url": "http://www.tigr.org/TIGRFAMs/"

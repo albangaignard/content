@@ -19,8 +19,8 @@
   "sc:description": "Sequence alignment using the Multiple Sequence Comparison by Log-Expectation (MUSCLE) method",
   "sc:name": "MUSCLE (EBI)",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "EMBL-EBI",

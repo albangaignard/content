@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/OCMA",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Zhi Xiong",
-        "Quan Long"
+        "Quan Long",
+        "Zhi Xiong"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [

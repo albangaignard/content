@@ -17,8 +17,8 @@
   "sc:name": "mosaic",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.zoology.ubc.ca/prog/mosaic/"
 }

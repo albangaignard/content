@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Mallika Imwong",
       "sc:additionalType": [
-        "Command-line tool",
-        "Desktop application"
+        "Desktop application",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC6482647",
@@ -43,9 +43,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "OSTRFPD",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://github.com/vivekmathema/OSTRFPD"
     }

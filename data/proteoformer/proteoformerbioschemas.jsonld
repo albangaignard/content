@@ -31,11 +31,11 @@
         }
       ],
       "sc:contributor": [
-        "Sandra Steyaert",
         "Alexander Koch",
         {
           "@id": "https://orcid.org/0000-0002-7575-2085"
-        }
+        },
+        "Sandra Steyaert"
       ],
       "sc:description": "Proteogenomic pipeline integrating ribosome profiling (RIBO-seq) data in the search for new proteoforms in proteomic validation data. The pipeline does a genome-wide construction of candidate translation products based on ribosome occupancy.",
       "sc:license": "GPL-3.0",
@@ -46,8 +46,8 @@
       ],
       "sc:url": "https://github.com/Biobix/proteoformer",
       "sc:version": [
-        "1.0",
-        "2.0"
+        "2.0",
+        "1.0"
       ]
     },
     {
