@@ -13,8 +13,8 @@
   "biotools:primaryContact": [
     "Marc Tyndel",
     "TaeHyung Simon Kim",
-    "David Gfeller",
-    "Philip M. Kim"
+    "Philip M. Kim",
+    "David Gfeller"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:22210894",

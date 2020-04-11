@@ -13,22 +13,22 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "EMBOSS Contributors",
-    "UK BBSRC",
+    "Wellcome Trust",
     "UK MRC",
-    "Wellcome Trust"
+    "UK BBSRC"
   ],
   "sc:description": "Remove a section from a sequence.",
   "sc:funder": [
     "UK MRC",
-    "UK BBSRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "cutseq",
   "sc:operatingSystem": [
-    "Mac",
+    "Linux",
     "Windows",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

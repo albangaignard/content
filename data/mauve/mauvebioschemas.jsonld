@@ -18,8 +18,8 @@
   "sc:name": "Mauve",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://darlinglab.org/mauve"
 }

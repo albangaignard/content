@@ -34,8 +34,8 @@
       "sc:name": "rMyCoPortal",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://github.com/FranzKrah/rMyCoPortal"
     },

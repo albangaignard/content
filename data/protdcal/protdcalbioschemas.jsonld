@@ -36,8 +36,8 @@
       ],
       "sc:name": "ProtDCal",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://bioinf.sce.carleton.ca/ProtDCal/"

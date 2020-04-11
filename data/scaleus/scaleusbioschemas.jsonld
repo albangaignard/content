@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/scaleus",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "SPARQL endpoint",
     "Web API",
+    "SPARQL endpoint",
     "Workbench",
     "Web application"
   ],

@@ -14,9 +14,9 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Mahdi Jalili",
       "sc:additionalType": [
+        "Command-line tool",
         "Library",
-        "Web application",
-        "Command-line tool"
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC4646361",

@@ -13,15 +13,15 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK MRC",
-    "UK BBSRC",
     "EMBOSS Contributors",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:description": "Identify CpG islands in nucleotide sequence(s).",
   "sc:funder": [
     "UK BBSRC",
-    "Wellcome Trust",
-    "UK MRC"
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "newcpgreport",

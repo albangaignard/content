@@ -18,8 +18,8 @@
   "sc:name": "Diffany",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": "ugent.be",
   "sc:url": "http://bioinformatics.psb.ugent.be/supplementary_data/solan/diffany/",

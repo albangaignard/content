@@ -28,8 +28,8 @@
       "sc:name": "Conserved domain database CDD",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": "NCBI",
       "sc:url": "http://www.ncbi.nlm.nih.gov/Structure/cdd/cdd.shtml"

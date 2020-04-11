@@ -19,10 +19,10 @@
       "biotools:primaryContact": "Yang Du",
       "edam:has_input": [
         {
-          "@id": "edam:data_1276"
+          "@id": "edam:data_2603"
         },
         {
-          "@id": "edam:data_2603"
+          "@id": "edam:data_1276"
         }
       ],
       "edam:has_output": {
@@ -34,16 +34,16 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_2269"
+          "@id": "edam:topic_3170"
         },
         {
           "@id": "edam:topic_3518"
         },
         {
-          "@id": "edam:topic_0080"
+          "@id": "edam:topic_2269"
         },
         {
-          "@id": "edam:topic_3170"
+          "@id": "edam:topic_0080"
         }
       ],
       "sc:citation": [
@@ -60,9 +60,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "biomvRCNS",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/biomvRCNS.html",
       "sc:version": "1.14.0"

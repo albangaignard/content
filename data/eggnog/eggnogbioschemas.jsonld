@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gkv1248",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://orcid.org/0000-0003-1429-7485",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkv1248",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/eggnog",
@@ -25,10 +25,10 @@
       },
       "sc:additionalType": "Database portal",
       "sc:citation": [
-        "pubmed:17942413",
         {
           "@id": "https://doi.org/10.1093/nar/gkv1248"
         },
+        "pubmed:17942413",
         "pmcid:PMC4702882",
         "pubmed:26582926"
       ],
@@ -36,9 +36,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "eggNOG",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:provider": [
         "HD-HuB",

@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/symbiogbr",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Linda Tonk",
-        "Pim Bongaerts"
+        "Pim Bongaerts",
+        "Linda Tonk"
       ],
       "sc:additionalType": "Database portal",
       "sc:citation": [

@@ -13,26 +13,26 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
-    "EMBOSS Contributors",
     "Wellcome Trust",
+    "EMBOSS Contributors",
     "UK MRC"
   ],
   "sc:description": "Get text data entries.",
   "sc:funder": [
-    "Wellcome Trust",
     "UK BBSRC",
+    "Wellcome Trust",
     "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "textget",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/textget.html",
   "sc:version": "r6"

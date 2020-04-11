@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/pdbest",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Pires DE",
     "Gonçalves WR",
-    "de Melo-Minardi RC",
-    "Pires DE"
+    "de Melo-Minardi RC"
   ],
   "sc:additionalType": "Desktop application",
   "sc:citation": "pubmed:25910698",

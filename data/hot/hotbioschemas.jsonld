@@ -17,10 +17,10 @@
       "@id": "https://bio.tools/HOT",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Verdan Franske",
         {
           "@id": "https://orcid.org/0000-0002-0468-0117"
-        },
-        "Verdan Franske"
+        }
       ],
       "sc:additionalType": "Script",
       "sc:citation": [
@@ -45,9 +45,9 @@
       "sc:license": "Unlicense",
       "sc:name": "HOT",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "https://github.com/BIMSBbioinfo/HOT-or-not-examining-the-basis-of-high-occupancy-target-regions"
     },

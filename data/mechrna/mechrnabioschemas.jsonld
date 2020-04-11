@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Support",
-    "Rolf Backofen",
-    "Alexander R Gawronski"
+    "Alexander R Gawronski",
+    "Rolf Backofen"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:description": "Prediction of lncRNA mechanisms from RNA–RNA and RNA–protein interactions.",

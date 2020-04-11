@@ -41,8 +41,8 @@
       "sc:name": "ADAT",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://foocheung.shinyapps.io/adat/"
     }

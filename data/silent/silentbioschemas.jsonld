@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
+    "EMBOSS Contributors",
     "UK MRC",
     "Wellcome Trust",
-    "EMBOSS Contributors"
+    "UK BBSRC"
   ],
   "sc:description": "Find restriction sites to insert (mutate) with no translation change.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "silent",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

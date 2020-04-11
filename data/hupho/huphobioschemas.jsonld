@@ -29,9 +29,9 @@
       "sc:description": "Online web resource for recovering information about human phosphatases.",
       "sc:name": "Hupho",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:provider": [
         "ELIXIR-ITA-TORVERGATA",

@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "https://orcid.org/0000-0002-0736-9199",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/LOINC2HPO",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -36,10 +32,14 @@
       "sc:name": "LOINC2HPO",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://github.com/monarch-initiative/loinc2hpo"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-0736-9199",
+      "@type": "schema:Person"
     }
   ]
 }

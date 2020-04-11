@@ -17,16 +17,16 @@
       "@id": "https://bio.tools/netcooperate",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Elhanan Borenstein",
         "Rogan Carr",
+        "Elhanan Borenstein",
+        "Shiri Freilich",
         "Anat Kreimer",
-        "Roie Levy",
-        "Shiri Freilich"
+        "Roie Levy"
       ],
       "sc:additionalType": [
         "Command-line tool",
-        "Web application",
-        "Library"
+        "Library",
+        "Web application"
       ],
       "sc:citation": [
         {
@@ -42,9 +42,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "NetCooperate",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://elbo.gs.washington.edu/software_netcooperate.html"
     }

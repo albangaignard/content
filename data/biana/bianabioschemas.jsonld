@@ -29,9 +29,9 @@
       },
       "sc:name": "BIANA",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:provider": "upf.edu",
       "sc:url": "http://sbi.imim.es/web/index.php/research/servers/biana?page=biana.server",

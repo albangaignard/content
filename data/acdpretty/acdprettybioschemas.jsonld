@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK MRC",
-    "EMBOSS Contributors",
     "UK BBSRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Correctly reformat an application ACD file.",
   "sc:funder": [
@@ -27,12 +27,12 @@
   "sc:name": "acdpretty",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/acdpretty.html",
   "sc:version": "r6"

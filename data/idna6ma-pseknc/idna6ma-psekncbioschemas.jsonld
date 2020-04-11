@@ -18,8 +18,8 @@
   "sc:name": "iDNA6mA-PseKNC",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://lin-group.cn/server/iDNA6mA-PseKNC"
 }
