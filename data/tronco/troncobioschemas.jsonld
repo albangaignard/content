@@ -26,8 +26,8 @@
       "sc:name": "TRONCO",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": "ELIXIR-ITA-BICOCCA",
       "sc:url": "https://sites.google.com/site/troncopackage/",

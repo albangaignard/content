@@ -39,8 +39,8 @@
       "sc:name": "BIPS",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:provider": "upf.edu",
       "sc:url": "http://sbi.imim.es/BIPS.php",

@@ -18,15 +18,15 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_2048"
         },
         {
-          "@id": "edam:data_2048"
+          "@id": "edam:data_2884"
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
@@ -61,9 +61,9 @@
         "Linux"
       ],
       "sc:provider": [
-        "hdhub",
+        "Hein Lab",
         "Walter lab",
-        "Hein Lab"
+        "hdhub"
       ],
       "sc:softwareHelp": {
         "@id": "https://github.com/lutsik/MeDeCom/blob/master/README"

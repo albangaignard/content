@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/database/bay131",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/ConTEdb",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -18,8 +22,8 @@
         "Fei Yi"
       ],
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pubmed:30576494",
@@ -43,15 +47,11 @@
       "sc:license": "Unlicense",
       "sc:name": "ConTEdb",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://genedenovoweb.ticp.net:81/conTEdb/index.php"
-    },
-    {
-      "@id": "https://doi.org/10.1093/database/bay131",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

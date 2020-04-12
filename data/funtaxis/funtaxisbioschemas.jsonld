@@ -16,8 +16,8 @@
   "sc:name": "Funtaxis",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": "Department of Molecular Medicine, University of Padua",
   "sc:url": "http://www.medcomp.medicina.unipd.it/funtaxis",

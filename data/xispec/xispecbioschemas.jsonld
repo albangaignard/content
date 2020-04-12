@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Prof Juri Rappsilber",
-    "Lars Kolbowski",
-    "Colin Combe"
+    "Colin Combe",
+    "Lars Kolbowski"
   ],
   "sc:additionalType": [
     "Web application",

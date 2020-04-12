@@ -17,13 +17,13 @@
   "sc:name": "SNPitty",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
-    "Department of Urology, Erasmus University Medical Center, Rotterdam,",
+    "Cancer Computational Biology Center",
     "Erasmus MC",
-    "Cancer Computational Biology Center"
+    "Department of Urology, Erasmus University Medical Center, Rotterdam,"
   ],
   "sc:url": "https://ccbc.erasmusmc.nl/"
 }

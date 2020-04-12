@@ -36,8 +36,8 @@
       "sc:name": "CellMinerCDB",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://discover.nci.nih.gov/cellminercdb/"
     },

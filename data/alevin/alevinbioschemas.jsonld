@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/Alevin",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "A. Srivastava",
-        "Rob Patro"
+        "Rob Patro",
+        "A. Srivastava"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [

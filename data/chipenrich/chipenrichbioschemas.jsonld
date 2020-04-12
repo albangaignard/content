@@ -26,10 +26,10 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_1276"
         },
         {
-          "@id": "edam:data_1276"
+          "@id": "edam:data_2884"
         }
       ],
       "sc:additionalType": [
@@ -38,18 +38,18 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3169"
+          "@id": "edam:topic_3572"
         },
         {
-          "@id": "edam:topic_3572"
+          "@id": "edam:topic_3169"
         }
       ],
       "sc:citation": [
         "pubmed:24878920",
-        "pmcid:PMC4117744",
         {
           "@id": "https://doi.org/10.1093/nar/gku463"
-        }
+        },
+        "pmcid:PMC4117744"
       ],
       "sc:contributor": {
         "@id": "http://orcid.org/0000-0001-6155-5702"
@@ -61,8 +61,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "chipenrich",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/chipenrich.html",

@@ -16,8 +16,8 @@
   "sc:license": "Not licensed",
   "sc:name": "GenomeThreader",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://genomethreader.org/"

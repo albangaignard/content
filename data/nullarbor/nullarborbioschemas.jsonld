@@ -18,9 +18,9 @@
   "sc:author": "Torsten Seemann",
   "sc:contributor": [
     "JC Kwong",
-    "BP Howden",
     "DM Bulach",
     "A Goncalves da Silva",
+    "BP Howden",
     "MB Schultz"
   ],
   "sc:description": "Pipeline to generate complete public health microbiology reports from isolates sequenced with Illumina paired-end sequencing.",

@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/sparta",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Benjamin K. Johnson",
         "Robert B. Abramovitch",
+        "Benjamin K. Johnson",
         "Matthew B. Scholz",
         "Tracy K. Teal"
       ],
@@ -31,8 +31,8 @@
       "sc:license": "CC-BY-4.0",
       "sc:name": "SPARTA",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://sparta.readthedocs.io/en/latest/",

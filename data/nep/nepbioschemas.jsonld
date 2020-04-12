@@ -28,8 +28,8 @@
       "sc:name": "NEP",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://bioinformatics.niaid.nih.gov/nep/#home"
     },

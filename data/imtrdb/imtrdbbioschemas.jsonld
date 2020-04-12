@@ -10,19 +10,23 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12864-019-5536-1",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/ImtRDB",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Konstantin Gunbin",
-        "Viktor Shamansky"
+        "Viktor Shamansky",
+        "Konstantin Gunbin"
       ],
       "sc:additionalType": [
-        "Desktop application",
-        "Database portal"
+        "Database portal",
+        "Desktop application"
       ],
       "sc:citation": [
-        "pubmed:31284879",
         "pmcid:PMC6614062",
+        "pubmed:31284879",
         {
           "@id": "https://doi.org/10.1186/s12864-019-5536-1"
         }
@@ -40,14 +44,10 @@
       "sc:name": "ImtRDB",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioinfodbs.kantiana.ru/ImtRDB/"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12864-019-5536-1",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

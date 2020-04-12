@@ -27,9 +27,9 @@
       },
       "sc:name": "RAFSIL",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://www.kostkalab.net/software.html"
     },

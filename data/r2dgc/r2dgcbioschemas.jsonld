@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/r2dgc",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Emily Gordon",
     "Ryne Ramaker",
+    "Emily Gordon",
     "Sara Cooper"
   ],
   "sc:additionalType": "Library",
@@ -20,9 +20,9 @@
   "sc:license": "MIT",
   "sc:name": "R2DGC",
   "sc:operatingSystem": [
-    "Linux",
+    "Windows",
     "Mac",
-    "Windows"
+    "Linux"
   ],
   "sc:url": "https://cran.r-project.org/web/packages/R2DGC/index.html"
 }

@@ -26,7 +26,7 @@
           "@id": "edam:operation_3096"
         },
         {
-          "@id": "edam:operation_0224"
+          "@id": "edam:operation_3080"
         },
         {
           "@id": "edam:operation_3196"
@@ -35,7 +35,7 @@
           "@id": "edam:operation_0314"
         },
         {
-          "@id": "edam:operation_3080"
+          "@id": "edam:operation_0224"
         }
       ],
       "sc:name": "REDIportal",

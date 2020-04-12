@@ -17,8 +17,8 @@
   "sc:name": "biojs-stat-seqs",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": "BioJS",
   "sc:url": "https://github.com/greenify/biojs-stat-seqs",

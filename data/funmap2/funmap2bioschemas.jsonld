@@ -40,9 +40,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Funmap2",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://github.com/wzhy2000/Funmap2",
       "sc:version": "2.4.2"

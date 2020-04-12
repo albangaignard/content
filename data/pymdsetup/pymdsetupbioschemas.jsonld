@@ -13,8 +13,8 @@
   "biotools:primaryContact": "Pau Andrio",
   "sc:additionalType": [
     "Suite",
-    "Command-line tool",
     "Workflow",
+    "Command-line tool",
     "Library"
   ],
   "sc:description": "Python package to setup and run molecular dynamics simulations.",
