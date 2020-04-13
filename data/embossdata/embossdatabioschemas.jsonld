@@ -14,25 +14,25 @@
   "sc:contributor": [
     "UK MRC",
     "UK BBSRC",
-    "EMBOSS Contributors",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Find and retrieve EMBOSS db data files.",
   "sc:funder": [
     "UK BBSRC",
-    "Wellcome Trust",
-    "UK MRC"
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "embossdata",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/embossdata.html",
   "sc:version": "r6"

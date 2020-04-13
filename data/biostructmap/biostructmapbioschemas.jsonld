@@ -24,8 +24,8 @@
   "sc:name": "BioStructMap",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://biostructmap.burnet.edu.au"
 }

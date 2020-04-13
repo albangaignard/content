@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://orcid.org/0000-0001-7609-5905",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/contibait",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -33,16 +37,12 @@
       "sc:license": "BSD-4-Clause",
       "sc:name": "contiBAIT",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/contiBAIT.html",
       "sc:version": "1.2.0"
-    },
-    {
-      "@id": "https://orcid.org/0000-0001-7609-5905",
-      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1093/bioinformatics/btx281",

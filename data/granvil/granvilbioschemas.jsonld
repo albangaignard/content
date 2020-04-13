@@ -39,8 +39,8 @@
       "sc:name": "GRANVIL",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://www.geenivaramu.ee/en/tools/granvil"
     }

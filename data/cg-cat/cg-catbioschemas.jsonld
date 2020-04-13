@@ -17,13 +17,13 @@
   "sc:name": "CG-CAT",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
+    "CeBiTec",
     "BiBiServ",
-    "Bielefeld University",
-    "CeBiTec"
+    "Bielefeld University"
   ],
   "sc:url": "http://bibiserv.cebitec.uni-bielefeld.de/cgcat",
   "sc:version": "1"

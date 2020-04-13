@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-4517-1562",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.1038/nmeth.1937",
       "@type": "sc:CreativeWork"
     },
@@ -25,8 +29,8 @@
       ],
       "sc:citation": [
         "pubmed:22426492",
-        "pmcid:PMC3340533",
         "pubmed:23221638",
+        "pmcid:PMC3340533",
         {
           "@id": "https://doi.org/10.1038/nmeth.1937"
         }
@@ -36,15 +40,11 @@
       "sc:name": "Segway",
       "sc:operatingSystem": "Linux",
       "sc:provider": [
-        "Princess Margaret Cancer Centre",
-        "University of Toronto"
+        "University of Toronto",
+        "Princess Margaret Cancer Centre"
       ],
       "sc:url": "http://segway.hoffmanlab.org/",
       "sc:version": "1.4.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-4517-1562",
-      "@type": "schema:Person"
     }
   ]
 }

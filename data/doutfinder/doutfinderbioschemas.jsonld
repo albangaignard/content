@@ -17,8 +17,8 @@
   "sc:name": "DOUTfinder",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://mendel.imp.ac.at/dout/"
 }

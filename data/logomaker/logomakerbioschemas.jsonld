@@ -20,8 +20,8 @@
   "sc:name": "Logomaker",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://github.com/jbkinney/logomaker"
 }

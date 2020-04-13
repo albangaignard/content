@@ -10,15 +10,19 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-9732-4313",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/mirlab",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0002-9732-4313"
       },
       "sc:additionalType": [
-        "Plug-in",
+        "Library",
         "Command-line tool",
-        "Library"
+        "Plug-in"
       ],
       "sc:citation": [
         "pubmed:26716983",
@@ -35,15 +39,11 @@
       "sc:name": "miRLAB",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/miRLAB.html",
       "sc:version": "1.8.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-9732-4313",
-      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1371/journal.pone.0145386",

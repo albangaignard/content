@@ -35,8 +35,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "PROPER",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/PROPER.html",

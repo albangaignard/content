@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Australia",
-    "Simon Gladman",
-    "Torsten Seemann"
+    "Torsten Seemann",
+    "Simon Gladman"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:author": [

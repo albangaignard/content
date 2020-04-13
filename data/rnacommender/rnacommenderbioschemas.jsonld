@@ -19,8 +19,8 @@
   "sc:name": "RNAcommender",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://rnacommender.disi.unitn.it"
 }

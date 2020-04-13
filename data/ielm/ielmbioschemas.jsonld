@@ -21,8 +21,8 @@
   "sc:name": "iELM",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://i.elm.eu.org"
 }

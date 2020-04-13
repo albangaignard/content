@@ -16,8 +16,8 @@
         "@id": "http://orcid.org/0000-0002-9412-9643"
       },
       "sc:additionalType": [
-        "Web application",
         "Web service",
+        "Web application",
         "Command-line tool"
       ],
       "sc:citation": "pubmed:10891285",

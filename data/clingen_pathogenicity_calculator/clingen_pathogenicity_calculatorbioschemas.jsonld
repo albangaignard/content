@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/clingen_pathogenicity_calculator",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web service",
-        "Web application"
+        "Web application",
+        "Web service"
       ],
       "sc:citation": [
         "pubmed:28081714",
@@ -26,10 +26,10 @@
       "sc:description": "The tool enables to assess the pathogenity of Mendelian germline sequence variants.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3226"
+          "@id": "edam:operation_3225"
         },
         {
-          "@id": "edam:operation_3225"
+          "@id": "edam:operation_3226"
         },
         {
           "@id": "edam:operation_3438"
@@ -38,8 +38,8 @@
       "sc:license": "OSL-3.0",
       "sc:name": "ClinGen Pathogenicity Calculator",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://calculator.clinicalgenome.org/site/cg-calculator"

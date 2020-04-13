@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK MRC",
-    "UK BBSRC",
     "Wellcome Trust",
+    "UK BBSRC",
     "EMBOSS Contributors"
   ],
   "sc:description": "Find siRNA duplexes in mRNA.",
@@ -27,8 +27,8 @@
   "sc:name": "sirna",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "EMBL EBI",

@@ -16,8 +16,8 @@
   "sc:name": "GOModeler",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://agbase.hpc.msstate.edu/cgi-bin/tools/GOModeler.cgi"
 }

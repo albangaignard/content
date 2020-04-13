@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "VJ Carey",
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:19349284",
@@ -36,9 +36,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "GGtools",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/GGtools.html",
       "sc:version": "5.10.0"
