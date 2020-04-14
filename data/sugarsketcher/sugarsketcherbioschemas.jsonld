@@ -16,8 +16,8 @@
   "sc:name": "SugarSketcher",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://glycoproteome.expasy.org/sugarsketcher/"
 }

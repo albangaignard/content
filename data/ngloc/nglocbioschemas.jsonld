@@ -36,9 +36,9 @@
       },
       "sc:name": "ngLOC",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://genome.unmc.edu/ngLOC/index.html",
       "sc:version": "1.0"

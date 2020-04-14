@@ -17,8 +17,8 @@
   "sc:name": "CLC Main Workbench",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://www.qiagenbioinformatics.com/products/clc-main-workbench/"
 }

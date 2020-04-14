@@ -36,18 +36,18 @@
           "@id": "edam:operation_3207"
         },
         {
-          "@id": "edam:operation_3206"
+          "@id": "edam:operation_3186"
         },
         {
-          "@id": "edam:operation_3186"
+          "@id": "edam:operation_3206"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "EPIC-TABSAT",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://tabsat.ait.ac.at/"
     },

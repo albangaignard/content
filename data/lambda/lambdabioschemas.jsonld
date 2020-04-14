@@ -20,9 +20,9 @@
   "sc:license": "Unlicense",
   "sc:name": "LAmbDA",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:url": "http://github.com/tsteelejohnson91/LAmbDA"
 }

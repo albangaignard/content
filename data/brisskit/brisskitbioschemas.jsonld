@@ -15,11 +15,11 @@
     "Shajid Issa"
   ],
   "sc:additionalType": [
-    "Web application",
     "Web API",
+    "Web application",
+    "Command-line tool",
     "Workbench",
-    "Database portal",
-    "Command-line tool"
+    "Database portal"
   ],
   "sc:author": [
     "Shajid Issa (Technical Lead)",
@@ -37,9 +37,9 @@
   ],
   "sc:name": "BRISSKit",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "University of Leicester",

@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/NAR/GKZ394",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/w3DNA",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -21,8 +17,8 @@
         "Wilma K Olson"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC6602438",
@@ -37,20 +33,24 @@
           "@id": "edam:operation_3095"
         },
         {
-          "@id": "edam:operation_0279"
+          "@id": "edam:operation_2518"
         },
         {
-          "@id": "edam:operation_2518"
+          "@id": "edam:operation_0279"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "w3DNA",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://web.x3dna.org/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/NAR/GKZ394",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

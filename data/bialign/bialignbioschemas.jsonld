@@ -12,18 +12,18 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Ivo L. Hofacker",
+    "Maria Waldl",
     "Michael T. Wolfinger",
-    "Sebastian Will",
-    "Maria Waldl"
+    "Sebastian Will"
   ],
   "sc:additionalType": "Script",
   "sc:description": "Bi-Alignments as Models of Incongruent Evolution of RNA Sequence and Structure.",
   "sc:license": "GPL-3.0",
   "sc:name": "BiAlign",
   "sc:operatingSystem": [
-    "Windows",
+    "Mac",
     "Linux",
-    "Mac"
+    "Windows"
   ],
   "sc:url": "https://github.com/s-will/BiAlign"
 }

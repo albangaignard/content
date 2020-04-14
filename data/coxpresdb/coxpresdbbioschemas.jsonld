@@ -17,8 +17,8 @@
   "sc:name": "COXPRESdb",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://coxpresdb.jp"
 }

@@ -40,8 +40,8 @@
       },
       "sc:name": "GXA Expt",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:provider": "Identifiers.org",

@@ -19,8 +19,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "Salmonella CRISPR typing",
   "sc:operatingSystem": [
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "C3BI",

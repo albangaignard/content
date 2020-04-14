@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-5864-7056",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/orange",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -25,16 +21,16 @@
         "Desktop application"
       ],
       "sc:author": [
-        "Andrej Čopar",
-        "Jernej Kernc",
-        "Janez Demšar",
-        "Aleš Erjavec",
-        "Martin Stražar",
         "Vesna Tanko",
+        "Anže Starič",
+        "Aleš Erjavec",
+        "Janez Demšar",
+        "Jernej Kernc",
         "Lan Žagar",
+        "Andrej Čopar",
+        "Martin Stražar",
         "Marko Toplak",
-        "Tomaž Curk",
-        "Anže Starič"
+        "Tomaž Curk"
       ],
       "sc:citation": "pubmed:17586552",
       "sc:contributor": {
@@ -49,11 +45,15 @@
         "Windows"
       ],
       "sc:provider": [
-        "ELIXIR-SI-hackathon",
-        "Faculty of Computer and Information Science, University of Ljubljana, Slovenia"
+        "Faculty of Computer and Information Science, University of Ljubljana, Slovenia",
+        "ELIXIR-SI-hackathon"
       ],
       "sc:url": "https://orange.biolab.si/",
       "sc:version": "2.7"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-5864-7056",
+      "@type": "schema:Person"
     }
   ]
 }

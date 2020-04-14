@@ -37,9 +37,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "piano",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/piano.html",
       "sc:version": "1.14.4"

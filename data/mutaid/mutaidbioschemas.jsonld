@@ -36,8 +36,8 @@
       ],
       "sc:name": "MutAid",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://sourceforge.net/projects/mutaid/"
     }

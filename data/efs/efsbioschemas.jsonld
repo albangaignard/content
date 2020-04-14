@@ -36,9 +36,9 @@
       ],
       "sc:name": "EFS",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://efs.heiderlab.de/"
     }

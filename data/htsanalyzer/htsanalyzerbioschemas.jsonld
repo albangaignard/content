@@ -17,13 +17,13 @@
       },
       "edam:has_input": [
         {
-          "@id": "edam:data_2872"
-        },
-        {
           "@id": "edam:data_2603"
         },
         {
           "@id": "edam:data_2600"
+        },
+        {
+          "@id": "edam:data_2872"
         }
       ],
       "edam:has_output": [
@@ -43,10 +43,10 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0602"
+          "@id": "edam:topic_0085"
         },
         {
-          "@id": "edam:topic_0085"
+          "@id": "edam:topic_0602"
         },
         {
           "@id": "edam:topic_3523"
@@ -75,8 +75,8 @@
       "sc:name": "HTSanalyzeR",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/HTSanalyzeR.html",
       "sc:version": "2.26.0"

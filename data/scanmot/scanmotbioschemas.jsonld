@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Saikat Chakrabarti",
+    "Prem Anand A.",
     "Nitin Bhardwaj",
     "Sowdhamini R.",
-    "Prem Anand A.",
     "Pugalenthi G."
   ],
   "sc:additionalType": "Web application",
