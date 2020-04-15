@@ -16,8 +16,8 @@
   "sc:name": "PITUFO",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://sites.google.com/site/pitufosoftware"
 }

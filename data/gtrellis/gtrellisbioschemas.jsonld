@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-7395-8709",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1186/s12859-016-1051-4",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-7395-8709",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/gtrellis",
@@ -30,8 +30,8 @@
         "@id": "edam:data_3002"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
@@ -67,8 +67,8 @@
       "sc:name": "gtrellis",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/gtrellis.html",
       "sc:version": "1.6.0"

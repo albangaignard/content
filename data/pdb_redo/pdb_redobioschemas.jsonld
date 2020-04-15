@@ -21,8 +21,8 @@
       "sc:name": "PDB_REDO databank",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://www.cmbi.ru.nl/pdb_redo"
     },

@@ -19,8 +19,8 @@
   "sc:license": "Unlicense",
   "sc:name": "GCPred",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://gcpred.com/"

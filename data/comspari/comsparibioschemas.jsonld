@@ -14,8 +14,8 @@
   "sc:description": "Compares two datasets in netCDF or ASCII format.",
   "sc:name": "COMSPARI",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://www.biomechanic.org/comspari"

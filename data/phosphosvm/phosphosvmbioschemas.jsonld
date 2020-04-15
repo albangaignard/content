@@ -19,8 +19,8 @@
   "sc:name": "PhosphoSVM",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://sysbio.unl.edu/PhosphoSVM/"
 }

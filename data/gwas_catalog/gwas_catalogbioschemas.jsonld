@@ -18,9 +18,9 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "GWAS Catalog Support",
       "sc:additionalType": [
+        "Web API",
         "Web application",
-        "Database portal",
-        "Web API"
+        "Database portal"
       ],
       "sc:citation": [
         {
@@ -35,21 +35,21 @@
           "@id": "edam:operation_3459"
         },
         {
-          "@id": "edam:operation_0484"
+          "@id": "edam:operation_2429"
         },
         {
           "@id": "edam:operation_2421"
         },
         {
-          "@id": "edam:operation_2429"
+          "@id": "edam:operation_0484"
         }
       ],
       "sc:license": "Apache-2.0",
       "sc:name": "GWAS catalog",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://www.ebi.ac.uk/gwas/"
     }

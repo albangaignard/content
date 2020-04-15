@@ -27,8 +27,8 @@
       "sc:name": "PRODIGY-CRYSTAL",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://bianca.science.uu.nl/prodigy/cryst"
     },

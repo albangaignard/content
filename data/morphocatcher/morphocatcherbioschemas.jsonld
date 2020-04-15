@@ -40,8 +40,8 @@
       "sc:license": "Unlicense",
       "sc:name": "MorphoCatcher",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://morphocatcher.ru"

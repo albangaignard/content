@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/sv-callers",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Workflow",
-        "Command-line tool"
+        "Command-line tool",
+        "Workflow"
       ],
       "sc:author": "Arnold Kuzniar",
       "sc:contributor": [

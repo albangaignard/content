@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0001-5282-3250",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/affy",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Rafael A. Irizarry",
@@ -25,10 +29,10 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0092"
+          "@id": "edam:topic_0203"
         },
         {
-          "@id": "edam:topic_0203"
+          "@id": "edam:topic_0092"
         },
         {
           "@id": "edam:topic_3473"
@@ -57,10 +61,6 @@
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/affy.html",
       "sc:version": "1.52.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-5282-3250",
-      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.3390/microarrays3010001",

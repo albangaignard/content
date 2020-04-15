@@ -40,17 +40,17 @@
           "@id": "edam:operation_3196"
         },
         {
-          "@id": "edam:operation_3280"
+          "@id": "edam:operation_3216"
         },
         {
-          "@id": "edam:operation_3216"
+          "@id": "edam:operation_3280"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "IAMBEE",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://bioinformatics.intec.ugent.be/iambee/"

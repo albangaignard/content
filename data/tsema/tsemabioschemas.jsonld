@@ -17,8 +17,8 @@
   "sc:name": "TSEMA",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://tsema.bioinfo.cnio.es/"
 }

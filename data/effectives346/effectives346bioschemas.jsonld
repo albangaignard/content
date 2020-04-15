@@ -17,15 +17,15 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_0896"
+          "@id": "edam:data_0920"
         },
         {
-          "@id": "edam:data_0920"
+          "@id": "edam:data_0896"
         }
       ],
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:applicationSubCategory": [
         {

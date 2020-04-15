@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.3390/ijms20051070",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/RPITER",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "C. Peng",
@@ -40,10 +44,6 @@
         "Mac"
       ],
       "sc:url": "https://github.com/Pengeace/RPITER"
-    },
-    {
-      "@id": "https://doi.org/10.3390/ijms20051070",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

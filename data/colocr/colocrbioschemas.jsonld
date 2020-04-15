@@ -23,10 +23,10 @@
       "sc:description": "R package for conducting co-localization analysis on fluorescence microscopy images.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_1812"
+          "@id": "edam:operation_3443"
         },
         {
-          "@id": "edam:operation_3443"
+          "@id": "edam:operation_1812"
         }
       ],
       "sc:license": "GPL-3.0",

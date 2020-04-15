@@ -11,19 +11,19 @@
   "@id": "https://bio.tools/RERconverge",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Weiguang (Wayne) Mao",
+    "Raghavendran Partha",
     "Nathan Clark",
     "Wynn Meyer",
-    "Maria Chikina",
-    "Raghavendran Partha"
+    "Weiguang (Wayne) Mao",
+    "Maria Chikina"
   ],
   "sc:additionalType": "Library",
   "sc:author": [
-    "Weiguang (Wayne) Mao",
-    "Raghavendran Partha",
+    "Wynn Meyer",
     "Maria Chikina",
     "Amanda Kowalczyk",
-    "Wynn Meyer",
+    "Weiguang (Wayne) Mao",
+    "Raghavendran Partha",
     "Nathan Clark"
   ],
   "sc:citation": "pubmed:31192356",

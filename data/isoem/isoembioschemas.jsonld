@@ -22,8 +22,8 @@
   "sc:name": "IsoEM",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://dna.engr.uconn.edu/?page_id=105"
 }

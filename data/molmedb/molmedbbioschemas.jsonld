@@ -23,13 +23,13 @@
         "Jakub Juračka"
       ],
       "sc:contributor": [
-        "Michaela Melíková",
         {
           "@id": "http://orcid.org/0000-0001-9556-2978"
         },
         {
           "@id": "http://orcid.org/0000-0001-9472-2589"
-        }
+        },
+        "Michaela Melíková"
       ],
       "sc:description": "MolMeDB is an open chemistry database about interactions of molecules with membranes.",
       "sc:funder": "Czech Grant Agency",
