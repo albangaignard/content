@@ -24,8 +24,8 @@
   "sc:name": "Genome Wide Association Study pipeline (GWASpi)",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "upf.edu",

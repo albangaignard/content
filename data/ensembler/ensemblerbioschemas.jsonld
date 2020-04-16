@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Patrick B. Grinaway",
-        "Daniel L. Parton",
-        "John D. Chodera"
+        "John D. Chodera",
+        "Daniel L. Parton"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
@@ -36,8 +36,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "Ensembler",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/choderalab/ensembler"
     }

@@ -28,8 +28,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "GESPA",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://sourceforge.net/projects/gespa/"

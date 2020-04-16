@@ -30,8 +30,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "INB",
     "CNIO",
+    "INB",
     "cnio.es"
   ],
   "sc:url": "http://appris.bioinfo.cnio.es/#/database",

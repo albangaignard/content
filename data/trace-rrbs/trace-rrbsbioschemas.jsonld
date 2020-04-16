@@ -16,8 +16,8 @@
   "sc:name": "TRACE-RRBS",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bioinformaticstools.mayo.edu/research/trace-rrbs/"
 }

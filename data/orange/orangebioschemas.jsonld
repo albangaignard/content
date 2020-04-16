@@ -25,16 +25,16 @@
         "Command-line tool"
       ],
       "sc:author": [
-        "Aleš Erjavec",
-        "Vesna Tanko",
-        "Martin Stražar",
-        "Andrej Čopar",
+        "Anže Starič",
         "Marko Toplak",
-        "Jernej Kernc",
         "Tomaž Curk",
         "Janez Demšar",
-        "Lan Žagar",
-        "Anže Starič"
+        "Aleš Erjavec",
+        "Vesna Tanko",
+        "Jernej Kernc",
+        "Andrej Čopar",
+        "Martin Stražar",
+        "Lan Žagar"
       ],
       "sc:citation": "pubmed:17586552",
       "sc:contributor": {
@@ -44,9 +44,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Orange",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": [
         "ELIXIR-SI-hackathon",

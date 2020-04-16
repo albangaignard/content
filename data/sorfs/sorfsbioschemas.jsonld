@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/sORFs",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         {
@@ -31,8 +31,8 @@
       "sc:name": "sORFs",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://www.sorfs.org/"
     }

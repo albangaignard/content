@@ -50,8 +50,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "4Pipe4",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:softwareHelp": {
         "@id": "https://github.com/StuntsPT/4Pipe4/"

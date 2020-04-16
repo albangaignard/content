@@ -32,8 +32,8 @@
         "@id": "edam:data_1636"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
@@ -58,9 +58,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "EnrichedHeatmap",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/EnrichedHeatmap.html",
       "sc:version": "1.12.0"

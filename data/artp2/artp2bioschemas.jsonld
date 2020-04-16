@@ -24,8 +24,8 @@
   "sc:name": "ARTP2",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://dceg.cancer.gov/tools/analysis/artp"
 }

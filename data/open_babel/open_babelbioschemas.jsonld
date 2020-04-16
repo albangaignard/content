@@ -19,8 +19,8 @@
   "sc:name": "Open Babel",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://openbabel.org/wiki/Main_Page"
 }

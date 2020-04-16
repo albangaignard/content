@@ -19,8 +19,8 @@
       "biotools:primaryContact": "Ying Li",
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
-        "pubmed:28116287",
         "pmcid:PMC5223071",
+        "pubmed:28116287",
         {
           "@id": "https://doi.org/10.1155/2016/9185496"
         }

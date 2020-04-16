@@ -17,8 +17,8 @@
   "sc:name": "R3D Align",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://rna.bgsu.edu/r3dalign/"
 }

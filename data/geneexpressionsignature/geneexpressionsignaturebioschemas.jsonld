@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/geneexpressionsignature",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Fei Li",
     "Yang Cao",
-    "Lu Han",
-    "Fei Li"
+    "Lu Han"
   ],
   "sc:additionalType": [
     "Command-line tool",
@@ -23,8 +23,8 @@
   "sc:license": "GPL-2.0",
   "sc:name": "GeneExpressionSignature",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/GeneExpressionSignature.html",
