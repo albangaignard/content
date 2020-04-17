@@ -30,8 +30,8 @@
       "sc:name": "SECISDesign web server",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": [
         "University Freiburg",

@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/precog",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
+    "Web application",
     "Command-line tool",
-    "Desktop application",
-    "Web application"
+    "Desktop application"
   ],
   "sc:author": "Luciano Fernandez",
   "sc:contributor": [

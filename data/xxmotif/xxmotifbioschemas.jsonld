@@ -18,8 +18,8 @@
       ],
       "sc:citation": [
         "pmcid:PMC3394272",
-        "pubmed:22693218",
         "pubmed:22990209",
+        "pubmed:22693218",
         {
           "@id": "https://doi.org/10.1093/nar/gks602"
         }

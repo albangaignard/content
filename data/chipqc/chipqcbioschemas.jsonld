@@ -21,10 +21,10 @@
       "@id": "https://bio.tools/chipqc",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Tom Carroll",
         {
           "@id": "http://orcid.org/0000-0002-1790-5469"
-        }
+        },
+        "Tom Carroll"
       ],
       "sc:additionalType": [
         "Command-line tool",

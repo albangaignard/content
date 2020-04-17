@@ -16,8 +16,8 @@
         "@id": "http://orcid.org/0000-0002-4650-8745"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC4587815",
@@ -38,9 +38,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "compEpiTools",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/compEpiTools.html",
       "sc:version": "1.8.0"

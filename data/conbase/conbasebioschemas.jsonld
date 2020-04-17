@@ -18,8 +18,8 @@
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
-        "pmcid:PMC6444814",
         "pubmed:30935387",
+        "pmcid:PMC6444814",
         {
           "@id": "https://doi.org/10.1186/s13059-019-1673-8"
         }
@@ -30,10 +30,10 @@
           "@id": "edam:operation_3454"
         },
         {
-          "@id": "edam:operation_3227"
+          "@id": "edam:operation_3196"
         },
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_3227"
         }
       ],
       "sc:license": "MIT",

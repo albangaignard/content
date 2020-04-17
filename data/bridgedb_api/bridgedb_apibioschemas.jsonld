@@ -15,8 +15,8 @@
   "sc:name": "BridgeDb API",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.bridgedb.org/"
 }

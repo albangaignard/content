@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Mette Voldby Larsen",
       "sc:additionalType": [
         "Command-line tool",
-        "Web service",
-        "Web application"
+        "Web application",
+        "Web service"
       ],
       "sc:citation": [
         "pubmed:17973982",

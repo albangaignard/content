@@ -26,8 +26,8 @@
       },
       "sc:name": "Bicluster",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://www.australianprostatecentre.org/research/software/seed-based-biclustering-of-gene-expression-data"

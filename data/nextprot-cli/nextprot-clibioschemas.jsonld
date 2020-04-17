@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/nextprot-cli",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web API",
     "Command-line tool",
+    "Web API",
     "SPARQL endpoint",
     "Library"
   ],
@@ -20,8 +20,8 @@
   "sc:license": "GPL-2.0",
   "sc:name": "nextprot-cli",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": "isb-sib.ch",

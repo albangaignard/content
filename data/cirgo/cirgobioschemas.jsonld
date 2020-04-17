@@ -43,8 +43,8 @@
       "sc:name": "Circular Gene Ontology (CirGO)",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/IrinaVKuznetsova/CirGO.git"
     },

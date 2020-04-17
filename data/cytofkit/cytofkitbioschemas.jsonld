@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/cytofkit",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jinmiao Chen",
-    "Hao Chen"
+    "Hao Chen",
+    "Jinmiao Chen"
   ],
   "sc:additionalType": [
     "Library",
@@ -25,8 +25,8 @@
   "sc:name": "cytofkit",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/cytofkit.html",
   "sc:version": "1.6.1"

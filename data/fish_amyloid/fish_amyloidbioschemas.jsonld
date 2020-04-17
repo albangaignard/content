@@ -30,9 +30,9 @@
       },
       "sc:name": "FISH Amyloid",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://comprec-lin.iiar.pwr.edu.pl/fishInput/"
     }

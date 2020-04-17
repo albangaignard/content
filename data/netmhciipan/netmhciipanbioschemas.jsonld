@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0001-7885-4311",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1007/s00251-013-0720-y",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-7885-4311",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/netmhciipan",
@@ -30,8 +30,8 @@
         "@id": "edam:data_1277"
       },
       "sc:additionalType": [
-        "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_3534"

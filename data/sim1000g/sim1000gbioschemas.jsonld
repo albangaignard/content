@@ -37,8 +37,8 @@
       "sc:name": "sim1000G",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://cran.r-project.org/package=sim1000G",
       "sc:version": "1.39"

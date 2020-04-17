@@ -11,19 +11,19 @@
   "@id": "https://bio.tools/RERconverge",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Maria Chikina",
     "Nathan Clark",
-    "Wynn Meyer",
     "Raghavendran Partha",
-    "Weiguang (Wayne) Mao"
+    "Maria Chikina",
+    "Weiguang (Wayne) Mao",
+    "Wynn Meyer"
   ],
   "sc:additionalType": "Library",
   "sc:author": [
-    "Maria Chikina",
-    "Amanda Kowalczyk",
     "Nathan Clark",
-    "Wynn Meyer",
+    "Amanda Kowalczyk",
     "Raghavendran Partha",
+    "Maria Chikina",
+    "Wynn Meyer",
     "Weiguang (Wayne) Mao"
   ],
   "sc:citation": "pubmed:31192356",
@@ -31,9 +31,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "RERconverge",
   "sc:operatingSystem": [
+    "Linux",
     "Windows",
-    "Mac",
-    "Linux"
+    "Mac"
   ],
   "sc:url": "https://github.com/nclark-lab/RERconverge"
 }

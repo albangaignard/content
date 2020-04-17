@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Kelly Burkett",
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
-        "pmcid:PMC5860401",
         "pubmed:26787665",
+        "pmcid:PMC5860401",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/btv763"
         }

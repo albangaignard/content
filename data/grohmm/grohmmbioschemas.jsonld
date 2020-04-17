@@ -14,24 +14,20 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0002-1999-7125",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/grohmm",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Tulip Nandu",
-        "W. Lee Kraus",
         "Venkat Malladi",
-        "Anusha Nagari"
+        "Anusha Nagari",
+        "W. Lee Kraus"
       ],
       "edam:has_input": [
         {
-          "@id": "edam:data_0863"
+          "@id": "edam:data_3002"
         },
         {
-          "@id": "edam:data_3002"
+          "@id": "edam:data_0863"
         }
       ],
       "edam:has_output": [
@@ -39,25 +35,25 @@
           "@id": "edam:data_1017"
         },
         {
+          "@id": "edam:data_2884"
+        },
+        {
           "@id": "edam:data_2048"
         },
         {
           "@id": "edam:data_3002"
-        },
-        {
-          "@id": "edam:data_2884"
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3168"
+          "@id": "edam:topic_3308"
         },
         {
-          "@id": "edam:topic_3308"
+          "@id": "edam:topic_3168"
         }
       ],
       "sc:citation": [
@@ -88,6 +84,10 @@
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/groHMM.html",
       "sc:version": "1.8.0"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-1999-7125",
+      "@type": "schema:Person"
     }
   ]
 }

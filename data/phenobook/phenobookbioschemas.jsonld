@@ -19,8 +19,8 @@
       "biotools:primaryContact": "Leonardo S. Vanzetti",
       "sc:additionalType": "Web API",
       "sc:citation": [
-        "pmcid:PMC5530315",
         "pubmed:28327910",
+        "pmcid:PMC5530315",
         {
           "@id": "https://doi.org/10.1093/gigascience/giw019"
         }
@@ -31,9 +31,9 @@
       },
       "sc:name": "Phenobook",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://getphenobook.com/"
     }

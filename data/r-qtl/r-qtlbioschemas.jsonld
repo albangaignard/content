@@ -22,8 +22,8 @@
       "sc:name": "R-QTL",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://www.rqtl.org/"
     },

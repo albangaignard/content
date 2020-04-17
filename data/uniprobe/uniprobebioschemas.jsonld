@@ -17,8 +17,8 @@
   "sc:name": "UniPROBE",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://uniprobe.org"
 }
