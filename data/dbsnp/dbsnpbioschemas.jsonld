@@ -18,8 +18,8 @@
   "sc:name": "dbSNP",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": "NCBI",
   "sc:url": "http://www.ncbi.nlm.nih.gov/SNP/"

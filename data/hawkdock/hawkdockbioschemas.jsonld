@@ -17,16 +17,16 @@
       "@id": "https://bio.tools/HawkDock",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Tingjun Hou",
-        "Gaoqi Weng"
+        "Gaoqi Weng",
+        "Tingjun Hou"
       ],
       "sc:additionalType": [
         "Web service",
         "Web application"
       ],
       "sc:citation": [
-        "pmcid:PMC6602443",
         "pubmed:31106357",
+        "pmcid:PMC6602443",
         {
           "@id": "https://doi.org/10.1093/NAR/GKZ397"
         }
@@ -47,8 +47,8 @@
       "sc:name": "HawkDock",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://cadd.zju.edu.cn/hawkdock/"
     }

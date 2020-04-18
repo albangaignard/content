@@ -17,8 +17,8 @@
   "sc:name": "MOAT",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://moat.gersteinlab.org/"
 }

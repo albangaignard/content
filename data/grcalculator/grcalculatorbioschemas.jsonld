@@ -30,9 +30,9 @@
       },
       "sc:name": "GRcalculator",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://www.grcalculator.org/grcalculator/"
     },

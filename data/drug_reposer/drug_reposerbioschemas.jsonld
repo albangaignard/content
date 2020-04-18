@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0003-4275-4663",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1093/NAR/GKZ391",
       "@type": "sc:CreativeWork"
     },
@@ -25,11 +21,11 @@
       },
       "sc:additionalType": "Web application",
       "sc:citation": [
+        "pubmed:31106379",
+        "pmcid:PMC6602481",
         {
           "@id": "https://doi.org/10.1093/NAR/GKZ391"
-        },
-        "pubmed:31106379",
-        "pmcid:PMC6602481"
+        }
       ],
       "sc:description": "Web server for predicting similar amino acid arrangements to known drug binding interfaces for potential drug repositioning.",
       "sc:featureList": [
@@ -46,11 +42,15 @@
       "sc:license": "Unlicense",
       "sc:name": "Drug ReposER",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://mfrlab.org/drugreposer/"
+    },
+    {
+      "@id": "https://orcid.org/0000-0003-4275-4663",
+      "@type": "schema:Person"
     }
   ]
 }

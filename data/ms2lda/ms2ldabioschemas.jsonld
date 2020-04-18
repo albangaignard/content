@@ -16,8 +16,8 @@
   "sc:name": "MS2LDA",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://ms2lda.org"
 }

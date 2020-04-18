@@ -23,8 +23,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "DEsubs",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:url": "http://bioconductor.org/packages/DEsubs/",

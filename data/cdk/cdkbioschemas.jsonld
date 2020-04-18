@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Library",
   "sc:author": [
-    "John May",
-    "Egon Willighagen",
+    "Christoph Steinbeck",
     "Rajarshi Guha",
-    "Christoph Steinbeck"
+    "Egon Willighagen",
+    "John May"
   ],
   "sc:description": "Open source Java library for bio- and cheminformatics.",
   "sc:license": "LGPL-2.1",

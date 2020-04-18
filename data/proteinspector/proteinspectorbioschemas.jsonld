@@ -16,8 +16,8 @@
   "sc:name": "Proteinspector",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": "ugent.be",
   "sc:url": "https://bitbucket.org/proteinspector/qc_analysis/",

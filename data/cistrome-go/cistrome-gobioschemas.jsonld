@@ -17,9 +17,9 @@
         "Clifford A Meyer"
       ],
       "sc:additionalType": [
-        "Command-line tool",
+        "Web service",
         "Web application",
-        "Web service"
+        "Command-line tool"
       ],
       "sc:citation": [
         {
@@ -31,21 +31,21 @@
       "sc:description": "Web server for functional enrichment analysis of transcription factor ChIP-seq peaks.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3222"
-        },
-        {
           "@id": "edam:operation_3223"
         },
         {
           "@id": "edam:operation_3501"
+        },
+        {
+          "@id": "edam:operation_3222"
         }
       ],
       "sc:license": "Other",
       "sc:name": "Cistrome-GO",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://go.cistrome.org/"
     },

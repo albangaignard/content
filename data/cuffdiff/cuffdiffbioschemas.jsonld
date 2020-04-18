@@ -25,8 +25,8 @@
       "sc:name": "cuffdiff",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://cole-trapnell-lab.github.io/cufflinks/",
       "sc:version": "2.2.1.2"

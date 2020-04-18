@@ -19,8 +19,8 @@
   "sc:name": "NanoPipe",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://nanopipe.readthedocs.io/en/latest/"
 }

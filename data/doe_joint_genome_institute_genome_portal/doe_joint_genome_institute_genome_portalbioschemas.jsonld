@@ -17,8 +17,8 @@
   "sc:name": "DOE Joint Genome Institute Genome Portal",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://genome.jgi-psf.org/"
 }

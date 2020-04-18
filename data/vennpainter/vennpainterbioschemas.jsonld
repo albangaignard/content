@@ -32,9 +32,9 @@
       "sc:license": "Other",
       "sc:name": "VennPainter",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://github.com/linguoliang/VennPainter/"
     }

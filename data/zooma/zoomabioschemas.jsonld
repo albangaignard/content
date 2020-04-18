@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-2513-5396",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/zooma",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -30,16 +34,12 @@
       "sc:name": "Zooma",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:provider": "EMBL-EBI",
       "sc:url": "http://wwwdev.ebi.ac.uk/fgpt/zooma/",
       "sc:version": "1"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-2513-5396",
-      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1186/2041-1480-2-S5-S3",

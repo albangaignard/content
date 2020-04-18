@@ -12,18 +12,18 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Jiří Černý",
-    "Daniel Svozil",
-    "Filip Lankaš",
     "Petr Cech",
-    "Bohdan Schneider"
+    "Filip Lankaš",
+    "Bohdan Schneider",
+    "Daniel Svozil"
   ],
   "sc:additionalType": "Database portal",
   "sc:description": "Database of local biomolecular conformers, stores DNA structural data including the information about DNA local spatial arrangement.",
   "sc:name": "Dolbico",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": "ELIXIR-CZ",
   "sc:url": "http://dolbico.org/",

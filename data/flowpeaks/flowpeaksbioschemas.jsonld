@@ -40,8 +40,8 @@
       "sc:license": "Artistic-1.0",
       "sc:name": "flowPeaks",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/flowPeaks.html",
