@@ -23,8 +23,8 @@
         "@id": "edam:data_1276"
       },
       "sc:additionalType": [
-        "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:applicationSubCategory": [
         {
@@ -49,10 +49,10 @@
       "sc:description": "Prediction and analysis of nuclear localization signals.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3092"
+          "@id": "edam:operation_2489"
         },
         {
-          "@id": "edam:operation_2489"
+          "@id": "edam:operation_3092"
         }
       ],
       "sc:isAccessibleForFree": true,

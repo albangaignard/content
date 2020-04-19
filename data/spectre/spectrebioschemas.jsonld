@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/spectre",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Command-line tool",
-        "Script"
+        "Script",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC5123373",
@@ -29,8 +29,8 @@
       },
       "sc:name": "SPECtre",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/mills-lab/spectre"
     },

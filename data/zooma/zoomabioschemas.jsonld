@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-2513-5396",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1186/2041-1480-2-S5-S3",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/zooma",
@@ -24,8 +24,8 @@
         "@id": "http://orcid.org/0000-0002-2513-5396"
       },
       "sc:citation": [
-        "pmcid:PMC3194170",
         "pubmed:21995944",
+        "pmcid:PMC3194170",
         {
           "@id": "https://doi.org/10.1186/2041-1480-2-S5-S3"
         }
@@ -34,16 +34,16 @@
       "sc:name": "Zooma",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": "EMBL-EBI",
       "sc:url": "http://wwwdev.ebi.ac.uk/fgpt/zooma/",
       "sc:version": "1"
     },
     {
-      "@id": "https://doi.org/10.1186/2041-1480-2-S5-S3",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0002-2513-5396",
+      "@type": "schema:Person"
     }
   ]
 }

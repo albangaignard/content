@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0002-2381-2170",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/cellmapper",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -37,15 +41,11 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "CellMapper",
       "sc:operatingSystem": [
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/CellMapper.html",
       "sc:version": "1.0.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-2381-2170",
-      "@type": "schema:Person"
     }
   ]
 }

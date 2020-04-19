@@ -39,8 +39,8 @@
       "sc:license": "CC-BY-NC-4.0",
       "sc:name": "PhenX Toolkit",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "https://www.phenxtoolkit.org/"

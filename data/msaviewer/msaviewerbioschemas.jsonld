@@ -13,20 +13,20 @@
   "sc:additionalType": "Library",
   "sc:author": "Sebastian Wilzbach",
   "sc:contributor": [
-    "Benedikt Rauscher",
+    "Tatyana Goldberg",
     "Google Summer of Code (GSoC) 2014",
-    "Ian Sillitoe",
     "Guy Yachdav",
-    "Tatyana Goldberg"
+    "Benedikt Rauscher",
+    "Ian Sillitoe"
   ],
   "sc:description": "Large MSAs visualization interactively on the web.",
   "sc:funder": "Google Summer of Code (GSoC) 2014",
   "sc:license": "Apache-2.0",
   "sc:name": "MSAViewer",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "Technische Universität München",

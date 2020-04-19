@@ -24,10 +24,10 @@
       "sc:description": "Improved pipeline for analyzing CRISPR cleavage specificity.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3216"
+          "@id": "edam:operation_0308"
         },
         {
-          "@id": "edam:operation_0308"
+          "@id": "edam:operation_3216"
         },
         {
           "@id": "edam:operation_3501"
@@ -37,8 +37,8 @@
       "sc:name": "iGUIDE",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://github.com/cnobles/iGUIDE"
     },

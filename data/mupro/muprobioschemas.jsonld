@@ -21,8 +21,8 @@
   "sc:name": "MUpro",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://mupro.proteomics.ics.uci.edu/"
 }

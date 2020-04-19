@@ -32,8 +32,8 @@
       "sc:license": "Not licensed",
       "sc:name": "MACH",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://csg.sph.umich.edu/abecasis/mach/"

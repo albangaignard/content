@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Library",
       "sc:citation": [
-        "pmcid:PMC4329600",
         "pubmed:25717363",
+        "pmcid:PMC4329600",
         {
           "@id": "https://doi.org/10.12688/F1000RESEARCH.4867.1"
         }

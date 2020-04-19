@@ -35,8 +35,8 @@
       "sc:license": "MIT",
       "sc:name": "GRAbB",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/b-brankovics/grabb"
     }

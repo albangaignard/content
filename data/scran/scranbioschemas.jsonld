@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-3564-4813",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.12688/f1000research.9501.1",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-3564-4813",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/scran",
@@ -24,8 +24,8 @@
         "@id": "http://orcid.org/0000-0002-3564-4813"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:27909575",
@@ -41,9 +41,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "scran",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/scran.html",
       "sc:version": "1.2.0"

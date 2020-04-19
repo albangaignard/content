@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/yagm",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Wei-Sheng Wu",
         "Chung-Ching Wang",
+        "Wei-Sheng Wu",
         "Meng-Jhun Jhou"
       ],
       "sc:additionalType": "Web application",

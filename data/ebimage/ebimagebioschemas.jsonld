@@ -19,12 +19,12 @@
       "sc:additionalType": "Command-line tool",
       "sc:author": [
         "Andrzej Oleś",
-        "Mike Smith",
         "Gregoire Pau",
         "Oleg Sklyar",
         {
           "@id": "http://orcid.org/0000-0002-0474-2218"
-        }
+        },
+        "Mike Smith"
       ],
       "sc:citation": [
         "pmcid:PMC2844988",
@@ -40,24 +40,24 @@
       "sc:license": "LGPL-2.1",
       "sc:name": "EBImage",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:provider": [
-        "European Molecular Biology Laboratory",
-        "hdhub"
+        "hdhub",
+        "European Molecular Biology Laboratory"
       ],
       "sc:url": "http://bioconductor.org/packages/EBImage/",
       "sc:version": "4"
     },
     {
-      "@id": "http://orcid.org/0000-0002-0474-2218",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1093/bioinformatics/btq046",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-0474-2218",
+      "@type": "schema:Person"
     }
   ]
 }
