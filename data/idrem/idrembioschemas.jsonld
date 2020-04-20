@@ -17,8 +17,8 @@
   "sc:name": "iDREM",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/phoenixding/idrem"
 }

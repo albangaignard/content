@@ -10,14 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0001-6455-3622",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkw255",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/edgar_genomics",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -43,6 +35,14 @@
       "sc:provider": "bigi",
       "sc:url": "http://edgar.computational.bio",
       "sc:version": "2.0"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkw255",
+      "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-6455-3622",
+      "@type": "schema:Person"
     }
   ]
 }

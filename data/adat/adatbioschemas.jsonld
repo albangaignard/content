@@ -10,16 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.5334/jors.166",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/adat",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Foo Cheung",
       "sc:additionalType": [
-        "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:29951204",
@@ -41,10 +37,14 @@
       "sc:name": "ADAT",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://foocheung.shinyapps.io/adat/"
+    },
+    {
+      "@id": "https://doi.org/10.5334/jors.166",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

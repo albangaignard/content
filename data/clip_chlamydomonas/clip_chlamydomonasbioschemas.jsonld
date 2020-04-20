@@ -23,8 +23,8 @@
   "sc:name": "CLiP  Chlamydomonas",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://www.chlamylibrary.org/"
 }

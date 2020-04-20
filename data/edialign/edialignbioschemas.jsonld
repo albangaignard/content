@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
-    "EMBOSS Contributors",
+    "UK MRC",
     "Wellcome Trust",
-    "UK MRC"
+    "EMBOSS Contributors"
   ],
   "sc:description": "Local multiple alignment of sequences.",
   "sc:funder": [

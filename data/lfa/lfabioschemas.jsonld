@@ -21,8 +21,8 @@
         "Wei Hao"
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         {
@@ -38,9 +38,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "lfa",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/lfa.html",
       "sc:version": "1.4.0"

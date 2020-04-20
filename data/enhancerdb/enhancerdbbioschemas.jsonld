@@ -10,13 +10,17 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/database/bay141",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/EnhancerDB",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Z. Guo",
       "sc:additionalType": [
         "Database portal",
-        "Web application",
-        "Web API"
+        "Web API",
+        "Web application"
       ],
       "sc:citation": [
         {
@@ -39,15 +43,11 @@
       ],
       "sc:name": "EnhancerDB",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://lcbb.swjtu.edu.cn/EnhancerDB/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/database/bay141",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

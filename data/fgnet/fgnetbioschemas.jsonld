@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0001-6104-7134",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/fgnet",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -43,15 +47,11 @@
       "sc:name": "FGNet",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/FGNet.html",
       "sc:version": "3.8.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-6104-7134",
-      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1093/bioinformatics/btu864",

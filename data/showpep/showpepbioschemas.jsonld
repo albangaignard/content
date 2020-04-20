@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
+    "EMBOSS Contributors",
     "UK BBSRC",
-    "UK MRC",
-    "EMBOSS Contributors"
+    "UK MRC"
   ],
   "sc:description": "Display protein sequences with features in pretty format.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "showpep",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "EMBOSS",

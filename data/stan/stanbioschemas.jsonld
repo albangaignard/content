@@ -26,10 +26,10 @@
         "Command-line tool"
       ],
       "sc:citation": [
-        "pubmed:25527639",
         {
           "@id": "https://doi.org/10.15252/msb.20145654"
         },
+        "pubmed:25527639",
         "pmcid:PMC4300491"
       ],
       "sc:contributor": {

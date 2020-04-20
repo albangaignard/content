@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.1093/bioinformatics/bts223",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/sst",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -38,10 +42,6 @@
         "Mac"
       ],
       "sc:url": "http://lcb.infotech.monash.edu.au/sstweb/Submission_page.html"
-    },
-    {
-      "@id": "https://doi.org/10.1093/bioinformatics/bts223",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

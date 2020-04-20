@@ -10,14 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gkn840",
-      "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "http://orcid.org/0000-0003-0060-6486",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/netmhcpan",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Morten Nielsen",
@@ -47,10 +39,10 @@
       "sc:description": "Predict binding of peptides to any known MHC molecule using artificial neural networks (ANNs).",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0416"
+          "@id": "edam:operation_2575"
         },
         {
-          "@id": "edam:operation_2575"
+          "@id": "edam:operation_0416"
         }
       ],
       "sc:isAccessibleForFree": true,
@@ -66,6 +58,14 @@
       },
       "sc:url": "http://www.cbs.dtu.dk/services/NetMHCpan/",
       "sc:version": "2.8"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkn840",
+      "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0003-0060-6486",
+      "@type": "schema:Person"
     }
   ]
 }

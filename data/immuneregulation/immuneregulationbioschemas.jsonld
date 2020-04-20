@@ -37,17 +37,17 @@
           "@id": "edam:operation_0441"
         },
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_3232"
         },
         {
-          "@id": "edam:operation_3232"
+          "@id": "edam:operation_3196"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "ImmuneRegulation",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "https://immuneregulation.mssm.edu"

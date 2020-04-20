@@ -28,10 +28,10 @@
       "sc:description": "Web server for analysis, comparison, and visualization of contact residues and interfacial waters of antibody-antigen structures and models.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0394"
+          "@id": "edam:operation_2950"
         },
         {
-          "@id": "edam:operation_2950"
+          "@id": "edam:operation_0394"
         },
         {
           "@id": "edam:operation_0272"
@@ -40,9 +40,9 @@
       "sc:license": "Unlicense",
       "sc:name": "AppA",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://mspc.bii.a-star.edu.sg/minhn/appa.html"
     },

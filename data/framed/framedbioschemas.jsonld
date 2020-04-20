@@ -15,9 +15,9 @@
   "sc:license": "Unlicense",
   "sc:name": "FrameD",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:url": "http://genoweb.toulouse.inra.fr/FrameD/FD"
 }

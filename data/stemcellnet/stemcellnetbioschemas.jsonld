@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-6245-8071",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.1093/nar/gku455",
       "@type": "sc:CreativeWork"
     },
@@ -48,19 +52,15 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "StemCellNet",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:softwareHelp": {
         "@id": "http://193.136.227.181:8080/stemcellnet/help.jsf"
       },
       "sc:url": "http://stemcellnet.sysbiolab.eu",
       "sc:version": "1.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-6245-8071",
-      "@type": "schema:Person"
     }
   ]
 }

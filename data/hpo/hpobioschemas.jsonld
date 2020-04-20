@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Peter Robinson",
-        "Sebastian Köhler",
-        "Melissa Haendel"
+        "Melissa Haendel",
+        "Sebastian Köhler"
       ],
       "sc:additionalType": [
         "Web application",
@@ -42,9 +42,9 @@
       ],
       "sc:name": "HPO",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://hpo.jax.org/app/"
     },

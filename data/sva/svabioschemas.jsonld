@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/sva",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "John D. Storey",
     "Jeffrey T. Leek",
-    "W. Evan Johnson"
+    "W. Evan Johnson",
+    "John D. Storey"
   ],
   "sc:additionalType": [
     "Command-line tool",

@@ -27,8 +27,8 @@
       },
       "sc:name": "Noncoder",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://noncoder.mpi-bn.mpg.de/"

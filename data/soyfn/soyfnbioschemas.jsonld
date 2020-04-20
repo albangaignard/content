@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/soyfn",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Maozu Guo",
-        "Yungang Xu"
+        "Yungang Xu",
+        "Maozu Guo"
       ],
       "sc:additionalType": "Database portal",
       "sc:citation": [

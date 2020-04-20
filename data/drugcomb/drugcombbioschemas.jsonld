@@ -10,6 +10,14 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/NAR/GKZ337",
+      "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "https://orcid.org/0000-0001-7480-7710",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/DrugComb",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -41,19 +49,11 @@
       "sc:license": "Unlicense",
       "sc:name": "DrugComb",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://drugcomb.fimm.fi"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKZ337",
-      "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "https://orcid.org/0000-0001-7480-7710",
-      "@type": "schema:Person"
     }
   ]
 }

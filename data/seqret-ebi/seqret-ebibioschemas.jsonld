@@ -19,8 +19,8 @@
   "sc:description": "Sequence format coversion tool.",
   "sc:name": "seqret (EBI)",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "EMBL-EBI",

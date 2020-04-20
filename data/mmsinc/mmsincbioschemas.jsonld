@@ -16,8 +16,8 @@
   "sc:name": "MMsINC",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": "ELIXIR-ITA-PADOVA",
   "sc:url": "http://mms.dsfarm.unipd.it/MMsINC/search/"

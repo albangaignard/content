@@ -27,10 +27,10 @@
           "@id": "edam:operation_3659"
         },
         {
-          "@id": "edam:operation_3803"
+          "@id": "edam:operation_3891"
         },
         {
-          "@id": "edam:operation_3891"
+          "@id": "edam:operation_3803"
         }
       ],
       "sc:license": "Unlicense",

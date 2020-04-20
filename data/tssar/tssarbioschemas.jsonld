@@ -34,9 +34,9 @@
       },
       "sc:name": "TSSAR",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://rna.tbi.univie.ac.at/TSSAR"
     }

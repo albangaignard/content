@@ -17,10 +17,10 @@
       "@id": "https://bio.tools/limmagui",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Yifang Hu",
         {
           "@id": "http://orcid.org/0000-0001-9221-2892"
         },
+        "Yifang Hu",
         "Keith Satterley"
       ],
       "sc:additionalType": [
@@ -33,8 +33,8 @@
       "sc:name": "limmaGUI",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/limmaGUI.html",
       "sc:version": "1.50.0"

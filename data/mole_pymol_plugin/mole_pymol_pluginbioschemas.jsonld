@@ -17,8 +17,8 @@
   "sc:name": "MOLE PyMOL plugin",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "Palacký University Olomouc, Czech Republic",

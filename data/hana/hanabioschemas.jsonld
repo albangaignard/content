@@ -15,8 +15,8 @@
     "Web application"
   ],
   "sc:author": [
-    "Miloš Fetter",
     "Lucie Houdová",
+    "Miloš Fetter",
     "Daniel Georgiev"
   ],
   "sc:description": "Haplotype analyzer for the Czech population.",

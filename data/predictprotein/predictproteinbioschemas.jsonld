@@ -17,8 +17,8 @@
   "sc:name": "PredictProtein",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://ppopen.rostlab.org"
 }

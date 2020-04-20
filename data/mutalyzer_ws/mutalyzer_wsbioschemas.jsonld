@@ -15,8 +15,8 @@
   "sc:name": "Mutalyzer WS",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://mutalyzer.nl/soap-api",
   "sc:version": "1"
