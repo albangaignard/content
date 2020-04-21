@@ -17,8 +17,8 @@
   "sc:name": "CRISPR-GE",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://skl.scau.edu.cn/home/"
 }

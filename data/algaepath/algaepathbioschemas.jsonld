@@ -31,8 +31,8 @@
       },
       "sc:name": "AlgaePath",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://algaepath.itps.ncku.edu.tw/"

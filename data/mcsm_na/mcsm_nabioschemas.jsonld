@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/NAR/GKX236",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/mcsm_na",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -22,8 +18,8 @@
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pmcid:PMC5570212",
         "pubmed:28383703",
+        "pmcid:PMC5570212",
         {
           "@id": "https://doi.org/10.1093/NAR/GKX236"
         }
@@ -42,6 +38,10 @@
       ],
       "sc:name": "mCSM_NA",
       "sc:url": "http://structure.bioc.cam.ac.uk/mcsm_na"
+    },
+    {
+      "@id": "https://doi.org/10.1093/NAR/GKX236",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

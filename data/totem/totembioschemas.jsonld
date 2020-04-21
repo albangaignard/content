@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Nikola Tom",
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pubmed:29940847",
         "pmcid:PMC6020218",
+        "pubmed:29940847",
         {
           "@id": "https://doi.org/10.1186/s12859-018-2227-x"
         }
@@ -27,9 +27,9 @@
       },
       "sc:name": "ToTem",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://totem.software/login/?backlink=iplpf&_fid=t22e"
     },

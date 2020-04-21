@@ -19,8 +19,8 @@
   "sc:license": "Unlicense",
   "sc:name": "PlantAligDB",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://plantaligdb.portugene.com"

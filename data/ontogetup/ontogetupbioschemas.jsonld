@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
-    "UK MRC",
     "EMBOSS Contributors",
+    "UK MRC",
+    "Wellcome Trust",
     "UK BBSRC"
   ],
   "sc:description": "Get ontology term(s) by id of child.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "ontogetup",
   "sc:operatingSystem": [
+    "Windows",
     "Mac",
-    "Linux",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
     "EMBOSS",

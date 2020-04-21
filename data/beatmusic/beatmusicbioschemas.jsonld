@@ -13,8 +13,8 @@
   "biotools:primaryContact": [
     "Marianne Rooman",
     "Jean Marc Kwasigroch",
-    "Yves Dehouck",
-    "Dimitri Gilis"
+    "Dimitri Gilis",
+    "Yves Dehouck"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:23723246",
@@ -22,8 +22,8 @@
   "sc:name": "BeAtMuSiC",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://babylone.ulb.ac.be/beatmusic"
 }

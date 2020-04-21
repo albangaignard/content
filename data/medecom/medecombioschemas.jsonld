@@ -22,10 +22,10 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_2048"
+          "@id": "edam:data_2884"
         },
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_2048"
         }
       ],
       "sc:additionalType": [
@@ -34,10 +34,10 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0080"
+          "@id": "edam:topic_3518"
         },
         {
-          "@id": "edam:topic_3518"
+          "@id": "edam:topic_0080"
         },
         {
           "@id": "edam:topic_3295"
@@ -61,8 +61,8 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "MeDeCom",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": [
         "hdhub",

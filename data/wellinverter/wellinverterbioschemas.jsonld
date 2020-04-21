@@ -21,8 +21,8 @@
         "Johannes Geiselmann"
       ],
       "sc:additionalType": [
-        "Desktop application",
-        "Web application"
+        "Web application",
+        "Desktop application"
       ],
       "sc:citation": [
         "pmcid:PMC6558888",
@@ -34,10 +34,10 @@
       "sc:description": "Web application for the analysis of fluorescent reporter gene data.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3799"
+          "@id": "edam:operation_1812"
         },
         {
-          "@id": "edam:operation_1812"
+          "@id": "edam:operation_3799"
         }
       ],
       "sc:license": "Proprietary",

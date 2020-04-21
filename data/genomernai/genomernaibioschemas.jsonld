@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Database portal",
   "sc:author": [
-    "Oliver Pelz",
     "Benedikt Rauscher",
+    "Oliver Pelz",
     "Esther Schmidt",
     "Michael Boutros"
   ],
@@ -26,8 +26,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "hdhub",
-    "German Cancer Research Center"
+    "German Cancer Research Center",
+    "hdhub"
   ],
   "sc:url": "http://www.genomernai.org/"
 }

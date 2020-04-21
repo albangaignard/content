@@ -48,13 +48,13 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "IntaRNA - RNA-RNA interaction",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:provider": [
-        "rnateam",
-        "University Freiburg"
+        "University Freiburg",
+        "rnateam"
       ],
       "sc:softwareHelp": {
         "@id": "http://rna.informatik.uni-freiburg.de/Help.jsp"

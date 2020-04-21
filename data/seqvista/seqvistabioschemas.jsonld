@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/seqvista",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Martin Frith",
     "Zhenjun Hu",
+    "Martin Frith",
     "Tianhua Niu",
     "Zhiping Weng"
   ],

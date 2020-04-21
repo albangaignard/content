@@ -32,8 +32,8 @@
       ],
       "sc:name": "miFRame",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "https://ccb-compute2.cs.uni-saarland.de/miframe/"

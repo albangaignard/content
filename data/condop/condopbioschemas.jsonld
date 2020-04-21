@@ -38,9 +38,9 @@
       },
       "sc:name": "CONDOP",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:provider": "ELIXIR-ITA-SALERNO",
       "sc:url": "https://cran.r-project.org/web/packages/CONDOP/index.html",

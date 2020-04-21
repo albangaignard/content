@@ -16,8 +16,8 @@
   "sc:name": "SHIPREC",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://sbi.imim.es/web/index.php/research/databases/shiprec"
 }
