@@ -10,8 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0003-1338-638X",
+      "@id": "https://orcid.org/0000-0003-1774-0091",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gky843",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/AmtDB",
@@ -64,12 +68,8 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://orcid.org/0000-0003-1774-0091",
+      "@id": "https://orcid.org/0000-0003-1338-638X",
       "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gky843",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

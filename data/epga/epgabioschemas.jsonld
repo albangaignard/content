@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/epga",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "George Patrinos",
-        "George Potamias"
+        "George Potamias",
+        "George Patrinos"
       ],
       "sc:additionalType": [
         "Web API",
@@ -44,9 +44,9 @@
       "sc:license": "Other",
       "sc:name": "ePGA",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://www.epga.gr"
     }

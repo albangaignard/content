@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-7520-4943",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.3390/metabo6040039",
       "@type": "sc:CreativeWork"
     },
@@ -35,10 +39,6 @@
       "sc:name": "MetMatch",
       "sc:operatingSystem": "Windows",
       "sc:url": "https://metabolomics-ifa.boku.ac.at/MetMatch/index.html#"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-7520-4943",
-      "@type": "schema:Person"
     }
   ]
 }

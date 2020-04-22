@@ -15,8 +15,8 @@
   "sc:license": "Unlicense",
   "sc:name": "PureseqTM",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:url": "http://pureseqtm.predmp.com/"

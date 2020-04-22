@@ -35,9 +35,9 @@
       ],
       "sc:name": "scFBA",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/BIMIB-DISCo/scFBA"
     },

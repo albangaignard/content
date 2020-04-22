@@ -40,8 +40,8 @@
       "sc:name": "Online Chemical Modeling Environment",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://www.ochem.eu",
       "sc:version": "v.2.4.98"

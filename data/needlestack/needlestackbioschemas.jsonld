@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Nicolas Alcala",
-    "Tiffany Delhomme",
+    "Matthieu Foll",
     "Aurelie Gabriel",
-    "Matthieu Foll"
+    "Tiffany Delhomme"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:description": "Ultra-sensitive variant caller for multi-sample next generation sequencing data.",
@@ -22,8 +22,8 @@
   "sc:name": "needlestack",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://github.com/IARCbioinfo/needlestack"
 }

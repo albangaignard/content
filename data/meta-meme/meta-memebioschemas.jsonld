@@ -17,8 +17,8 @@
   "sc:name": "Meta-MEME",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://metameme.sdsc.edu/"
 }

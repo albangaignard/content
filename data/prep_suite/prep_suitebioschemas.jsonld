@@ -17,8 +17,8 @@
   "sc:name": "PREP Suite",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://prep.unl.edu/"
 }

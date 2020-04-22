@@ -24,9 +24,9 @@
       "sc:license": "Unlicense",
       "sc:name": "coreMRI",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://www.coreMRI.org"
     }

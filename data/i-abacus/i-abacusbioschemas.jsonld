@@ -17,8 +17,8 @@
   "sc:name": "I-AbACUS",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.marilisacortesi.com/"
 }

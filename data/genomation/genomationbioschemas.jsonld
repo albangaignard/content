@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "http://orcid.org/0000-0002-0468-0117",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/genomation",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -33,16 +37,12 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "genomation",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/genomation.html",
       "sc:version": "1.6.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-0468-0117",
-      "@type": "schema:Person"
     }
   ]
 }

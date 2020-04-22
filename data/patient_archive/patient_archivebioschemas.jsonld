@@ -10,23 +10,19 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/database/bav005",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/patient_archive",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web application",
-        "Workbench"
+        "Workbench",
+        "Web application"
       ],
       "sc:citation": [
+        "pmcid:PMC4572507",
+        "pubmed:25725061",
         {
           "@id": "https://doi.org/10.1093/database/bav005"
         },
         "pubmed:26119816",
-        "pmcid:PMC4572507",
-        "pubmed:25725061",
         {
           "@id": "https://doi.org/10.1016/j.ajhg.2015.05.020"
         },
@@ -38,20 +34,24 @@
           "@id": "edam:operation_3280"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_3096"
         },
         {
-          "@id": "edam:operation_3096"
+          "@id": "edam:operation_3431"
         }
       ],
       "sc:name": "KCCG Patient Archive",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://patientarchive.org/#/home",
       "sc:version": "2.2.4"
+    },
+    {
+      "@id": "https://doi.org/10.1093/database/bav005",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://doi.org/10.1016/j.ajhg.2015.05.020",

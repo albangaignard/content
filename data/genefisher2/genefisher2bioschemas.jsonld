@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
     "Command-line tool",
-    "Web API",
-    "Web application"
+    "Web application",
+    "Web API"
   ],
   "sc:author": [
     "Daniel Hagemeier",
@@ -29,8 +29,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "CeBiTec",
     "Bielefeld University",
+    "CeBiTec",
     "BiBiServ"
   ],
   "sc:url": "http://bibiserv.cebitec.uni-bielefeld.de/genefisher2",

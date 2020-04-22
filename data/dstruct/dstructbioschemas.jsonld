@@ -27,10 +27,10 @@
       "sc:description": "Method for identifying differential reactive regions from RNA structurome profiling data.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3192"
+          "@id": "edam:operation_0278"
         },
         {
-          "@id": "edam:operation_0278"
+          "@id": "edam:operation_3192"
         },
         {
           "@id": "edam:operation_2495"
@@ -40,8 +40,8 @@
       "sc:name": "dStruct",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://github.com/AviranLab/dStruct"
     },

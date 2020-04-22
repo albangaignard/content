@@ -31,9 +31,9 @@
       ],
       "sc:name": "ViralZone",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:provider": "SIB Swiss Institute of Bioinformatics",
       "sc:url": "http://viralzone.expasy.org"

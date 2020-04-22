@@ -21,8 +21,8 @@
   ],
   "sc:provider": [
     "bigi",
-    "Bielefeld University",
-    "CeBiTec"
+    "CeBiTec",
+    "Bielefeld University"
   ],
   "sc:url": "https://qupe.cebitec.uni-bielefeld.de",
   "sc:version": "1.0"

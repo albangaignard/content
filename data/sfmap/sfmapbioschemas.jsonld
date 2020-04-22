@@ -17,8 +17,8 @@
   "sc:name": "SFmap",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://sfmap.technion.ac.il"
 }

@@ -20,8 +20,8 @@
   "sc:name": "COPASI",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://copasi.org/"
 }

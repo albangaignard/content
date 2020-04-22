@@ -14,9 +14,9 @@
   "sc:additionalType": "Library",
   "sc:author": [
     "Alessandro Barberis",
+    "Wei-Chen Cheng",
     "Andrew Dhawan",
-    "Francesca Buffa",
-    "Wei-Chen Cheng"
+    "Francesca Buffa"
   ],
   "sc:description": "R package enabling a streamlined methodological and standardised approach for the quality control validation of gene signatures on independent data sets.",
   "sc:license": "Unlicense",

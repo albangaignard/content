@@ -10,17 +10,13 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1371/JOURNAL.PONE.0133647",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/gream",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Kshitish K. Acharya",
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pmcid:PMC4514817",
         "pubmed:26208093",
+        "pmcid:PMC4514817",
         {
           "@id": "https://doi.org/10.1371/JOURNAL.PONE.0133647"
         }
@@ -31,11 +27,15 @@
       },
       "sc:name": "GREAM",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://resource.ibab.ac.in/GREAM/"
+    },
+    {
+      "@id": "https://doi.org/10.1371/JOURNAL.PONE.0133647",
+      "@type": "sc:CreativeWork"
     }
   ]
 }
