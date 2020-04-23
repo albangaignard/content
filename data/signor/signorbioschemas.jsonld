@@ -13,14 +13,14 @@
   "biotools:primaryContact": "Luana Licata",
   "sc:additionalType": "Database portal",
   "sc:author": [
-    "Leonardo Briganti",
     "Prisca Lo Surdo",
-    "Alberto Calderone"
+    "Alberto Calderone",
+    "Leonardo Briganti"
   ],
   "sc:contributor": [
+    "Marta Iannuccelli",
     "Elena Santonico",
     "Livia Perfetto",
-    "Marta Iannuccelli",
     "Gianni Cesareni"
   ],
   "sc:description": "A tool collects manually-annotated logic relationships between molecules that participate in signal transduction.",
@@ -28,8 +28,8 @@
   "sc:name": "SIGNOR",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "ELIXIR-ITA-TORVERGATA",

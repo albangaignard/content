@@ -16,8 +16,8 @@
   "sc:name": "funtooNorm",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://github.com/GreenwoodLab/funtooNorm"
 }

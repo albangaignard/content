@@ -24,20 +24,20 @@
       "sc:description": "R package for QTL mapping using longitudinal phenotypes.",
       "sc:featureList": [
         {
+          "@id": "edam:operation_0282"
+        },
+        {
           "@id": "edam:operation_3232"
         },
         {
           "@id": "edam:operation_3196"
-        },
-        {
-          "@id": "edam:operation_0282"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "Funmap2",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "https://github.com/wzhy2000/Funmap2",

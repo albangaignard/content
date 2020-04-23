@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/bnbr",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Siamak Zamani Dadaneh",
     "Mingyuan Zhou",
+    "Siamak Zamani Dadaneh",
     "Xiaoning Qian"
   ],
   "sc:additionalType": "Library",
@@ -20,8 +20,8 @@
   "sc:name": "BNBR",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://github.com/siamakz/BNBR"
 }

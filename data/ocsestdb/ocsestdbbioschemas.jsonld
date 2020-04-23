@@ -10,12 +10,16 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12870-014-0399-8",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/ocsestdb",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Workflow",
       "sc:citation": [
-        "pmcid:PMC4312456",
         "pubmed:25604238",
+        "pmcid:PMC4312456",
         {
           "@id": "https://doi.org/10.1186/s12870-014-0399-8"
         }
@@ -35,15 +39,11 @@
       "sc:license": "Not licensed",
       "sc:name": "ocsESTdb",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://ocri-genomics.org/ocsESTdb/"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12870-014-0399-8",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

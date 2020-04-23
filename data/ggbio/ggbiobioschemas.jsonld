@@ -36,8 +36,8 @@
       "sc:name": "ggbio",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/ggbio.html",
       "sc:version": "1.22.3"

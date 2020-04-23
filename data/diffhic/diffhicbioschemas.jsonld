@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0002-3564-4813",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/diffhic",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -28,10 +24,10 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_2589"
         },
         {
-          "@id": "edam:data_2589"
+          "@id": "edam:data_2884"
         }
       ],
       "sc:additionalType": [
@@ -40,10 +36,10 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3168"
+          "@id": "edam:topic_3391"
         },
         {
-          "@id": "edam:topic_3391"
+          "@id": "edam:topic_3168"
         }
       ],
       "sc:citation": [
@@ -65,12 +61,16 @@
       "sc:license": "GPL-3.0",
       "sc:name": "diffHic",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/diffHic.html",
       "sc:version": "1.6.0"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-3564-4813",
+      "@type": "schema:Person"
     }
   ]
 }

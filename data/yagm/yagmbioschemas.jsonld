@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Meng-Jhun Jhou",
-        "Chung-Ching Wang",
-        "Wei-Sheng Wu"
+        "Wei-Sheng Wu",
+        "Chung-Ching Wang"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -35,9 +35,9 @@
       },
       "sc:name": "YAGM",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://cosbi3.ee.ncku.edu.tw/yagm/"
     }

@@ -33,27 +33,27 @@
       ],
       "sc:contributor": [
         "SIB Swiss Institute of Bioinformatics",
+        "Macquarie University, Australia",
         "UNSW, Australia",
-        "CCRC, USA",
-        "National Institute for Bioprocessing Research and Training (NIBRT), Ireland",
-        "University of Gothenburg, Sweden",
         "Soka University, Japan",
+        "CCRC, USA",
         "Max Planck Institute of Colloids and Interfaces, Germany",
-        "Macquarie University, Australia"
+        "University of Gothenburg, Sweden",
+        "National Institute for Bioprocessing Research and Training (NIBRT), Ireland"
       ],
       "sc:description": "Curated and annotated glycan database which curates information from the scientific literature on glycoprotein derived glycan structures.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0417"
+          "@id": "edam:operation_0416"
         },
         {
-          "@id": "edam:operation_0416"
+          "@id": "edam:operation_0417"
         }
       ],
       "sc:name": "UniCarbKB",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://unicarb-db.expasy.org/"

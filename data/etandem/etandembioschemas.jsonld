@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "UK MRC",
     "EMBOSS Contributors",
-    "UK BBSRC",
     "Wellcome Trust",
-    "UK MRC"
+    "UK BBSRC"
   ],
   "sc:description": "Find tandem repeats in a nucleotide sequence.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "etandem",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

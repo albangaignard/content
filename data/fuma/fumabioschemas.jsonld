@@ -19,8 +19,8 @@
   "sc:name": "FuMa",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/ErasmusMC-Bioinformatics/fuma"
 }

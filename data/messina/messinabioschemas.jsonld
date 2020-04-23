@@ -22,10 +22,10 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_2048"
         },
         {
-          "@id": "edam:data_2048"
+          "@id": "edam:data_2884"
         }
       ],
       "sc:additionalType": [
@@ -37,10 +37,10 @@
           "@id": "edam:topic_3344"
         },
         {
-          "@id": "edam:topic_3360"
+          "@id": "edam:topic_0203"
         },
         {
-          "@id": "edam:topic_0203"
+          "@id": "edam:topic_3360"
         }
       ],
       "sc:citation": [
@@ -65,8 +65,8 @@
       "sc:license": "EPL-1.0",
       "sc:name": "messina",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/messina.html",

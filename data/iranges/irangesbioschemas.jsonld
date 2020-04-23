@@ -30,18 +30,18 @@
           "@id": "edam:operation_3438"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_3436"
         },
         {
-          "@id": "edam:operation_3436"
+          "@id": "edam:operation_3431"
         }
       ],
       "sc:license": "Artistic-2.0",
       "sc:name": "IRanges",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/IRanges.html",
       "sc:version": "2.8.1"

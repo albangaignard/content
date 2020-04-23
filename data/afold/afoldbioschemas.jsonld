@@ -40,18 +40,18 @@
           "@id": "edam:operation_3680"
         },
         {
-          "@id": "edam:operation_3223"
+          "@id": "edam:operation_3800"
         },
         {
-          "@id": "edam:operation_3800"
+          "@id": "edam:operation_3223"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "aFold",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/devel/bioc/html/ABSSeq.html"
     }

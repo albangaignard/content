@@ -45,8 +45,8 @@
       "sc:license": "Unlicense",
       "sc:name": "IAMBEE",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://bioinformatics.intec.ugent.be/iambee/"

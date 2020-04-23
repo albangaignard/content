@@ -12,17 +12,17 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Lee-Wei Yang",
-    "Chung-Yu Lan",
-    "Hua-Wen Fu"
+    "Hua-Wen Fu",
+    "Chung-Yu Lan"
   ],
   "sc:additionalType": "Web application",
   "sc:description": "Therapeutic Peptide Design DataBase.",
   "sc:license": "Unlicense",
   "sc:name": "TP-DB",
   "sc:operatingSystem": [
+    "Mac",
     "Linux",
-    "Windows",
-    "Mac"
+    "Windows"
   ],
   "sc:url": "https://dyn.life.nthu.edu.tw/design"
 }

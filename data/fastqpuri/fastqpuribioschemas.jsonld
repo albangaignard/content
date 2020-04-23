@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12859-019-2799-0",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/FastqPuri",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Julia Engelmann",
@@ -41,14 +45,10 @@
       "sc:license": "GPL-3.0",
       "sc:name": "FastqPuri",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/jengelmann/FastqPuri"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12859-019-2799-0",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

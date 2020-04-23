@@ -11,14 +11,14 @@
   "@id": "https://bio.tools/suba3",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Australia",
     "Sandra Tanz",
+    "Australia",
     "Cornelia Hooper"
   ],
   "sc:additionalType": "Database portal",
   "sc:contributor": [
-    "Harvey Millar",
     "Sandra Tanz",
+    "Harvey Millar",
     "Cornelia Hooper",
     "Ian Castleden"
   ],
@@ -30,8 +30,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "unimelb.edu.au",
     "ARC Centre of Excellence in Plant Energy Biology",
+    "unimelb.edu.au",
     "University of Western Australia"
   ],
   "sc:url": "http://suba3.plantenergy.uwa.edu.au/"

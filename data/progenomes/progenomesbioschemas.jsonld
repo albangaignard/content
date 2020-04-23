@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0001-6831-4557",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/progenomes",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -43,9 +39,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "proGenomes",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:provider": [
         "HD-HuB",
@@ -56,6 +52,10 @@
     },
     {
       "@id": "https://orcid.org/0000-0003-1429-7485",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-6831-4557",
       "@type": "schema:Person"
     }
   ]

@@ -15,21 +15,21 @@
     "Web service"
   ],
   "sc:author": [
-    "Kidane M Tekle",
-    "Nathalie Reuter",
     "Siv M Hollup",
-    "Sandhya P Tiwari",
+    "Lars Skjærven",
     "Edvin Fuglebakk",
+    "Gisle Salensminde",
+    "Sandhya P Tiwari",
     "Tristan Cragnolini",
     "Svenn H Grindhaug",
-    "Gisle Salensminde",
-    "Lars Skjærven"
+    "Nathalie Reuter",
+    "Kidane M Tekle"
   ],
   "sc:description": "Quick, automated computation and analysis of low-frequency normal modes for protein structures.",
   "sc:name": "WEBnma",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": [

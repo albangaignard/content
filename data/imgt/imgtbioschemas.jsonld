@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
     "Web application",
-    "Ontology",
     "Database portal",
+    "Ontology",
     "Bioinformatics portal"
   ],
   "sc:citation": "pubmed:25378316",

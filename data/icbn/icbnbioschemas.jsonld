@@ -21,8 +21,8 @@
   "sc:name": "icbn",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.bsse.ethz.ch/cbg/software/icbn"
 }

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12859-016-1306-0",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/dgw",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Saulius Lukauskas",
@@ -29,15 +33,11 @@
       "sc:name": "DGW",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://lukauskas.co.uk/dgw/",
       "sc:version": "0.1.0"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12859-016-1306-0",
-      "@type": "sc:CreativeWork"
     }
   ]
 }
