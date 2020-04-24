@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/c-state",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Divya Tej Sowpati",
     "Surabhi Srivastava",
+    "Divya Tej Sowpati",
     "Rakesh K Mishra"
   ],
   "sc:additionalType": "Web application",

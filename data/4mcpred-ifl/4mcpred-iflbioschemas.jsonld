@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/4mcPred-IFL",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Shasha Luan",
-    "Leyi Wei"
+    "Leyi Wei",
+    "Shasha Luan"
   ],
   "sc:additionalType": [
     "Web service",

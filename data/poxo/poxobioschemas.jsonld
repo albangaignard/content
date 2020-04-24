@@ -17,8 +17,8 @@
   "sc:name": "POXO",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.bioinfo.biocenter.helsinki.fi/poxo"
 }

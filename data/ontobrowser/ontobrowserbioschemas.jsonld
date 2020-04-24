@@ -26,12 +26,12 @@
   "sc:license": "Apache-2.0",
   "sc:name": "OntoBrowser",
   "sc:operatingSystem": [
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
-    "http://opensource.nibr.com",
-    "free.fr"
+    "free.fr",
+    "http://opensource.nibr.com"
   ],
   "sc:url": "https://github.com/Novartis/ontobrowser",
   "sc:version": "1"

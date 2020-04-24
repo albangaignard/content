@@ -32,8 +32,8 @@
       "sc:name": "Biomartr",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/biomartr/index.html"
     }

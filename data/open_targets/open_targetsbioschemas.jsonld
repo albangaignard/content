@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
     "Web application",
-    "Database portal",
-    "Web service"
+    "Web service",
+    "Database portal"
   ],
   "sc:citation": [
     "pmcid:PMC5210543",
@@ -23,9 +23,9 @@
   "sc:license": "Unlicense",
   "sc:name": "Open Targets",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://www.opentargets.org/"
 }

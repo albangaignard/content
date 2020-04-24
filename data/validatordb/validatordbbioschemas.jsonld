@@ -21,9 +21,9 @@
   "sc:description": "Database of validation results for ligands and non-standard residues in the Protein Data Bank.",
   "sc:name": "ValidatorDB",
   "sc:operatingSystem": [
+    "Mac",
     "Linux",
-    "Windows",
-    "Mac"
+    "Windows"
   ],
   "sc:provider": "Masaryk University, Brno, Czech Republic",
   "sc:url": "http://webchem.ncbr.muni.cz/Platform/ValidatorDB"

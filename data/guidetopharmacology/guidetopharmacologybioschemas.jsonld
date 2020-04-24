@@ -22,29 +22,29 @@
       ],
       "sc:contributor": [
         "Wellcome Trust",
-        "International Union of Basic and Clinical Pharmacology (IUPHAR)",
-        "British Pharmacological Society (BPS)"
+        "British Pharmacological Society (BPS)",
+        "International Union of Basic and Clinical Pharmacology (IUPHAR)"
       ],
       "sc:description": "An expert-curated pharmacological database of drug targets and their ligands.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2421"
+          "@id": "edam:operation_3760"
         },
         {
-          "@id": "edam:operation_3760"
+          "@id": "edam:operation_2421"
         }
       ],
       "sc:funder": [
-        "British Pharmacological Society (BPS)",
         "Wellcome Trust",
+        "British Pharmacological Society (BPS)",
         "International Union of Basic and Clinical Pharmacology (IUPHAR)"
       ],
       "sc:license": "CC-BY-SA-3.0",
       "sc:name": "IUPHAR BPS Guide to PHARMACOLOGY",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:provider": [
         "The University of Edinburgh",

@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "GiuliaPaganelli",
-    "FilippoPiccinini",
-    "AnnaTesei",
     "WainerZoli",
+    "AnnaTesei",
+    "FilippoPiccinini",
     "AlessandroBevilacqua"
   ],
   "sc:additionalType": "Desktop application",

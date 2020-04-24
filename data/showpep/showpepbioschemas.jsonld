@@ -13,26 +13,26 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
-    "Wellcome Trust",
+    "UK MRC",
     "EMBOSS Contributors",
-    "UK MRC"
+    "Wellcome Trust"
   ],
   "sc:description": "Display protein sequences with features in pretty format.",
   "sc:funder": [
+    "Wellcome Trust",
     "UK BBSRC",
-    "UK MRC",
-    "Wellcome Trust"
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "showpep",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/showpep.html",
   "sc:version": "r6"

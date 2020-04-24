@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/btw052",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0003-1072-8858",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/metacca",
@@ -20,8 +20,8 @@
         "@id": "http://orcid.org/0000-0003-1072-8858"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:27153689",
@@ -38,15 +38,15 @@
       "sc:name": "metaCCA",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/metaCCA.html",
       "sc:version": "1.2.0"
     },
     {
-      "@id": "http://orcid.org/0000-0003-1072-8858",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1093/bioinformatics/btw052",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

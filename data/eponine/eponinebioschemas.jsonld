@@ -17,8 +17,8 @@
   "sc:name": "Eponine",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.sanger.ac.uk/resources/software/eponine/"
 }

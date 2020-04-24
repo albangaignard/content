@@ -17,8 +17,8 @@
   "sc:name": "oPOSSUM",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.cisreg.ca/oPOSSUM/"
 }

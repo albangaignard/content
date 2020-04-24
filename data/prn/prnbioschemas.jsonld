@@ -25,8 +25,8 @@
       },
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pubmed:25844159",
         "pmcid:PMC4367516",
+        "pubmed:25844159",
         {
           "@id": "https://doi.org/10.12688/F1000RESEARCH.5951.2"
         }
