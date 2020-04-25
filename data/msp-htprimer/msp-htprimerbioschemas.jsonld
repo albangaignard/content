@@ -27,8 +27,8 @@
       },
       "sc:name": "MSP-HTPrimer",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://sourceforge.net/projects/msp-htprimer/"
     },

@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/scsr",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Roger Meier",
     "Andrea Franceschini",
+    "Roger Meier",
     "Christian von Mering"
   ],
   "sc:additionalType": [

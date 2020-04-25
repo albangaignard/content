@@ -16,8 +16,8 @@
   "sc:name": "AutoSNPdb",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://autosnpdb.appliedbioinformatics.com.au/index.jsp?species="
 }

@@ -29,8 +29,8 @@
       "sc:name": "WeBCMD",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://www.webcmd.org/#!/"
     },

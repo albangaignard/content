@@ -19,8 +19,8 @@
   "sc:name": "Roci",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "Bielefeld University",

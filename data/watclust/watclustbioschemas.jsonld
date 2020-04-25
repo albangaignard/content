@@ -19,8 +19,8 @@
   "sc:license": "Unlicense",
   "sc:name": "WATCLUST",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "https://watclust.wordpress.com/"

@@ -21,8 +21,8 @@
   "sc:name": "PCASuite",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://mmb.pcb.ub.edu/software/pcasuite/"
 }

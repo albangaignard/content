@@ -27,17 +27,17 @@
       "sc:description": "R package for conducting co-localization analysis on fluorescence microscopy images.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3443"
+          "@id": "edam:operation_1812"
         },
         {
-          "@id": "edam:operation_1812"
+          "@id": "edam:operation_3443"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "colocr",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "https://github.com/ropensci/colocr"

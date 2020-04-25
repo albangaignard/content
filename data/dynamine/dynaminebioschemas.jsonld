@@ -18,8 +18,8 @@
   "sc:description": "Protein backbone dynamics prediction from sequence.",
   "sc:name": "DynaMine",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": "vub.ac.be",

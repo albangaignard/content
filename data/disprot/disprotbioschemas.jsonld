@@ -20,10 +20,10 @@
           "@id": "edam:data_3021"
         },
         {
-          "@id": "edam:data_2723"
+          "@id": "edam:data_1009"
         },
         {
-          "@id": "edam:data_1009"
+          "@id": "edam:data_2723"
         }
       ],
       "edam:has_output": [
@@ -52,18 +52,18 @@
       "sc:description": "Database of protein disorder. It is a community resource annotating protein sequences for intrinsically disordered regions from the literature.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3092"
+          "@id": "edam:operation_0224"
         },
         {
-          "@id": "edam:operation_0224"
+          "@id": "edam:operation_3092"
         }
       ],
       "sc:license": "CC-BY-NC-1.0",
       "sc:name": "Database of protein disorder (DisProt)",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:provider": "University of Padua, Department of Biomedical Sciences, BioComputing UP lab",
       "sc:url": "http://www.disprot.org/",

@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.1093/nar/gkt970",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/simap",
       "@type": "sc:SoftwareApplication",
       "edam:has_input": {
@@ -48,8 +52,8 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "SIMAP",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:provider": "AT-CUBE",
@@ -57,10 +61,6 @@
         "@id": "http://cube.univie.ac.at/resources/simap"
       },
       "sc:url": "http://cube.univie.ac.at/resources/simap"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkt970",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

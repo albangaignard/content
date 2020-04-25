@@ -19,8 +19,8 @@
   "sc:name": "Porter5",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://distilldeep.ucd.ie/porter/",
   "sc:version": "5"

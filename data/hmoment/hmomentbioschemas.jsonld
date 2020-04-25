@@ -13,22 +13,22 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "EMBOSS Contributors",
-    "UK MRC",
-    "Wellcome Trust",
-    "UK BBSRC"
-  ],
-  "sc:description": "Calculate and plot hydrophobic moment for protein sequence(s).",
-  "sc:funder": [
     "UK BBSRC",
     "UK MRC",
     "Wellcome Trust"
   ],
+  "sc:description": "Calculate and plot hydrophobic moment for protein sequence(s).",
+  "sc:funder": [
+    "Wellcome Trust",
+    "UK MRC",
+    "UK BBSRC"
+  ],
   "sc:license": "GPL-3.0",
   "sc:name": "hmoment",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "EMBL EBI",

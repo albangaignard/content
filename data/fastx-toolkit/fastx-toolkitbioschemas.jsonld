@@ -19,8 +19,8 @@
   "sc:name": "FASTX-Toolkit",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://hannonlab.cshl.edu/fastx_toolkit/"
 }

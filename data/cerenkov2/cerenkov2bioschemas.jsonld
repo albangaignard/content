@@ -28,20 +28,20 @@
       "sc:description": "Software pipeline and associated machine-learning framework for identifying regulatory single nucleotide polymorphisms (rSNPs) in the noncoding genome for post-analysis of genetic regions identified in genome-wide association studies (GWAS).",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2495"
-        },
-        {
           "@id": "edam:operation_3661"
         },
         {
           "@id": "edam:operation_0484"
+        },
+        {
+          "@id": "edam:operation_2495"
         }
       ],
       "sc:license": "Apache-2.0",
       "sc:name": "CERENKOV2",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "https://github.com/ramseylab/cerenkov",

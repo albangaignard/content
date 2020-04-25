@@ -16,8 +16,8 @@
   "sc:name": "MeltDB",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "bigi",

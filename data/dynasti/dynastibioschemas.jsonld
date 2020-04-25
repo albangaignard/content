@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.3390/METABO9050085",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/DynaStI",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -39,11 +35,15 @@
       "sc:license": "Unlicense",
       "sc:name": "DynaStI",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://dynasti.vital-it.ch"
+    },
+    {
+      "@id": "https://doi.org/10.3390/METABO9050085",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://orcid.org/0000-0003-3669-6313",

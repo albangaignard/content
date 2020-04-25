@@ -16,8 +16,8 @@
   "sc:name": "MindTheGap",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": "GenOuest",
   "sc:url": "https://gatb.inria.fr/software/mind-the-gap/",

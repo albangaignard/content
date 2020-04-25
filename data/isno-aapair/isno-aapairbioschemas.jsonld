@@ -24,9 +24,9 @@
       "sc:description": "New predictor which was developed by taking into account the coupling effects for all the pairs formed by the nearest residues and the pairs by the next nearest residues along protein chains.",
       "sc:name": "iSNO-AAPair",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://app.aporc.org/iSNO-AAPair/"
     },

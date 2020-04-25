@@ -15,8 +15,8 @@
   "sc:license": "Unlicense",
   "sc:name": "PPIExp",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://www.fgvis.com/expressvis/PPIExp",
