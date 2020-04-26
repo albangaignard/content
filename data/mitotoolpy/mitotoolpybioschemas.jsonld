@@ -17,8 +17,8 @@
   "sc:name": "MitoToolPy",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.mitotool.org/mp.html#intro"
 }

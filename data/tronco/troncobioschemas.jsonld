@@ -29,9 +29,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "TRONCO",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:provider": "ELIXIR-ITA-BICOCCA",
       "sc:url": "https://sites.google.com/site/troncopackage/",

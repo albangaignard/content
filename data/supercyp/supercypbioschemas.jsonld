@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Stefan Guenther",
-    "Saskia Preissner",
-    "Daniel Kuzmann",
     "Katharina Kroll",
-    "Mathias Dunkel"
+    "Daniel Kuzmann",
+    "Mathias Dunkel",
+    "Saskia Preissner"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:19934256",
@@ -23,8 +23,8 @@
   "sc:name": "SuperCYP",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bioinformatics.charite.de/supercyp"
 }

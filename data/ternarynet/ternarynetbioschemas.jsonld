@@ -40,8 +40,8 @@
         }
       ],
       "sc:citation": [
-        "pmcid:PMC3215431",
         "pubmed:23089817",
+        "pmcid:PMC3215431",
         {
           "@id": "https://doi.org/10.2202/1544-6115.1727"
         }

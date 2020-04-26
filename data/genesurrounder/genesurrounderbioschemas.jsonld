@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/GeneSurrounder",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Rosemary Braun",
-        "Sahil Shah"
+        "Sahil Shah",
+        "Rosemary Braun"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -30,17 +30,17 @@
           "@id": "edam:operation_3463"
         },
         {
-          "@id": "edam:operation_0277"
+          "@id": "edam:operation_2436"
         },
         {
-          "@id": "edam:operation_2436"
+          "@id": "edam:operation_0277"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "GeneSurrounder",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://github.com/sahildshah1/gene-surrounder"

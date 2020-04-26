@@ -36,9 +36,9 @@
       },
       "sc:name": "TRAPP",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://trapp.h-its.org/"
     },

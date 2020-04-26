@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://orcid.org/0000-0002-1164-1351",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/FAIRDataPoint",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -33,10 +29,10 @@
         "Web application"
       ],
       "sc:author": [
+        "Kees burger",
         {
           "@id": "https://orcid.org/0000-0002-1215-167X"
-        },
-        "Kees burger"
+        }
       ],
       "sc:contributor": [
         {
@@ -50,10 +46,14 @@
       "sc:name": "FAIRDataPoint",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://github.com/FAIRDataTeam/FAIRDataPoint"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-1164-1351",
+      "@type": "schema:Person"
     }
   ]
 }

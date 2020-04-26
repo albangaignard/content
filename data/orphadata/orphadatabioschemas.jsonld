@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Marc Hanauer",
   "sc:additionalType": [
-    "Web API",
     "SPARQL endpoint",
+    "Web API",
     "Database portal"
   ],
   "sc:contributor": [
@@ -29,8 +29,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "Orphanet Inserm",
-    "Inserm US14"
+    "Inserm US14",
+    "Orphanet Inserm"
   ],
   "sc:url": "http://www.orphadata.org/"
 }

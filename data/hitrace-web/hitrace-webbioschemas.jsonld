@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Sungroh Yoon (PI)",
-    "Site admins: Hanjoo Kim (Site admin)",
     "Pablo Cordero (Site admin)",
+    "Site admins: Hanjoo Kim (Site admin)",
     "Rhiju Das (PI)"
   ],
   "sc:additionalType": "Web application",

@@ -18,8 +18,8 @@
   "sc:author": "Sebastian Wilzbach",
   "sc:contributor": [
     "Google Summer of Code (GSoC) 2014",
-    "Ian Sillitoe",
     "Guy Yachdav",
+    "Ian Sillitoe",
     "Benedikt Rauscher",
     "Tatyana Goldberg"
   ],
@@ -28,9 +28,9 @@
   "sc:license": "Apache-2.0",
   "sc:name": "msa",
   "sc:operatingSystem": [
+    "Mac",
     "Windows",
-    "Linux",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
     "BioJS",

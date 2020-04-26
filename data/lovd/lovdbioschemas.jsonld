@@ -19,8 +19,8 @@
   "sc:name": "LOVD",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": "ELIXIR-NL",
   "sc:url": "http://www.lovd.nl/3.0/home",

@@ -18,8 +18,8 @@
   "sc:name": "CSHMM",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.andrew.cmu.edu/user/chiehl1/CSHMM/"
 }

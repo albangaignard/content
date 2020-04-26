@@ -17,8 +17,8 @@
         "ExAC Browser Support"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:27899611",
@@ -30,13 +30,13 @@
       "sc:description": "Exome aggregation consortium (ExAC) - browser framework to display large population datasets of genetic variation. The browser aggregates exome sequencing data from a wide variety of large-scale sequencing projects, and to make summary data available for the wider scientific community.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2403"
-        },
-        {
           "@id": "edam:operation_3436"
         },
         {
           "@id": "edam:operation_3197"
+        },
+        {
+          "@id": "edam:operation_2403"
         },
         {
           "@id": "edam:operation_2421"
@@ -46,8 +46,8 @@
       "sc:name": "ExAC",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://exac.broadinstitute.org"
     },

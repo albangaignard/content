@@ -39,8 +39,8 @@
         "pmcid:PMC1538807"
       ],
       "sc:contributor": [
-        "Burkhard Rost",
-        "grant R01-LM07329-01 from the National Library of Medicine"
+        "grant R01-LM07329-01 from the National Library of Medicine",
+        "Burkhard Rost"
       ],
       "sc:description": "Per-residue prediction of bacterial transmembrane beta barrels.",
       "sc:featureList": [
@@ -56,14 +56,14 @@
       "sc:license": "GPL-2.0",
       "sc:name": "PROFtmb",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:provider": [
         "Irvine Cancer Center",
-        "RostLab",
-        "Columbia University"
+        "Columbia University",
+        "RostLab"
       ],
       "sc:softwareHelp": {
         "@id": "https://rostlab.org/owiki/index.php/Proftmb"

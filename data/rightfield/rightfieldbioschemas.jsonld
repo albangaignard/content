@@ -17,8 +17,8 @@
   "sc:name": "RightField",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "manchester.ac.uk",
