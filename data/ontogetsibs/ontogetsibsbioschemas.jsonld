@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
     "Wellcome Trust",
+    "UK MRC",
     "EMBOSS Contributors",
-    "UK MRC"
+    "UK BBSRC"
   ],
   "sc:description": "Get ontology term(s) by id with common parent.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "ontogetsibs",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "EMBOSS",

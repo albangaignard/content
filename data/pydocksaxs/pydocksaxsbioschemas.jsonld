@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gkv368",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0001-7786-2109",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/pydocksaxs",
@@ -48,13 +48,13 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "pyDockSAXS",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:provider": [
-        "Barcelona Supercomputing Center",
-        "bsc.es"
+        "bsc.es",
+        "Barcelona Supercomputing Center"
       ],
       "sc:softwareHelp": [
         {
@@ -71,8 +71,8 @@
       "sc:version": "1"
     },
     {
-      "@id": "http://orcid.org/0000-0001-7786-2109",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1093/nar/gkv368",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

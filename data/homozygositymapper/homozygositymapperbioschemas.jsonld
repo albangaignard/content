@@ -17,8 +17,8 @@
   "sc:name": "HomozygosityMapper",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.homozygositymapper.org"
 }

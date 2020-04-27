@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/genatlasdb",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Marie-Liesse Chauvet",
-    "Alexandra Caude",
     "Martine Lemerrer",
-    "Claude Mugnier"
+    "Claude Mugnier",
+    "Marie-Liesse Chauvet",
+    "Alexandra Caude"
   ],
   "sc:additionalType": [
     "Database portal",

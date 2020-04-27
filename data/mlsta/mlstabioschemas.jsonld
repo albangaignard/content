@@ -16,8 +16,8 @@
   "sc:name": "MLSTA",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.prc.boun.edu.tr/appserv/prc/mlsta/"
 }

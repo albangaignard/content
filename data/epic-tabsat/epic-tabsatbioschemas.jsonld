@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "https://orcid.org/0000-0002-2953-7982",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/EPIC-TABSAT",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -45,15 +49,11 @@
       "sc:license": "Unlicense",
       "sc:name": "EPIC-TABSAT",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://tabsat.ait.ac.at/"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-2953-7982",
-      "@type": "schema:Person"
     }
   ]
 }

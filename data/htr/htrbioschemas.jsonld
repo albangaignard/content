@@ -17,8 +17,8 @@
   "sc:name": "HTR",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://statgen.ncsu.edu/zaykin/htr.html"
 }

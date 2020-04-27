@@ -24,12 +24,12 @@
   "sc:name": "relna",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
-    "RostLab",
-    "Technische Universität München"
+    "Technische Universität München",
+    "RostLab"
   ],
   "sc:url": "https://github.com/ashishbaghudana/mthesis-ashish",
   "sc:version": "0.1.0"

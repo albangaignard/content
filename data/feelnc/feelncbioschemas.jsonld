@@ -13,9 +13,9 @@
       "@id": "https://bio.tools/feelnc",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Valentin Wucher",
+        "Fabrice Legeai",
         "Thomas Derrien",
-        "Fabrice Legeai"
+        "Valentin Wucher"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [

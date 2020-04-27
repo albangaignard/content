@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0002-4155-5729",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/localcider",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -37,15 +41,11 @@
       "sc:license": "GPL-2.0",
       "sc:name": "localCIDER",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "https://github.com/Pappulab/localCIDER"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-4155-5729",
-      "@type": "schema:Person"
     }
   ]
 }

@@ -16,8 +16,8 @@
   "sc:name": "GenoExp",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://genie.weizmann.ac.il/pubs/GenoExp/"
 }

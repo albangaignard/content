@@ -27,8 +27,8 @@
       },
       "sc:name": "SMMRNA",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://rdb.vlifesciences.com/homepage.php"

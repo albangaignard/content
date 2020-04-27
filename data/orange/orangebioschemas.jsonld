@@ -17,20 +17,20 @@
         "Blaž Zupan"
       ],
       "sc:additionalType": [
-        "Desktop application",
-        "Command-line tool"
+        "Command-line tool",
+        "Desktop application"
       ],
       "sc:author": [
-        "Jernej Kernc",
-        "Aleš Erjavec",
-        "Janez Demšar",
-        "Anže Starič",
         "Tomaž Curk",
+        "Vesna Tanko",
+        "Aleš Erjavec",
         "Marko Toplak",
-        "Andrej Čopar",
-        "Martin Stražar",
+        "Janez Demšar",
         "Lan Žagar",
-        "Vesna Tanko"
+        "Anže Starič",
+        "Martin Stražar",
+        "Andrej Čopar",
+        "Jernej Kernc"
       ],
       "sc:citation": "pubmed:17586552",
       "sc:contributor": {
@@ -40,9 +40,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Orange",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": [
         "Faculty of Computer and Information Science, University of Ljubljana, Slovenia",

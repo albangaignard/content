@@ -14,13 +14,13 @@
   "sc:author": "Fredrik Ronquist",
   "sc:citation": "pubmed:11524383",
   "sc:contributor": [
+    "Maxim Teslenko",
+    "NIH",
+    "Bret Larget",
     "John Huelsenbeck",
     "Paul van der Mark",
-    "NIH",
     "NSF",
     "Donald Simon",
-    "Maxim Teslenko",
-    "Bret Larget",
     "Vetenskapsrådet",
     "Chi Zhang"
   ],
@@ -33,13 +33,13 @@
   "sc:license": "GPL-3.0",
   "sc:name": "MrBayes",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": [
-    "Dept. of Biodiversity Informatics at the Swedish Museum of Natural History",
-    "icm.uu.se"
+    "icm.uu.se",
+    "Dept. of Biodiversity Informatics at the Swedish Museum of Natural History"
   ],
   "sc:url": "http://nbisweden.github.io/MrBayes/",
   "sc:version": "3.2.6"

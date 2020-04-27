@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
-    "Wellcome Trust",
+    "UK BBSRC",
     "EMBOSS Contributors",
-    "UK BBSRC"
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:description": "Search a DNA database for matches with a set of STS primers.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "stssearch",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

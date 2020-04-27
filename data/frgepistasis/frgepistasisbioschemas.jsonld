@@ -39,26 +39,26 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_2269"
+          "@id": "edam:topic_3055"
         },
         {
-          "@id": "edam:topic_3055"
+          "@id": "edam:topic_2269"
         }
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1101/gr.161760.113"
         },
-        "pmcid:PMC4032862",
-        "pubmed:24803592"
+        "pubmed:24803592",
+        "pmcid:PMC4032862"
       ],
       "sc:description": "A Tool for Epistasis Analysis Based on Functional Regression Model.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3659"
+          "@id": "edam:operation_3197"
         },
         {
-          "@id": "edam:operation_3197"
+          "@id": "edam:operation_3659"
         }
       ],
       "sc:license": "GPL-2.0",

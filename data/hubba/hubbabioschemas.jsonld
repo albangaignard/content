@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/hubba",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Shu-Hwa Chen",
     "Chia-Hao Chin",
     "Chung-Yen Lin",
-    "Shu-Hwa Chen",
     "Hsin-Hung Wu",
     "Chin-Wen Ho"
   ],
