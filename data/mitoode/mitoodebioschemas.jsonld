@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/1471-2105-14-308",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0002-0474-2218",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1186/1471-2105-14-308",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/mitoode",
@@ -31,15 +31,15 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_1772"
         },
         {
-          "@id": "edam:data_1772"
+          "@id": "edam:data_2884"
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
@@ -56,11 +56,11 @@
         }
       ],
       "sc:citation": [
+        "pubmed:24131777",
         "pmcid:PMC3827932",
         {
           "@id": "https://doi.org/10.1186/1471-2105-14-308"
-        },
-        "pubmed:24131777"
+        }
       ],
       "sc:description": "The package contains the methods to fit a cell-cycle model on cell count data.",
       "sc:featureList": {

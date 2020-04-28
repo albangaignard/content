@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-3729-8176",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1038/srep06504",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/jd2stat",
@@ -35,8 +35,8 @@
         "@id": "edam:topic_0080"
       },
       "sc:citation": [
-        "pmcid:PMC4179140",
         "pubmed:25266120",
+        "pmcid:PMC4179140",
         {
           "@id": "https://doi.org/10.1038/srep06504"
         }
@@ -60,8 +60,8 @@
       "sc:url": "http://bioinformatics.org.au/tools/jD2Stat/"
     },
     {
-      "@id": "https://doi.org/10.1038/srep06504",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0002-3729-8176",
+      "@type": "schema:Person"
     }
   ]
 }

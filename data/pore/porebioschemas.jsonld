@@ -15,8 +15,8 @@
   "sc:description": "R package that enables users to manipulate, organize, summarise and visualize MinION nanopore sequencing data.",
   "sc:name": "poRe",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://sourceforge.net/p/rpore/wiki/Home/"

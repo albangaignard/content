@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/centomd",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pmcid:PMC5241210",
@@ -38,9 +38,9 @@
       "sc:license": "Proprietary",
       "sc:name": "CentoMD",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://www.centogene.com/mutation-database-centomd.html",
       "sc:version": "5.3"

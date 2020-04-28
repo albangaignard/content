@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.3389/FGENE.2019.00414",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/N1PAS",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -22,8 +18,8 @@
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
-        "pubmed:31143202",
         "pmcid:PMC6521780",
+        "pubmed:31143202",
         {
           "@id": "https://doi.org/10.3389/FGENE.2019.00414"
         }
@@ -44,10 +40,14 @@
       "sc:name": "N1PAS",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://github.com/grizant/n1pas/tree/master"
+    },
+    {
+      "@id": "https://doi.org/10.3389/FGENE.2019.00414",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

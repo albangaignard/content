@@ -23,8 +23,8 @@
   "sc:name": "Lipid Mini-On",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://omicstools.pnnl.gov/shiny/lipid-mini-on/"
 }

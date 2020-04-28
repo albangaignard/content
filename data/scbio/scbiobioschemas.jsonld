@@ -13,8 +13,8 @@
   "biotools:primaryContact": "Amit Frishberg",
   "sc:additionalType": "Library",
   "sc:author": [
-    "Amit Frishberg",
     "Naama Peshes-Yaloz",
+    "Amit Frishberg",
     "Irit Gat-Viks"
   ],
   "sc:citation": "pubmed:30886410",

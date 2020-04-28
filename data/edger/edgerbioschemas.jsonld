@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gks042",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0002-2218-6833",
       "@type": "schema:Person"
     },
@@ -21,10 +17,10 @@
       "@id": "https://bio.tools/edger",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Gordon Smyth",
-        "Yunshun Chen",
         "Mark Robinson",
         "Aaron Lun",
+        "Gordon Smyth",
+        "Yunshun Chen",
         {
           "@id": "http://orcid.org/0000-0002-2218-6833"
         }
@@ -46,13 +42,13 @@
       ],
       "sc:applicationSubCategory": [
         {
+          "@id": "edam:topic_3169"
+        },
+        {
           "@id": "edam:topic_3170"
         },
         {
           "@id": "edam:topic_3053"
-        },
-        {
-          "@id": "edam:topic_3169"
         }
       ],
       "sc:citation": [
@@ -70,11 +66,15 @@
       "sc:name": "edgeR",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/edgeR.html",
       "sc:version": "3.16.5"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gks042",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

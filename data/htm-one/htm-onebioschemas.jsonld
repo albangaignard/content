@@ -15,8 +15,8 @@
   "sc:name": "HTM-ONE",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://mizuguchilab.org/netasa/htmone/"
 }

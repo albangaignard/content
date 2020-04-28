@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Dmitry Suplatov",
       "sc:additionalType": [
-        "Web application",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:citation": [
         {
@@ -27,10 +27,10 @@
       "sc:description": "Yosshi (YOur web-server for S-S bond HarvestIng) - web server for disulfide engineering by bioinformatic analysis of diverse protein families.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0303"
+          "@id": "edam:operation_1850"
         },
         {
-          "@id": "edam:operation_1850"
+          "@id": "edam:operation_0303"
         },
         {
           "@id": "edam:operation_0471"
@@ -39,9 +39,9 @@
       "sc:license": "Unlicense",
       "sc:name": "Yosshi",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://biokinet.belozersky.msu.ru/yosshiserver/"
     },

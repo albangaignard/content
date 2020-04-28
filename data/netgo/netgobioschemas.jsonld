@@ -17,19 +17,19 @@
       "@id": "https://bio.tools/NetGO",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Shuwei Yao",
-        "Shanfeng Zhu"
+        "Shanfeng Zhu",
+        "Shuwei Yao"
       ],
       "sc:additionalType": [
         "Web service",
         "Web application"
       ],
       "sc:citation": [
-        "pubmed:31106361",
         {
           "@id": "https://doi.org/10.1093/NAR/GKZ388"
         },
-        "pmcid:PMC6602452"
+        "pmcid:PMC6602452",
+        "pubmed:31106361"
       ],
       "sc:description": "Web server that is able to improve improve large-scale protein function prediction with massive network information.",
       "sc:featureList": [
@@ -46,9 +46,9 @@
       "sc:license": "Unlicense",
       "sc:name": "NetGO",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://issubmission.sjtu.edu.cn/netgo/"
     }

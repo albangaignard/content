@@ -12,13 +12,13 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Database portal",
   "sc:author": [
-    "Ivan Janda",
-    "Jiří­ Vohradský"
+    "Jiří­ Vohradský",
+    "Ivan Janda"
   ],
   "sc:contributor": [
-    "Bjorn Grunenfelder",
     "Urs Jenal",
     "Karel Mikulik",
+    "Bjorn Grunenfelder",
     "Jan Bobek",
     "Marek Basler"
   ],

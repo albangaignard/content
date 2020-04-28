@@ -10,20 +10,28 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1038/S41467-019-10210-3",
+      "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "https://orcid.org/0000-0001-9105-9814",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/TYGS",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "https://orcid.org/0000-0001-9105-9814"
       },
       "sc:additionalType": [
-        "Web service",
-        "Web application"
+        "Web application",
+        "Web service"
       ],
       "sc:citation": [
-        "pmcid:PMC6522516",
         {
           "@id": "https://doi.org/10.1038/S41467-019-10210-3"
         },
+        "pmcid:PMC6522516",
         "pubmed:31097708"
       ],
       "sc:description": "Automated high-throughput platform for state-of-the-art genome-based taxonomy.",
@@ -46,14 +54,6 @@
         "Mac"
       ],
       "sc:url": "https://tygs.dsmz.de"
-    },
-    {
-      "@id": "https://orcid.org/0000-0001-9105-9814",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1038/S41467-019-10210-3",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

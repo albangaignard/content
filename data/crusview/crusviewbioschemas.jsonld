@@ -27,9 +27,9 @@
       },
       "sc:name": "CrusView",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://www.cmbb.arizona.edu/?page_id=250"
     },

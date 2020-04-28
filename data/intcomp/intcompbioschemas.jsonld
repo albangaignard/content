@@ -17,8 +17,8 @@
   "sc:name": "intcomp",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://intcomp.r-forge.r-project.org/"
 }
