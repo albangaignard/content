@@ -18,22 +18,22 @@
     "Prisca Lo Surdo"
   ],
   "sc:contributor": [
-    "Elena Santonico",
     "Marta Iannuccelli",
-    "Gianni Cesareni",
-    "Livia Perfetto"
+    "Livia Perfetto",
+    "Elena Santonico",
+    "Gianni Cesareni"
   ],
   "sc:description": "A tool collects manually-annotated logic relationships between molecules that participate in signal transduction.",
   "sc:license": "CC-BY-SA-4.0",
   "sc:name": "SIGNOR",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
-    "ELIXIR-ITA-TORVERGATA",
-    "Molecular Genetic Group, University of Rome \"Tor Vergata\", Rome, Italy"
+    "Molecular Genetic Group, University of Rome \"Tor Vergata\", Rome, Italy",
+    "ELIXIR-ITA-TORVERGATA"
   ],
   "sc:url": "http://signor.uniroma2.it/"
 }

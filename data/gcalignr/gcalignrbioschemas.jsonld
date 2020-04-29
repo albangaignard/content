@@ -31,8 +31,8 @@
       },
       "sc:name": "GCalignR",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://github.com/mottensmann/GCalignR"

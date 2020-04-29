@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/MIXR",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "William H. Press",
-        "Sara L. Sawyer"
+        "Sara L. Sawyer",
+        "William H. Press"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [

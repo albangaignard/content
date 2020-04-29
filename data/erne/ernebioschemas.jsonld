@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/erne",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Francesco Vezzi",
     "Cristian Del Fabbro",
+    "Francesco Vezzi",
     "Giuseppe Pigola"
   ],
   "sc:additionalType": "Suite",

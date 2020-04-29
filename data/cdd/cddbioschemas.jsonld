@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gkq1189",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0003-1516-0712",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkq1189",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/cdd",
@@ -36,8 +36,8 @@
       "sc:name": "Conserved domain database CDD",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:provider": "NCBI",
       "sc:url": "http://www.ncbi.nlm.nih.gov/Structure/cdd/cdd.shtml"

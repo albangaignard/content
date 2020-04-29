@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0002-6540-6875",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/jmztab-m",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -28,8 +24,8 @@
       "sc:name": "jmztab-m",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://github.com/lifs-tools/jmzTab-m",
       "sc:version": [
@@ -38,6 +34,10 @@
         "1.0.4",
         "1.0.2"
       ]
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-6540-6875",
+      "@type": "schema:Person"
     }
   ]
 }

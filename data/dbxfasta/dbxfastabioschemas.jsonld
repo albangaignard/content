@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "UK BBSRC",
     "EMBOSS Contributors",
     "UK MRC",
-    "UK BBSRC",
     "Wellcome Trust"
   ],
   "sc:description": "Index a fasta file database using b+tree indices.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "dbxfasta",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

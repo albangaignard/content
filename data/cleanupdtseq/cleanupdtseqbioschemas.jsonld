@@ -13,9 +13,9 @@
       "@id": "https://bio.tools/cleanupdtseq",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Sarah Sheppard",
+        "Jianhong Ou",
         "Lihua Julie Zhu",
-        "Jianhong Ou"
+        "Sarah Sheppard"
       ],
       "sc:additionalType": [
         "Command-line tool",
@@ -35,9 +35,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "cleanUpdTSeq",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/cleanUpdTSeq.html",
       "sc:version": "1.12.0"

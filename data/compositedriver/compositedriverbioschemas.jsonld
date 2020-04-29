@@ -24,8 +24,8 @@
       "sc:license": "CC-BY-4.0",
       "sc:name": "CompositeDriver",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "https://github.com/khuranalab/CompositeDriver",

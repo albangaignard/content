@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.7717/peerj.6509",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/cRegulome",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Library",
@@ -37,10 +41,6 @@
         "Mac"
       ],
       "sc:url": "https://cran.r-project.org/package=cRegulome"
-    },
-    {
-      "@id": "https://doi.org/10.7717/peerj.6509",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

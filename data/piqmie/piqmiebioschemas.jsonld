@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1371/journal.pone.0170762",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0003-1711-7961",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1371/journal.pone.0170762",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://doi.org/10.1093/nar/gku478",
@@ -33,12 +33,12 @@
       "sc:additionalType": "Web application",
       "sc:citation": [
         "pmcid:PMC4086067",
-        "pmcid:PMC5325209",
         {
           "@id": "https://doi.org/10.1093/nar/gku478"
         },
-        "pubmed:24861615",
+        "pmcid:PMC5325209",
         "pubmed:28234898",
+        "pubmed:24861615",
         {
           "@id": "https://doi.org/10.1371/journal.pone.0170762"
         }

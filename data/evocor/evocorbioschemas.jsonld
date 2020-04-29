@@ -16,8 +16,8 @@
   "sc:name": "EvoCor",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://pilot-hmm.vbi.vt.edu/"
 }

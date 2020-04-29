@@ -10,15 +10,7 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0003-4874-2874",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1093/bioinformatics/btp324",
-      "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "https://doi.org/10.1186/1471-2105-14-184",
       "@type": "sc:CreativeWork"
     },
     {
@@ -30,17 +22,17 @@
         "Workbench"
       ],
       "sc:citation": [
+        {
+          "@id": "https://doi.org/10.1093/bioinformatics/btp324"
+        },
+        "pubmed:19451168",
         "pmcid:PMC3694458",
-        "pubmed:23758764",
-        "pubmed:28286147",
         {
           "@id": "https://doi.org/10.1186/1471-2105-14-184"
         },
-        "pubmed:19451168",
+        "pubmed:28286147",
         "pmcid:PMC2705234",
-        {
-          "@id": "https://doi.org/10.1093/bioinformatics/btp324"
-        }
+        "pubmed:23758764"
       ],
       "sc:contributor": {
         "@id": "http://orcid.org/0000-0003-4874-2874"
@@ -53,6 +45,14 @@
         "Linux"
       ],
       "sc:url": "http://bio-bwa.sourceforge.net"
+    },
+    {
+      "@id": "https://doi.org/10.1186/1471-2105-14-184",
+      "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0003-4874-2874",
+      "@type": "schema:Person"
     }
   ]
 }

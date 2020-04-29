@@ -17,8 +17,8 @@
   "sc:name": "MetaGeneAnnotator",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://metagene.cb.k.u-tokyo.ac.jp/"
 }

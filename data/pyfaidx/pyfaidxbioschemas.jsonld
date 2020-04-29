@@ -18,8 +18,8 @@
   "sc:license": "Not licensed",
   "sc:name": "pyfaidx",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "https://pythonhosted.org/pyfaidx/"

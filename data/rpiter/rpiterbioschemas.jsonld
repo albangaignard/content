@@ -36,8 +36,8 @@
       "sc:license": "MIT",
       "sc:name": "RPITER",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/Pengeace/RPITER"
     },

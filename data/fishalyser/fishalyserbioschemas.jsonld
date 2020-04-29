@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/fishalyser",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Andreas Heindl",
-    "Karesh Arunakirinathan"
+    "Karesh Arunakirinathan",
+    "Andreas Heindl"
   ],
   "sc:additionalType": [
     "Library",

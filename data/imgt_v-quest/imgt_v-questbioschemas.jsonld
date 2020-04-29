@@ -16,8 +16,8 @@
   "sc:name": "IMGT V-QUEST",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.imgt.org/IMGT_vquest"
 }
