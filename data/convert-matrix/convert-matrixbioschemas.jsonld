@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-8799-8584",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/convert-matrix",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -27,8 +23,8 @@
       },
       "sc:additionalType": [
         "Web service",
-        "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_3511"
@@ -62,6 +58,10 @@
     {
       "@id": "https://doi.org/10.1093/nar/gkn304",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-8799-8584",
+      "@type": "schema:Person"
     }
   ]
 }

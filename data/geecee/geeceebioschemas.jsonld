@@ -14,8 +14,8 @@
   "sc:contributor": [
     "UK MRC",
     "UK BBSRC",
-    "EMBOSS Contributors",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Calculate fractional GC content of nucleic acid sequences.",
   "sc:funder": [

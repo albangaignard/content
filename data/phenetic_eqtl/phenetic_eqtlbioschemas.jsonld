@@ -16,12 +16,12 @@
   "sc:name": "PheNetic eQTL",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
-    "ugent.be",
-    "Ghent University"
+    "Ghent University",
+    "ugent.be"
   ],
   "sc:url": "http://bioinformatics.intec.ugent.be/phenetic_eqtl/index.html",
   "sc:version": "1"

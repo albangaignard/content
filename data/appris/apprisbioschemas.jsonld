@@ -16,8 +16,8 @@
   ],
   "sc:additionalType": [
     "Web API",
-    "Database portal",
-    "Web application"
+    "Web application",
+    "Database portal"
   ],
   "sc:author": "Jose Rodriguez",
   "sc:contributor": "ISCIII",
@@ -26,13 +26,13 @@
   "sc:name": "APPRIS",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
-    "CNIO",
     "INB",
-    "cnio.es"
+    "cnio.es",
+    "CNIO"
   ],
   "sc:url": "http://appris.bioinfo.cnio.es/#/database",
   "sc:version": "23"

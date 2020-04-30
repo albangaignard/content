@@ -16,8 +16,8 @@
         "@id": "http://orcid.org/0000-0002-7800-3848"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC2956622",
@@ -27,8 +27,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "BeadDataPackR",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/BeadDataPackR.html",

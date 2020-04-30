@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/c-state",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Rakesh K Mishra",
     "Divya Tej Sowpati",
+    "Rakesh K Mishra",
     "Surabhi Srivastava"
   ],
   "sc:additionalType": "Web application",
@@ -21,8 +21,8 @@
   "sc:name": "C-state",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.ccmb.res.in/rakeshmishra/c-state/"
 }

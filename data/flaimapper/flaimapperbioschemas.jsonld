@@ -16,8 +16,8 @@
   "sc:name": "FlaiMapper",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://github.com/yhoogstrate/flaimapper"
 }

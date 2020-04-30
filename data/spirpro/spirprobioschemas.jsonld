@@ -19,12 +19,12 @@
   "sc:name": "SpirPro",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
-    "KMUTT",
     "King Mongkut's University of Technology (Thonburi)",
+    "KMUTT",
     "National Center for Genetic Engineering and Biotechnology"
   ],
   "sc:url": "http://spirpro.sbi.kmutt.ac.th"

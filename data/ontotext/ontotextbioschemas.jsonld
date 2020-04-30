@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK MRC",
-    "UK BBSRC",
+    "Wellcome Trust",
     "EMBOSS Contributors",
-    "Wellcome Trust"
+    "UK BBSRC"
   ],
   "sc:description": "Get ontology term(s) original full text.",
   "sc:funder": [

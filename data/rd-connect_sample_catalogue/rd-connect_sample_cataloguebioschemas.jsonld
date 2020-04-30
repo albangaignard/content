@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/1471-2105-11-S12-S12",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/rd-connect_sample_catalogue",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
@@ -22,8 +18,8 @@
       ],
       "sc:citation": [
         "pmcid:PMC3040526",
-        "pubmed:21210979",
         "pubmed:17297480",
+        "pubmed:21210979",
         {
           "@id": "https://doi.org/10.1186/1471-2105-11-S12-S12"
         }
@@ -32,11 +28,15 @@
       "sc:license": "Other",
       "sc:name": "RD-Connect Sample Catalogue",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://samples.rd-connect.eu/"
+    },
+    {
+      "@id": "https://doi.org/10.1186/1471-2105-11-S12-S12",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

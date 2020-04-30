@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
-    "UK BBSRC",
     "UK MRC",
+    "UK BBSRC",
+    "Wellcome Trust",
     "EMBOSS Contributors"
   ],
   "sc:description": "Find weights common to multiple molecular weights files.",
@@ -26,8 +26,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "mwcontam",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": [

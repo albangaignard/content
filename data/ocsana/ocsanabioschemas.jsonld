@@ -21,8 +21,8 @@
       "sc:name": "OCSANA",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioinfo-out.curie.fr/projects/ocsana/OCSANA.html"
     },

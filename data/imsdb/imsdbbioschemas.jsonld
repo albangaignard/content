@@ -17,8 +17,8 @@
   "sc:name": "IMSDB",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": "bmb.sdu.dk",
   "sc:url": "http://imsdb.compbio.sdu.dk",

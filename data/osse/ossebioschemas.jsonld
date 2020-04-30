@@ -21,8 +21,8 @@
   "sc:name": "OSSE",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://osse.bii.a-star.edu.sg/index.php"
 }

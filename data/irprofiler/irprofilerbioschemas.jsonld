@@ -32,8 +32,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "IRProfiler",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://irprofiler.med.auth.gr:8080/"
