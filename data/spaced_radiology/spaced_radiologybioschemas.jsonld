@@ -27,9 +27,9 @@
       "sc:license": "Unlicense",
       "sc:name": "Spaced Radiology",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://www.spacedradiology.com/"
     },

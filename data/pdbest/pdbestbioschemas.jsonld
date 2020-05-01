@@ -21,8 +21,8 @@
   "sc:name": "PDBest",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.pdbest.dcc.ufmg.br/"
 }

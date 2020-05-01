@@ -40,9 +40,9 @@
       "sc:license": "Apache-2.0",
       "sc:name": "CERENKOV2",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "https://github.com/ramseylab/cerenkov",
       "sc:version": "v0.1-alpha"

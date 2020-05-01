@@ -14,13 +14,13 @@
   "sc:contributor": [
     "UK MRC",
     "EMBOSS Contributors",
-    "UK BBSRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:description": "Remove poly-A tails from nucleotide sequences.",
   "sc:funder": [
-    "UK MRC",
     "UK BBSRC",
+    "UK MRC",
     "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",

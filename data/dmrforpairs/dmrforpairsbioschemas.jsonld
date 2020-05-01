@@ -20,22 +20,22 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_1255"
+          "@id": "edam:data_2884"
         },
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_1255"
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0160"
+          "@id": "edam:topic_3518"
         },
         {
-          "@id": "edam:topic_3518"
+          "@id": "edam:topic_0160"
         },
         {
           "@id": "edam:topic_3295"
@@ -60,9 +60,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "DMRforPairs",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/DMRforPairs.html",
       "sc:version": "1.10.0"

@@ -21,8 +21,8 @@
   "sc:name": "agriGO",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bioinfo.cau.edu.cn/agriGO/"
 }

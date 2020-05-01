@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/pymbar",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Michael R. Shirts",
     "Kyle A. Beauchamp",
     "John D. Chodera",
-    "Michael R. Shirts",
     "Levi N. Naden"
   ],
   "sc:additionalType": "Library",

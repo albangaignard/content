@@ -16,8 +16,8 @@
   "sc:name": "Orione",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "CRS4",

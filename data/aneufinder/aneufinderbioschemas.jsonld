@@ -23,8 +23,8 @@
         "Command-line tool"
       ],
       "sc:citation": [
-        "pmcid:PMC4888588",
         "pubmed:27246460",
+        "pmcid:PMC4888588",
         {
           "@id": "https://doi.org/10.1186/s13059-016-0971-7"
         }

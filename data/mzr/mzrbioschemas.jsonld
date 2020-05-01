@@ -13,18 +13,18 @@
       "@id": "https://bio.tools/mzr",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Bernd Fischer",
         "Laurent Gatto",
-        "Qiang Kou",
         "Steffen Neumann",
-        "Bernd Fischer"
+        "Qiang Kou"
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
-        "pmcid:PMC2732273",
         "pubmed:18606607",
+        "pmcid:PMC2732273",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/btn323"
         }

@@ -24,8 +24,8 @@
       "sc:description": "R package for copy number variation calling and cancer risk prediction with next-generation sequencing data.",
       "sc:name": "AluScanCNV2",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://github.com/hutaobo/AluScanCNV2"

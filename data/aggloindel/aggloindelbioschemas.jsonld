@@ -19,12 +19,12 @@
   "sc:name": "AggloIndel",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
-    "BiBiServ",
     "Bielefeld University",
+    "BiBiServ",
     "CeBiTec"
   ],
   "sc:url": "http://bibiserv.cebitec.uni-bielefeld.de/agglodel",

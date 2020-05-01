@@ -15,9 +15,9 @@
     "Anders Jacobsen"
   ],
   "sc:additionalType": [
-    "Web API",
     "Database portal",
     "Command-line tool",
+    "Web API",
     "Library",
     "Web application"
   ],
@@ -25,8 +25,8 @@
   "sc:license": "LGPL-2.1",
   "sc:name": "miRMaid",
   "sc:operatingSystem": [
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "binf.ku.dk",
   "sc:url": "http://www.mirmaid.org/"

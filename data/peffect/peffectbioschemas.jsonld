@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:author": "Tatyana Goldberg",
   "sc:contributor": [
-    "Burkhard Rost",
     "Yana Bromberg",
+    "Burkhard Rost",
     "Ernst Ludwig Ehrlich Studienwerk",
     "Alexander von Humboldt foundation through the German Federal Ministry for Education and Research"
   ],
@@ -27,8 +27,8 @@
   "sc:name": "pEffect",
   "sc:operatingSystem": "Linux",
   "sc:provider": [
-    "Rutgers University",
     "RostLab",
+    "Rutgers University",
     "Technical University of Munich"
   ],
   "sc:url": "https://rostlab.org/services/peffect/",

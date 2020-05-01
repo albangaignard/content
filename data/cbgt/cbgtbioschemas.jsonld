@@ -10,8 +10,16 @@
   },
   "@graph": [
     {
+      "@id": "https://orcid.org/0000-0002-1513-1551",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.1371/JOURNAL.PCBI.1006998",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "https://orcid.org/0000-0003-4720-0336",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/CBGT",
@@ -36,18 +44,10 @@
       "sc:license": "Other",
       "sc:name": "CBGT",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/CoAxLab/CBGT"
-    },
-    {
-      "@id": "https://orcid.org/0000-0003-4720-0336",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-1513-1551",
-      "@type": "schema:Person"
     }
   ]
 }

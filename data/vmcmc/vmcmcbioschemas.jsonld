@@ -19,8 +19,8 @@
       "biotools:primaryContact": "Raja H. Ali",
       "sc:additionalType": "Desktop application",
       "sc:citation": [
-        "pmcid:PMC5301390",
         "pubmed:28187712",
+        "pmcid:PMC5301390",
         {
           "@id": "https://doi.org/10.1186/s12859-017-1505-3"
         }
@@ -32,8 +32,8 @@
       "sc:name": "VMCMC",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://bitbucket.org/rhali/visualmcmc/"
     }

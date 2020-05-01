@@ -15,10 +15,10 @@
       "biotools:primaryContact": "BioConductor Package Maintainer",
       "edam:has_input": [
         {
-          "@id": "edam:data_1050"
+          "@id": "edam:data_3134"
         },
         {
-          "@id": "edam:data_3134"
+          "@id": "edam:data_1050"
         },
         {
           "@id": "edam:data_1270"
@@ -26,13 +26,13 @@
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_0849"
+          "@id": "edam:data_3134"
         },
         {
           "@id": "edam:data_2048"
         },
         {
-          "@id": "edam:data_3134"
+          "@id": "edam:data_0849"
         },
         {
           "@id": "edam:data_1017"
@@ -72,8 +72,8 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "GenomicFeatures",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/GenomicFeatures.html",

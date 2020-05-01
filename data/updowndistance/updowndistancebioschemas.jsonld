@@ -19,8 +19,8 @@
   "sc:name": "UpdownDistance",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://web.njit.edu/~wangj/updown.htm"
 }

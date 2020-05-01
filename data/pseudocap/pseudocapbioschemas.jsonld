@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1093/nar/gkq869",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/pseudocap",
       "@type": "sc:SoftwareApplication",
       "edam:has_input": [
@@ -51,11 +47,15 @@
       },
       "sc:name": "PseudoCAP pseudomonas genome database",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://www.pseudomonas.com/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkq869",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

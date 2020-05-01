@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/fragmentstore",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Jessica Ahmed",
     "Paul Thaben",
-    "Catherine Sargent",
     "Robert Preissner",
-    "Jessica Ahmed"
+    "Catherine Sargent"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:20965964",
@@ -22,8 +22,8 @@
   "sc:name": "FragmentStore",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://bioinformatics.charite.de/fragment_store"
 }

@@ -39,9 +39,9 @@
       "sc:license": "MIT",
       "sc:name": "CyREST",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://apps.cytoscape.org/apps/cyrest"
     }

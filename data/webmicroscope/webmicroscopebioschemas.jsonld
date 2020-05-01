@@ -17,8 +17,8 @@
   "sc:name": "WebMicroscope",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": "FIMM",
   "sc:url": "http://biomedbridges.webmicroscope.net",

@@ -16,8 +16,8 @@
   "sc:license": "Unlicense",
   "sc:name": "DeepType",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://www.acsu.buffalo.edu/~yijunsun/lab/DeepType.html"

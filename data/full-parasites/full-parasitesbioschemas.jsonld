@@ -17,8 +17,8 @@
   "sc:name": "Full-parasites",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://fullmal.hgc.jp/"
 }

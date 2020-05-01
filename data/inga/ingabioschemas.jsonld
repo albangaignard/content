@@ -17,10 +17,10 @@
       },
       "edam:has_input": [
         {
-          "@id": "edam:data_3021"
+          "@id": "edam:data_2976"
         },
         {
-          "@id": "edam:data_2976"
+          "@id": "edam:data_3021"
         }
       ],
       "edam:has_output": {
@@ -34,10 +34,10 @@
         "@id": "edam:topic_1775"
       },
       "sc:citation": [
-        "pmcid:PMC4489281",
         {
           "@id": "https://doi.org/10.1093/nar/gkv523"
         },
+        "pmcid:PMC4489281",
         "pubmed:26019177"
       ],
       "sc:description": "Interaction Network GO Annotator protein function predictor.",
@@ -46,9 +46,9 @@
       },
       "sc:name": "INGA",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:provider": [
         "ELIXIR-ITA-PADOVA",
@@ -58,12 +58,12 @@
       "sc:version": "1.1"
     },
     {
-      "@id": "https://doi.org/10.1093/nar/gkv523",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0003-4525-7793",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkv523",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

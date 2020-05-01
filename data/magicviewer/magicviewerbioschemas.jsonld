@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/magicviewer",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Erle Zhu",
-    "Huabin Hou",
-    "Linglin Zhou",
     "Jinyu Wu",
+    "Linglin Zhou",
+    "Huabin Hou",
+    "Erle Zhu",
     "Zhongsheng Sun"
   ],
   "sc:additionalType": "Desktop application",
@@ -22,8 +22,8 @@
   "sc:name": "MagicViewer",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://bioinformatics.zj.cn/magicviewer/index.php"
 }
