@@ -12,14 +12,14 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Ondřej Hanák",
-    "David Sehnal",
+    "Karel Berka",
     "Michal Otyepka",
-    "Karel Berka"
+    "Ondřej Hanák",
+    "David Sehnal"
   ],
   "sc:contributor": [
-    "Crina-Maria Ionescu",
     "Jaroslav Koča",
+    "Crina-Maria Ionescu",
     "Radka Svobodová Vařeková",
     "Veronika Navrátilová",
     "Pavel Banáš",
@@ -29,13 +29,13 @@
   "sc:license": "CC-BY-NC-3.0",
   "sc:name": "MOLEonline",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
-    "Masaryk University Brno, Czech Republic",
-    "Palacký University Olomouc, Czech Republic"
+    "Palacký University Olomouc, Czech Republic",
+    "Masaryk University Brno, Czech Republic"
   ],
   "sc:url": "https://mole.upol.cz/",
   "sc:version": "3.0"

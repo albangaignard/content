@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
     "Wellcome Trust",
     "UK BBSRC",
+    "UK MRC",
     "EMBOSS Contributors"
   ],
   "sc:description": "Create an ambiguous consensus sequence from a multiple alignment.",
@@ -26,13 +26,13 @@
   "sc:license": "GPL-3.0",
   "sc:name": "consambig",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/consambig.html",
   "sc:version": "r6"

@@ -39,18 +39,18 @@
       "sc:name": "PubTator Central",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://www.ncbi.nlm.nih.gov/research/pubtator/"
     },
     {
-      "@id": "https://doi.org/10.1093/NAR/GKZ389",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://orcid.org/0000-0002-8301-9553",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/NAR/GKZ389",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

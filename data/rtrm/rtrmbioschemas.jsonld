@@ -16,8 +16,8 @@
         "@id": "http://orcid.org/0000-0002-2325-4893"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         {
@@ -33,9 +33,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "rTRM",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/rTRM.html",
       "sc:version": "1.12.0"

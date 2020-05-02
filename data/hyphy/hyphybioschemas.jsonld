@@ -24,9 +24,9 @@
   "sc:license": "Unlicense",
   "sc:name": "HyPhy",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://hyphy.org"
 }

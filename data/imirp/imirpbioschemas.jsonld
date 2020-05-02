@@ -27,9 +27,9 @@
       },
       "sc:name": "ImiRP",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://imirp.org/"
     },

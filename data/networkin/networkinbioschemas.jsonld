@@ -14,10 +14,10 @@
       "@type": "sc:SoftwareApplication",
       "edam:has_input": [
         {
-          "@id": "edam:data_2775"
+          "@id": "edam:data_2299"
         },
         {
-          "@id": "edam:data_2299"
+          "@id": "edam:data_2775"
         }
       ],
       "edam:has_output": {
@@ -41,8 +41,8 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "NetworKIN",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:provider": "CBS",

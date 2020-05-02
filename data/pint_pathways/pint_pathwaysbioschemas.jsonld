@@ -17,8 +17,8 @@
   "sc:name": "PINT",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://csb2.ym.edu.tw/pint/"
 }

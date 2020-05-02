@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK MRC",
-    "Wellcome Trust",
+    "UK BBSRC",
     "EMBOSS Contributors",
-    "UK BBSRC"
+    "Wellcome Trust"
   ],
   "sc:description": "Identify and plot CpG islands in nucleotide sequence(s).",
   "sc:funder": [

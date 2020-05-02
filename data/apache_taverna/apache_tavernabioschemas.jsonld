@@ -15,11 +15,11 @@
     "Apache Taverna community"
   ],
   "sc:additionalType": [
-    "Workbench",
     "Web service",
     "Web application",
-    "Web API",
+    "Workbench",
     "Desktop application",
+    "Web API",
     "Command-line tool"
   ],
   "sc:author": "Apache Taverna community",
@@ -27,13 +27,13 @@
   "sc:license": "Apache-2.0",
   "sc:name": "Apache Taverna",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": [
-    "Apache Software Foundation",
-    "cs.manchester.ac.uk"
+    "cs.manchester.ac.uk",
+    "Apache Software Foundation"
   ],
   "sc:url": "http://taverna.incubator.apache.org/",
   "sc:version": "3"

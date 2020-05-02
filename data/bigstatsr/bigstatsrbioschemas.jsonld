@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/bigstatsr",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Florian Privé",
-    "Michael G B Blum"
+    "Michael G B Blum",
+    "Florian Privé"
   ],
   "sc:additionalType": "Library",
   "sc:description": "Fast statistical analysis of large-scale data encoded as matrices.",

@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/Porter",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:31451723",
@@ -28,8 +28,8 @@
       "sc:name": "Porter",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://distilldeep.ucd.ie/porter/",
       "sc:version": "5"

@@ -34,9 +34,9 @@
       "sc:license": "Other",
       "sc:name": "DDecon",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://www.scripps.edu/fowler/ddecon/"
     },

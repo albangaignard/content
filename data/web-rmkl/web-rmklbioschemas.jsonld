@@ -10,16 +10,20 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/NAR/GKZ422",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/web-rMKL",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Marius Herr",
         "Nicolas Kersten",
+        "Marius Herr",
         "Nico Pfeifer"
       ],
       "sc:additionalType": [
-        "Web service",
         "Desktop application",
+        "Web service",
         "Web application"
       ],
       "sc:citation": [
@@ -46,10 +50,6 @@
         "Windows"
       ],
       "sc:url": "http://web-rMKL.org"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKZ422",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

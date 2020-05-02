@@ -35,13 +35,13 @@
       ],
       "sc:applicationSubCategory": [
         {
+          "@id": "edam:topic_3391"
+        },
+        {
           "@id": "edam:topic_0622"
         },
         {
           "@id": "edam:topic_3168"
-        },
-        {
-          "@id": "edam:topic_3391"
         }
       ],
       "sc:author": {
@@ -66,9 +66,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "gtrellis",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/gtrellis.html",
       "sc:version": "1.6.0"

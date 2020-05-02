@@ -20,12 +20,12 @@
   "sc:name": "LALIGN",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
-    "EMBL-EBI",
-    "University of Virginia"
+    "University of Virginia",
+    "EMBL-EBI"
   ],
   "sc:url": "http://www.ebi.ac.uk/Tools/psa/lalign/",
   "sc:version": "1"

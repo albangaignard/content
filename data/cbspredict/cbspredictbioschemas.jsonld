@@ -15,8 +15,8 @@
   "sc:name": "cbsPredict",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://doxey.uwaterloo.ca/cgi-bin/cbsPredict.cgi"
 }

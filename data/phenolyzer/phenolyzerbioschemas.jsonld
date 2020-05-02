@@ -19,8 +19,8 @@
   "sc:name": "Phenolyzer",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://phenolyzer.wglab.org/"
 }

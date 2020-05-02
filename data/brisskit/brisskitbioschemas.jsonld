@@ -15,11 +15,11 @@
     "Dr Jonathan Tedds"
   ],
   "sc:additionalType": [
+    "Web API",
     "Workbench",
-    "Web application",
-    "Command-line tool",
     "Database portal",
-    "Web API"
+    "Command-line tool",
+    "Web application"
   ],
   "sc:author": [
     "Dr Olly Butters (former Technical Lead)",
@@ -37,8 +37,8 @@
   ],
   "sc:name": "BRISSKit",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": [

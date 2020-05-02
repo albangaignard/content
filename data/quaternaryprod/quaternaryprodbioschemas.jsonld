@@ -36,8 +36,8 @@
       "sc:name": "QuaternaryProd",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/QuaternaryProd.html",
       "sc:version": "1.2.0"

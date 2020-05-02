@@ -17,8 +17,8 @@
   "sc:name": "Struct2Net",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://struct2net.csail.mit.edu"
 }
