@@ -10,11 +10,15 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkt1122",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/invfest",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pubmed:24253300",
@@ -29,24 +33,20 @@
           "@id": "edam:operation_3197"
         },
         {
-          "@id": "edam:operation_3436"
+          "@id": "edam:operation_3431"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_3436"
         }
       ],
       "sc:license": "CC-BY-4.0",
       "sc:name": "InvFEST",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://invfestdb.uab.cat/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkt1122",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

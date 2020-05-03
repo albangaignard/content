@@ -35,8 +35,8 @@
       "sc:name": "MaGelLAn",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://lissp.irb.hr/software/magellan-1-0/",
       "sc:version": "1.0"

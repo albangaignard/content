@@ -19,8 +19,8 @@
   "sc:name": "Strand NGS",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.strand-ngs.com/"
 }

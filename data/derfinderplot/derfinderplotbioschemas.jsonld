@@ -24,8 +24,8 @@
         "@id": "edam:data_2884"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_0092"
@@ -45,8 +45,8 @@
       "sc:name": "derfinderPlot",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/derfinderPlot.html",
       "sc:version": "1.8.0"

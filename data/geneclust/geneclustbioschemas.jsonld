@@ -13,8 +13,8 @@
   "biotools:primaryContact": [
     "Bradley Broom",
     "Paul Roebuck",
-    "Kim-Anh Do",
-    "Rumiana Nikolova"
+    "Rumiana Nikolova",
+    "Kim-Anh Do"
   ],
   "sc:additionalType": "Library",
   "sc:citation": "pubmed:19390667",
@@ -22,8 +22,8 @@
   "sc:name": "GENECLUST",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bioinformatics.mdanderson.org/main/GENECLUST:Overview"
 }

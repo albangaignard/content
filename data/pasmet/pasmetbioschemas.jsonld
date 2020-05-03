@@ -16,8 +16,8 @@
   "sc:name": "PASMet",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://pasmet.riken.jp/"
 }

@@ -11,17 +11,17 @@
   "@id": "https://bio.tools/seqware",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Denis Yuen",
-    "Brian O'Connor"
+    "Brian O'Connor",
+    "Denis Yuen"
   ],
   "sc:additionalType": [
-    "Command-line tool",
     "Web API",
-    "Workbench"
+    "Workbench",
+    "Command-line tool"
   ],
   "sc:author": [
-    "Solomon Shorser",
     "Morgan Taschuk",
+    "Solomon Shorser",
     "Brian O'Connor",
     "Denis Yuen"
   ],
@@ -30,8 +30,8 @@
   "sc:name": "SeqWare",
   "sc:operatingSystem": "Linux",
   "sc:provider": [
-    "ucla.edu",
-    "Ontario Institute for Cancer Research"
+    "Ontario Institute for Cancer Research",
+    "ucla.edu"
   ],
   "sc:url": "http://seqware.io/",
   "sc:version": "1.1.1"

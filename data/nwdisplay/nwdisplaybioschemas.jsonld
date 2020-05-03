@@ -29,8 +29,8 @@
       "sc:name": "nwdisplay",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://cegg.unige.ch/newick_utils",
       "sc:version": "1.6"

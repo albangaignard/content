@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/PhenoScanner",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Database portal",
-    "Web API",
     "Web application",
-    "Command-line tool"
+    "Command-line tool",
+    "Database portal",
+    "Web API"
   ],
   "sc:description": "Database of human genotype-phenotype associations.",
   "sc:license": "Unlicense",

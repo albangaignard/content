@@ -17,8 +17,8 @@
   "sc:name": "PETfold and PETcofold",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://rth.dk/resources/petfold/"
 }

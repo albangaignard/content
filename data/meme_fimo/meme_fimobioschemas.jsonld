@@ -16,8 +16,8 @@
   "sc:name": "meme_fimo",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://meme-suite.org/tools/meme",
   "sc:version": "0.0.1"

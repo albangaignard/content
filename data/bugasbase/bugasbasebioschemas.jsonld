@@ -17,8 +17,8 @@
   "sc:name": "BugaSbase",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://bugs.sgul.ac.uk/bugsbase/"
 }

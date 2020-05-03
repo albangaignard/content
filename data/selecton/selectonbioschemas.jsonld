@@ -17,8 +17,8 @@
   "sc:name": "Selecton",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://selecton.tau.ac.il/"
 }

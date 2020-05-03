@@ -17,8 +17,8 @@
   "sc:name": "BINDTranslation",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://download.baderlab.org/BINDTranslation/"
 }

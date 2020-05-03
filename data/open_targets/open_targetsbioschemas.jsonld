@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
     "Web application",
-    "Database portal",
-    "Web service"
+    "Web service",
+    "Database portal"
   ],
   "sc:citation": [
     "pmcid:PMC5210543",
@@ -24,8 +24,8 @@
   "sc:name": "Open Targets",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://www.opentargets.org/"
 }

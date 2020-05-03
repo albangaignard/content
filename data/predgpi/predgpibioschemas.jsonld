@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/predgpi",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Rita Casadio",
     "Pier Luigi Martelli",
+    "Rita Casadio",
     "Andrea Pierleoni"
   ],
   "sc:additionalType": "Web application",

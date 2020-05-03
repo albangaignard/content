@@ -14,8 +14,8 @@
   "sc:contributor": [
     "UK BBSRC",
     "UK MRC",
-    "Wellcome Trust",
-    "EMBOSS Contributors"
+    "EMBOSS Contributors",
+    "Wellcome Trust"
   ],
   "sc:description": "Calculate the isoelectric point of proteins.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "iep",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

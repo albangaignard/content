@@ -28,8 +28,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "vcfR",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/vcfR/index.html",

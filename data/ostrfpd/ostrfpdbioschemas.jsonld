@@ -18,8 +18,8 @@
         "Command-line tool"
       ],
       "sc:citation": [
-        "pubmed:31040636",
         "pmcid:PMC6482647",
+        "pubmed:31040636",
         {
           "@id": "https://doi.org/10.1177/1176934319843130"
         }
@@ -39,8 +39,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "OSTRFPD",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "https://github.com/vivekmathema/OSTRFPD"

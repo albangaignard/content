@@ -21,8 +21,8 @@
   "sc:name": "Virtual Pharmacist",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.sustc-genome.org.cn/vp/"
 }
