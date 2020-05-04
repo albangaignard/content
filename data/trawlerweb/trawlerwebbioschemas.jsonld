@@ -10,15 +10,19 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12864-018-4630-0",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/trawlerweb",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Louis Dang",
-        "Mirana Ramialison"
+        "Mirana Ramialison",
+        "Louis Dang"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC5887194",
@@ -35,14 +39,10 @@
       "sc:name": "TrawlerWeb",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://trawler.erc.monash.edu.au/"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12864-018-4630-0",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

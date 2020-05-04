@@ -11,14 +11,14 @@
   "@id": "https://bio.tools/nullarbor",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Australia",
-    "Torsten Seemann"
+    "Torsten Seemann",
+    "Australia"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:author": "Torsten Seemann",
   "sc:contributor": [
-    "DM Bulach",
     "A Goncalves da Silva",
+    "DM Bulach",
     "JC Kwong",
     "MB Schultz",
     "BP Howden"
@@ -27,8 +27,8 @@
   "sc:license": "GPL-2.0",
   "sc:name": "nullarbor",
   "sc:operatingSystem": [
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "University of Melbourne, Australia",

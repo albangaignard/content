@@ -17,8 +17,8 @@
   "sc:name": "ModPred",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://montana.informatics.indiana.edu/ModPred/"
 }

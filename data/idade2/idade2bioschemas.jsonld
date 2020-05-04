@@ -12,21 +12,21 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Marta San-Millán",
-    "Carme Rissech Badallo",
-    "Allysha Winburn"
+    "Allysha Winburn",
+    "Carme Rissech Badallo"
   ],
   "sc:additionalType": [
-    "Web application",
-    "Web service"
+    "Web service",
+    "Web application"
   ],
   "sc:citation": "pubmed:31087665",
   "sc:description": "Web server for adult age estimation of human skeletal remains.",
   "sc:license": "Unlicense",
   "sc:name": "IDADE2",
   "sc:operatingSystem": [
+    "Linux",
     "Windows",
-    "Mac",
-    "Linux"
+    "Mac"
   ],
   "sc:url": "http://bass.uib.es/~jaume/IDADE2/https/index.html"
 }

@@ -31,21 +31,21 @@
       "sc:description": "Server for identification and characterization of diversity-generating retroelements.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2422"
+          "@id": "edam:operation_3092"
         },
         {
           "@id": "edam:operation_3216"
         },
         {
-          "@id": "edam:operation_3092"
+          "@id": "edam:operation_2422"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "myDGR",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://omics.informatics.indiana.edu/myDGR"
     }

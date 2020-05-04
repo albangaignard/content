@@ -16,9 +16,9 @@
   "sc:license": "Other",
   "sc:name": "MOLGENIS Research",
   "sc:operatingSystem": [
+    "Mac",
     "Windows",
-    "Linux",
-    "Mac"
+    "Linux"
   ],
   "sc:url": "http://wiki.gcc.rug.nl/wiki/research"
 }

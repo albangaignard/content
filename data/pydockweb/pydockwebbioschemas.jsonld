@@ -21,8 +21,8 @@
       "sc:name": "pyDockWEB",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:provider": [
         "bsc.es",

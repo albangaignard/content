@@ -12,27 +12,27 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Desktop application",
   "sc:author": [
-    "Jan Brezovsky",
-    "Vilem Sustr",
-    "Petr Benes",
-    "Matus Kotry",
-    "Barbora Kozlikova",
     "Jiri Sochor",
+    "Lukas Daniel",
+    "Barbora Kozlikova",
     "Martin Manak",
+    "Antonin Pavelka",
     "Eva Sebestova",
     "Jiri Damborsky",
-    "Lukas Daniel",
-    "David Bednar",
-    "Antonin Pavelka",
+    "Martin Bezdeka",
     "Ondrej Strnad",
+    "Matus Kotry",
+    "David Bednar",
+    "Jan Brezovsky",
     "Artur Gora",
-    "Martin Bezdeka"
+    "Petr Benes",
+    "Vilem Sustr"
   ],
   "sc:description": "A tool for interactive visualization and analysis of tunnels, channels and cavities in protein structures.",
   "sc:name": "CAVER Analyst",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": [

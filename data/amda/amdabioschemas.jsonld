@@ -33,9 +33,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "AMDA",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/xyz5074/AMDA"
     },

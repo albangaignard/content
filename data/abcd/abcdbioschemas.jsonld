@@ -37,8 +37,8 @@
       "sc:license": "Not licensed",
       "sc:name": "AbCD",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://yunliweb.its.unc.edu/AbCD.html"

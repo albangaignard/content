@@ -19,8 +19,8 @@
       "biotools:primaryContact": "Eyal Dafni",
       "sc:additionalType": "Desktop application",
       "sc:citation": [
-        "pubmed:30602526",
         "pmcid:PMC6315083",
+        "pubmed:30602526",
         {
           "@id": "https://doi.org/10.1128/mSphere.00676-18"
         }
@@ -32,9 +32,9 @@
       "sc:license": "Unlicense",
       "sc:name": "CFQuant-automatic",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://www.energylabtau.com/cfquant"
     }

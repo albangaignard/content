@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Haiyan Hu",
-        "Ying Wang",
-        "Xiaoman Li"
+        "Xiaoman Li",
+        "Ying Wang"
       ],
       "sc:additionalType": "Desktop application",
       "sc:citation": [

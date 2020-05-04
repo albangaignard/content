@@ -33,9 +33,9 @@
       },
       "sc:name": "PepBindPred",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bioware.ucd.ie/~compass/biowareweb/Server_pages/pepbindpred.php"
     }

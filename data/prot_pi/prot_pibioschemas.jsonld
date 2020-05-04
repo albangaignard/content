@@ -15,8 +15,8 @@
   "sc:license": "Other",
   "sc:name": "Prot pi",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:url": "https://www.protpi.ch"

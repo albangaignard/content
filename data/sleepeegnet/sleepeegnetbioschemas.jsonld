@@ -10,6 +10,14 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1371/JOURNAL.PONE.0216456",
+      "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-3806-8487",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/SleepEEGNet",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -27,19 +35,11 @@
       "sc:license": "Unlicense",
       "sc:name": "SleepEEGNet",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://github.com/SajadMo/SleepEEGNet"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-3806-8487",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1371/JOURNAL.PONE.0216456",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

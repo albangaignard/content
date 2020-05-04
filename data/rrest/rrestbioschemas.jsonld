@@ -13,16 +13,16 @@
       "@id": "https://bio.tools/rREST",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Dezhong Yao",
-        "Pedro A. ValdÃ©s Sosa"
+        "Pedro A. ValdÃ©s Sosa",
+        "Dezhong Yao"
       ],
       "sc:additionalType": "Script",
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1007/S10548-019-00707-X"
         },
-        "pubmed:31037477",
-        "pmcid:PMC6592976"
+        "pmcid:PMC6592976",
+        "pubmed:31037477"
       ],
       "sc:description": "Regularized reference electrode standardization technique.",
       "sc:featureList": {
@@ -32,8 +32,8 @@
       "sc:name": "rREST",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/ShiangHu/Unified-EEG-reference-rREST"
     },

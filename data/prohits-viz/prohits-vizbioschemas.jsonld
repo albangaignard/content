@@ -19,8 +19,8 @@
   "sc:name": "ProHits-viz",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://prohits-viz.lunenfeld.ca/"
 }
