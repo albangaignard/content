@@ -39,21 +39,21 @@
       "sc:description": "Fast And Robust DEconvolution of Expression Profiles (FARDEEP) - machine learning tool for enumerating immune cell subsets from whole tumor tissue samples.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3629"
-        },
-        {
           "@id": "edam:operation_3192"
         },
         {
           "@id": "edam:operation_2495"
+        },
+        {
+          "@id": "edam:operation_3629"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "FARDEEP",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://github.com/YuningHao/FARDEEP.git"
     },

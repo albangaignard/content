@@ -40,8 +40,8 @@
       "sc:name": "MaCH-Admix",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://yunliweb.its.unc.edu//MaCH-Admix/index.php"
     }

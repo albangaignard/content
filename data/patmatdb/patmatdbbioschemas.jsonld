@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "Wellcome Trust",
     "UK BBSRC",
     "EMBOSS Contributors",
-    "Wellcome Trust",
     "UK MRC"
   ],
   "sc:description": "Search protein sequences with a sequence motif.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "patmatdb",
   "sc:operatingSystem": [
-    "Mac",
+    "Windows",
     "Linux",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

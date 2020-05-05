@@ -24,8 +24,8 @@
         "Library"
       ],
       "sc:citation": [
-        "pmcid:PMC3045301",
         "pubmed:21281468",
+        "pmcid:PMC3045301",
         {
           "@id": "https://doi.org/10.1186/1471-2105-12-39"
         }
@@ -38,8 +38,8 @@
       "sc:name": "ChIPseqR",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/ChIPseqR.html",
       "sc:version": "1.28.0"

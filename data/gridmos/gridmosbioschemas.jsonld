@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "WainerZoli",
-    "AlessandroBevilacqua",
-    "AnnaTesei",
     "FilippoPiccinini",
-    "GiuliaPaganelli"
+    "GiuliaPaganelli",
+    "AlessandroBevilacqua",
+    "AnnaTesei"
   ],
   "sc:additionalType": "Desktop application",
   "sc:citation": "pubmed:25438936",
@@ -23,8 +23,8 @@
   "sc:name": "GridMos",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://sourceforge.net/projects/gridmos/"
 }

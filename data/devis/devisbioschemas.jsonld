@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12859-019-2702-z",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/DEvis",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Adam Price",
@@ -36,15 +40,11 @@
       "sc:license": "LGPL-2.0",
       "sc:name": "DEvis",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "https://cran.r-project.org/package=DEVis"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12859-019-2702-z",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

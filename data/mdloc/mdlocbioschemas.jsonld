@@ -16,8 +16,8 @@
   "sc:name": "MDLoc",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://128.4.31.235/"
 }

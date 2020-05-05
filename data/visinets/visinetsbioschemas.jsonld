@@ -32,8 +32,8 @@
       "sc:name": "Visinets",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://www.visinets.com/index.htm"
     }

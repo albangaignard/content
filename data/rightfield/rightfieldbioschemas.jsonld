@@ -17,12 +17,12 @@
   "sc:name": "RightField",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
-    "manchester.ac.uk",
-    "University of Manchester, UK"
+    "University of Manchester, UK",
+    "manchester.ac.uk"
   ],
   "sc:url": "http://www.rightfield.org.uk/",
   "sc:version": "0.22"

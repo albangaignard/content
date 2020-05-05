@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "John D. Storey",
-    "W. Evan Johnson",
-    "Jeffrey T. Leek"
+    "Jeffrey T. Leek",
+    "W. Evan Johnson"
   ],
   "sc:additionalType": [
     "Command-line tool",
@@ -23,8 +23,8 @@
   "sc:license": "Artistic-2.0",
   "sc:name": "sva",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/sva.html",

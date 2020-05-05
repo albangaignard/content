@@ -27,8 +27,8 @@
       "sc:license": "Unlicense",
       "sc:name": "VMH",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://vmh.life"

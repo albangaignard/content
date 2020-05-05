@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/seance",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Support",
-        "Contact form"
+        "Contact form",
+        "Support"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
@@ -39,8 +39,8 @@
       ],
       "sc:name": "Seance",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://wasabiapp.org/software/seance/"
     }

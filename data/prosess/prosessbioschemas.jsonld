@@ -11,18 +11,18 @@
   "@id": "https://bio.tools/prosess",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Contact Form",
-    "Mark Berjanskii",
-    "Cam MacDonell",
-    "Peter Tang",
-    "Guohui Lin",
     "Paul Lu",
-    "Paul Stothard",
-    "Yongjie (Jack) Liang",
-    "Jianjun (Ben) Zhou",
+    "Cam MacDonell",
+    "Guohui Lin",
+    "Contact Form",
     "David Wishart",
+    "You Zhou",
+    "Peter Tang",
+    "Mark Berjanskii",
+    "Yongjie (Jack) Liang",
+    "Paul Stothard",
     "Joseph Cruz",
-    "You Zhou"
+    "Jianjun (Ben) Zhou"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:20460469",
@@ -30,8 +30,8 @@
   "sc:name": "PROSESS",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.prosess.ca"
 }

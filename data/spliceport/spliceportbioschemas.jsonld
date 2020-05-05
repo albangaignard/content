@@ -17,8 +17,8 @@
   "sc:name": "SplicePort",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://spliceport.cbcb.umd.edu/"
 }

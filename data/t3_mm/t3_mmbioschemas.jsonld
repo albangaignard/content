@@ -27,8 +27,8 @@
       },
       "sc:name": "T3_MM",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "https://biocomputer.bio.cuhk.edu.hk/T3DB/T3_MM.php"

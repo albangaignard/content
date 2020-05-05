@@ -10,12 +10,16 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.5334/jors.166",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/adat",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Foo Cheung",
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:citation": [
         {
@@ -41,10 +45,6 @@
         "Mac"
       ],
       "sc:url": "https://foocheung.shinyapps.io/adat/"
-    },
-    {
-      "@id": "https://doi.org/10.5334/jors.166",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

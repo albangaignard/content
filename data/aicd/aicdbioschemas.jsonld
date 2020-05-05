@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Zaoyuan Kuang",
-        "Biaoyan Du",
-        "Jiangyong Gu"
+        "Jiangyong Gu",
+        "Biaoyan Du"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -32,13 +32,13 @@
       "sc:description": "Anti-Inflamamtory Compounds Database for drug discovery.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2939"
+          "@id": "edam:operation_3891"
         },
         {
           "@id": "edam:operation_3431"
         },
         {
-          "@id": "edam:operation_3891"
+          "@id": "edam:operation_2939"
         }
       ],
       "sc:license": "CC-BY-4.0",

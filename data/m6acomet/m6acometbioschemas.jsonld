@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s12859-019-2840-3",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/m6Acomet",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Jia Meng",
@@ -22,11 +18,11 @@
         "Web service"
       ],
       "sc:citation": [
+        "pubmed:31046660",
+        "pmcid:PMC6498663",
         {
           "@id": "https://doi.org/10.1186/s12859-019-2840-3"
-        },
-        "pubmed:31046660",
-        "pmcid:PMC6498663"
+        }
       ],
       "sc:description": "Large-scale functional prediction of individual m6A RNA methylation sites from an RNA co-methylation network.",
       "sc:featureList": [
@@ -47,6 +43,10 @@
         "Mac"
       ],
       "sc:url": "http://xjtlu.edu.cn/biologicalsciences/m6acomet"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s12859-019-2840-3",
+      "@type": "sc:CreativeWork"
     }
   ]
 }
