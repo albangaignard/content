@@ -12,13 +12,13 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Yosef Masoudi-Sobhanzadeh",
-    "Massoud Amanlou",
     "Yadollah Omidi",
-    "Ali Masoudi-Nejad"
+    "Ali Masoudi-Nejad",
+    "Massoud Amanlou"
   ],
   "sc:additionalType": [
-    "Database portal",
-    "Web application"
+    "Web application",
+    "Database portal"
   ],
   "sc:citation": "pubmed:31096089",
   "sc:description": "Database for drug repurposing, combination therapy, and replacement therapy.",
@@ -26,8 +26,8 @@
   "sc:name": "DrugR+",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.drugr.ir"
 }

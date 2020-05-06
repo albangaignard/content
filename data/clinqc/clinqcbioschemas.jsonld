@@ -10,17 +10,13 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/S12859-016-0915-Y",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/clinqc",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Ram Vinay Pandey",
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
-        "pubmed:26830926",
         "pmcid:PMC4735967",
+        "pubmed:26830926",
         {
           "@id": "https://doi.org/10.1186/S12859-016-0915-Y"
         }
@@ -31,11 +27,15 @@
       },
       "sc:name": "ClinQC",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://sourceforge.net/projects/clinqc/"
+    },
+    {
+      "@id": "https://doi.org/10.1186/S12859-016-0915-Y",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -16,8 +16,8 @@
   "sc:name": "MASCP Gator",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://gator.masc-proteomics.org/"
 }

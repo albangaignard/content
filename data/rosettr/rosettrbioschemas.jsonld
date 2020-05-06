@@ -32,9 +32,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "rosettR",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://hredestig.github.io/rosettR/"
     }

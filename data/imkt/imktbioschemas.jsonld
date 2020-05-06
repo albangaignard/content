@@ -23,8 +23,8 @@
         "JesÃºs Murga"
       ],
       "sc:additionalType": [
-        "Library",
-        "Web application"
+        "Web application",
+        "Library"
       ],
       "sc:citation": [
         {
@@ -39,17 +39,17 @@
           "@id": "edam:operation_0310"
         },
         {
-          "@id": "edam:operation_2495"
+          "@id": "edam:operation_0451"
         },
         {
-          "@id": "edam:operation_0451"
+          "@id": "edam:operation_2495"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "iMKT",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "https://imkt.uab.cat"

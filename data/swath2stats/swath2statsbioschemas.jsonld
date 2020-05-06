@@ -47,8 +47,8 @@
       "sc:name": "SWATH2stats",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/SWATH2stats.html",
       "sc:version": "1.4.1"

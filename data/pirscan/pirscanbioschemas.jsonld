@@ -19,8 +19,8 @@
   "sc:name": "pirScan",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://cosbi4.ee.ncku.edu.tw/pirScan/"
 }

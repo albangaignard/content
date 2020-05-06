@@ -41,8 +41,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "HIBAG",
       "sc:operatingSystem": [
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/HIBAG.html",
       "sc:version": "1.10.0"

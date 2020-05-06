@@ -17,11 +17,11 @@
       "@id": "https://bio.tools/netcooperate",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Shiri Freilich",
-        "Anat Kreimer",
-        "Rogan Carr",
         "Roie Levy",
-        "Elhanan Borenstein"
+        "Elhanan Borenstein",
+        "Shiri Freilich",
+        "Rogan Carr",
+        "Anat Kreimer"
       ],
       "sc:additionalType": [
         "Library",
@@ -43,8 +43,8 @@
       "sc:name": "NetCooperate",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://elbo.gs.washington.edu/software_netcooperate.html"
     }

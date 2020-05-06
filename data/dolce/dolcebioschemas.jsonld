@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/dolce",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Jiří Černý",
     "Filip Lankaš",
     "Daniel Svozil",
     "Bohdan Schneider",
-    "Jiří Černý",
     "Petr Cech"
   ],
   "sc:additionalType": "Database portal",
@@ -22,8 +22,8 @@
   "sc:name": "Dolbico",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": "ELIXIR-CZ",
   "sc:url": "http://dolbico.org/",

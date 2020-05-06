@@ -27,17 +27,17 @@
       "sc:description": "R package to predict Salmonella enterica serotype based on newly incorporated spacer pairs of CRISPR.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0308"
+          "@id": "edam:operation_3840"
         },
         {
-          "@id": "edam:operation_3840"
+          "@id": "edam:operation_0308"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "CSESA",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://cran.r-project.org/package=CSESA",

@@ -41,8 +41,8 @@
       "sc:name": "CADD",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://cadd.gs.washington.edu/"
     }

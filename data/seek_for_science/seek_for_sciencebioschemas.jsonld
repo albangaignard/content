@@ -22,8 +22,8 @@
   "sc:operatingSystem": "Linux",
   "sc:provider": [
     "Heidelberg Institute for Theoretical Studies, Germany",
-    "The University of Manchester, UK",
-    "manchester.ac.uk"
+    "manchester.ac.uk",
+    "The University of Manchester, UK"
   ],
   "sc:url": "http://seek4science.org/",
   "sc:version": "1"

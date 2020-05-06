@@ -40,8 +40,8 @@
       "sc:name": "dStruct",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://github.com/AviranLab/dStruct"
     },

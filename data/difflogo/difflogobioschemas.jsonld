@@ -21,13 +21,13 @@
       },
       "edam:has_input": [
         {
+          "@id": "edam:data_3495"
+        },
+        {
           "@id": "edam:data_2976"
         },
         {
           "@id": "edam:data_3494"
-        },
-        {
-          "@id": "edam:data_3495"
         },
         {
           "@id": "edam:data_2082"
@@ -37,8 +37,8 @@
         "@id": "edam:data_2884"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_0622"
@@ -57,9 +57,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "DiffLogo",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/DiffLogo.html",
       "sc:version": "1.4.0"
