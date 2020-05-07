@@ -16,8 +16,8 @@
   "sc:name": "ProSA-web",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://prosa.services.came.sbg.ac.at/prosa.php"
 }

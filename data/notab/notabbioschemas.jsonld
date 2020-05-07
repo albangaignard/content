@@ -19,9 +19,9 @@
   ],
   "sc:description": "Replace tabs with spaces in an ASCII text file.",
   "sc:funder": [
-    "Wellcome Trust",
     "UK BBSRC",
-    "UK MRC"
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "notab",

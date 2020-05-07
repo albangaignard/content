@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/mircomb",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Juanjo Lozano",
-        "Maria Vila Casadesús"
+        "Maria Vila Casadesús",
+        "Juanjo Lozano"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -39,8 +39,8 @@
       ],
       "sc:name": "MiRComb",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://mircomb.sourceforge.net/"

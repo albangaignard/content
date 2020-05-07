@@ -16,16 +16,16 @@
   ],
   "sc:additionalType": [
     "Command-line tool",
-    "Web service",
-    "Web application"
+    "Web application",
+    "Web service"
   ],
   "sc:description": "Webserver and deep neural network design tool for hierarchical biological sequence classification.",
   "sc:license": "Unlicense",
   "sc:name": "SECLAF",
   "sc:operatingSystem": [
+    "Linux",
     "Mac",
-    "Windows",
-    "Linux"
+    "Windows"
   ],
   "sc:url": "https://pitgroup.org/seclaf/"
 }

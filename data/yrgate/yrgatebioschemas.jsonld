@@ -31,8 +31,8 @@
       "sc:license": "Not licensed",
       "sc:name": "yrGATE",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://www.plantgdb.org/prj/yrGATE/"

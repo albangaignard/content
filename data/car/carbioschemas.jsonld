@@ -32,8 +32,8 @@
       "sc:name": "CAR",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://genome.cs.nthu.edu.tw/CAR/"
     }

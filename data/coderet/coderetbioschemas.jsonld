@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
-    "UK MRC",
     "UK BBSRC",
+    "UK MRC",
     "EMBOSS Contributors"
   ],
   "sc:description": "Extract CDS, mRNA and translations from feature tables.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "coderet",
   "sc:operatingSystem": [
-    "Linux",
+    "Mac",
     "Windows",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
     "EMBOSS",

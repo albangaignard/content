@@ -13,10 +13,10 @@
       "@id": "https://bio.tools/Monoallelic_gene_inference_from_chromatin_MaGIC",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Henry Ward",
-        "Sébastien Vigneau",
-        "Sachit Saksena",
         "Alexander Gimelbrant",
+        "Henry Ward",
+        "Sachit Saksena",
+        "Sébastien Vigneau",
         "Svetlana Vinogradova"
       ],
       "sc:additionalType": "Library",
@@ -39,8 +39,8 @@
       "sc:license": "MIT",
       "sc:name": "Monoallelic gene inference from chromatin (MaGIC)",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/gimelbrantlab/magic"
     },

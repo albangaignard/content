@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.1186/s12859-017-1621-0",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/pgltools-chromatin",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -38,10 +42,6 @@
         "Windows"
       ],
       "sc:url": "https://github.com/billgreenwald/pgltools"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12859-017-1621-0",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

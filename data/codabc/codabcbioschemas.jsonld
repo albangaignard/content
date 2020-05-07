@@ -27,8 +27,8 @@
       },
       "sc:name": "CodABC",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://code.google.com/archive/p/codabc/"
     },

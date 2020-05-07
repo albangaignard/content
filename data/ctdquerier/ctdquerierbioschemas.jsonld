@@ -16,8 +16,8 @@
   "sc:name": "CTDquerier",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://github.com/isglobal-brge/CTDquerier"
 }
