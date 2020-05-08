@@ -28,10 +28,10 @@
       "sc:description": "Multiple-alignment based web tool for target selection and designing taxon-specific primers in the loop-mediated isothermal amplification method.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3237"
+          "@id": "edam:operation_3192"
         },
         {
-          "@id": "edam:operation_3192"
+          "@id": "edam:operation_3237"
         },
         {
           "@id": "edam:operation_0308"
@@ -40,9 +40,9 @@
       "sc:license": "Unlicense",
       "sc:name": "MorphoCatcher",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://morphocatcher.ru"
     }

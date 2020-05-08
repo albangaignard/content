@@ -19,8 +19,8 @@
   "sc:name": "QueTAL",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://bioinfo-web.mpl.ird.fr/cgi-bin2/quetal/quetal.cgi"
 }

@@ -21,8 +21,8 @@
         "Cedric Notredame"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:31106365",
@@ -46,9 +46,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Pergola-web",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://pergola.crg.eu/"
     }

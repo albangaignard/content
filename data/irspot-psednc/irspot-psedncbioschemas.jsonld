@@ -31,9 +31,9 @@
       },
       "sc:name": "iRSpot-PseDNC",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://lin-group.cn/server/iRSpot-PseDNC"
     }

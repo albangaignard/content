@@ -44,8 +44,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Pergola",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "https://CRAN.R-project.org/package=pergola",

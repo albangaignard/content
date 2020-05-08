@@ -10,15 +10,19 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0001-5127-5459",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/jaspar",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Wyeth Wasserman",
         {
           "@id": "http://orcid.org/0000-0001-5127-5459"
         },
         "Albin Sandelin",
-        "Boris Lenhard",
-        "Wyeth Wasserman"
+        "Boris Lenhard"
       ],
       "sc:additionalType": [
         "Database portal",
@@ -34,10 +38,6 @@
         "Linux"
       ],
       "sc:url": "http://jaspar.genereg.net/"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-5127-5459",
-      "@type": "schema:Person"
     }
   ]
 }

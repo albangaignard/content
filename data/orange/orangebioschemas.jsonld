@@ -25,16 +25,16 @@
         "Command-line tool"
       ],
       "sc:author": [
-        "Aleš Erjavec",
-        "Martin Stražar",
-        "Tomaž Curk",
-        "Lan Žagar",
-        "Andrej Čopar",
-        "Anže Starič",
-        "Jernej Kernc",
-        "Janez Demšar",
         "Vesna Tanko",
-        "Marko Toplak"
+        "Andrej Čopar",
+        "Marko Toplak",
+        "Anže Starič",
+        "Tomaž Curk",
+        "Martin Stražar",
+        "Jernej Kernc",
+        "Lan Žagar",
+        "Aleš Erjavec",
+        "Janez Demšar"
       ],
       "sc:citation": "pubmed:17586552",
       "sc:contributor": {

@@ -21,8 +21,8 @@
   "sc:name": "seqcluster",
   "sc:operatingSystem": "Linux",
   "sc:provider": [
-    "hsph.harvard.edu",
     "Harvard Chan School",
+    "hsph.harvard.edu",
     "Center of Genomic Regulation"
   ],
   "sc:url": "http://seqcluster.readthedocs.org",

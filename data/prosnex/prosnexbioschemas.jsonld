@@ -10,14 +10,18 @@
   },
   "@graph": [
     {
+      "@id": "https://orcid.org/0000-0002-3043-0015",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/ProSNEx",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Onur Sercinoglu",
+        "Rasim Murat Aydinkal",
         {
           "@id": "https://orcid.org/0000-0002-3043-0015"
         },
-        "Rasim Murat Aydinkal"
+        "Onur Sercinoglu"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -42,15 +46,11 @@
       "sc:license": "Unlicense",
       "sc:name": "ProSNEx",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://prosnex-tool.com"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-3043-0015",
-      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1093/NAR/GKZ390",

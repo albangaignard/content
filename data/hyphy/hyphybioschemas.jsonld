@@ -15,8 +15,8 @@
     "Command-line tool"
   ],
   "sc:author": [
-    "Sergei L Kosakovsky Pond",
     "Art FY Poon",
+    "Sergei L Kosakovsky Pond",
     "Steven Weaver"
   ],
   "sc:citation": "pubmed:30298394",
@@ -24,9 +24,9 @@
   "sc:license": "Unlicense",
   "sc:name": "HyPhy",
   "sc:operatingSystem": [
-    "Linux",
+    "Mac",
     "Windows",
-    "Mac"
+    "Linux"
   ],
   "sc:url": "http://hyphy.org"
 }

@@ -18,8 +18,8 @@
         "Database portal"
       ],
       "sc:citation": [
-        "pmcid:PMC3071923",
         "pubmed:21457909",
+        "pmcid:PMC3071923",
         {
           "@id": "https://doi.org/10.1016/j.ajhg.2011.03.004"
         }
@@ -38,9 +38,9 @@
       ],
       "sc:name": "Condel",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://bbglab.irbbarcelona.org/fannsdb/"
     },

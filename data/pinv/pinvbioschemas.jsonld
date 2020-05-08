@@ -16,8 +16,8 @@
   "sc:name": "PINV",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://biosual.cbio.uct.ac.za/pinv.html"
 }

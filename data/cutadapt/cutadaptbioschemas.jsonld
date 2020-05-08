@@ -17,8 +17,8 @@
   "sc:name": "Cutadapt",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://pypi.python.org/pypi/cutadapt"
 }

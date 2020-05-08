@@ -27,8 +27,8 @@
       },
       "sc:name": "Variant Ranker",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://paschou-lab.mbg.duth.gr/html5up/index.html"

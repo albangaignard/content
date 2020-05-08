@@ -21,9 +21,9 @@
   "sc:description": "This program evaluates the change in binding affinity between proteins (or protein chains) caused by single-site mutations in their sequence.",
   "sc:name": "BeAtMuSiC",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://babylone.ulb.ac.be/beatmusic"
 }

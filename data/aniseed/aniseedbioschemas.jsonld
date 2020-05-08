@@ -10,6 +10,14 @@
   },
   "@graph": [
     {
+      "@id": "https://orcid.org/0000-0003-4925-2009",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://orcid.org/0000-0001-7247-6460",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/ANISEED",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -21,8 +29,8 @@
         }
       ],
       "sc:additionalType": [
-        "Web API",
         "Web application",
+        "Web API",
         "Ontology",
         "Database portal"
       ],
@@ -32,14 +40,6 @@
       "sc:operatingSystem": "Linux",
       "sc:url": "https://www.aniseed.cnrs.fr",
       "sc:version": "2019"
-    },
-    {
-      "@id": "https://orcid.org/0000-0003-4925-2009",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://orcid.org/0000-0001-7247-6460",
-      "@type": "schema:Person"
     }
   ]
 }
