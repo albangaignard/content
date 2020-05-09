@@ -16,8 +16,8 @@
   "sc:name": "SECA",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://neurogenetics.qimrberghofer.edu.au/SECA/"
 }

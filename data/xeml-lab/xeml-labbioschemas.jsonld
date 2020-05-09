@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Desktop application",
   "sc:author": [
-    "Emmanuel Bouilhol",
-    "Benjamin Dartigues"
+    "Benjamin Dartigues",
+    "Emmanuel Bouilhol"
   ],
   "sc:contributor": [
     "Yves Gibon",
@@ -24,13 +24,13 @@
   "sc:license": "MIT",
   "sc:name": "XEML-Lab",
   "sc:operatingSystem": [
+    "Mac",
     "Windows",
-    "Linux",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
-    "UMR 1332 - Biologie du Fruit et Pathologie",
-    "Centre de Bioinformatique de Bordeaux (CBiB)"
+    "Centre de Bioinformatique de Bordeaux (CBiB)",
+    "UMR 1332 - Biologie du Fruit et Pathologie"
   ],
   "sc:url": "https://github.com/cbib/XEML-Lab",
   "sc:version": "1"

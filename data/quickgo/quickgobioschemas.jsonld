@@ -15,8 +15,8 @@
   "sc:name": "QuickGO",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.ebi.ac.uk/QuickGO/"
 }

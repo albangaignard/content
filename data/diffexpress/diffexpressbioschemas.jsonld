@@ -27,10 +27,10 @@
       "sc:description": "Bespoke Cloud-Based Interface for RNA-seq Differential Expression Modeling and Analysis.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3223"
+          "@id": "edam:operation_3800"
         },
         {
-          "@id": "edam:operation_3800"
+          "@id": "edam:operation_3223"
         },
         {
           "@id": "edam:operation_3680"

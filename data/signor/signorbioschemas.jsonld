@@ -13,23 +13,23 @@
   "biotools:primaryContact": "Luana Licata",
   "sc:additionalType": "Database portal",
   "sc:author": [
-    "Alberto Calderone",
     "Prisca Lo Surdo",
+    "Alberto Calderone",
     "Leonardo Briganti"
   ],
   "sc:contributor": [
-    "Livia Perfetto",
+    "Gianni Cesareni",
     "Marta Iannuccelli",
-    "Elena Santonico",
-    "Gianni Cesareni"
+    "Livia Perfetto",
+    "Elena Santonico"
   ],
   "sc:description": "A tool collects manually-annotated logic relationships between molecules that participate in signal transduction.",
   "sc:license": "CC-BY-SA-4.0",
   "sc:name": "SIGNOR",
   "sc:operatingSystem": [
+    "Linux",
     "Windows",
-    "Mac",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
     "Molecular Genetic Group, University of Rome \"Tor Vergata\", Rome, Italy",

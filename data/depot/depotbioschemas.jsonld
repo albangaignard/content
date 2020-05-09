@@ -29,8 +29,8 @@
       "sc:name": "DEPOT",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://depot.tbportals.niaid.nih.gov"
     },

@@ -27,9 +27,9 @@
       },
       "sc:name": "CleavPredict",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://cleavpredict.sanfordburnham.org/"
     },

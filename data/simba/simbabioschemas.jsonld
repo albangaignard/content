@@ -31,8 +31,8 @@
       },
       "sc:name": "SIMBA",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://ufmg-simba.sourceforge.net/"

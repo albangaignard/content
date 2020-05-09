@@ -37,8 +37,8 @@
       },
       "sc:name": "aTRAM",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/juliema/aTRAM",
       "sc:version": "1.04"

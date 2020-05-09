@@ -34,13 +34,13 @@
       "sc:description": "Flux prediction using artificial neural network (ANN) for the upper part of glycolysis.",
       "sc:featureList": [
         {
+          "@id": "edam:operation_3435"
+        },
+        {
           "@id": "edam:operation_3439"
         },
         {
           "@id": "edam:operation_3715"
-        },
-        {
-          "@id": "edam:operation_3435"
         }
       ],
       "sc:license": "MIT",

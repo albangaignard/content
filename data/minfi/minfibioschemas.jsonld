@@ -10,18 +10,14 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/btw691",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/minfi",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0003-0086-0687"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:28035024",
@@ -33,21 +29,25 @@
       "sc:description": "Tools to analyze & visualize Illumina Infinium methylation arrays.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0337"
+          "@id": "edam:operation_2945"
         },
         {
-          "@id": "edam:operation_2945"
+          "@id": "edam:operation_0337"
         }
       ],
       "sc:license": "Artistic-2.0",
       "sc:name": "minfi",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/minfi.html",
       "sc:version": "1.20.2"
+    },
+    {
+      "@id": "https://doi.org/10.1093/bioinformatics/btw691",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "http://orcid.org/0000-0003-0086-0687",

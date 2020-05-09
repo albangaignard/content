@@ -24,8 +24,8 @@
   "sc:license": "Unlicense",
   "sc:name": "JAL",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "http://mspc.bii.a-star.edu.sg/minhn/jal.html"

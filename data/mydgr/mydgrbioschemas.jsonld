@@ -30,18 +30,18 @@
           "@id": "edam:operation_2422"
         },
         {
-          "@id": "edam:operation_3216"
+          "@id": "edam:operation_3092"
         },
         {
-          "@id": "edam:operation_3092"
+          "@id": "edam:operation_3216"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "myDGR",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://omics.informatics.indiana.edu/myDGR"
     },

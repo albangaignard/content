@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Francisco Camara",
   "sc:additionalType": [
-    "Web application",
-    "Command-line tool"
+    "Command-line tool",
+    "Web application"
   ],
   "sc:author": [
     "Roderic Guigo",
@@ -24,13 +24,13 @@
   "sc:license": "GPL-3.0",
   "sc:name": "SGP2",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": [
-    "crg.eu",
-    "Lab Roderic Guigo Group"
+    "Lab Roderic Guigo Group",
+    "crg.eu"
   ],
   "sc:url": "http://big.crg.cat/services/sgp2",
   "sc:version": "1.1"

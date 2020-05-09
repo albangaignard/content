@@ -16,8 +16,8 @@
   "sc:name": "GLaD",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://genomics.wpi.edu/glad/"
 }

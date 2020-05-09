@@ -21,8 +21,8 @@
   "sc:name": "Galactosemia Proteins Database",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "ELIXIR-ITA-SALERNO",
   "sc:url": "http://www.protein-variants.eu/galactosemia/",

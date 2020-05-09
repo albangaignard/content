@@ -32,8 +32,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "metaX",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://metax.genomics.cn/"

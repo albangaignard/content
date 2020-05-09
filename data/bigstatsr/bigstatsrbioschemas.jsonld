@@ -19,8 +19,8 @@
   "sc:name": "bigstatsr",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://privefl.github.io/bigstatsr/"
 }

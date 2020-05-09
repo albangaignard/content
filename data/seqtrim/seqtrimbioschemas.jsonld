@@ -17,8 +17,8 @@
   "sc:name": "SeqTrim",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.scbi.uma.es/ingebiol/session/new/seqtrimnext"
 }

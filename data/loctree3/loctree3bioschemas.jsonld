@@ -15,11 +15,11 @@
     "Web application"
   ],
   "sc:author": [
-    "Guy Yachdav",
-    "Tatyana Goldberg",
-    "Tobias Hamp",
     "Maximilian Hecht",
-    "Timothy Karl"
+    "Timothy Karl",
+    "Guy Yachdav",
+    "Tobias Hamp",
+    "Tatyana Goldberg"
   ],
   "sc:contributor": [
     "Ernst Ludwig Ehrlich Studienwerk",
@@ -36,8 +36,8 @@
   "sc:name": "LocTree3",
   "sc:operatingSystem": "Linux",
   "sc:provider": [
-    "Technische Universität München",
-    "RostLab"
+    "RostLab",
+    "Technische Universität München"
   ],
   "sc:url": "https://rostlab.org/services/loctree3/",
   "sc:version": "1.0.8"

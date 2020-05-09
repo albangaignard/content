@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.7717/peerj.1054",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/tissues",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -53,11 +49,15 @@
       "sc:license": "CC-BY-4.0",
       "sc:name": "TISSUES",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://tissues.jensenlab.org/"
+    },
+    {
+      "@id": "https://doi.org/10.7717/peerj.1054",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -46,10 +46,10 @@
         }
       ],
       "sc:citation": [
-        "pubmed:22455463",
         {
           "@id": "https://doi.org/10.1089/omi.2011.0118"
         },
+        "pubmed:22455463",
         "pmcid:PMC3339379"
       ],
       "sc:description": "This package implements methods to analyze and visualize functional profiles (GO and KEGG) of gene and gene clusters.",
