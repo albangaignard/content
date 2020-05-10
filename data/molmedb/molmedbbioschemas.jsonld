@@ -18,6 +18,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "http://orcid.org/0000-0001-9556-2978",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/MolMeDB",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -31,10 +35,10 @@
         "Jakub Juračka"
       ],
       "sc:contributor": [
-        "Michaela Melíková",
         {
           "@id": "http://orcid.org/0000-0001-9556-2978"
         },
+        "Michaela Melíková",
         {
           "@id": "http://orcid.org/0000-0001-9472-2589"
         }
@@ -44,10 +48,6 @@
       "sc:license": "CC-BY-4.0",
       "sc:name": "MolMeDB",
       "sc:url": "http://molmedb.upol.cz"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-9556-2978",
-      "@type": "schema:Person"
     }
   ]
 }

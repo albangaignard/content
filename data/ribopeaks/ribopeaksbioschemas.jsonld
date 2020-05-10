@@ -17,8 +17,8 @@
   "sc:name": "Ribopeaks",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.ribopeaks.com."
 }

@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Help (Support)",
   "sc:additionalType": [
-    "Web API",
-    "Command-line tool",
     "Web service",
+    "Command-line tool",
+    "Web API",
     "Workbench"
   ],
   "sc:author": "ELIXIR Norway",

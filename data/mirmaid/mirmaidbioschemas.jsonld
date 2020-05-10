@@ -16,9 +16,9 @@
   ],
   "sc:additionalType": [
     "Command-line tool",
+    "Web application",
     "Library",
     "Database portal",
-    "Web application",
     "Web API"
   ],
   "sc:description": "Intuitive and modular software platform designed to unify miRBase and independent miRNA data resources. It enables miRNA researchers to computationally address complex questions involving the multitude of miRNA data resources.",

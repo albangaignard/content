@@ -27,9 +27,9 @@
       },
       "sc:name": "dbSUPER",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://asntech.org/dbsuper/"
     },

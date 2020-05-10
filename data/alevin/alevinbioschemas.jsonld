@@ -10,15 +10,11 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s13059-019-1670-y",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/Alevin",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "A. Srivastava",
-        "Rob Patro"
+        "Rob Patro",
+        "A. Srivastava"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
@@ -34,19 +30,23 @@
           "@id": "edam:operation_3799"
         },
         {
-          "@id": "edam:operation_3200"
+          "@id": "edam:operation_2495"
         },
         {
-          "@id": "edam:operation_2495"
+          "@id": "edam:operation_3200"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "Alevin",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://salmon.readthedocs.io/en/latest/alevin.html#references"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s13059-019-1670-y",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

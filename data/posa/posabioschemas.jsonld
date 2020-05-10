@@ -17,8 +17,8 @@
   "sc:name": "POSA",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://posa.godziklab.org/"
 }

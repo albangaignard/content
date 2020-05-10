@@ -24,17 +24,17 @@
       "sc:description": "The package provides a testing workbench for evaluating precision-recall curves under various conditions in R.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2238"
+          "@id": "edam:operation_2428"
         },
         {
-          "@id": "edam:operation_2428"
+          "@id": "edam:operation_2238"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "prcbench",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:provider": "ii.uib.no",

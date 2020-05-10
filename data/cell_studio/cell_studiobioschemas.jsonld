@@ -17,8 +17,8 @@
   "sc:name": "Cell Studio",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.cellstudio.info"
 }

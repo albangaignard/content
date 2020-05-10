@@ -25,10 +25,10 @@
   "sc:name": "BigNASim",
   "sc:operatingSystem": "Linux",
   "sc:provider": [
-    "Institute of Research In Biomedicine - Barcelona",
-    "University of Barcelona",
     "Technic University of Catalonia",
-    "Barcelona Supercomputing Center"
+    "Institute of Research In Biomedicine - Barcelona",
+    "Barcelona Supercomputing Center",
+    "University of Barcelona"
   ],
   "sc:url": "http://mmb.irbbarcelona.org/BIGNASim/"
 }

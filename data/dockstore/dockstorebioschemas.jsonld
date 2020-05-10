@@ -40,8 +40,8 @@
       "sc:name": "Dockstore",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://dockstore.org"
     }

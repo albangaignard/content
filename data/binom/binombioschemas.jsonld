@@ -17,8 +17,8 @@
   "sc:name": "BiNoM",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://binom.curie.fr/"
 }

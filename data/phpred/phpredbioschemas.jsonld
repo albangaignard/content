@@ -16,8 +16,8 @@
   "sc:name": "PHPred",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://lin.uestc.edu.cn/server/PHPred"
 }

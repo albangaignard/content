@@ -27,10 +27,10 @@
       "sc:description": "GLUE (Genes Linked by Underlying Evolution) is data-centric bioinformatics environment for virus sequence data, with a focus on variation, evolution and sequence interpretation.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_0499"
         },
         {
-          "@id": "edam:operation_0499"
+          "@id": "edam:operation_3196"
         },
         {
           "@id": "edam:operation_0564"
@@ -40,8 +40,8 @@
       "sc:name": "GLUE",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://tools.glue.cvr.ac.uk/#/home"
     },

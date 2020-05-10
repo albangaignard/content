@@ -15,13 +15,13 @@
     "Brian O'Connor"
   ],
   "sc:additionalType": [
-    "Web API",
+    "Workbench",
     "Command-line tool",
-    "Workbench"
+    "Web API"
   ],
   "sc:author": [
-    "Denis Yuen",
     "Morgan Taschuk",
+    "Denis Yuen",
     "Brian O'Connor",
     "Solomon Shorser"
   ],

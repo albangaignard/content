@@ -24,8 +24,8 @@
   "sc:name": "MetaGxBreast",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://bioconductor.org/packages/release/data/experiment/html/MetaGxBreast.html"
 }

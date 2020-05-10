@@ -21,8 +21,8 @@
   "sc:name": "3D-partner",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://gemdock.life.nctu.edu.tw/3d-partner/"
 }

@@ -32,9 +32,9 @@
       "sc:license": "Other",
       "sc:name": "RD-Connect Sample Catalogue",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://samples.rd-connect.eu/"
     }

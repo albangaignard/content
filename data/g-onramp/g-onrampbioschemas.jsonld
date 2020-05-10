@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Sarah C.R. Elgin",
-    "Wilson Leung",
     "Luke Sargent",
-    "Jeremy Goecks"
+    "Jeremy Goecks",
+    "Wilson Leung"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:31070714",
