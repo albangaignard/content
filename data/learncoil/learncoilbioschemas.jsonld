@@ -15,8 +15,8 @@
   "sc:name": "LearnCoil",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://groups.csail.mit.edu/cb/learncoil/webcoil.html"
 }

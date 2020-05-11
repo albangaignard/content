@@ -30,8 +30,8 @@
       "sc:name": "GUILDify",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": [
         "UPF",

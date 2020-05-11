@@ -30,9 +30,9 @@
       "sc:license": "Unlicense",
       "sc:name": "Subdyquency",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://github.com/weiba/Subdyquency"
     },

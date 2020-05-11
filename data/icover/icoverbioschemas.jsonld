@@ -19,8 +19,8 @@
       "biotools:primaryContact": "Magdalena Calusinska",
       "sc:additionalType": "Library",
       "sc:citation": [
-        "pmcid:PMC5414344",
         "pubmed:28464793",
+        "pmcid:PMC5414344",
         {
           "@id": "https://doi.org/10.1186/s12859-017-1653-5"
         }
@@ -32,8 +32,8 @@
       "sc:name": "ICoVeR",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://git.list.lu/eScience/ICoVeR"
     }

@@ -13,11 +13,11 @@
   "sc:additionalType": "Library",
   "sc:author": "Sebastian Wilzbach",
   "sc:contributor": [
-    "Tatyana Goldberg",
+    "Google Summer of Code (GSoC) 2014",
     "Benedikt Rauscher",
     "Guy Yachdav",
     "Ian Sillitoe",
-    "Google Summer of Code (GSoC) 2014"
+    "Tatyana Goldberg"
   ],
   "sc:description": "Large MSAs visualization interactively on the web.",
   "sc:funder": "Google Summer of Code (GSoC) 2014",
@@ -25,12 +25,12 @@
   "sc:name": "MSAViewer",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
-    "BioJS",
-    "Technische Universität München"
+    "Technische Universität München",
+    "BioJS"
   ],
   "sc:url": "http://msa.biojs.net",
   "sc:version": "1.0.0"

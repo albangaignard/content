@@ -17,8 +17,8 @@
   "sc:name": "Virus Genotyping Tools",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bioafrica.mrc.ac.za/rega-genotype/html/"
 }

@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "drget",
   "sc:operatingSystem": [
+    "Mac",
     "Linux",
-    "Windows",
-    "Mac"
+    "Windows"
   ],
   "sc:provider": [
     "EMBL EBI",

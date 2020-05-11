@@ -17,24 +17,24 @@
       "@id": "https://bio.tools/orange",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Blaž Zupan",
-        "Janez Demsar"
+        "Janez Demsar",
+        "Blaž Zupan"
       ],
       "sc:additionalType": [
         "Desktop application",
         "Command-line tool"
       ],
       "sc:author": [
-        "Andrej Čopar",
         "Jernej Kernc",
+        "Tomaž Curk",
+        "Lan Žagar",
+        "Vesna Tanko",
         "Anže Starič",
         "Marko Toplak",
-        "Janez Demšar",
-        "Aleš Erjavec",
-        "Lan Žagar",
         "Martin Stražar",
-        "Vesna Tanko",
-        "Tomaž Curk"
+        "Andrej Čopar",
+        "Aleš Erjavec",
+        "Janez Demšar"
       ],
       "sc:citation": "pubmed:17586552",
       "sc:contributor": {
@@ -44,9 +44,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Orange",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:provider": [
         "ELIXIR-SI-hackathon",

@@ -34,8 +34,8 @@
       "sc:name": "kpLogo",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://kplogo.wi.mit.edu/"
     },

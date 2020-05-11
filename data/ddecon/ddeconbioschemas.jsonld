@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1111/jmi.12456",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/ddecon",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -38,11 +34,15 @@
       "sc:license": "Other",
       "sc:name": "DDecon",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://www.scripps.edu/fowler/ddecon/"
+    },
+    {
+      "@id": "https://doi.org/10.1111/jmi.12456",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

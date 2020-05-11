@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s12859-019-2840-3",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/m6Acomet",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Jia Meng",
@@ -34,19 +30,23 @@
           "@id": "edam:operation_0417"
         },
         {
-          "@id": "edam:operation_3766"
+          "@id": "edam:operation_3207"
         },
         {
-          "@id": "edam:operation_3207"
+          "@id": "edam:operation_3766"
         }
       ],
       "sc:name": "m6Acomet",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://xjtlu.edu.cn/biologicalsciences/m6acomet"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s12859-019-2840-3",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

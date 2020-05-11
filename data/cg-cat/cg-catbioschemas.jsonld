@@ -21,9 +21,9 @@
     "Windows"
   ],
   "sc:provider": [
-    "BiBiServ",
     "CeBiTec",
-    "Bielefeld University"
+    "Bielefeld University",
+    "BiBiServ"
   ],
   "sc:url": "http://bibiserv.cebitec.uni-bielefeld.de/cgcat",
   "sc:version": "1"

@@ -31,9 +31,9 @@
       },
       "sc:name": "FuncTree",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://bioviz.tokyo/functree/"
     }

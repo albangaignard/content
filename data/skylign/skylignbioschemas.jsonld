@@ -34,9 +34,9 @@
       },
       "sc:name": "Skylign",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://skylign.org/"
     }

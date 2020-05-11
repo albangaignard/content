@@ -23,9 +23,9 @@
     "Linux"
   ],
   "sc:provider": [
-    "CeBiTec",
     "Bielefeld University",
-    "BiBiServ"
+    "BiBiServ",
+    "CeBiTec"
   ],
   "sc:url": "https://bibiserv.cebitec.uni-bielefeld.de/roci",
   "sc:version": "1"

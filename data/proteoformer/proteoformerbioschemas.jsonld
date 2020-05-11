@@ -10,18 +10,14 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0003-1677-9533",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/proteoformer",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         {
-          "@id": "https://orcid.org/0000-0001-9441-9539"
+          "@id": "https://orcid.org/0000-0002-7575-2085"
         },
         {
-          "@id": "https://orcid.org/0000-0002-7575-2085"
+          "@id": "https://orcid.org/0000-0001-9441-9539"
         }
       ],
       "sc:additionalType": "Command-line tool",
@@ -35,8 +31,8 @@
         "Elvis Ndah"
       ],
       "sc:contributor": [
-        "Sandra Steyaert",
         "Alexander Koch",
+        "Sandra Steyaert",
         {
           "@id": "https://orcid.org/0000-0002-7575-2085"
         }
@@ -55,11 +51,15 @@
       ]
     },
     {
+      "@id": "https://orcid.org/0000-0001-9441-9539",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://orcid.org/0000-0002-7575-2085",
       "@type": "schema:Person"
     },
     {
-      "@id": "https://orcid.org/0000-0001-9441-9539",
+      "@id": "https://orcid.org/0000-0003-1677-9533",
       "@type": "schema:Person"
     }
   ]

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/bioinformatics/btq067",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/eir",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Thomas Girke",
@@ -33,15 +37,15 @@
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0081"
+          "@id": "edam:topic_0154"
         },
         {
-          "@id": "edam:topic_0154"
+          "@id": "edam:topic_0081"
         }
       ],
       "sc:citation": [
@@ -58,16 +62,12 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "eiR",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/eiR.html",
       "sc:version": "1.14.1"
-    },
-    {
-      "@id": "https://doi.org/10.1093/bioinformatics/btq067",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

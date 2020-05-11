@@ -31,9 +31,9 @@
       },
       "sc:name": "BEST",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://best.korea.ac.kr/"
     }

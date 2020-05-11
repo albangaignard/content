@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1089/omi.2011.0118",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0002-6485-8781",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/clusterprofiler",
@@ -34,8 +34,8 @@
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
@@ -66,8 +66,8 @@
       "sc:name": "clusterProfiler",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:softwareHelp": {
         "@id": "http://bioconductor.org/packages/release/bioc/html/clusterProfiler.html"
@@ -76,8 +76,8 @@
       "sc:version": "3.2.9"
     },
     {
-      "@id": "http://orcid.org/0000-0002-6485-8781",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1089/omi.2011.0118",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

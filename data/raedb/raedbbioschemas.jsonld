@@ -39,8 +39,8 @@
       ],
       "sc:name": "RAEdb",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://www.computationalbiology.cn/RAEdb/index.php"

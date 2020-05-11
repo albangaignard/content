@@ -15,17 +15,17 @@
     "Dr. Albert J. Kooistra"
   ],
   "sc:additionalType": [
-    "Web API",
+    "Database portal",
     "Command-line tool",
-    "Web application",
-    "Database portal"
+    "Web API",
+    "Web application"
   ],
   "sc:author": [
-    "Chimed Jansen",
     "Georgi K. Kanev",
+    "Albert J. Kooistra",
     "Chris de Graaf",
-    "Division of Medicinal Chemistry (Vrije Universiteit Amsterdam)",
-    "Albert J. Kooistra"
+    "Chimed Jansen",
+    "Division of Medicinal Chemistry (Vrije Universiteit Amsterdam)"
   ],
   "sc:contributor": [
     "TI Pharma grant T4-302",
@@ -40,9 +40,9 @@
   ],
   "sc:name": "PDEStrIAn",
   "sc:operatingSystem": [
+    "Mac",
     "Windows",
-    "Linux",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
     "Vrije Universiteit Amsterdam",

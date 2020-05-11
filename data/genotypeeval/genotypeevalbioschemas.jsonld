@@ -19,8 +19,8 @@
   "sc:name": "genotypeeval",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/genotypeeval.html",
   "sc:version": "1.4.0"

@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Rui Henriques",
       "sc:additionalType": [
-        "Web API",
-        "Desktop application"
+        "Desktop application",
+        "Web API"
       ],
       "sc:citation": [
         {

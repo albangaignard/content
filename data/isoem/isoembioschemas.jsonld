@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/isoem",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Igor Mandric",
     "Ion Mandoiu",
+    "Igor Mandric",
     "Alex Zelikovsky",
     "Sahar Al Seesi"
   ],
