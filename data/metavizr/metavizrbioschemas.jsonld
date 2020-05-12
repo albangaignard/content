@@ -33,8 +33,8 @@
       "sc:name": "metavizr",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/metavizr.html",
       "sc:version": "1.4.1"

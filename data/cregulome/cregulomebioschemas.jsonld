@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Library",
       "sc:citation": [
-        "pubmed:30867986",
         "pmcid:PMC6410695",
+        "pubmed:30867986",
         {
           "@id": "https://doi.org/10.7717/peerj.6509"
         }
@@ -37,8 +37,8 @@
       "sc:name": "cRegulome",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://cran.r-project.org/package=cRegulome"
     }

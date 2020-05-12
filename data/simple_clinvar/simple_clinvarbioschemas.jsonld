@@ -22,15 +22,15 @@
         "Marie Gramm"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1093/NAR/GKZ411"
         },
-        "pmcid:PMC6602488",
-        "pubmed:31114901"
+        "pubmed:31114901",
+        "pmcid:PMC6602488"
       ],
       "sc:description": "Interactive web server to explore and retrieve gene and disease variants aggregated in ClinVar database.",
       "sc:featureList": [
@@ -38,10 +38,10 @@
           "@id": "edam:operation_3461"
         },
         {
-          "@id": "edam:operation_3436"
+          "@id": "edam:operation_3197"
         },
         {
-          "@id": "edam:operation_3197"
+          "@id": "edam:operation_3436"
         }
       ],
       "sc:license": "Unlicense",

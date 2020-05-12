@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0002-2953-7982",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1093/NAR/GKZ398",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/EPIC-TABSAT",
@@ -36,24 +36,24 @@
           "@id": "edam:operation_3207"
         },
         {
-          "@id": "edam:operation_3206"
+          "@id": "edam:operation_3186"
         },
         {
-          "@id": "edam:operation_3186"
+          "@id": "edam:operation_3206"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "EPIC-TABSAT",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://tabsat.ait.ac.at/"
     },
     {
-      "@id": "https://doi.org/10.1093/NAR/GKZ398",
-      "@type": "sc:CreativeWork"
+      "@id": "https://orcid.org/0000-0002-2953-7982",
+      "@type": "schema:Person"
     }
   ]
 }

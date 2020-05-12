@@ -24,8 +24,8 @@
   "sc:name": "iLearn",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://ilearn.erc.monash.edu/"
 }

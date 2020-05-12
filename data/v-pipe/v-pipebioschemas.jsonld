@@ -39,8 +39,8 @@
       "sc:license": "Apache-2.0",
       "sc:name": "V-pipe",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://cbg-ethz.github.io/V-pipe/"
     },

@@ -36,8 +36,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "COMMAND",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "https://github.com/marcomoretto/command"

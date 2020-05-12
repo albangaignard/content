@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/NexGenEx-Tom",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Hamed Bostan",
-    "Maria Luisa Chiusano"
+    "Maria Luisa Chiusano",
+    "Hamed Bostan"
   ],
   "sc:additionalType": [
     "Web application",
@@ -22,8 +22,8 @@
   "sc:license": "Unlicense",
   "sc:name": "NexGenEx-Tom",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://140.164.45.142/NexGenEx-Tom/expression/exp-search.aspx",

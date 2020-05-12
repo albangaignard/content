@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "John D. Chodera",
-        "Patrick B. Grinaway",
-        "Daniel L. Parton"
+        "Daniel L. Parton",
+        "Patrick B. Grinaway"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [

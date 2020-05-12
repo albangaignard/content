@@ -23,8 +23,8 @@
   "sc:name": "Ontology Lookup Service",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": "EMBL-EBI",
   "sc:url": "http://www.ebi.ac.uk/ols/",

@@ -44,9 +44,9 @@
       "sc:license": "Other",
       "sc:name": "NetDiseaseSNP",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": "CBS",
       "sc:softwareHelp": {

@@ -21,8 +21,8 @@
   "sc:name": "kmcEx",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://github.com/lzhLab/kmcEx"
 }

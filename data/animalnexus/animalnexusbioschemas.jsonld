@@ -10,16 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1002/ece3.3240",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/animalnexus",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Stefanie E. LaZerte",
       "sc:additionalType": [
-        "Library",
-        "Web application"
+        "Web application",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC5632613",
@@ -39,11 +35,15 @@
       ],
       "sc:name": "animalnexus",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://animalnexus.ca/"
+    },
+    {
+      "@id": "https://doi.org/10.1002/ece3.3240",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

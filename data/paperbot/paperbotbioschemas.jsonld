@@ -38,8 +38,8 @@
       ],
       "sc:name": "PaperBot",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://paperbot.ai/"

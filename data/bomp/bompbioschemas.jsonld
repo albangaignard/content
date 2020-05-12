@@ -17,8 +17,8 @@
   "sc:name": "BOMP",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.bioinfo.no/tools/bomp"
 }

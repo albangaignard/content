@@ -28,8 +28,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Polyunphased",
       "sc:operatingSystem": [
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://github.com/abureau/polyUnphased"
     },

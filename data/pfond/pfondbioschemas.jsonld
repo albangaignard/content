@@ -14,12 +14,12 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Wasserman Lab",
       "sc:additionalType": [
-        "Web application",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:citation": [
-        "pubmed:23920006",
         "pmcid:PMC3742411",
+        "pubmed:23920006",
         {
           "@id": "https://doi.org/10.2196/resprot.2675"
         }
@@ -30,9 +30,9 @@
       },
       "sc:name": "PFOND",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://pfond.cmmt.ubc.ca/index.html"
     },

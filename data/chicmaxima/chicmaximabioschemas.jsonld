@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/ChiCMaxima",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "T. Sexton",
-        "Y. Ben Zouari"
+        "Y. Ben Zouari",
+        "T. Sexton"
       ],
       "sc:additionalType": "Suite",
       "sc:citation": [
@@ -41,8 +41,8 @@
       "sc:name": "ChiCMaxima",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://github.com/yousra291987/ChiCMaxima"
     }

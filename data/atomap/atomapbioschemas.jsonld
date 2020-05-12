@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0001-7981-5293",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/atomap",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -34,16 +38,12 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Atomap",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://atomap.org/",
       "sc:version": "0.1.2"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-7981-5293",
-      "@type": "schema:Person"
     }
   ]
 }
