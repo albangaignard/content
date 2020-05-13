@@ -17,8 +17,8 @@
   "sc:name": "PBEQ-Solver",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.charmm-gui.org/?doc=input/pbeqsolver"
 }

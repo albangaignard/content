@@ -11,21 +11,21 @@
   "@id": "https://bio.tools/loctree3",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web application",
-    "Command-line tool"
+    "Command-line tool",
+    "Web application"
   ],
   "sc:author": [
-    "Timothy Karl",
-    "Guy Yachdav",
     "Tobias Hamp",
+    "Guy Yachdav",
     "Tatyana Goldberg",
+    "Timothy Karl",
     "Maximilian Hecht"
   ],
   "sc:contributor": [
-    "Burkhard Rost",
-    "Alexander von Humboldt Foundation through German Federal Ministry for Education and Research",
     "Ernst Ludwig Ehrlich Studienwerk",
-    "Henrik Nielsen"
+    "Henrik Nielsen",
+    "Alexander von Humboldt Foundation through German Federal Ministry for Education and Research",
+    "Burkhard Rost"
   ],
   "sc:description": "Prediction of protein subcellular localization in 18 classes for eukaryota, 6 for bacteria and 3 for archaea.",
   "sc:funder": [

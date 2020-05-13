@@ -13,22 +13,22 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK MRC",
-    "EMBOSS Contributors",
+    "UK BBSRC",
     "Wellcome Trust",
-    "UK BBSRC"
+    "EMBOSS Contributors"
   ],
   "sc:description": "Report on protein proteolytic enzyme or reagent cleavage sites.",
   "sc:funder": [
-    "Wellcome Trust",
     "UK MRC",
+    "Wellcome Trust",
     "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "pepdigest",
   "sc:operatingSystem": [
+    "Linux",
     "Mac",
-    "Windows",
-    "Linux"
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

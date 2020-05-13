@@ -18,8 +18,8 @@
   "sc:name": "ProteoWizard",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://proteowizard.sourceforge.net/"
 }

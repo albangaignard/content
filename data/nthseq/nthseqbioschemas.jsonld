@@ -13,22 +13,22 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
+    "EMBOSS Contributors",
     "Wellcome Trust",
-    "UK MRC",
-    "EMBOSS Contributors"
+    "UK MRC"
   ],
   "sc:description": "Write to file a single sequence from an input stream of sequences.",
   "sc:funder": [
-    "UK BBSRC",
+    "Wellcome Trust",
     "UK MRC",
-    "Wellcome Trust"
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "nthseq",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "EMBL EBI",

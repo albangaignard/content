@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/bioexcel_seqqc",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Library",
     "Workflow",
+    "Library",
     "Command-line tool"
   ],
   "sc:description": "Workflow to perform high throughput Next Generation Sequencing (NGS) sequencing quality control stages",

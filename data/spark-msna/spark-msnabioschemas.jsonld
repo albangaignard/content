@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.1038/S41598-019-42966-5",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/SPARK-MSNA",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -33,24 +37,20 @@
           "@id": "edam:operation_0323"
         },
         {
-          "@id": "edam:operation_0491"
+          "@id": "edam:operation_0492"
         },
         {
-          "@id": "edam:operation_0492"
+          "@id": "edam:operation_0491"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "SPARK-MSNA",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://sourceforge.net/projects/spark-msna/"
-    },
-    {
-      "@id": "https://doi.org/10.1038/S41598-019-42966-5",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -27,9 +27,9 @@
       },
       "sc:name": "SELPHI",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://rothwebprod.mshri.on.ca:8081/"
     },

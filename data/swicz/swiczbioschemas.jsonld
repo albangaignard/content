@@ -16,11 +16,11 @@
     "Ivan Janda"
   ],
   "sc:contributor": [
-    "Karel Mikulik",
     "Marek Basler",
     "Urs Jenal",
-    "Bjorn Grunenfelder",
-    "Jan Bobek"
+    "Jan Bobek",
+    "Karel Mikulik",
+    "Bjorn Grunenfelder"
   ],
   "sc:description": "A proteomics web database.",
   "sc:name": "SWICZ",

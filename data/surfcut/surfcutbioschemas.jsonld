@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.1186/S12915-019-0657-1",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/SurfCut",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -22,32 +26,28 @@
       "sc:additionalType": "Desktop application",
       "sc:citation": [
         "pmcid:PMC6509810",
+        "pubmed:31072374",
         {
           "@id": "https://doi.org/10.1186/S12915-019-0657-1"
-        },
-        "pubmed:31072374"
+        }
       ],
       "sc:description": "Pipeline for high-throughput extraction of cell contours from 3D image stacks.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3446"
+          "@id": "edam:operation_3799"
         },
         {
-          "@id": "edam:operation_3799"
+          "@id": "edam:operation_3446"
         }
       ],
       "sc:license": "CECILL-C",
       "sc:name": "SurfCut",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://github.com/sverger/SurfCut"
-    },
-    {
-      "@id": "https://doi.org/10.1186/S12915-019-0657-1",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

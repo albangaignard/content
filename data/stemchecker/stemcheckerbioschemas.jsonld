@@ -41,8 +41,8 @@
       ],
       "sc:name": "StemChecker",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://193.136.227.168:8080/stemchecker/stemsethome.jsf",

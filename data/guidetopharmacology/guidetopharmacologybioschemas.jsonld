@@ -39,20 +39,20 @@
         }
       ],
       "sc:funder": [
-        "Wellcome Trust",
         "British Pharmacological Society (BPS)",
-        "International Union of Basic and Clinical Pharmacology (IUPHAR)"
+        "International Union of Basic and Clinical Pharmacology (IUPHAR)",
+        "Wellcome Trust"
       ],
       "sc:license": "CC-BY-SA-3.0",
       "sc:name": "IUPHAR BPS Guide to PHARMACOLOGY",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:provider": [
-        "The University of Edinburgh",
-        "ed.ac.uk"
+        "ed.ac.uk",
+        "The University of Edinburgh"
       ],
       "sc:url": "http://www.guidetopharmacology.org/"
     }
