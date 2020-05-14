@@ -14,18 +14,22 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0003-0737-1114",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/paa",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "BioInfra.Prot",
-        "Michael Turewicz"
+        "Michael Turewicz",
+        "BioInfra.Prot"
       ],
       "edam:has_input": [
         {
-          "@id": "edam:data_3110"
+          "@id": "edam:data_3671"
         },
         {
-          "@id": "edam:data_3671"
+          "@id": "edam:data_3110"
         }
       ],
       "edam:has_output": [
@@ -42,13 +46,13 @@
       ],
       "sc:applicationSubCategory": [
         {
+          "@id": "edam:topic_3360"
+        },
+        {
           "@id": "edam:topic_0121"
         },
         {
           "@id": "edam:topic_3518"
-        },
-        {
-          "@id": "edam:topic_3360"
         }
       ],
       "sc:author": {
@@ -70,25 +74,21 @@
       "sc:license": "BSD-3-Clause",
       "sc:name": "PAA - Protein Array Analyzer",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:provider": [
-        "Ruhr-Universitaet Bochum, Medizinisches Proteom-Center (MPC)",
-        "This work was supported by P.U.R.E., a project of Nordrhein-Westfalen, a federal state of Germany.",
+        "This work is supported by de.NBI, a project of the BMBF [FKZ 031 A 534A].",
         "BioInfra.Prot",
-        "This work is supported by de.NBI, a project of the BMBF [FKZ 031 A 534A]."
+        "This work was supported by P.U.R.E., a project of Nordrhein-Westfalen, a federal state of Germany.",
+        "Ruhr-Universitaet Bochum, Medizinisches Proteom-Center (MPC)"
       ],
       "sc:softwareHelp": {
         "@id": "https://www.bioconductor.org/packages/release/bioc/manuals/PAA/man/PAA.pdf"
       },
       "sc:url": "http://bioconductor.org/packages/PAA/",
       "sc:version": "1.1"
-    },
-    {
-      "@id": "http://orcid.org/0000-0003-0737-1114",
-      "@type": "schema:Person"
     }
   ]
 }

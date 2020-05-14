@@ -31,18 +31,18 @@
           "@id": "edam:operation_3803"
         },
         {
-          "@id": "edam:operation_3659"
+          "@id": "edam:operation_3891"
         },
         {
-          "@id": "edam:operation_3891"
+          "@id": "edam:operation_3659"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "MetPC",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://github.com/jjs3098/CNU-Bioinformatics-Lab"
     }

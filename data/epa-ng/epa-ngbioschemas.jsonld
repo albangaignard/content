@@ -27,10 +27,10 @@
           "@id": "edam:operation_0362"
         },
         {
-          "@id": "edam:operation_2495"
+          "@id": "edam:operation_0310"
         },
         {
-          "@id": "edam:operation_0310"
+          "@id": "edam:operation_2495"
         }
       ],
       "sc:license": "AGPL-3.0",

@@ -26,10 +26,10 @@
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_1460"
+          "@id": "edam:data_1537"
         },
         {
-          "@id": "edam:data_1537"
+          "@id": "edam:data_1460"
         }
       ],
       "sc:additionalType": "Web application",
@@ -38,10 +38,10 @@
           "@id": "edam:topic_3300"
         },
         {
-          "@id": "edam:topic_0082"
+          "@id": "edam:topic_0736"
         },
         {
-          "@id": "edam:topic_0736"
+          "@id": "edam:topic_0082"
         }
       ],
       "sc:citation": [

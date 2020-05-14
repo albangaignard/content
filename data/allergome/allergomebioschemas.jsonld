@@ -15,9 +15,9 @@
   "sc:description": "A platform for allergen knowledge.",
   "sc:name": "Allergome",
   "sc:operatingSystem": [
+    "Windows",
     "Mac",
-    "Linux",
-    "Windows"
+    "Linux"
   ],
   "sc:url": "http://www.allergome.org/"
 }

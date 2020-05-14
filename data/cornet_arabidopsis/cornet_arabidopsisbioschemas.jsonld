@@ -15,8 +15,8 @@
   "sc:name": "CorNet Arabidopsis",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "UGent",

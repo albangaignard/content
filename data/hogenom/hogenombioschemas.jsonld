@@ -18,8 +18,8 @@
   "sc:name": "HOGENOM",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://pbil.univ-lyon1.fr/databases/hogenom3.html"
 }

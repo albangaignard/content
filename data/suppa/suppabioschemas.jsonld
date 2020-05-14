@@ -13,8 +13,8 @@
   "biotools:primaryContact": "SUPPA Users group",
   "sc:additionalType": "Command-line tool",
   "sc:author": [
-    "Gael P. Alamancos",
     "JC Entizne",
+    "Gael P. Alamancos",
     "Miha Skalic",
     "Amadí­s Pagès"
   ],
@@ -22,9 +22,9 @@
   "sc:license": "MIT",
   "sc:name": "SUPPA",
   "sc:operatingSystem": [
-    "Mac",
+    "Windows",
     "Linux",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
     "Pompeu Fabra University",

@@ -16,8 +16,8 @@
   "sc:license": "Unlicense",
   "sc:name": "CEU Mass Mediator",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://ceumass.eps.uspceu.es/",

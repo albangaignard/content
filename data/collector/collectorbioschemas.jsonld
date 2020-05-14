@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/Collector",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Oriol L. Massaguer",
-    "Manuel Pastor"
+    "Manuel Pastor",
+    "Oriol L. Massaguer"
   ],
   "sc:additionalType": [
     "Desktop application",
@@ -23,9 +23,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "Collector",
   "sc:operatingSystem": [
+    "Mac",
     "Linux",
-    "Windows",
-    "Mac"
+    "Windows"
   ],
   "sc:url": "http://phi.upf.edu/collector/"
 }

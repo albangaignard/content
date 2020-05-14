@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/NAR/GKZ329",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/myDGR",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Yuzhen Ye",
@@ -44,10 +40,14 @@
       "sc:name": "myDGR",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://omics.informatics.indiana.edu/myDGR"
+    },
+    {
+      "@id": "https://doi.org/10.1093/NAR/GKZ329",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

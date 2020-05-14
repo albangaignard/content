@@ -17,8 +17,8 @@
   "sc:name": "ConDeTri",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://code.google.com/p/condetri/"
 }

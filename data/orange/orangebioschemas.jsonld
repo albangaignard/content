@@ -21,19 +21,19 @@
         "Blaž Zupan"
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Desktop application"
+        "Desktop application",
+        "Command-line tool"
       ],
       "sc:author": [
-        "Janez Demšar",
-        "Vesna Tanko",
-        "Jernej Kernc",
-        "Tomaž Curk",
-        "Marko Toplak",
-        "Martin Stražar",
-        "Anže Starič",
         "Andrej Čopar",
+        "Martin Stražar",
         "Aleš Erjavec",
+        "Tomaž Curk",
+        "Jernej Kernc",
+        "Vesna Tanko",
+        "Anže Starič",
+        "Janez Demšar",
+        "Marko Toplak",
         "Lan Žagar"
       ],
       "sc:citation": "pubmed:17586552",

@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Christian Schlötterer",
-    "Ram Vinay Pandey",
-    "Susanne U. Franssen"
+    "Susanne U. Franssen",
+    "Ram Vinay Pandey"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:23615333",

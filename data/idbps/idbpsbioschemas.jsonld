@@ -16,8 +16,8 @@
   "sc:name": "iDBPs",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://idbps.tau.ac.il/"
 }

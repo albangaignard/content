@@ -28,9 +28,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Tripal Elasticsearch",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://github.com/tripal/tripal_elasticsearch"
     },

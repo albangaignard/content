@@ -36,9 +36,9 @@
       ],
       "sc:name": "Boiler",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://github.com/jpritt/boiler"
     }

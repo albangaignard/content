@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/btt041",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0002-5643-2668",
       "@type": "schema:Person"
     },
@@ -41,11 +37,15 @@
       "sc:license": "Not licensed",
       "sc:name": "AbCD",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://yunliweb.its.unc.edu/AbCD.html"
+    },
+    {
+      "@id": "https://doi.org/10.1093/bioinformatics/btt041",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -15,17 +15,17 @@
     "Web application"
   ],
   "sc:author": [
-    "Tobias Hamp",
-    "Guy Yachdav",
-    "Tatyana Goldberg",
     "Timothy Karl",
-    "Maximilian Hecht"
+    "Tatyana Goldberg",
+    "Maximilian Hecht",
+    "Tobias Hamp",
+    "Guy Yachdav"
   ],
   "sc:contributor": [
     "Ernst Ludwig Ehrlich Studienwerk",
     "Henrik Nielsen",
-    "Alexander von Humboldt Foundation through German Federal Ministry for Education and Research",
-    "Burkhard Rost"
+    "Burkhard Rost",
+    "Alexander von Humboldt Foundation through German Federal Ministry for Education and Research"
   ],
   "sc:description": "Prediction of protein subcellular localization in 18 classes for eukaryota, 6 for bacteria and 3 for archaea.",
   "sc:funder": [

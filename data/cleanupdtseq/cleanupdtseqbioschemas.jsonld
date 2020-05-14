@@ -13,13 +13,13 @@
       "@id": "https://bio.tools/cleanupdtseq",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Sarah Sheppard",
+        "Lihua Julie Zhu",
         "Jianhong Ou",
-        "Lihua Julie Zhu"
+        "Sarah Sheppard"
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:25827089",
