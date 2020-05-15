@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "https://orcid.org/0000-0003-1554-8987",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/magallanes",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Esteban Pérez-Wohlfeil",
@@ -22,11 +26,11 @@
         "Desktop application"
       ],
       "sc:citation": [
-        "pubmed:19832968",
         {
           "@id": "https://doi.org/10.1186/1471-2105-10-334"
         },
-        "pmcid:PMC2771019"
+        "pmcid:PMC2771019",
+        "pubmed:19832968"
       ],
       "sc:contributor": {
         "@id": "https://orcid.org/0000-0003-1554-8987"
@@ -34,13 +38,13 @@
       "sc:description": "A Platform-independent Java library of algorithms to built-up search engines to help in the discovery of services and datatypes specially oriented to deal with repositories of web-services and associated datatypes.",
       "sc:featureList": [
         {
+          "@id": "edam:operation_0224"
+        },
+        {
           "@id": "edam:operation_3761"
         },
         {
           "@id": "edam:operation_3695"
-        },
-        {
-          "@id": "edam:operation_0224"
         },
         {
           "@id": "edam:operation_3763"
@@ -56,10 +60,6 @@
       "sc:provider": "uma.es",
       "sc:url": "http://bitlab-es.com/magallanes/",
       "sc:version": "1"
-    },
-    {
-      "@id": "https://orcid.org/0000-0003-1554-8987",
-      "@type": "schema:Person"
     }
   ]
 }

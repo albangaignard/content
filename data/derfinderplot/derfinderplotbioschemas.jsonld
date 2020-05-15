@@ -45,8 +45,8 @@
       "sc:name": "derfinderPlot",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/derfinderPlot.html",
       "sc:version": "1.8.0"

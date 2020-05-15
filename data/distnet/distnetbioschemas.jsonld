@@ -24,13 +24,13 @@
       "sc:description": "R package for interactive checking of dimension-reduction visualizations.",
       "sc:featureList": [
         {
+          "@id": "edam:operation_2939"
+        },
+        {
           "@id": "edam:operation_3432"
         },
         {
           "@id": "edam:operation_2937"
-        },
-        {
-          "@id": "edam:operation_2939"
         }
       ],
       "sc:license": "LGPL-3.0",

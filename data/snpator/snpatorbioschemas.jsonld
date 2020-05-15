@@ -16,9 +16,9 @@
     "Tere Páramo Prieto",
     "José Marí­a Heredia Genestar",
     "Ricard Sangrós",
-    "Arcadi Navarro Cuartiellas",
     "Carlos Morcillo Suarez",
-    "Pep Alegre"
+    "Pep Alegre",
+    "Arcadi Navarro Cuartiellas"
   ],
   "sc:citation": "pubmed:18515823",
   "sc:contributor": [
@@ -29,8 +29,8 @@
   "sc:name": "SNPator",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "upf.edu",

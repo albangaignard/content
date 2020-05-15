@@ -39,8 +39,8 @@
       ],
       "sc:name": "SNP2SIM",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/mccoymd/SNP2SIM"
     }

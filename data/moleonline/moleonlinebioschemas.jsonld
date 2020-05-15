@@ -12,17 +12,17 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Ondřej Hanák",
     "David Sehnal",
     "Karel Berka",
-    "Michal Otyepka"
+    "Michal Otyepka",
+    "Ondřej Hanák"
   ],
   "sc:contributor": [
     "Jaroslav Koča",
-    "Pavel Banáš",
-    "Veronika Navrátilová",
     "Crina-Maria Ionescu",
+    "Pavel Banáš",
     "Radka Svobodová Vařeková",
+    "Veronika Navrátilová",
     "Deepti Jaiswal"
   ],
   "sc:description": "Provides a direct access to MOLE functionality and enables on-line and easy-to-use interactive channel analysis.",

@@ -28,13 +28,13 @@
       "sc:description": "Robust comparative analysis and contamination removal for metagenomics.",
       "sc:featureList": [
         {
+          "@id": "edam:operation_3460"
+        },
+        {
           "@id": "edam:operation_2495"
         },
         {
           "@id": "edam:operation_3730"
-        },
-        {
-          "@id": "edam:operation_3460"
         }
       ],
       "sc:license": "AGPL-3.0",

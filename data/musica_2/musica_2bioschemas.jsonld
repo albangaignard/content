@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Reginaldo Kuroshu",
-    "Yutaka Suzuki",
     "Masahiro Kasahara",
+    "Yutaka Suzuki",
     "Shin-ichi Morishita"
   ],
   "sc:additionalType": "Workflow",

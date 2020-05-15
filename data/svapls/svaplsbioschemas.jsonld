@@ -31,9 +31,9 @@
       },
       "sc:name": "svapls",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/svapls/index.html"
     }

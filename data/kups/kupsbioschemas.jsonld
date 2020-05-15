@@ -17,8 +17,8 @@
   "sc:name": "KUPS",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.ittc.ku.edu/chenlab"
 }

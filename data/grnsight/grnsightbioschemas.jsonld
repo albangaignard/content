@@ -16,14 +16,14 @@
   ],
   "sc:additionalType": "Web application",
   "sc:author": [
+    "Nicole A. Anguiano",
+    "Kam D. Dahlquist",
+    "Eileen Choe",
     "John David N. Dionisio",
     "Anindita Varshneya",
-    "Nicole A. Anguiano",
     "Mihir Samdarshi",
     "Ben G. Fitzpatrick",
-    "Eileen Choe",
     "Britain J. Southwick",
-    "Kam D. Dahlquist",
     "Jen Shin"
   ],
   "sc:contributor": "NSF award 0921038; LMU Rains Research Assistant Program; LMU Summer Undergraduate Research Program",
@@ -33,8 +33,8 @@
   "sc:name": "GRNsight",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "Loyola Marymount University",

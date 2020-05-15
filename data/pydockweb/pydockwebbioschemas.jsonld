@@ -29,8 +29,8 @@
         "Linux"
       ],
       "sc:provider": [
-        "Barcelona Supercomputing Center",
-        "bsc.es"
+        "bsc.es",
+        "Barcelona Supercomputing Center"
       ],
       "sc:url": "https://life.bsc.es/servlet/pydock/",
       "sc:version": "1"

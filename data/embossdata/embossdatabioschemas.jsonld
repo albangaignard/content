@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
+    "EMBOSS Contributors",
     "UK MRC",
-    "UK BBSRC",
-    "EMBOSS Contributors"
+    "UK BBSRC"
   ],
   "sc:description": "Find and retrieve EMBOSS db data files.",
   "sc:funder": [

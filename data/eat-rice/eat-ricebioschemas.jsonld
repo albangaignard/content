@@ -30,17 +30,17 @@
       "sc:description": "Predictive model for flanking gene expression of T-DNA insertion activation-tagged rice mutants by machine learning approaches.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3192"
+          "@id": "edam:operation_0441"
         },
         {
-          "@id": "edam:operation_0441"
+          "@id": "edam:operation_3192"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "EAT-Rice",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://predictor.nchu.edu.tw/EAT-Rice"

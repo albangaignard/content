@@ -24,8 +24,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "Bielefeld university",
-    "BiBiServ"
+    "BiBiServ",
+    "Bielefeld university"
   ],
   "sc:url": "http://bibiserv.cebitec.uni-bielefeld.de/rnahybrid",
   "sc:version": "2.2.1"

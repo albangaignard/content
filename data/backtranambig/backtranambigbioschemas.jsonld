@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
-    "Wellcome Trust",
     "UK MRC",
+    "Wellcome Trust",
     "EMBOSS Contributors"
   ],
   "sc:description": "Back-translate a protein sequence to ambiguous nucleotide sequence.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "backtranambig",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "EMBOSS",

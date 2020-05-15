@@ -19,8 +19,8 @@
   "sc:name": "FNV",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://maayanlab.net/FNV/"
 }

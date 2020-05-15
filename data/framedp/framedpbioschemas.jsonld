@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Erika Sallet",
-    "Sébastien Carrere",
     "Jérôme Gouzy",
+    "Sébastien Carrere",
     "Ludovic Cottret"
   ],
   "sc:additionalType": "Web application",
@@ -21,8 +21,8 @@
   "sc:name": "FrameDP",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://iant.toulouse.inra.fr/FrameDP"
 }

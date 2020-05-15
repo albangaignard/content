@@ -32,9 +32,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "meta",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:provider": [
         "Lab Roderic Guigo Group",

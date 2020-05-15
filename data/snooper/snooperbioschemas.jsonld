@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0003-3625-6676",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/snooper",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Jean-Francois Spinella",
@@ -39,11 +35,15 @@
       "sc:license": "GPL-3.0",
       "sc:name": "SNooPer",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://www.somaticsnooper.com/"
+    },
+    {
+      "@id": "http://orcid.org/0000-0003-3625-6676",
+      "@type": "schema:Person"
     }
   ]
 }

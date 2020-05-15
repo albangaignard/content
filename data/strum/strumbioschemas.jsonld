@@ -34,9 +34,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "strum",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/strum/index.html",
       "sc:version": "0.6.2"

@@ -27,8 +27,8 @@
       "sc:license": "Unlicense",
       "sc:name": "Metascape",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://metascape.org/gp/index.html#/main/step1"

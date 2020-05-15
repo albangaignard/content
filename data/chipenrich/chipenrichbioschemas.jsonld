@@ -45,10 +45,10 @@
         }
       ],
       "sc:citation": [
-        "pubmed:24878920",
         {
           "@id": "https://doi.org/10.1093/nar/gku463"
         },
+        "pubmed:24878920",
         "pmcid:PMC4117744"
       ],
       "sc:contributor": {
