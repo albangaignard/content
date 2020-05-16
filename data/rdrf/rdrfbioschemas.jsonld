@@ -34,17 +34,17 @@
           "@id": "edam:operation_3431"
         },
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_3436"
         },
         {
-          "@id": "edam:operation_3436"
+          "@id": "edam:operation_3196"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "RDRF",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://muccg.github.io/rdrf/"
     }

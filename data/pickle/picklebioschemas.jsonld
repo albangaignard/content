@@ -17,12 +17,12 @@
       "@id": "https://bio.tools/pickle",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Maria Klapa",
-        "Nicholas Moschonas"
+        "Nicholas Moschonas",
+        "Maria Klapa"
       ],
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pmcid:PMC5638325",

@@ -17,8 +17,8 @@
   "sc:name": "REDfly",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://redfly.ccr.buffalo.edu"
 }

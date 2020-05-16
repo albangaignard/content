@@ -10,19 +10,15 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/2041-1480-3-11",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/coeus",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Pedro Sernadela",
-        "Pedro Lopes"
+        "Pedro Lopes",
+        "Pedro Sernadela"
       ],
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pmcid:PMC3554586",
@@ -47,10 +43,14 @@
       "sc:name": "COEUS",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://bioinformatics.ua.pt/coeus/"
+    },
+    {
+      "@id": "https://doi.org/10.1186/2041-1480-3-11",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

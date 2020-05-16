@@ -32,8 +32,8 @@
       ],
       "sc:name": "dcGOR",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://supfam.org/dcGOR/"

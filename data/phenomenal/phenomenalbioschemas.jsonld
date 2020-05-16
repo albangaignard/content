@@ -39,9 +39,9 @@
       "sc:license": "Unlicense",
       "sc:name": "PhenoMeNal",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://portal.phenomenal-h2020.eu/home"
     }

@@ -10,11 +10,15 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1371/JOURNAL.PCBI.1004976",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/phylobot",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Analysis Support",
-        "General Support"
+        "General Support",
+        "Analysis Support"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -35,15 +39,11 @@
       ],
       "sc:name": "PhyloBot",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://www.phylobot.com/"
-    },
-    {
-      "@id": "https://doi.org/10.1371/JOURNAL.PCBI.1004976",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

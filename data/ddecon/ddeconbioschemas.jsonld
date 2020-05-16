@@ -35,8 +35,8 @@
       "sc:name": "DDecon",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://www.scripps.edu/fowler/ddecon/"
     },

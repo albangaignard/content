@@ -19,9 +19,9 @@
   ],
   "sc:description": "Report on signal cleavage sites in a protein sequence.",
   "sc:funder": [
-    "Wellcome Trust",
+    "UK BBSRC",
     "UK MRC",
-    "UK BBSRC"
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "sigcleave",

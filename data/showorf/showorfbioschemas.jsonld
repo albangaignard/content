@@ -12,15 +12,15 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
-    "EMBOSS Contributors",
     "UK BBSRC",
-    "UK MRC"
+    "EMBOSS Contributors",
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:description": "Display a nucleotide sequence and translation in pretty format.",
   "sc:funder": [
-    "UK MRC",
     "Wellcome Trust",
+    "UK MRC",
     "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",

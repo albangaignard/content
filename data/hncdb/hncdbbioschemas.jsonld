@@ -18,8 +18,8 @@
         "Xiaoqing Pei"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC6527845",
@@ -43,9 +43,9 @@
       "sc:license": "Unlicense",
       "sc:name": "HNCDB",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://hncdb.cancerbio.info"
     },

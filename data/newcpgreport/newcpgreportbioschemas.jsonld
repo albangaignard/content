@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "EMBOSS Contributors",
-    "UK MRC",
     "Wellcome Trust",
+    "UK MRC",
+    "EMBOSS Contributors",
     "UK BBSRC"
   ],
   "sc:description": "Identify CpG islands in nucleotide sequence(s).",
@@ -27,12 +27,12 @@
   "sc:name": "newcpgreport",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/newcpgreport.html",
   "sc:version": "r6"

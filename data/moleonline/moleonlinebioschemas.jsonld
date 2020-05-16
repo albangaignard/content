@@ -12,16 +12,16 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "David Sehnal",
-    "Karel Berka",
     "Michal Otyepka",
-    "Ondřej Hanák"
+    "David Sehnal",
+    "Ondřej Hanák",
+    "Karel Berka"
   ],
   "sc:contributor": [
-    "Jaroslav Koča",
-    "Crina-Maria Ionescu",
     "Pavel Banáš",
+    "Jaroslav Koča",
     "Radka Svobodová Vařeková",
+    "Crina-Maria Ionescu",
     "Veronika Navrátilová",
     "Deepti Jaiswal"
   ],
@@ -30,8 +30,8 @@
   "sc:name": "MOLEonline",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "Masaryk University Brno, Czech Republic",

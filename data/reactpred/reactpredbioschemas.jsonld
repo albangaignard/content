@@ -22,9 +22,9 @@
   "sc:license": "Unlicense",
   "sc:name": "ReactPRED",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:url": "https://sourceforge.net/projects/reactpred/"
 }

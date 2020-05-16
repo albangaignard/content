@@ -19,8 +19,8 @@
   "sc:name": "FounderTracker",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://cit.ligue-cancer.net/FounderTracker/"
 }

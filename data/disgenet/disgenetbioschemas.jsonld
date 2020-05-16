@@ -10,7 +10,15 @@
   },
   "@graph": [
     {
+      "@id": "https://orcid.org/0000-0002-2846-6174",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://orcid.org/0000-0002-9383-528X",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-7534-7661",
       "@type": "schema:Person"
     },
     {
@@ -20,17 +28,17 @@
         "@id": "https://orcid.org/0000-0002-9383-528X"
       },
       "sc:additionalType": [
-        "Web application",
         "Plug-in",
-        "SPARQL endpoint",
         "Database portal",
+        "SPARQL endpoint",
+        "Web application",
         "Web API"
       ],
       "sc:author": [
-        "Janet Piñero",
         {
           "@id": "https://orcid.org/0000-0002-2846-6174"
         },
+        "Janet Piñero",
         "Núria Queralt Rosinach"
       ],
       "sc:contributor": [
@@ -51,19 +59,11 @@
       "sc:url": "http://www.disgenet.org/",
       "sc:version": [
         "DisGeNET RDF release 5.0",
-        "disgenet2r R package Version: 0.0.9",
         "Platform v1.1.0",
+        "disgenet2r R package Version: 0.0.9",
         "Database version 6.0",
         "REST API v1.0.0"
       ]
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-2846-6174",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-7534-7661",
-      "@type": "schema:Person"
     }
   ]
 }
