@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Jian Ren",
-    "Zexian Liu,",
-    "Yu Xue"
+    "Yu Xue",
+    "Zexian Liu,"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:19783819",
@@ -21,8 +21,8 @@
   "sc:name": "MiCroKit",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://microkit.biocuckoo.org/"
 }

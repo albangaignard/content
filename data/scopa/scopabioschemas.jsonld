@@ -31,13 +31,13 @@
       "sc:description": "Software for COrrelated Phenotype Analysis.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3659"
-        },
-        {
           "@id": "edam:operation_3196"
         },
         {
           "@id": "edam:operation_3557"
+        },
+        {
+          "@id": "edam:operation_3659"
         }
       ],
       "sc:license": "Other",

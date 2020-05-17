@@ -10,20 +10,16 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/bts477",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/easyrnaseq",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Nicolas Delhomme",
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
-        "pubmed:22847932",
         "pmcid:PMC3463124",
+        "pubmed:22847932",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/bts477"
         }
@@ -36,11 +32,15 @@
       "sc:name": "easyRNASeq",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/easyRNASeq.html",
       "sc:version": "2.10.0"
+    },
+    {
+      "@id": "https://doi.org/10.1093/bioinformatics/bts477",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

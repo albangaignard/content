@@ -26,10 +26,10 @@
           "@id": "edam:operation_2403"
         },
         {
-          "@id": "edam:operation_0239"
+          "@id": "edam:operation_2422"
         },
         {
-          "@id": "edam:operation_2422"
+          "@id": "edam:operation_0239"
         },
         {
           "@id": "edam:operation_2575"
@@ -38,8 +38,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "OCTOPUS-toolkit",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://octopus-toolkit2.readthedocs.io/en/latest/",
       "sc:version": "2.1.1"

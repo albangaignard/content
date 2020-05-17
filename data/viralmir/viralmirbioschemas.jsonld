@@ -16,8 +16,8 @@
   "sc:name": "ViralMir",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://csb.cse.yzu.edu.tw/viralmir/"
 }

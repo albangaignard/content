@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/ardock",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web application",
-    "Web API"
+    "Web API",
+    "Web application"
   ],
   "sc:author": "G.Launay",
   "sc:contributor": [
@@ -27,8 +27,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "CNRS",
-    "UCBL"
+    "UCBL",
+    "CNRS"
   ],
   "sc:url": "http://ardock.ibcp.fr",
   "sc:version": "0.9"

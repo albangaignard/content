@@ -19,8 +19,8 @@
       "biotools:primaryContact": "Yuting Chen",
       "sc:additionalType": "Library",
       "sc:citation": [
-        "pubmed:29262847",
         "pmcid:PMC5738803",
+        "pubmed:29262847",
         {
           "@id": "https://doi.org/10.1186/s13059-017-1366-0"
         }

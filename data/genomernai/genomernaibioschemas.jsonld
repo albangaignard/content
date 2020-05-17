@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Database portal",
   "sc:author": [
-    "Benedikt Rauscher",
     "Oliver Pelz",
+    "Benedikt Rauscher",
     "Esther Schmidt",
     "Michael Boutros"
   ],
@@ -21,9 +21,9 @@
   "sc:description": "This database makes available RNAi phenotype data extracted from the literature, or submitted by data producers directly, for human and Drosophila. It also provides RNAi reagent information, along with an assessment as to their efficiency and specificity.",
   "sc:name": "GenomeRNAi",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "hdhub",

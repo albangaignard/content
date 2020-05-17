@@ -51,9 +51,9 @@
       "sc:license": "CC-BY-NC-ND-4.0",
       "sc:name": "PCAN",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/PCAN.html",
       "sc:version": "1.2.1"

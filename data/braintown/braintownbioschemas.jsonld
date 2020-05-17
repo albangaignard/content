@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1371/journal.pone.0199589",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/braintown",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Michael S. Smirnov",
@@ -27,15 +31,11 @@
       },
       "sc:name": "Braintown",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://github.com/mikeusru/Braintown"
-    },
-    {
-      "@id": "https://doi.org/10.1371/journal.pone.0199589",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

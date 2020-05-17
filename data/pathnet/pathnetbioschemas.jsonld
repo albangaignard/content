@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/1751-0473-7-10",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/pathnet",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Jason B. Smith",
@@ -18,8 +22,8 @@
         "Command-line tool"
       ],
       "sc:citation": [
-        "pmcid:PMC3563509",
         "pubmed:23006764",
+        "pmcid:PMC3563509",
         {
           "@id": "https://doi.org/10.1186/1751-0473-7-10"
         }
@@ -32,15 +36,11 @@
       "sc:name": "PathNet",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/PathNet.html",
       "sc:version": "1.14.0"
-    },
-    {
-      "@id": "https://doi.org/10.1186/1751-0473-7-10",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -42,9 +42,9 @@
       "sc:license": "Other",
       "sc:name": "SIFT",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://sift-dna.org"
     },

@@ -33,9 +33,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "EmpPrior",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://github.com/jembrown/EmpPrior",
       "sc:version": "0.21"

@@ -17,8 +17,8 @@
   "sc:name": "BRCA-diagnostic",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.cbcb.umd.edu/software/BRCA-diagnostic/"
 }

@@ -17,8 +17,8 @@
   "sc:name": "miRDRN",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://mirdrn.ncu.edu.tw/mirdrn/"
 }

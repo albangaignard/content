@@ -36,9 +36,9 @@
       ],
       "sc:name": "NGS-Trex",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "https://www.ngs-trex.disit.unipmn.it/Trex/cms/"
     }

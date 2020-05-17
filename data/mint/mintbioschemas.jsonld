@@ -17,9 +17,9 @@
       "@id": "https://bio.tools/mint",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Alberto Calderone",
         "Daniele Peluso",
-        "Luana Licata",
-        "Alberto Calderone"
+        "Luana Licata"
       ],
       "edam:has_input": {
         "@id": "edam:data_2526"
@@ -28,8 +28,8 @@
         "@id": "edam:data_0906"
       },
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:author": "Arnaud Ceol",
       "sc:citation": [
@@ -40,10 +40,10 @@
         }
       ],
       "sc:contributor": [
-        "Marta Iannuccelli",
-        "Luana Licata",
         "Livia Perfetto",
-        "Gianni Cesareni"
+        "Gianni Cesareni",
+        "Luana Licata",
+        "Marta Iannuccelli"
       ],
       "sc:description": "Molecular interaction Database (MINT) - public repository for protein-protein interactions (PPI) reported in peer-reviewed journals. The web interface allows the users to search, visualize and download interactions data",
       "sc:featureList": [
@@ -59,13 +59,13 @@
       ],
       "sc:name": "MINT",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:provider": [
-        "ELIXIR-ITA-TORVERGATA",
-        "Dept. of Molecular Biology, University of Rome Tor Vergata, Via della Ricerca Scientifica, Rome"
+        "Dept. of Molecular Biology, University of Rome Tor Vergata, Via della Ricerca Scientifica, Rome",
+        "ELIXIR-ITA-TORVERGATA"
       ],
       "sc:url": "https://mint.bio.uniroma2.it/"
     }

@@ -17,12 +17,12 @@
       "@id": "https://bio.tools/meneco",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Sylvain Prigent",
-        "Anne Siegel"
+        "Anne Siegel",
+        "Sylvain Prigent"
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Script"
+        "Script",
+        "Command-line tool"
       ],
       "sc:citation": [
         {
@@ -34,20 +34,20 @@
       "sc:description": "Topological gap-filling of genome-scale draft metabolic networks.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3715"
-        },
-        {
           "@id": "edam:operation_3660"
         },
         {
           "@id": "edam:operation_3803"
+        },
+        {
+          "@id": "edam:operation_3715"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "meneco",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://bioasp.github.io/meneco/",
       "sc:version": "1.5"

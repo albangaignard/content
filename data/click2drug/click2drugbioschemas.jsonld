@@ -16,8 +16,8 @@
   "sc:name": "Click2Drug",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.click2drug.org/"
 }

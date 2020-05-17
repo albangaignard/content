@@ -20,8 +20,8 @@
   "sc:name": "GREAT:SCAN:multipatterns",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "issb.genopole.fr",

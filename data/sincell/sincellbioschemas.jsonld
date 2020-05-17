@@ -10,18 +10,14 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-4832-6101",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/sincell",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         {
-          "@id": "http://orcid.org/0000-0002-4403-1840"
+          "@id": "http://orcid.org/0000-0002-4832-6101"
         },
         {
-          "@id": "http://orcid.org/0000-0002-4832-6101"
+          "@id": "http://orcid.org/0000-0002-4403-1840"
         }
       ],
       "edam:has_input": [
@@ -67,12 +63,16 @@
       "sc:license": "GPL-2.0",
       "sc:name": "sincell",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/sincell.html",
       "sc:version": "1.6.0"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-4832-6101",
+      "@type": "schema:Person"
     },
     {
       "@id": "http://orcid.org/0000-0002-4403-1840",

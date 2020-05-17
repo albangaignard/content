@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/ImtRDB",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Konstantin Gunbin",
-        "Viktor Shamansky"
+        "Viktor Shamansky",
+        "Konstantin Gunbin"
       ],
       "sc:additionalType": [
         "Desktop application",
@@ -44,8 +44,8 @@
       "sc:name": "ImtRDB",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioinfodbs.kantiana.ru/ImtRDB/"
     }

@@ -27,8 +27,8 @@
       },
       "sc:name": "solGS",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://cassavabase.org/solgs"

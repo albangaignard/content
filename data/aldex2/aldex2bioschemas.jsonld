@@ -22,8 +22,8 @@
         "@id": "edam:data_0951"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
@@ -46,9 +46,9 @@
       },
       "sc:name": "ALDEx2",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/ALDEx2.html",
       "sc:version": "1.6.0"

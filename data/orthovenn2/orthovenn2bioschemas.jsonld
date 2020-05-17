@@ -10,13 +10,17 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/NAR/GKZ333",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/OrthoVenn2",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Yi Wang",
       "sc:additionalType": [
-        "Web application",
+        "Web service",
         "Web API",
-        "Web service"
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC6602458",
@@ -30,14 +34,10 @@
       "sc:name": "OrthoVenn2",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://orthovenn2.bioinfotoolkits.net"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKZ333",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -26,9 +26,9 @@
           "@id": "http://orcid.org/0000-0002-0474-2218"
         },
         "Oleg Sklyar",
+        "Gregoire Pau",
         "Mike Smith",
-        "Andrzej Oleś",
-        "Gregoire Pau"
+        "Andrzej Oleś"
       ],
       "sc:citation": [
         "pubmed:20338898",
@@ -44,9 +44,9 @@
       "sc:license": "LGPL-2.1",
       "sc:name": "EBImage",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:provider": [
         "hdhub",
