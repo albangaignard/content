@@ -14,12 +14,12 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Julien Cochennec",
-        "Jean Ollion",
-        "Thomas Boudier"
+        "Thomas Boudier",
+        "Jean Ollion"
       ],
       "sc:additionalType": [
-        "Library",
-        "Plug-in"
+        "Plug-in",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC3702251",
@@ -36,8 +36,8 @@
       "sc:name": "TANGO",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://biophysique.mnhn.fr/tango/HomePage"
     },

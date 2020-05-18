@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.12688/f1000research.8900.2",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/drimseq",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Malgorzata Nowicka",
@@ -32,15 +36,11 @@
       "sc:name": "DRIMSeq",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/DRIMSeq.html",
       "sc:version": "1.2.0"
-    },
-    {
-      "@id": "https://doi.org/10.12688/f1000research.8900.2",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

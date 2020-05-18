@@ -17,13 +17,13 @@
   "sc:name": "UniProt BLAST",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
+    "UniProt Consortium",
     "NCBI",
-    "EMBL-EBI",
-    "UniProt Consortium"
+    "EMBL-EBI"
   ],
   "sc:url": "http://www.uniprot.org/blast/",
   "sc:version": "1"

@@ -31,9 +31,9 @@
       },
       "sc:name": "Pse-Analysis",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioinformatics.hitsz.edu.cn/Pse-Analysis/"
     }

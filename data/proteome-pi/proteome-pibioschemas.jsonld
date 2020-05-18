@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gkw978",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0001-8187-1980",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkw978",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/proteome-pi",
@@ -56,8 +56,8 @@
       "sc:license": "CC-BY-4.0",
       "sc:name": "Proteome-pI",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:softwareHelp": {

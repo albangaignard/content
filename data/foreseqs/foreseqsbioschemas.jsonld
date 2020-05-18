@@ -15,9 +15,9 @@
   "sc:description": "Predict missing sequences and branch lengths in phylogenomic data.",
   "sc:name": "ForeSeqs",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:url": "https://github.com/ddarriba/ForeSeqs"
 }

@@ -37,8 +37,8 @@
       "sc:name": "KB-Rank",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": "The Commonwealth Medical College",
       "sc:url": "http://protein.tcmc.edu/kb-rank"

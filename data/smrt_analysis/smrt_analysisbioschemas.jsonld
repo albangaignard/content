@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/smrt_analysis",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Suite",
     "Command-line tool",
+    "Suite",
     "Desktop application"
   ],
   "sc:citation": "pubmed:22185597",

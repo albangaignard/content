@@ -15,8 +15,8 @@
   "sc:name": "SConES",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.bsse.ethz.ch/mlcb/research/bioinformatics-and-computational-biology/scones.html"
 }

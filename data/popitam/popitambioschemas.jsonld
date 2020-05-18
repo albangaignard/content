@@ -16,8 +16,8 @@
   "sc:name": "Popitam",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://github.com/chernan/popitam"
 }

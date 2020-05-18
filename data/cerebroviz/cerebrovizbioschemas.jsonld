@@ -29,8 +29,8 @@
       "sc:name": "cerebroViz",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://github.com/ethanbahl/cerebroViz"
     },

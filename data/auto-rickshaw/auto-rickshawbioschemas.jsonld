@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.1107/S0907444909029643",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/auto-rickshaw",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -36,10 +40,6 @@
         "Mac"
       ],
       "sc:url": "https://www.embl-hamburg.de/Auto-Rickshaw/"
-    },
-    {
-      "@id": "https://doi.org/10.1107/S0907444909029643",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

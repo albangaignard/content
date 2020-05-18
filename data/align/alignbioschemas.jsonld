@@ -21,8 +21,8 @@
       "sc:name": "ALIGN",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": [
         "ELIXIR-ITA-PADOVA",

@@ -32,8 +32,8 @@
       ],
       "sc:name": "AUREA",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "https://hood-price.systemsbiology.org/research/aurea/"

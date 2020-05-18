@@ -31,20 +31,20 @@
       "sc:description": "Tool introducing a family of algorithms for quantification and analysis of 3’ tagged-end single-cell sequencing data.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2495"
-        },
-        {
           "@id": "edam:operation_3200"
         },
         {
           "@id": "edam:operation_3799"
+        },
+        {
+          "@id": "edam:operation_2495"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "Alevin",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://salmon.readthedocs.io/en/latest/alevin.html#references"
     }

@@ -42,8 +42,8 @@
       "sc:name": "localCIDER",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://github.com/Pappulab/localCIDER"
     }

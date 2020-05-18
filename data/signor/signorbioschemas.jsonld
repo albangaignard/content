@@ -18,18 +18,18 @@
     "Alberto Calderone"
   ],
   "sc:contributor": [
-    "Marta Iannuccelli",
-    "Livia Perfetto",
     "Elena Santonico",
+    "Livia Perfetto",
+    "Marta Iannuccelli",
     "Gianni Cesareni"
   ],
   "sc:description": "A tool collects manually-annotated logic relationships between molecules that participate in signal transduction.",
   "sc:license": "CC-BY-SA-4.0",
   "sc:name": "SIGNOR",
   "sc:operatingSystem": [
+    "Linux",
     "Mac",
-    "Windows",
-    "Linux"
+    "Windows"
   ],
   "sc:provider": [
     "Molecular Genetic Group, University of Rome \"Tor Vergata\", Rome, Italy",

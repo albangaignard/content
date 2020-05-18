@@ -19,15 +19,15 @@
         "Anna Vangone"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:description": "PRODIGY-CRYSTAL (PROtein binDIng enerGY prediction to classify CRYSTALlographic interfaces) is an automatic web server for distinguish crystallographic from biological interfaces in protein complexes.",
       "sc:license": "Other",
       "sc:name": "PRODIGY-CRYSTAL",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://bianca.science.uu.nl/prodigy/cryst"

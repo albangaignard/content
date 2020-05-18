@@ -39,8 +39,8 @@
       ],
       "sc:name": "AUTALASSO",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/patwa67/AUTALASSO"
     }

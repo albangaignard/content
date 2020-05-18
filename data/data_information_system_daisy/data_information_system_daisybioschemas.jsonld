@@ -10,11 +10,11 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0001-6501-0806",
+      "@id": "https://orcid.org/0000-0002-6532-5880",
       "@type": "schema:Person"
     },
     {
-      "@id": "https://orcid.org/0000-0002-6532-5880",
+      "@id": "https://orcid.org/0000-0001-6501-0806",
       "@type": "schema:Person"
     },
     {
@@ -28,23 +28,23 @@
       ],
       "sc:additionalType": "Web application",
       "sc:author": [
-        "Jacek Lebioda",
+        "Kavita Rege",
         {
           "@id": "https://orcid.org/0000-0001-6501-0806"
         },
-        "Yohan Jarosz",
-        "Kavita Rege"
+        "Jacek Lebioda",
+        "Yohan Jarosz"
       ],
       "sc:contributor": [
+        "Christophe Trefois",
+        {
+          "@id": "https://orcid.org/0000-0002-8278-1618"
+        },
+        "Vilem Ded",
         {
           "@id": "https://orcid.org/0000-0002-6532-5880"
         },
-        "Christophe Trefois",
-        "Sandrine Munoz",
-        "Vilem Ded",
-        {
-          "@id": "https://orcid.org/0000-0002-8278-1618"
-        }
+        "Sandrine Munoz"
       ],
       "sc:description": "DAISY is an open-source  web application that allows biomedical research institutions to map their data and data flows in accordance with GDPR's accountability requirement.",
       "sc:license": "AGPL-3.0",

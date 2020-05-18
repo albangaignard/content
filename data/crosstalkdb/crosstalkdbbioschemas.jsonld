@@ -23,8 +23,8 @@
   "sc:name": "CrosstalkDB",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "bmb.sdu.dk",
   "sc:url": "http://crosstalkdb.bmb.sdu.dk"

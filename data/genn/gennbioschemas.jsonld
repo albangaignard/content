@@ -28,8 +28,8 @@
       "sc:name": "GeNN",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://genn-team.github.io/genn/"
     },

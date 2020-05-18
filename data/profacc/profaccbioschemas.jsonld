@@ -21,8 +21,8 @@
   "sc:name": "PROFacc",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "RostLab",
