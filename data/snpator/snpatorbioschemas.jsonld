@@ -12,12 +12,12 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Arcadi Navarro Cuartiellas",
-    "José Marí­a Heredia Genestar",
-    "Pep Alegre",
-    "Tere Páramo Prieto",
-    "Angel Carreño Torres",
     "Ricard Sangrós",
+    "Tere Páramo Prieto",
+    "José Marí­a Heredia Genestar",
+    "Arcadi Navarro Cuartiellas",
+    "Pep Alegre",
+    "Angel Carreño Torres",
     "Carlos Morcillo Suarez"
   ],
   "sc:citation": "pubmed:18515823",

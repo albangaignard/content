@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/erne",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Francesco Vezzi",
     "Giuseppe Pigola",
+    "Francesco Vezzi",
     "Cristian Del Fabbro"
   ],
   "sc:additionalType": "Suite",
@@ -21,9 +21,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "ERNE",
   "sc:operatingSystem": [
-    "Mac",
+    "Windows",
     "Linux",
-    "Windows"
+    "Mac"
   ],
   "sc:url": "http://erne.sourceforge.net"
 }

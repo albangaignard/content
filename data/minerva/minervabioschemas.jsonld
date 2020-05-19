@@ -37,8 +37,8 @@
       "sc:name": "Minerva",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://github.com/dcdanko/minerva_barcode_deconvolution"
     },

@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Daniel Watson",
-        "Ruoting Yang",
-        "Joshua Williams"
+        "Joshua Williams",
+        "Ruoting Yang"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -40,9 +40,9 @@
       ],
       "sc:name": "Functional Heatmap",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://bioinfo-abcc.ncifcrf.gov/Heatmap/"
     }

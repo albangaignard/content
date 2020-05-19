@@ -16,8 +16,8 @@
   "sc:name": "EuroCarbDB",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://code.google.com/archive/p/eurocarb/"
 }

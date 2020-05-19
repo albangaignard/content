@@ -27,9 +27,9 @@
       },
       "sc:name": "cellXpress",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://www.cellxpress.org/"
     },

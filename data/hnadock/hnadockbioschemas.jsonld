@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Lab of Bioinformatics and Molecular Modeling",
-        "Yi Xiao",
-        "Sheng-You Huang"
+        "Sheng-You Huang",
+        "Yi Xiao"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -44,9 +44,9 @@
       "sc:license": "Unlicense",
       "sc:name": "HNADOCK",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://huanglab.phys.hust.edu.cn/hnadock/"
     }

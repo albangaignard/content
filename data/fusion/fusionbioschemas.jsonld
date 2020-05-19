@@ -17,8 +17,8 @@
   "sc:name": "Fusion",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://fusion.cebitec.uni-bielefeld.de"
 }

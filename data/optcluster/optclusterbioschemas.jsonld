@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Susmita Datta",
-        "Somnath Datta",
-        "Michael Sekula"
+        "Michael Sekula",
+        "Somnath Datta"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -37,8 +37,8 @@
       "sc:name": "optCluster",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/optCluster/index.html"
     }

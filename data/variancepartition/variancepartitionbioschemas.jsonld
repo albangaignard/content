@@ -27,10 +27,10 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0203"
+          "@id": "edam:topic_3170"
         },
         {
-          "@id": "edam:topic_3170"
+          "@id": "edam:topic_0203"
         }
       ],
       "sc:citation": [
@@ -52,20 +52,20 @@
       "sc:license": "GPL-2.0",
       "sc:name": "variancePartition",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/variancePartition.html",
       "sc:version": "1.4.1"
     },
     {
-      "@id": "http://orcid.org/0000-0002-0957-0224",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1186/s12859-016-1323-z",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-0957-0224",
+      "@type": "schema:Person"
     }
   ]
 }

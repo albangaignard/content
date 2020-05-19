@@ -17,8 +17,8 @@
   "sc:name": "NucleaRDB",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.receptors.org/nucleardb/"
 }

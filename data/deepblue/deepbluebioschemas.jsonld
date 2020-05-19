@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Felipe Albrecht",
   "sc:additionalType": [
-    "Web application",
     "Web API",
+    "Web application",
     "Database portal"
   ],
   "sc:author": "Felipe Albrecht",
@@ -29,8 +29,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "DeepBlue Epigenomic Data Server",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": [
