@@ -50,8 +50,8 @@
       },
       "sc:name": "Complete Arabidopsis transcriptome database",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:provider": "Unité de Recherche en Génomique Végétale",

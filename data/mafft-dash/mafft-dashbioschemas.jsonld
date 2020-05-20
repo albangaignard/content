@@ -31,10 +31,10 @@
         "Command-line tool"
       ],
       "sc:citation": [
-        "pmcid:PMC6602451",
         {
           "@id": "https://doi.org/10.1093/NAR/GKZ342"
         },
+        "pmcid:PMC6602451",
         "pubmed:31062021"
       ],
       "sc:description": "Multiple alignment program for amino acid or nucleotide sequences.",
@@ -52,9 +52,9 @@
       "sc:license": "GPL-1.0",
       "sc:name": "MAFFT-DASH",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://mafft.cbrc.jp/alignment/server/"
     }

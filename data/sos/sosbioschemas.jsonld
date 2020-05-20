@@ -27,10 +27,10 @@
       "sc:description": "Script of Scripts (SoS) is a computational environment for the development and execution of scripts in multiple languages for daily computational research.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_3196"
         },
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_3431"
         },
         {
           "@id": "edam:operation_1812"
@@ -40,8 +40,8 @@
       "sc:name": "SoS",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://vatlab.github.io/sos-docs/"
     },

@@ -18,12 +18,12 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Alex J. Cornish",
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
-        "pmcid:PMC4161294",
         "pubmed:25210953",
+        "pmcid:PMC4161294",
         {
           "@id": "https://doi.org/10.1371/journal.pcbi.1003808"
         }

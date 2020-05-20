@@ -14,8 +14,8 @@
   "sc:description": "Infer the molecular mechanism driving your expression phenotype.",
   "sc:name": "PheNetic",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "ugent.be",

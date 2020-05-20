@@ -17,8 +17,8 @@
   "sc:name": "HomeoSplitter",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://bioweb.supagro.inra.fr/homeoSplitter/"
 }

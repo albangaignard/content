@@ -11,15 +11,15 @@
   "@id": "https://bio.tools/quantgenius",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Miha Svalina",
     "Kristina Gruden",
-    "Špela Baebler",
-    "Miha Svalina"
+    "Špela Baebler"
   ],
   "sc:additionalType": "Web application",
   "sc:author": "Miha Svalina",
   "sc:contributor": [
-    "Katja Stare",
     "Ana Rotter",
+    "Katja Stare",
     "Maruša Pompe-Novak",
     "Marko Petek"
   ],
@@ -27,8 +27,8 @@
   "sc:name": "quantGenius",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "ELIXIR-SI-hackathon",

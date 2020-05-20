@@ -17,8 +17,8 @@
   "sc:name": "Malakite",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://mouse.belozersky.msu.ru/tools/malakite.html"
 }

@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Aurélien Ginolhac",
-    "Mikkel Schubert",
-    "Hákon Jónsson"
+    "Hákon Jónsson",
+    "Mikkel Schubert"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:21659319",

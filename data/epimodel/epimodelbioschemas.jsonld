@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.18637/jss.v084.i08",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/epimodel",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Samuel Jenness",
@@ -37,6 +33,10 @@
         "Windows"
       ],
       "sc:url": "http://www.epimodel.org/"
+    },
+    {
+      "@id": "https://doi.org/10.18637/jss.v084.i08",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

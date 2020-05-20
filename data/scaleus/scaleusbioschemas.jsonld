@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/scaleus",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
+    "Web API",
     "Web application",
     "SPARQL endpoint",
-    "Web API",
     "Workbench"
   ],
   "sc:citation": "pubmed:28214993",

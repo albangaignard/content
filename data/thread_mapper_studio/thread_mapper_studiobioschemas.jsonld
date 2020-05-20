@@ -17,8 +17,8 @@
   "sc:name": "THREaD Mapper Studio",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://cbr.jic.ac.uk/threadmapper"
 }

@@ -21,14 +21,14 @@
       "@id": "https://bio.tools/deepbluer",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Felipe Albrecht",
         {
           "@id": "http://orcid.org/0000-0002-0941-4168"
-        },
-        "Felipe Albrecht"
+        }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         {

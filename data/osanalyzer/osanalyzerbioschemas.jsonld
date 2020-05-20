@@ -39,8 +39,8 @@
       "sc:license": "Other",
       "sc:name": "OSAnalyzer",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://sites.google.com/site/overallsurvivalanalyzer/"

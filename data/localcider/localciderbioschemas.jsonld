@@ -10,18 +10,22 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-4155-5729",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/localcider",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Rohit V. Pappu",
         {
           "@id": "http://orcid.org/0000-0002-4155-5729"
-        },
-        "Rohit V. Pappu"
+        }
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
-        "pmcid:PMC5232785",
         "pubmed:28076807",
+        "pmcid:PMC5232785",
         {
           "@id": "https://doi.org/10.1016/j.bpj.2016.11.3200"
         }
@@ -33,15 +37,11 @@
       "sc:license": "GPL-2.0",
       "sc:name": "localCIDER",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "https://github.com/Pappulab/localCIDER"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-4155-5729",
-      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1016/j.bpj.2016.11.3200",

@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/vista_enhancer_browser",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:17130149",
@@ -29,17 +29,17 @@
           "@id": "edam:operation_2421"
         },
         {
-          "@id": "edam:operation_1781"
+          "@id": "edam:operation_0361"
         },
         {
-          "@id": "edam:operation_0361"
+          "@id": "edam:operation_1781"
         }
       ],
       "sc:name": "VISTA Enhancer Browser",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://enhancer.lbl.gov/frnt_page_n.shtml"
     },

@@ -16,9 +16,9 @@
         "@id": "http://orcid.org/0000-0001-7369-1322"
       },
       "sc:additionalType": [
-        "Suite",
+        "Web service",
         "Web application",
-        "Web service"
+        "Suite"
       ],
       "sc:author": {
         "@id": "http://orcid.org/0000-0001-7369-1322"
