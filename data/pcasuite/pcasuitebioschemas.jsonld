@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/pcasuite",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Institute for Research in Biomedicine Barcelona",
     "Y. Sharma",
+    "Institute for Research in Biomedicine Barcelona",
     "S. H. Raza"
   ],
   "sc:additionalType": "Command-line tool",
@@ -21,8 +21,8 @@
   "sc:name": "PCASuite",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://mmb.pcb.ub.edu/software/pcasuite/"
 }

@@ -10,22 +10,14 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0001-7480-7710",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKZ337",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/DrugComb",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "https://orcid.org/0000-0001-7480-7710"
       },
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         {
@@ -40,20 +32,28 @@
           "@id": "edam:operation_3894"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_2929"
         },
         {
-          "@id": "edam:operation_2929"
+          "@id": "edam:operation_3431"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "DrugComb",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://drugcomb.fimm.fi"
+    },
+    {
+      "@id": "https://orcid.org/0000-0001-7480-7710",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/NAR/GKZ337",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

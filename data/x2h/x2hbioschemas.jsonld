@@ -14,8 +14,8 @@
     "Jian Liu",
     "Yongzhuang Liu",
     "Qiuru Liu",
-    "Shuhui Su",
-    "Lei Zhang"
+    "Lei Zhang",
+    "Shuhui Su"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:31094692",
@@ -24,8 +24,8 @@
   "sc:name": "X2H",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/lyotvincent/X2H"
 }

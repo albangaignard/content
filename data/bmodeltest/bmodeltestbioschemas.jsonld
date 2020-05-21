@@ -29,8 +29,8 @@
       "sc:name": "bModelTest",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://github.com/BEAST2-Dev/bModelTest"
     },

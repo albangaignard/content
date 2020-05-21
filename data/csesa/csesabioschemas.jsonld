@@ -32,9 +32,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "CSESA",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://cran.r-project.org/package=CSESA",
       "sc:version": "1.2.0"

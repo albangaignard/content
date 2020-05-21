@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "ZhangLab",
       "sc:additionalType": [
-        "Web application",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:citation": [
         {
@@ -27,10 +27,10 @@
       "sc:description": "Integrated resource for analyzing the evolution and function of primate-specific coding genes.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_0487"
         },
         {
-          "@id": "edam:operation_0487"
+          "@id": "edam:operation_3501"
         },
         {
           "@id": "edam:operation_3766"
@@ -39,9 +39,9 @@
       "sc:license": "Other",
       "sc:name": "GenTree",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://gentree.ioz.ac.cn/index.php"
     },

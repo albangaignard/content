@@ -31,8 +31,8 @@
       },
       "sc:name": "TMAP",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/iontorrent/TS/tree/master/Analysis/TMAP"
     }

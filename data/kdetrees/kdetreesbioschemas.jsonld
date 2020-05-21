@@ -17,8 +17,8 @@
   "sc:name": "kdetrees",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://github.com/grady/kdetrees"
 }

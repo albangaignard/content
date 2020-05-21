@@ -20,8 +20,8 @@
   "sc:name": "REPAIRtoire",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://repairtoire.genesilico.pl/"
 }

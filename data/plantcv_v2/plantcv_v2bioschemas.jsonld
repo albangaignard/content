@@ -30,8 +30,8 @@
       },
       "sc:name": "PlantCV v2",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://github.com/danforthcenter/plantcv-v2-paper"

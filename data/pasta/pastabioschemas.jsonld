@@ -35,8 +35,8 @@
         }
       ],
       "sc:citation": [
-        "pmcid:PMC4086119",
         "pubmed:24848016",
+        "pmcid:PMC4086119",
         {
           "@id": "https://doi.org/10.1093/nar/gku399"
         }
@@ -48,12 +48,12 @@
       "sc:name": "PASTA",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:provider": [
-        "ELIXIR-ITA-PADOVA",
-        "University of Padua, Department of Biomedical Sciences, BioComputing UP lab"
+        "University of Padua, Department of Biomedical Sciences, BioComputing UP lab",
+        "ELIXIR-ITA-PADOVA"
       ],
       "sc:url": "http://protein.bio.unipd.it/pasta2/index.html",
       "sc:version": "2.0"

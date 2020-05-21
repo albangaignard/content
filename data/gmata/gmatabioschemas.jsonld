@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Xuewen Wang",
       "sc:additionalType": "Desktop application",
       "sc:citation": [
-        "pmcid:PMC5020087",
         "pubmed:27679641",
+        "pmcid:PMC5020087",
         {
           "@id": "https://doi.org/10.3389/fpls.2016.01350"
         }
@@ -28,9 +28,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "GMATA",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://sourceforge.net/projects/gmata/",
       "sc:version": "v21"

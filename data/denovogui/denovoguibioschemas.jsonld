@@ -19,8 +19,8 @@
   "sc:name": "Denovogui",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": "ugent.be",
   "sc:url": "http://compomics.github.io/projects/denovogui.html",

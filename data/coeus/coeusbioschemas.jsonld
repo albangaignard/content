@@ -10,11 +10,15 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/2041-1480-3-11",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/coeus",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Pedro Sernadela",
-        "Pedro Lopes"
+        "Pedro Lopes",
+        "Pedro Sernadela"
       ],
       "sc:additionalType": [
         "Database portal",
@@ -33,10 +37,10 @@
           "@id": "edam:operation_0335"
         },
         {
-          "@id": "edam:operation_2422"
+          "@id": "edam:operation_3436"
         },
         {
-          "@id": "edam:operation_3436"
+          "@id": "edam:operation_2422"
         }
       ],
       "sc:license": "CC-BY-3.0",
@@ -47,10 +51,6 @@
         "Windows"
       ],
       "sc:url": "http://bioinformatics.ua.pt/coeus/"
-    },
-    {
-      "@id": "https://doi.org/10.1186/2041-1480-3-11",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

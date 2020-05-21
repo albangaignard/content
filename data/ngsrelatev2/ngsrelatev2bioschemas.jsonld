@@ -40,13 +40,13 @@
       "sc:description": "Fast and accurate relatedness estimation from high-throughput sequencing data in the presence of inbreeding.",
       "sc:featureList": [
         {
+          "@id": "edam:operation_1812"
+        },
+        {
           "@id": "edam:operation_3196"
         },
         {
           "@id": "edam:operation_0302"
-        },
-        {
-          "@id": "edam:operation_1812"
         }
       ],
       "sc:license": "GPL-3.0",
