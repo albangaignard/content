@@ -18,8 +18,8 @@
   "sc:name": "DISEASES",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://diseases.jensenlab.org/"
 }

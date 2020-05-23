@@ -22,8 +22,8 @@
   "sc:name": "TheoReTS",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://theorets.univ-reims.fr"
 }

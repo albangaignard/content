@@ -19,8 +19,8 @@
       "biotools:primaryContact": "Michał Jabłoński",
       "sc:additionalType": "Desktop application",
       "sc:citation": [
-        "pubmed:28114896",
         "pmcid:PMC5260066",
+        "pubmed:28114896",
         {
           "@id": "https://doi.org/10.1186/s12859-017-1459-5"
         }

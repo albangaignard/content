@@ -17,8 +17,8 @@
   "sc:name": "BayesForest",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://github.com/inuritdino/BayesForest/wiki"
 }

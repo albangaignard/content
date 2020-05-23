@@ -21,8 +21,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "ERNE",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:url": "http://erne.sourceforge.net"

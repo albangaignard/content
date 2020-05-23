@@ -16,8 +16,8 @@
   "sc:name": "microManager",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://valelab.ucsf.edu/~MM/MMwiki/"
 }

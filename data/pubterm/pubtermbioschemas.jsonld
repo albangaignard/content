@@ -32,9 +32,9 @@
       ],
       "sc:name": "PubTerm",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://bioinformatica.mty.itesm.mx:8080/Biomatec/pubterm.html"
     },

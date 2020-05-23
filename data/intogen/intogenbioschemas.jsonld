@@ -15,8 +15,8 @@
   "sc:name": "Intogen",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": "upf.edu",
   "sc:url": "http://www.intogen.org/"

@@ -23,8 +23,8 @@
   "sc:name": "GEAR-base",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://gear-base.com"
 }

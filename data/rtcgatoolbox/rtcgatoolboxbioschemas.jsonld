@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1371/journal.pone.0106397",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/rtcgatoolbox",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Mehmet Kemal Samur",
@@ -22,8 +18,8 @@
         "Command-line tool"
       ],
       "sc:citation": [
-        "pubmed:25181531",
         "pmcid:PMC4152273",
+        "pubmed:25181531",
         {
           "@id": "https://doi.org/10.1371/journal.pone.0106397"
         }
@@ -36,11 +32,15 @@
       "sc:name": "RTCGAToolbox",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/RTCGAToolbox.html",
       "sc:version": "2.4.0"
+    },
+    {
+      "@id": "https://doi.org/10.1371/journal.pone.0106397",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

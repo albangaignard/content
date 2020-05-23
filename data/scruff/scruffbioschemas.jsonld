@@ -23,13 +23,13 @@
       "sc:description": "R/Bioconductor package for preprocessing single-cell RNA-sequencing data.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3219"
+          "@id": "edam:operation_3563"
         },
         {
           "@id": "edam:operation_3198"
         },
         {
-          "@id": "edam:operation_3563"
+          "@id": "edam:operation_3219"
         }
       ],
       "sc:license": "MIT",

@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/ligandrna",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Kaja Milanowska - Server developer",
     "Anna Philips -  Program developer",
+    "Kaja Milanowska - Server developer",
     "Janusz Bujnicki - Project coordinator"
   ],
   "sc:additionalType": "Web application",

@@ -27,9 +27,9 @@
       "sc:license": "Apache-2.0",
       "sc:name": "WikiPathways App",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://apps.cytoscape.org/apps/wikipathways",
       "sc:version": "3.3.1"

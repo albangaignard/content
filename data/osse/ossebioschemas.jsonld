@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/osse",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Marie Loh",
     "Zhuo Shaowei (IT enquiries)",
+    "Marie Loh",
     "Adrian Mondry"
   ],
   "sc:additionalType": "Web application",

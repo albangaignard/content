@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0001-5902-6238",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/clomial",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -67,6 +63,10 @@
     {
       "@id": "https://doi.org/10.1371/journal.pcbi.1003703",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-5902-6238",
+      "@type": "schema:Person"
     }
   ]
 }

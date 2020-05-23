@@ -35,9 +35,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "rREST",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/ShiangHu/Unified-EEG-reference-rREST"
     }
