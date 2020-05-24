@@ -27,9 +27,9 @@
       },
       "sc:name": "PRIMO",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://primo.rubi.ru.ac.za/"
     },

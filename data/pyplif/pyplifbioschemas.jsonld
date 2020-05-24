@@ -15,8 +15,8 @@
   "sc:name": "PyPLIF",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://code.google.com/p/pyplif/",
   "sc:version": "0.1.1"

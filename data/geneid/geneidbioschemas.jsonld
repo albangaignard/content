@@ -13,12 +13,12 @@
       "@id": "https://bio.tools/geneid",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Support",
-        "Francisco Camara"
+        "Francisco Camara",
+        "Support"
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:author": "Roderic Guigo",
       "sc:citation": "pubmed:18428791",

@@ -18,8 +18,8 @@
   "sc:description": "A segmental threading algorithm designed to recoginzing substructure motifs from the Protein Data Bank (PDB) library.",
   "sc:name": "SEGMER",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:url": "http://zhanglab.ccmb.med.umich.edu/SEGMER/"

@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/dynamut",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Dr. David B. Ascher",
     "Dr. Douglas E. V. Pires",
+    "Dr. David B. Ascher",
     "Carlos H. M. Rodrigues"
   ],
   "sc:additionalType": "Web application",
@@ -20,8 +20,8 @@
   "sc:name": "DynaMut",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://biosig.unimelb.edu.au/dynamut/"
 }

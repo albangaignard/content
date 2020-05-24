@@ -28,10 +28,10 @@
         "@id": "https://orcid.org/0000-0001-7032-5220"
       },
       "sc:additionalType": [
+        "Desktop application",
         "Suite",
         "Workflow",
-        "Command-line tool",
-        "Desktop application"
+        "Command-line tool"
       ],
       "sc:author": [
         {
@@ -47,8 +47,8 @@
       "sc:description": "A collection of 40+ well-documented Docker images of commonly used bioinformatics applications and pipelines.",
       "sc:name": "Bioinformatics Docker Images Project",
       "sc:operatingSystem": [
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://pegi3s.github.io/dockerfiles/"
     },

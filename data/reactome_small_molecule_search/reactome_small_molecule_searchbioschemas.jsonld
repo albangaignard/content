@@ -17,8 +17,8 @@
   "sc:name": "Reactome Small Molecule Search",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "EMBL-EBI",

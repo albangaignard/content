@@ -24,9 +24,9 @@
         "@id": "edam:data_0896"
       },
       "sc:additionalType": [
-        "Database portal",
         "Web API",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:applicationSubCategory": [
         {
@@ -56,8 +56,8 @@
       "sc:name": "VHLdb",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": "University of Padua, Department of Biomedical Sciences, BioComputing UP lab",
       "sc:softwareHelp": {

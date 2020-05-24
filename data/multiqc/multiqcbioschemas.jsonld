@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0003-4101-2502",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/multiqc",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -34,14 +38,10 @@
       "sc:name": "MultiQC",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://multiqc.info/"
-    },
-    {
-      "@id": "http://orcid.org/0000-0003-4101-2502",
-      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1093/bioinformatics/btw354",

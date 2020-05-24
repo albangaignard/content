@@ -33,18 +33,18 @@
       ],
       "sc:applicationSubCategory": [
         {
+          "@id": "edam:topic_0092"
+        },
+        {
           "@id": "edam:topic_3174"
         },
         {
           "@id": "edam:topic_3070"
-        },
-        {
-          "@id": "edam:topic_0092"
         }
       ],
       "sc:citation": [
-        "pubmed:25750651",
         "pmcid:PMC4335276",
+        "pubmed:25750651",
         {
           "@id": "https://doi.org/10.3389/fgene.2015.00043"
         }

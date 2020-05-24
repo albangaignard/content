@@ -13,11 +13,11 @@
   "sc:additionalType": "Library",
   "sc:author": "Sebastian Wilzbach",
   "sc:contributor": [
-    "Tatyana Goldberg",
-    "Benedikt Rauscher",
-    "Guy Yachdav",
     "Ian Sillitoe",
-    "Google Summer of Code (GSoC) 2014"
+    "Benedikt Rauscher",
+    "Google Summer of Code (GSoC) 2014",
+    "Guy Yachdav",
+    "Tatyana Goldberg"
   ],
   "sc:description": "Large MSAs visualization interactively on the web.",
   "sc:funder": "Google Summer of Code (GSoC) 2014",

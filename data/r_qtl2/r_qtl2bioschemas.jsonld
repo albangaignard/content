@@ -36,9 +36,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Rqtl2",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://kbroman.org/qtl2/"
     },

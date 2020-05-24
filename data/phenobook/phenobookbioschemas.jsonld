@@ -31,8 +31,8 @@
       },
       "sc:name": "Phenobook",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://getphenobook.com/"
