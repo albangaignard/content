@@ -20,8 +20,8 @@
         "@id": "https://orcid.org/0000-0001-7480-7710"
       },
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         {
@@ -46,8 +46,8 @@
       "sc:name": "DrugComb",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://drugcomb.fimm.fi"
     },

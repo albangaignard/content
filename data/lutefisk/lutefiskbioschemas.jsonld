@@ -15,8 +15,8 @@
   "sc:description": "\"De novo\" peptide sequencing from MS/MS data.",
   "sc:name": "lutefisk",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://www.hairyfatguy.com/lutefisk"

@@ -17,8 +17,8 @@
   "sc:name": "ReMus",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://biotools.cs.ntou.edu.tw/Remus.asp"
 }

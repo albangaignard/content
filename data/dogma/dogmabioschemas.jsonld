@@ -20,8 +20,8 @@
         "@id": "https://orcid.org/0000-0002-2416-9842"
       },
       "sc:additionalType": [
-        "Web application",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:31076763",
@@ -37,8 +37,8 @@
       "sc:license": "Unlicense",
       "sc:name": "DOGMA",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "https://domainworld-services.uni-muenster.de/dogma/"

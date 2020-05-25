@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/qgrs_mapper",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Oleg Kikin",
     "Lawrence D'Antonio",
+    "Oleg Kikin",
     "Manuel Viotti",
     "Paramjeet Bagga"
   ],
@@ -22,8 +22,8 @@
   "sc:name": "QGRS Mapper",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bioinformatics.ramapo.edu/QGRS/index.php"
 }

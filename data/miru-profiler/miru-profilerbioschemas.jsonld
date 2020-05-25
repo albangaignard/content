@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/miru-profiler",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Rahim Rajwani",
-        "Gilman Kit Hang Siu"
+        "Gilman Kit Hang Siu",
+        "Rahim Rajwani"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [

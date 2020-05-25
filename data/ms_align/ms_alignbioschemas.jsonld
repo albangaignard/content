@@ -20,8 +20,8 @@
   "sc:name": "MS_Align",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.atgc-montpellier.fr/ms_align/"
 }

@@ -27,8 +27,8 @@
   "sc:name": "NorsNet",
   "sc:operatingSystem": "Linux",
   "sc:provider": [
-    "RostLab",
     "Columbia University",
+    "RostLab",
     "University of California San Diego"
   ],
   "sc:url": "http://ppopen.informatik.tu-muenchen.de/",

@@ -15,8 +15,8 @@
   "sc:name": "Gel Analyzer",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.gelanalyzer.com/",
   "sc:version": "2010a"

@@ -19,8 +19,8 @@
   "sc:license": "Other",
   "sc:name": "NetGene2",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "CBS",

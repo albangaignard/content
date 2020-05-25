@@ -15,8 +15,8 @@
   "sc:name": "PklFileMerger",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.uib.no/en/rg/probe/66698/pklfilemerger"
 }

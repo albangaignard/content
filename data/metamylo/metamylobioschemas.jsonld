@@ -20,8 +20,8 @@
   "sc:description": "Prediction of amyloid fragments.",
   "sc:name": "MetAmyl",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": "GenOuest",

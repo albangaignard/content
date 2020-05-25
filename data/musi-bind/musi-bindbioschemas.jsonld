@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/musi-bind",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Marc Tyndel",
     "TaeHyung Simon Kim",
+    "Marc Tyndel",
     "David Gfeller",
     "Philip M. Kim"
   ],

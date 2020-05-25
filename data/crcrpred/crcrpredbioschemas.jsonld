@@ -16,8 +16,8 @@
   "sc:license": "Unlicense",
   "sc:name": "CRCRpred",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "https://webs.iiitd.edu.in/raghava/crcrpred"

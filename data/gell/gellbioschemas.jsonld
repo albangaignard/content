@@ -16,8 +16,8 @@
   "sc:name": "GeLL",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://phylo.bio.ku.edu/GeLL/"
 }

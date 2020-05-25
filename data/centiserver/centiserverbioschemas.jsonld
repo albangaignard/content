@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Mahdi Jalili",
       "sc:additionalType": [
         "Library",
-        "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:26571275",
@@ -32,8 +32,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "CentiServer",
       "sc:operatingSystem": [
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://www.centiserver.org/",
       "sc:version": "1.0.0"
