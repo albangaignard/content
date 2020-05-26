@@ -56,9 +56,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "systemPipeR",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/systemPipeR.html",
       "sc:version": "1.8.1"

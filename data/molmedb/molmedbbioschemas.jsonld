@@ -27,10 +27,10 @@
         }
       ],
       "sc:contributor": [
-        "Michaela Melíková",
         {
           "@id": "http://orcid.org/0000-0001-9556-2978"
         },
+        "Michaela Melíková",
         {
           "@id": "http://orcid.org/0000-0001-9472-2589"
         }

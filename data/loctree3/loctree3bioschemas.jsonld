@@ -15,15 +15,15 @@
     "Web application"
   ],
   "sc:author": [
-    "Guy Yachdav",
-    "Maximilian Hecht",
-    "Tobias Hamp",
     "Timothy Karl",
-    "Tatyana Goldberg"
+    "Tobias Hamp",
+    "Tatyana Goldberg",
+    "Maximilian Hecht",
+    "Guy Yachdav"
   ],
   "sc:contributor": [
-    "Alexander von Humboldt Foundation through German Federal Ministry for Education and Research",
     "Burkhard Rost",
+    "Alexander von Humboldt Foundation through German Federal Ministry for Education and Research",
     "Henrik Nielsen",
     "Ernst Ludwig Ehrlich Studienwerk"
   ],

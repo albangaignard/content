@@ -21,8 +21,8 @@
         "Li Chen"
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:30967541",
@@ -43,9 +43,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "BAMM-SC",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "https://github.com/lichen-lab/BAMMSC",
       "sc:version": "1.0.0"

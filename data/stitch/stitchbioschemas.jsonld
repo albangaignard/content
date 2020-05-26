@@ -14,37 +14,37 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Michael Kuhn",
       "sc:additionalType": [
-        "Database portal",
         "Command-line tool",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:author": "Michael Kuhn",
       "sc:citation": [
         "pmcid:PMC2238848",
         "pubmed:19897548",
+        "pubmed:18084021",
         {
           "@id": "https://doi.org/10.1093/nar/gkm795"
-        },
-        "pubmed:18084021"
+        }
       ],
       "sc:contributor": [
-        "EC FP6",
-        "CPR",
         "EMBL",
-        "BMBF",
+        "SUND-KU",
+        "CPR",
         "TUD",
         "EMBO",
-        "SUND-KU"
+        "EC FP6",
+        "BMBF"
       ],
       "sc:description": "Resource to explore known and predicted interactions of chemicals and proteins. Chemicals are linked to other chemicals and proteins by evidence derived from experiments, databases and the literature.",
       "sc:funder": [
+        "EMBL",
+        "EMBO",
         "CPR",
         "TUD",
-        "EMBO",
+        "EC FP6",
         "SUND-KU",
-        "BMBF",
-        "EMBL",
-        "EC FP6"
+        "BMBF"
       ],
       "sc:name": "STITCH",
       "sc:operatingSystem": [

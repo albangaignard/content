@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/dockstore",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Command-line tool",
-        "Database portal"
+        "Database portal",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:28344774",
@@ -35,9 +35,9 @@
       "sc:license": "Apache-2.0",
       "sc:name": "Dockstore",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://dockstore.org"
     },

@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/pcasuite",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Institute for Research in Biomedicine Barcelona",
     "S. H. Raza",
+    "Institute for Research in Biomedicine Barcelona",
     "Y. Sharma"
   ],
   "sc:additionalType": "Command-line tool",

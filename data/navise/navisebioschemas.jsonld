@@ -35,9 +35,9 @@
       ],
       "sc:name": "NaviSE",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "https://sourceforge.net/projects/navise-superenhancer/"
     },

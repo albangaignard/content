@@ -32,15 +32,15 @@
       "sc:additionalType": "Command-line tool",
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0080"
+          "@id": "edam:topic_0097"
         },
         {
-          "@id": "edam:topic_0097"
+          "@id": "edam:topic_0080"
         }
       ],
       "sc:author": [
-        "Christina Otto",
-        "Rolf Backofen"
+        "Rolf Backofen",
+        "Christina Otto"
       ],
       "sc:citation": [
         "pmcid:PMC4302096",
@@ -57,12 +57,12 @@
       "sc:license": "GPL-3.0",
       "sc:name": "ExpaRNA-P",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": [
-        "rnateam",
-        "University Freiburg"
+        "University Freiburg",
+        "rnateam"
       ],
       "sc:softwareHelp": {
         "@id": "http://www.bioinf.uni-freiburg.de/Software/ExpaRNA-P/"

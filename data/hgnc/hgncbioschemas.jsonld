@@ -47,8 +47,8 @@
       "sc:name": "Human gene nomenclature database (HGNC)",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://www.genenames.org/"
     },

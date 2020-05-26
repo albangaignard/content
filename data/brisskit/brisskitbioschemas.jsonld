@@ -15,15 +15,15 @@
     "Shajid Issa"
   ],
   "sc:additionalType": [
-    "Web API",
-    "Web application",
     "Command-line tool",
+    "Database portal",
+    "Web API",
     "Workbench",
-    "Database portal"
+    "Web application"
   ],
   "sc:author": [
-    "Dr Olly Butters (former Technical Lead)",
-    "Shajid Issa (Technical Lead)"
+    "Shajid Issa (Technical Lead)",
+    "Dr Olly Butters (former Technical Lead)"
   ],
   "sc:contributor": [
     "Jisc",
@@ -37,9 +37,9 @@
   ],
   "sc:name": "BRISSKit",
   "sc:operatingSystem": [
+    "Linux",
     "Windows",
-    "Mac",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
     "University of Leicester",

@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0001-5282-3250",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.3390/microarrays3010001",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-5282-3250",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/affy",
@@ -33,10 +33,10 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0092"
+          "@id": "edam:topic_3473"
         },
         {
-          "@id": "edam:topic_3473"
+          "@id": "edam:topic_0092"
         },
         {
           "@id": "edam:topic_0203"

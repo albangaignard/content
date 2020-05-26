@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "https://orcid.org/0000-0002-9572-951X",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/Subdyquency",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -39,10 +43,6 @@
         "Windows"
       ],
       "sc:url": "https://github.com/weiba/Subdyquency"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-9572-951X",
-      "@type": "schema:Person"
     }
   ]
 }

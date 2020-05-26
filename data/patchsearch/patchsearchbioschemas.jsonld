@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/PatchSearch",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Julien Rey",
     "Frédéric Guyon",
+    "Julien Rey",
     "Gautier Moroy"
   ],
   "sc:additionalType": "Web application",
