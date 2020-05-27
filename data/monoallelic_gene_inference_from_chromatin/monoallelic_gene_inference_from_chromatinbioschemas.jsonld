@@ -10,18 +10,22 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12859-019-2679-7",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/Monoallelic_Gene_Inference_from_Chromatin",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Sachit Saksena",
-        "Alexander Gimelbrant",
+        "Svetlana Vinogradova",
         "Henry Ward",
         "Sébastien Vigneau",
-        "Svetlana Vinogradova"
+        "Sachit Saksena",
+        "Alexander Gimelbrant"
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC6394031",
@@ -42,15 +46,11 @@
       "sc:license": "MIT",
       "sc:name": "MaGIC",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://github.com/gimelbrantlab/magic"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12859-019-2679-7",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -30,9 +30,9 @@
       },
       "sc:name": "ProtPhylo",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://www.protphylo.org/"
     },

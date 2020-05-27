@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/phd-snpg",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:citation": [
         {
@@ -29,10 +29,10 @@
       "sc:description": "A binary classifier for predicting pathogenic variants in coding and non-coding regions.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3661"
+          "@id": "edam:operation_3227"
         },
         {
-          "@id": "edam:operation_3227"
+          "@id": "edam:operation_3661"
         }
       ],
       "sc:name": "PhD-SNPg",

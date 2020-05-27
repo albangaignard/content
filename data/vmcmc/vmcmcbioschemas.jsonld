@@ -27,9 +27,9 @@
       },
       "sc:name": "VMCMC",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://bitbucket.org/rhali/visualmcmc/"
     },

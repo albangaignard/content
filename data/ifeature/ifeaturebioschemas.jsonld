@@ -22,8 +22,8 @@
   "sc:name": "iFeature",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://ifeature.erc.monash.edu/"
 }

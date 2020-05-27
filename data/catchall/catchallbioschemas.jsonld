@@ -17,8 +17,8 @@
   "sc:name": "CatchAll",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.northeastern.edu/catchall/"
 }

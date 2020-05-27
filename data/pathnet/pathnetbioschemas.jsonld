@@ -22,8 +22,8 @@
         "Library"
       ],
       "sc:citation": [
-        "pubmed:23006764",
         "pmcid:PMC3563509",
+        "pubmed:23006764",
         {
           "@id": "https://doi.org/10.1186/1751-0473-7-10"
         }
@@ -35,9 +35,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "PathNet",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/PathNet.html",
       "sc:version": "1.14.0"

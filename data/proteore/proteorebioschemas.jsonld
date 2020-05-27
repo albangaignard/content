@@ -18,8 +18,8 @@
   "sc:name": "ProteoRE",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.proteore.org/",
   "sc:version": "2.0"

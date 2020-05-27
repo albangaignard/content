@@ -19,16 +19,16 @@
   "sc:contributor": [
     "MB Schultz",
     "BP Howden",
-    "A Goncalves da Silva",
     "JC Kwong",
-    "DM Bulach"
+    "DM Bulach",
+    "A Goncalves da Silva"
   ],
   "sc:description": "Pipeline to generate complete public health microbiology reports from isolates sequenced with Illumina paired-end sequencing.",
   "sc:license": "GPL-2.0",
   "sc:name": "nullarbor",
   "sc:operatingSystem": [
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "University of Melbourne, Australia",

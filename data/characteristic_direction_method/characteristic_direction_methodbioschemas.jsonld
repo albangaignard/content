@@ -27,8 +27,8 @@
       },
       "sc:name": "Characteristic Direction Method",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://www.maayanlab.net/CD/"

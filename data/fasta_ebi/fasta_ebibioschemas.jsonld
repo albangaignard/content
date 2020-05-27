@@ -20,12 +20,12 @@
   "sc:name": "FASTA (EBI)",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
-    "University of Virginia",
-    "EMBL-EBI"
+    "EMBL-EBI",
+    "University of Virginia"
   ],
   "sc:url": "http://www.ebi.ac.uk/Tools/sss/fasta",
   "sc:version": "1"

@@ -18,15 +18,15 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Leyi Wei",
-        "Balachandran Manavalan",
-        "Gwang Lee"
+        "Gwang Lee",
+        "Balachandran Manavalan"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
+        "pubmed:31146255",
         {
           "@id": "https://doi.org/10.1016/J.OMTN.2019.04.019"
         },
-        "pubmed:31146255",
         "pmcid:PMC6540332"
       ],
       "sc:description": "Sequence-Based Meta-Predictor for Accurate DNA 4mC Site Prediction Using Effective Feature Representation.",
@@ -34,8 +34,8 @@
       "sc:name": "Meta-4mCpred",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://thegleelab.org/Meta-4mCpred"
     }

@@ -49,9 +49,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "Cardinal",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/Cardinal.html",
       "sc:version": "1.6.0"

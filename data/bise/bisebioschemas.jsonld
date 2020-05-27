@@ -10,7 +10,19 @@
   },
   "@graph": [
     {
+      "@id": "https://orcid.org/0000-0002-4822-165X",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://orcid.org/0000-0001-6926-191X",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://orcid.org/0000-0002-4009-6225",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-2411-0429",
       "@type": "schema:Person"
     },
     {
@@ -20,8 +32,8 @@
         "@id": "https://orcid.org/0000-0002-4822-165X"
       },
       "sc:additionalType": [
-        "Bioinformatics portal",
-        "Database portal"
+        "Database portal",
+        "Bioinformatics portal"
       ],
       "sc:contributor": [
         {
@@ -31,12 +43,12 @@
           "@id": "https://orcid.org/0000-0002-4009-6225"
         },
         {
-          "@id": "https://orcid.org/0000-0001-6926-191X"
-        },
-        {
           "@id": "https://orcid.org/0000-0002-3597-8557"
         },
         "Chong Zhang",
+        {
+          "@id": "https://orcid.org/0000-0001-6926-191X"
+        },
         {
           "@id": "https://orcid.org/0000-0002-2411-0429"
         }
@@ -49,18 +61,6 @@
     },
     {
       "@id": "https://orcid.org/0000-0002-3597-8557",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-2411-0429",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://orcid.org/0000-0001-6926-191X",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-4822-165X",
       "@type": "schema:Person"
     },
     {

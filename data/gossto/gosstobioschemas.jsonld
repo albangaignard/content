@@ -28,8 +28,8 @@
       "sc:name": "GOssTo",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://www.paccanarolab.org/gosstoweb/"
     },

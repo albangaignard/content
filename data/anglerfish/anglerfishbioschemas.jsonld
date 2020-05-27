@@ -38,8 +38,8 @@
       ],
       "sc:name": "AnglerFish",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://anglerfish.cryst.bbk.ac.uk/"

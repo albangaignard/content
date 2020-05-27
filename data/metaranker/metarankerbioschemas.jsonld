@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0003-0207-4831",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/metaranker",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -41,7 +45,13 @@
       "sc:description": "Prioritization of the entire protein-coding part of the human genome based on heterogeneous user-specified data sets.",
       "sc:featureList": [
         {
+          "@id": "edam:operation_3501"
+        },
+        {
           "@id": "edam:operation_3197"
+        },
+        {
+          "@id": "edam:operation_3196"
         },
         {
           "@id": "edam:operation_2495"
@@ -51,28 +61,18 @@
         },
         {
           "@id": "edam:operation_3233"
-        },
-        {
-          "@id": "edam:operation_3501"
-        },
-        {
-          "@id": "edam:operation_3196"
         }
       ],
       "sc:license": "Other",
       "sc:name": "MetaRanker",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:provider": "CBS",
       "sc:url": "http://cbs.dtu.dk/services/MetaRanker/",
       "sc:version": "2.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0003-0207-4831",
-      "@type": "schema:Person"
     }
   ]
 }

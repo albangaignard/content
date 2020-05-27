@@ -17,8 +17,8 @@
   "sc:name": "SilkDB",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://silkworm.genomics.org.cn/"
 }

@@ -26,9 +26,9 @@
         "@id": "edam:data_3496"
       },
       "sc:additionalType": [
-        "Web application",
+        "Command-line tool",
         "Database portal",
-        "Command-line tool"
+        "Web application"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_0114"
@@ -50,13 +50,13 @@
       "sc:description": "Wrapper tool for rnpB gene prediction by combining speed of rnabob descriptor model and sensitivity of infernal covariance model.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0362"
-        },
-        {
           "@id": "edam:operation_0346"
         },
         {
           "@id": "edam:operation_0349"
+        },
+        {
+          "@id": "edam:operation_0362"
         },
         {
           "@id": "edam:operation_0489"
@@ -67,8 +67,8 @@
       "sc:name": "Bcheck rnpB server",
       "sc:operatingSystem": "Linux",
       "sc:provider": [
-        "Institute for Theoretical Chemistry",
-        "rnateam"
+        "rnateam",
+        "Institute for Theoretical Chemistry"
       ],
       "sc:softwareHelp": {
         "@id": "http://rna.tbi.univie.ac.at/bcheck/help.html"

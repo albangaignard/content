@@ -17,8 +17,8 @@
   "sc:name": "Py-EM",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://git.embl.de/schorb/pyem"
 }

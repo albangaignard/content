@@ -16,12 +16,12 @@
   "sc:name": "3DBIONOTES",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
-    "INB",
     "cnb.csic.es",
+    "INB",
     "ELIXIR-ES"
   ],
   "sc:url": "http://3dbionotes.cnb.csic.es/ws",
