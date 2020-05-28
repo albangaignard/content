@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "D. Villoing",
-    "L. Ferrer",
-    "M. Bardies"
+    "M. Bardies",
+    "L. Ferrer"
   ],
   "sc:additionalType": "Desktop application",
   "sc:citation": "pubmed:26632045",
@@ -21,8 +21,8 @@
   "sc:name": "TestDose",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.dositest.com/"
 }

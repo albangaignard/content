@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/metacomp",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Longshu Yang",
     "Peng Zhai",
+    "Longshu Yang",
     "Huaiqiu Zhu"
   ],
   "sc:additionalType": "Desktop application",

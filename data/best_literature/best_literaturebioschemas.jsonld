@@ -10,17 +10,13 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1371/JOURNAL.PONE.0164680",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/best_literature",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Jaewoo Kang",
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pmcid:PMC5070740",
         "pubmed:27760149",
+        "pmcid:PMC5070740",
         {
           "@id": "https://doi.org/10.1371/JOURNAL.PONE.0164680"
         }
@@ -36,6 +32,10 @@
         "Mac"
       ],
       "sc:url": "http://best.korea.ac.kr/"
+    },
+    {
+      "@id": "https://doi.org/10.1371/JOURNAL.PONE.0164680",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

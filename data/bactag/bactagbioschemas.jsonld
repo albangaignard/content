@@ -38,8 +38,8 @@
       "sc:license": "Unlicense",
       "sc:name": "BacTag",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://git.lumc.nl/l.khachatryan/BacTag"

@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
+    "UK BBSRC",
     "EMBOSS Contributors",
-    "UK MRC",
-    "UK BBSRC"
+    "UK MRC"
   ],
   "sc:description": "Write to file a subset of an input stream of sequences.",
   "sc:funder": [

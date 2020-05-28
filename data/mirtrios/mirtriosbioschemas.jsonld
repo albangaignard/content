@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/mirtrios",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Jinchen Li",
     "Qing Xie",
     "Huiqian Chen",
     "Yi Jiang",
-    "Jinchen Li",
     "Tao Wang"
   ],
   "sc:additionalType": "Web application",

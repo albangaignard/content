@@ -38,8 +38,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "decompTumor2Sig",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://rmpiro.net/decompTumor2Sig/",

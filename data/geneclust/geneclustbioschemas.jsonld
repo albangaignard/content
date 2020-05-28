@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/geneclust",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Kim-Anh Do",
     "Bradley Broom",
+    "Kim-Anh Do",
     "Rumiana Nikolova",
     "Paul Roebuck"
   ],

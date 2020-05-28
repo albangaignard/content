@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0002-2416-9842",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1093/NAR/GKZ366",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-2416-9842",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/DOGMA",
@@ -42,8 +42,8 @@
       "sc:name": "DOGMA",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://domainworld-services.uni-muenster.de/dogma/"
     }

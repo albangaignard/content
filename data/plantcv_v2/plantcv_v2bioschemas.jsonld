@@ -13,16 +13,16 @@
       "@id": "https://bio.tools/plantcv_v2",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Noah Fahlgren",
-        "Malia A. Gehan"
+        "Malia A. Gehan",
+        "Noah Fahlgren"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
         {
           "@id": "https://doi.org/10.7717/peerj.4088"
         },
-        "pubmed:29209576",
-        "pmcid:PMC5713628"
+        "pmcid:PMC5713628",
+        "pubmed:29209576"
       ],
       "sc:description": "Plant image analysis using OpenCV.",
       "sc:featureList": {

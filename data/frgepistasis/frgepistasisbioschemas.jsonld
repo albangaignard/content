@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1101/gr.161760.113",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0002-6043-1756",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/frgepistasis",
@@ -34,8 +34,8 @@
         "@id": "edam:data_2955"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
@@ -64,16 +64,16 @@
       "sc:license": "GPL-2.0",
       "sc:name": "FRGEpistasis",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/FRGEpistasis.html",
       "sc:version": "1.10.0"
     },
     {
-      "@id": "http://orcid.org/0000-0002-6043-1756",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1101/gr.161760.113",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

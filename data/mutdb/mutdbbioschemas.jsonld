@@ -17,8 +17,8 @@
   "sc:name": "MutDB",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.mutdb.org/"
 }

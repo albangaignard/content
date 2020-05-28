@@ -24,8 +24,8 @@
         "Command-line tool"
       ],
       "sc:citation": [
-        "pmcid:PMC3500412",
         "pubmed:23136189",
+        "pmcid:PMC3500412",
         {
           "@id": "https://doi.org/10.1158/1078-0432.CCR-12-1915"
         }
@@ -37,9 +37,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "ffpe",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/ffpe.html",
       "sc:version": "1.18.0"

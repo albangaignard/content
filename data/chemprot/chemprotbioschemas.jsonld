@@ -45,16 +45,16 @@
       "sc:name": "ChemProt",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": "CBS",
       "sc:softwareHelp": [
         {
-          "@id": "http://www.cbs.dtu.dk/services/ChemProt-2.0/instructions.php"
+          "@id": "http://potentia.cbs.dtu.dk/ChemProt/New/Help.html"
         },
         {
-          "@id": "http://potentia.cbs.dtu.dk/ChemProt/New/Help.html"
+          "@id": "http://www.cbs.dtu.dk/services/ChemProt-2.0/instructions.php"
         }
       ],
       "sc:url": "http://cbs.dtu.dk/services/ChemProt-2.0/",

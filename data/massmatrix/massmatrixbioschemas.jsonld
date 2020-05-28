@@ -18,8 +18,8 @@
   "sc:name": "MassMatrix",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.massmatrix.net"
 }

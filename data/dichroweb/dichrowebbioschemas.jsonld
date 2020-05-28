@@ -17,8 +17,8 @@
   "sc:name": "DICHROWEB",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://dichroweb.cryst.bbk.ac.uk/html/home.shtml"
 }

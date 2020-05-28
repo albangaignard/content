@@ -33,9 +33,9 @@
       },
       "sc:name": "PhyInformR",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://carolinafishes.github.io/software/phyinformR/"
     },

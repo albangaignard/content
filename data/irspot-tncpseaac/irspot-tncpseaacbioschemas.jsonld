@@ -31,9 +31,9 @@
       },
       "sc:name": "iRSpot-TNCPseAAC",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://www.jci-bioinfo.cn/iRSpot-TNCPseAAC"
     }
