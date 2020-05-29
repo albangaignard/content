@@ -23,9 +23,9 @@
   "sc:license": "Unlicense",
   "sc:name": "Open Targets",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://www.opentargets.org/"
 }

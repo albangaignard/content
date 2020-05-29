@@ -20,8 +20,8 @@
   "sc:name": "Phenopolis",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://phenopolis.org/"
 }

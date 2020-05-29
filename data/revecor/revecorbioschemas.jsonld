@@ -28,8 +28,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "RevEcoR",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/RevEcoR/",

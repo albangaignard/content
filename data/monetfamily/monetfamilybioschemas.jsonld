@@ -17,8 +17,8 @@
   "sc:name": "MoNetFamily",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://monetfamily.life.nctu.edu.tw/"
 }

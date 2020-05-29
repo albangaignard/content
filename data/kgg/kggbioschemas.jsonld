@@ -17,8 +17,8 @@
   "sc:name": "KGG",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://statgenpro.psychiatry.hku.hk/limx/kgg/"
 }

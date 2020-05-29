@@ -10,15 +10,19 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0001-7088-5535",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/rnabindrplus",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
-        "pubmed:24846307",
         "pmcid:PMC4028231",
         {
           "@id": "https://doi.org/10.1371/journal.pone.0097725"
-        }
+        },
+        "pubmed:24846307"
       ],
       "sc:contributor": {
         "@id": "http://orcid.org/0000-0001-7088-5535"
@@ -29,8 +33,8 @@
       },
       "sc:name": "RNABindRPlus",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://ailab1.ist.psu.edu/RNABindRPlus/",
@@ -39,10 +43,6 @@
     {
       "@id": "https://doi.org/10.1371/journal.pone.0097725",
       "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-7088-5535",
-      "@type": "schema:Person"
     }
   ]
 }

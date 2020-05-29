@@ -54,16 +54,16 @@
       "sc:name": "ArchaeaFun",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": "CBS",
       "sc:softwareHelp": [
         {
-          "@id": "http://www.cbs.dtu.dk/services/ArchaeaFun/instructions.php"
+          "@id": "http://www.cbs.dtu.dk/services/ArchaeaFun/"
         },
         {
-          "@id": "http://www.cbs.dtu.dk/services/ArchaeaFun/"
+          "@id": "http://www.cbs.dtu.dk/services/ArchaeaFun/instructions.php"
         }
       ],
       "sc:url": "http://cbs.dtu.dk/services/ArchaeaFun/",

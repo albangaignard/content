@@ -14,8 +14,8 @@
   "sc:contributor": [
     "Wellcome Trust",
     "EMBOSS Contributors",
-    "UK BBSRC",
-    "UK MRC"
+    "UK MRC",
+    "UK BBSRC"
   ],
   "sc:description": "Find regions of identity (exact matches) of two sequences.",
   "sc:funder": [

@@ -20,8 +20,8 @@
   "sc:name": "SMRT Analysis",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.pacb.com/products-and-services/analytical-software/smrt-analysis/"
 }

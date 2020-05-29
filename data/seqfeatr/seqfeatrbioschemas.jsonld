@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0002-9313-8636",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/seqfeatr",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -47,6 +43,10 @@
       ],
       "sc:url": "https://seqfeatr.zmb.uni-due.de/",
       "sc:version": "0.2.7"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-9313-8636",
+      "@type": "schema:Person"
     }
   ]
 }

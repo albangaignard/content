@@ -20,8 +20,8 @@
   "sc:name": "mLASSO-Hum",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://bioinfo.eie.polyu.edu.hk/mLASSOHumServer/index.html"
 }

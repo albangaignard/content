@@ -35,8 +35,8 @@
       "sc:name": "BSRD",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://kwanlab.bio.cuhk.edu.hk/BSRD/"
     }

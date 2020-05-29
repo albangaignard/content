@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1038/SREP11435",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/pedican",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Support",
@@ -36,6 +32,10 @@
         "Windows"
       ],
       "sc:url": "http://pedican.bioinfo-minzhao.org/"
+    },
+    {
+      "@id": "https://doi.org/10.1038/SREP11435",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

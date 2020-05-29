@@ -14,8 +14,8 @@
   "sc:contributor": [
     "Wellcome Trust",
     "EMBOSS Contributors",
-    "UK BBSRC",
-    "UK MRC"
+    "UK MRC",
+    "UK BBSRC"
   ],
   "sc:description": "Draw synonymous codon usage statistic plot for a nucleotide sequence.",
   "sc:funder": [

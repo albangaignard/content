@@ -16,8 +16,8 @@
   "sc:name": "nucloc",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.nucloc.org/index.html"
 }

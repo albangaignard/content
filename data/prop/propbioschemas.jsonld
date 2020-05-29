@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
     "Command-line tool",
-    "Web application",
-    "Web service"
+    "Web service",
+    "Web application"
   ],
   "sc:description": "Neural network prediction of arginine and lysine propeptide cleavage sites in eukaryotic protein sequences.",
   "sc:license": "Other",

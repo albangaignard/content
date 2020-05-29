@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "https://orcid.org/0000-0001-5352-069X",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/NanoDJ",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -49,11 +45,15 @@
       "sc:license": "GPL-3.0",
       "sc:name": "NanoDJ",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/genomicsITER/NanoDJ"
+    },
+    {
+      "@id": "https://orcid.org/0000-0001-5352-069X",
+      "@type": "schema:Person"
     }
   ]
 }

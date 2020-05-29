@@ -17,8 +17,8 @@
   "sc:name": "Cluster Buster",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://zlab.bu.edu/cluster-buster/"
 }

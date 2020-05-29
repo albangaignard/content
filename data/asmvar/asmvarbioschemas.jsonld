@@ -27,8 +27,8 @@
       },
       "sc:name": "AsmVar",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioinformatics-centre.github.io/AsmVar/"
     },

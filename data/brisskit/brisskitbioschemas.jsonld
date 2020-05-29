@@ -11,15 +11,15 @@
   "@id": "https://bio.tools/brisskit",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Dr Jonathan Tedds",
-    "Shajid Issa"
+    "Shajid Issa",
+    "Dr Jonathan Tedds"
   ],
   "sc:additionalType": [
-    "Command-line tool",
-    "Workbench",
     "Web application",
     "Database portal",
-    "Web API"
+    "Web API",
+    "Workbench",
+    "Command-line tool"
   ],
   "sc:author": [
     "Dr Olly Butters (former Technical Lead)",

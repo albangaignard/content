@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0001-9798-2079",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/rapmap",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Rob Patro",
@@ -40,6 +36,10 @@
       "sc:name": "RapMap",
       "sc:operatingSystem": "Linux",
       "sc:url": "https://github.com/COMBINE-lab/RapMap"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-9798-2079",
+      "@type": "schema:Person"
     }
   ]
 }

@@ -15,8 +15,8 @@
     "Mark Robinson"
   ],
   "sc:additionalType": [
-    "Command-line tool",
-    "Library"
+    "Library",
+    "Command-line tool"
   ],
   "sc:description": "Fragment-level analysis of gas chromatography - mass spectrometry metabolomics data.",
   "sc:license": "GPL-2.0",

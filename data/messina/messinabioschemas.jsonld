@@ -22,10 +22,10 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_2048"
+          "@id": "edam:data_2884"
         },
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_2048"
         }
       ],
       "sc:additionalType": [
@@ -56,18 +56,18 @@
           "@id": "edam:operation_3223"
         },
         {
-          "@id": "edam:operation_2990"
+          "@id": "edam:operation_3503"
         },
         {
-          "@id": "edam:operation_3503"
+          "@id": "edam:operation_2990"
         }
       ],
       "sc:license": "EPL-1.0",
       "sc:name": "messina",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/messina.html",
       "sc:version": "1.10.0"

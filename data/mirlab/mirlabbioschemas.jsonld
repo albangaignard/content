@@ -16,8 +16,8 @@
         "@id": "http://orcid.org/0000-0002-9732-4313"
       },
       "sc:additionalType": [
-        "Library",
         "Plug-in",
+        "Library",
         "Command-line tool"
       ],
       "sc:citation": [
@@ -34,9 +34,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "miRLAB",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/miRLAB.html",
       "sc:version": "1.8.0"
