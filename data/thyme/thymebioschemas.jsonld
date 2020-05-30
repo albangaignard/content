@@ -20,8 +20,8 @@
   "sc:name": "ThYme",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.enzyme.cbirc.iastate.edu"
 }

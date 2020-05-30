@@ -10,19 +10,23 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0001-6257-9730",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/pcan",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         {
-          "@id": "http://orcid.org/0000-0002-3571-0374"
+          "@id": "http://orcid.org/0000-0001-6257-9730"
         },
         {
-          "@id": "http://orcid.org/0000-0001-6257-9730"
+          "@id": "http://orcid.org/0000-0002-3571-0374"
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:27923364",
@@ -34,17 +38,17 @@
       "sc:description": "Phenotypes comparison based on a pathway consensus approach. Assess the relationship between candidate genes and a set of phenotypes based on additional genes related to the candidate (e.g. Pathways or network neighbors).",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2451"
+          "@id": "edam:operation_0277"
         },
         {
-          "@id": "edam:operation_0277"
+          "@id": "edam:operation_2451"
         }
       ],
       "sc:license": "CC-BY-NC-ND-4.0",
       "sc:name": "PCAN",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/PCAN.html",
@@ -52,10 +56,6 @@
     },
     {
       "@id": "http://orcid.org/0000-0002-3571-0374",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-6257-9730",
       "@type": "schema:Person"
     },
     {

@@ -14,9 +14,9 @@
   "sc:author": "Sebastian Wilzbach",
   "sc:contributor": [
     "Guy Yachdav",
-    "Ian Sillitoe",
     "Google Summer of Code (GSoC) 2014",
     "Benedikt Rauscher",
+    "Ian Sillitoe",
     "Tatyana Goldberg"
   ],
   "sc:description": "Large MSAs visualization interactively on the web.",

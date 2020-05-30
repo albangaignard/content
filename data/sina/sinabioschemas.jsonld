@@ -17,8 +17,8 @@
   "sc:name": "SINA",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://sina.readthedocs.io",
   "sc:version": [

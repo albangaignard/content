@@ -19,8 +19,8 @@
   "sc:name": "QuaCRS",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://bioserv.mps.ohio-state.edu/QuaCRS/"
 }

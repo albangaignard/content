@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/isoexpresso",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "In Seok Yang",
-        "Sangwoo Kim"
+        "Sangwoo Kim",
+        "In Seok Yang"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [

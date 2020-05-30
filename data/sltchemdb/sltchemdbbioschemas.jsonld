@@ -37,8 +37,8 @@
       "sc:name": "SLTChemDB",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bic.icmr.org.in/sltchem"
     },

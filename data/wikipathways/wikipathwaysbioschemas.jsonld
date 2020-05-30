@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/wikipathways",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Alexander R. Pico",
-    "Martina Kutmon"
+    "Martina Kutmon",
+    "Alexander R. Pico"
   ],
   "sc:additionalType": [
     "Database portal",
@@ -24,8 +24,8 @@
   "sc:license": "Apache-2.0",
   "sc:name": "WikiPathways",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://www.wikipathways.org"

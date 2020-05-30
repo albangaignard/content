@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/circularlogo",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Liguo Wang",
-        "Zhenqing Ye"
+        "Zhenqing Ye",
+        "Liguo Wang"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -30,8 +30,8 @@
       },
       "sc:name": "CircularLogo",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://circularlogo.sourceforge.net/"
     },

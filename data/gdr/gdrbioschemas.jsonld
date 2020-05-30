@@ -17,8 +17,8 @@
   "sc:name": "Genome Database for Rosaceae (GDR)",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.rosaceae.org/"
 }

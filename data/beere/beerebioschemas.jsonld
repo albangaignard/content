@@ -19,8 +19,8 @@
       "biotools:primaryContact": "Jake Y Chen",
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pmcid:PMC6602520",
         "pubmed:31114876",
+        "pmcid:PMC6602520",
         {
           "@id": "https://doi.org/10.1093/NAR/GKZ428"
         }
@@ -40,9 +40,9 @@
       "sc:license": "CC-BY-NC-4.0",
       "sc:name": "BEERE",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://discovery.informatics.uab.edu/beere/"
     }

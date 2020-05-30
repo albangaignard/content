@@ -23,9 +23,9 @@
         "Database portal"
       ],
       "sc:author": [
+        "Dahui Hu",
         "Xianwen Meng",
-        "Ming Chen",
-        "Dahui Hu"
+        "Ming Chen"
       ],
       "sc:citation": [
         {
@@ -48,9 +48,9 @@
       ],
       "sc:name": "CircFunBase",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://bis.zju.edu.cn/CircFunBase/"
     }

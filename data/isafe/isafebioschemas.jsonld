@@ -17,8 +17,8 @@
   "sc:name": "iSAFE",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://github.com/alek0991/iSAFE"
 }

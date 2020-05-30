@@ -21,8 +21,8 @@
   "sc:name": "MFlux",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://mflux.org/"
 }

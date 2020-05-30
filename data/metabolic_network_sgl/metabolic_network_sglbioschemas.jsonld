@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/metabolic_network_sgl",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Holger Fröhlich",
-    "Satya Swarup Sama"
+    "Satya Swarup Sama",
+    "Holger Fröhlich"
   ],
   "sc:additionalType": "Library",
   "sc:description": "Linking metabolic network features to phenotypes using sparse group lasso.",

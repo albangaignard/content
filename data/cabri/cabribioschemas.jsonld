@@ -13,19 +13,19 @@
   "biotools:primaryContact": "Paolo Romano",
   "sc:additionalType": "Database portal",
   "sc:author": [
-    "Francesca Piersigilli",
+    "Domenico Marra",
     "Brendan Vaughan",
-    "Domenico Marra"
+    "Francesca Piersigilli"
   ],
   "sc:contributor": [
-    "Louis Jones",
-    "Common Access to Biological Resources and Information (CABRI), EU 5th FP (1996-1999)",
-    "Louis Rechaussat",
-    "Francois Guissart",
     "Manfred Kracht",
     "Gerrit Stegehuis",
+    "Common Access to Biological Resources and Information (CABRI), EU 5th FP (1996-1999)",
+    "Louis Rechaussat",
+    "Louis Jones",
     "Herbert Milch",
-    "Beatrice Dutertre"
+    "Beatrice Dutertre",
+    "Francois Guissart"
   ],
   "sc:description": "Common Access to Biological Resources and Information - A collection of European Biological Resource Centre catalogues.",
   "sc:funder": "Common Access to Biological Resources and Information (CABRI), EU 5th FP (1996-1999)",

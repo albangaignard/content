@@ -12,16 +12,16 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
     "Command-line tool",
-    "Web service",
-    "Web application"
+    "Web application",
+    "Web service"
   ],
   "sc:citation": "pubmed:30539546",
   "sc:description": "HAMR (High-throughput Annotation of Modified Ribonucleotides) - web application that allows you to detect and classify modified nucleotides in RNA-seq data.",
   "sc:license": "MIT",
   "sc:name": "HAMR",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://tesla.pcbi.upenn.edu/hamr/",

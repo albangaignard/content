@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.1093/bioinformatics/btw354",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/multiqc",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -37,15 +41,11 @@
       "sc:license": "GPL-3.0",
       "sc:name": "MultiQC",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://multiqc.info/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/bioinformatics/btw354",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

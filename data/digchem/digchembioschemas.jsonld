@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1371/JOURNAL.PCBI.1007022",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/DigChem",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -47,10 +43,14 @@
       "sc:name": "DigChem",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://gcancer.org/digchem"
+    },
+    {
+      "@id": "https://doi.org/10.1371/JOURNAL.PCBI.1007022",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

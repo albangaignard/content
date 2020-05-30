@@ -19,8 +19,8 @@
         "Command-line tool"
       ],
       "sc:citation": [
-        "pubmed:17973982",
         "pmcid:PMC2194739",
+        "pubmed:17973982",
         {
           "@id": "https://doi.org/10.1186/1471-2105-8-424"
         }
@@ -29,8 +29,8 @@
       "sc:license": "Other",
       "sc:name": "NetCTL",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": "CBS",
       "sc:url": "http://cbs.dtu.dk/services/NetCTL/",
