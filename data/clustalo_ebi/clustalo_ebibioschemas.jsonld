@@ -13,14 +13,14 @@
   "biotools:primaryContact": "Web Production",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Des Higgins",
-    "Web Production"
+    "Web Production",
+    "Des Higgins"
   ],
   "sc:description": "Multiple sequence alignment using guide trees and HMM profile-profile techniques.",
   "sc:name": "Clustal Omega (EBI)",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": [

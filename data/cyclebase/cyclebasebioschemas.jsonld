@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/cyclebase",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Lars Juhl Jensen",
     "Rasmus Wernersson",
+    "Lars Juhl Jensen",
     "Alberto Santos"
   ],
   "sc:additionalType": "Database portal",
@@ -21,8 +21,8 @@
   "sc:name": "Cyclebase",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.cyclebase.org/"
 }

@@ -12,25 +12,25 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Jan Stourac",
-    "Milos Musil"
+    "Milos Musil",
+    "Jan Stourac"
   ],
   "sc:contributor": [
-    "Tomas Martinek",
     "Jiri Damborsky",
     "David Bednar",
-    "Zbynek Prokop",
-    "Jaroslav Bendl",
     "Jan Brezovsky",
-    "Jaroslav Zendulka"
+    "Tomas Martinek",
+    "Jaroslav Bendl",
+    "Jaroslav Zendulka",
+    "Zbynek Prokop"
   ],
   "sc:description": "FireProt is a web server for an automated design of thermostable mutants. The design of thermostable mutants is based on the integration of structural and evolutionary information obtained from several bioinformatics databases and computational tools.",
   "sc:license": "Proprietary",
   "sc:name": "FireProt",
   "sc:operatingSystem": [
+    "Mac",
     "Windows",
-    "Linux",
-    "Mac"
+    "Linux"
   ],
   "sc:url": "https://loschmidt.chemi.muni.cz/fireprot/",
   "sc:version": "1.1"

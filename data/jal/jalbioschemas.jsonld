@@ -15,8 +15,8 @@
     "Minh N. Nguyen"
   ],
   "sc:additionalType": [
-    "Command-line tool",
     "Web service",
+    "Command-line tool",
     "Web application"
   ],
   "sc:citation": "pubmed:31140800",

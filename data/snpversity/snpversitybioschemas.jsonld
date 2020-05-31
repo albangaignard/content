@@ -35,8 +35,8 @@
       "sc:name": "SNPversity",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://www.maizegdb.org/snpversity"
     }

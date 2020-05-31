@@ -14,21 +14,21 @@
       "@type": "sc:SoftwareApplication",
       "edam:has_input": [
         {
+          "@id": "edam:data_0842"
+        },
+        {
           "@id": "edam:data_1075"
         },
         {
           "@id": "edam:data_1868"
-        },
-        {
-          "@id": "edam:data_0842"
         }
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_0872"
+          "@id": "edam:data_2093"
         },
         {
-          "@id": "edam:data_2093"
+          "@id": "edam:data_0872"
         },
         {
           "@id": "edam:data_0916"
@@ -51,8 +51,8 @@
       },
       "sc:name": "Selectome",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:provider": "SIB Swiss Institute of Bioinformatics",

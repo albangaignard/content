@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0003-1924-6070",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1038/S41598-019-43664-Y",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "https://orcid.org/0000-0003-1924-6070",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/BitterSweet",
@@ -46,9 +46,9 @@
       "sc:license": "AGPL-3.0",
       "sc:name": "BitterSweet",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://cosylab.iiitd.edu.in/bittersweet/"
     }

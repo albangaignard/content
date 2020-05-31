@@ -16,11 +16,11 @@
     "Jiří­ Vohradský"
   ],
   "sc:contributor": [
-    "Bjorn Grunenfelder",
-    "Jan Bobek",
     "Karel Mikulik",
     "Urs Jenal",
-    "Marek Basler"
+    "Jan Bobek",
+    "Marek Basler",
+    "Bjorn Grunenfelder"
   ],
   "sc:description": "A proteomics web database.",
   "sc:name": "SWICZ",

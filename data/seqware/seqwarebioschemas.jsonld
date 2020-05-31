@@ -11,13 +11,13 @@
   "@id": "https://bio.tools/seqware",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Brian O'Connor",
-    "Denis Yuen"
+    "Denis Yuen",
+    "Brian O'Connor"
   ],
   "sc:additionalType": [
+    "Web API",
     "Workbench",
-    "Command-line tool",
-    "Web API"
+    "Command-line tool"
   ],
   "sc:author": [
     "Morgan Taschuk",

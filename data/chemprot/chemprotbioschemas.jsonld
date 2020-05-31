@@ -44,9 +44,9 @@
       "sc:license": "Other",
       "sc:name": "ChemProt",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:provider": "CBS",
       "sc:softwareHelp": [

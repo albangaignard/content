@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/mutation_taster",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jana Marie Schwarz",
-    "Dominik Seelow"
+    "Dominik Seelow",
+    "Jana Marie Schwarz"
   ],
   "sc:additionalType": [
     "Web service",
@@ -23,8 +23,8 @@
   "sc:name": "MutationTaster",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.mutationtaster.org"
 }

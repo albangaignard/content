@@ -34,13 +34,10 @@
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
-        {
-          "@id": "edam:topic_3168"
-        },
         {
           "@id": "edam:topic_3169"
         },
@@ -49,14 +46,17 @@
         },
         {
           "@id": "edam:topic_0092"
+        },
+        {
+          "@id": "edam:topic_3168"
         }
       ],
       "sc:citation": [
-        "pubmed:24852250",
+        "pmcid:PMC4066778",
         {
           "@id": "https://doi.org/10.1093/nar/gku351"
         },
-        "pmcid:PMC4066778"
+        "pubmed:24852250"
       ],
       "sc:description": "Detection of differentially bound regions in ChIP-seq data with sliding windows, with methods for normalization and proper FDR control.",
       "sc:featureList": {

@@ -22,8 +22,8 @@
   "sc:name": "HiTRACE-Web",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://hitrace.org"
 }

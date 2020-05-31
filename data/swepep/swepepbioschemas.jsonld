@@ -15,8 +15,8 @@
   "sc:name": "SwePep",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": "bils.se",
   "sc:url": "http://www.swepep.se/"

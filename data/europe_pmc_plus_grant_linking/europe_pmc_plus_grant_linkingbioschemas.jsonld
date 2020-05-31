@@ -16,8 +16,8 @@
   "sc:name": "Europe PMC plus Grant Linking",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "NCBI",

@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
     "EMBOSS Contributors",
-    "UK BBSRC",
-    "UK MRC"
+    "UK MRC",
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:description": "Alter the name or description of a sequence.",
   "sc:funder": [

@@ -28,8 +28,8 @@
       "sc:license": "CC-BY-NC-ND-4.0",
       "sc:name": "FELLS",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:provider": "University of Padua, Department of Biomedical Sciences, BioComputing UP lab",

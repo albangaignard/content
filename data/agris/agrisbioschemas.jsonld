@@ -17,8 +17,8 @@
   "sc:name": "AGRIS",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://arabidopsis.med.ohio-state.edu/"
 }
