@@ -25,8 +25,8 @@
       },
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
-        "pmcid:PMC4682995",
         "pubmed:26680783",
+        "pmcid:PMC4682995",
         {
           "@id": "https://doi.org/10.1371/journal.pone.0145180"
         }
@@ -38,8 +38,8 @@
       "sc:license": "MIT",
       "sc:name": "SPOTPY",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "https://pypi.org/project/spotpy/"

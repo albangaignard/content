@@ -16,8 +16,8 @@
   "sc:license": "MIT",
   "sc:name": "bcftools",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "sanger.ac.uk",

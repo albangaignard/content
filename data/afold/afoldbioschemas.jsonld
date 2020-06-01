@@ -14,13 +14,17 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.1186/S12864-019-5686-1",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/aFold",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Wentao Yang",
         {
           "@id": "https://orcid.org/0000-0002-1413-913X"
-        }
+        },
+        "Wentao Yang"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -33,10 +37,10 @@
       "sc:description": "Using polynomial uncertainty modelling for differential gene expression estimation from RNA sequencing data.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3680"
+          "@id": "edam:operation_3800"
         },
         {
-          "@id": "edam:operation_3800"
+          "@id": "edam:operation_3680"
         },
         {
           "@id": "edam:operation_3223"
@@ -46,14 +50,10 @@
       "sc:name": "aFold",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/devel/bioc/html/ABSSeq.html"
-    },
-    {
-      "@id": "https://doi.org/10.1186/S12864-019-5686-1",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1534/g3.118.200942",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/pSBVB",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -42,10 +46,6 @@
         "Mac"
       ],
       "sc:url": "https://github.com/lauzingaretti/pSBVB"
-    },
-    {
-      "@id": "https://doi.org/10.1534/g3.118.200942",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

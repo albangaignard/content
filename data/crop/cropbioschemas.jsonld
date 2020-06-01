@@ -16,8 +16,8 @@
   "sc:name": "crop",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://code.google.com/archive/p/crop-tingchenlab/",
   "sc:version": "1.33"

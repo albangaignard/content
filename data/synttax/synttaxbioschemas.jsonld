@@ -27,8 +27,8 @@
       },
       "sc:name": "SyntTax",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://archaea.u-psud.fr/SyntTax/"

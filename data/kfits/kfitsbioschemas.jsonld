@@ -18,8 +18,8 @@
   "sc:description": "Framework for fitting and cleaning outliers in kinetic measurements.",
   "sc:name": "Kfits",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://kfits.reichmannlab.com/fitter/"

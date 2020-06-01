@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s12859-018-2557-8",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/NIPTeR",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Lennart Johansson",
@@ -33,10 +29,14 @@
       "sc:name": "NIPTeR",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://github.com/molgenis/NIPTeR"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s12859-018-2557-8",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

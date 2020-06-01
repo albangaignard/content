@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1155/2014/910390",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/biomvrcns",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Yang Du",
@@ -25,26 +29,26 @@
         "@id": "edam:data_1276"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
           "@id": "edam:topic_2269"
         },
         {
-          "@id": "edam:topic_3518"
+          "@id": "edam:topic_3170"
         },
         {
-          "@id": "edam:topic_3170"
+          "@id": "edam:topic_3518"
         },
         {
           "@id": "edam:topic_0080"
         }
       ],
       "sc:citation": [
-        "pubmed:24995333",
         "pmcid:PMC4065698",
+        "pubmed:24995333",
         {
           "@id": "https://doi.org/10.1155/2014/910390"
         }
@@ -56,16 +60,12 @@
       "sc:license": "GPL-2.0",
       "sc:name": "biomvRCNS",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/biomvRCNS.html",
       "sc:version": "1.14.0"
-    },
-    {
-      "@id": "https://doi.org/10.1155/2014/910390",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

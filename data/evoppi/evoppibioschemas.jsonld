@@ -10,6 +10,14 @@
   },
   "@graph": [
     {
+      "@id": "https://orcid.org/0000-0002-3943-8013",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://orcid.org/0000-0001-8749-2703",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/EvoPPI",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -19,18 +27,18 @@
       "sc:author": [
         "Noé Vázquez",
         {
-          "@id": "https://orcid.org/0000-0001-8749-2703"
+          "@id": "https://orcid.org/0000-0002-6476-7206"
         },
         {
-          "@id": "https://orcid.org/0000-0002-6476-7206"
+          "@id": "https://orcid.org/0000-0001-8749-2703"
         }
       ],
       "sc:contributor": [
         {
-          "@id": "https://orcid.org/0000-0001-7032-5220"
+          "@id": "https://orcid.org/0000-0002-3943-8013"
         },
         {
-          "@id": "https://orcid.org/0000-0002-3943-8013"
+          "@id": "https://orcid.org/0000-0001-7032-5220"
         }
       ],
       "sc:description": "EvoPPI allows the easy comparison of publicly available data from the main Protein-Protein Interaction (PPI) databases for the same and distinct species.",
@@ -43,14 +51,6 @@
     },
     {
       "@id": "https://orcid.org/0000-0002-6476-7206",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://orcid.org/0000-0001-8749-2703",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-3943-8013",
       "@type": "schema:Person"
     },
     {

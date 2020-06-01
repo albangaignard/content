@@ -16,8 +16,8 @@
   "sc:name": "AISO",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.plantontology.org/software/aiso"
 }
