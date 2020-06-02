@@ -19,9 +19,9 @@
   "sc:contributor": [
     "A Goncalves da Silva",
     "DM Bulach",
-    "BP Howden",
+    "MB Schultz",
     "JC Kwong",
-    "MB Schultz"
+    "BP Howden"
   ],
   "sc:description": "Pipeline to generate complete public health microbiology reports from isolates sequenced with Illumina paired-end sequencing.",
   "sc:license": "GPL-2.0",

@@ -35,9 +35,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "SRAdb",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/SRAdb.html",
       "sc:version": "1.32.0"

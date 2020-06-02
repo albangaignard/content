@@ -36,8 +36,8 @@
       "sc:license": "MIT",
       "sc:name": "QBiC-Pred",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://qbic.genome.duke.edu"

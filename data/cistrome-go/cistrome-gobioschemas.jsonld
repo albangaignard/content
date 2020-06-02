@@ -17,16 +17,16 @@
         "X Shirley Liu"
       ],
       "sc:additionalType": [
-        "Command-line tool",
         "Web application",
+        "Command-line tool",
         "Web service"
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1093/NAR/GKZ332"
         },
-        "pubmed:31053864",
-        "pmcid:PMC6602521"
+        "pmcid:PMC6602521",
+        "pubmed:31053864"
       ],
       "sc:description": "Web server for functional enrichment analysis of transcription factor ChIP-seq peaks.",
       "sc:featureList": [
@@ -44,8 +44,8 @@
       "sc:name": "Cistrome-GO",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://go.cistrome.org/"
     },

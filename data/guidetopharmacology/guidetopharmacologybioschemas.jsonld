@@ -21,9 +21,9 @@
         "pmcid:PMC3965070"
       ],
       "sc:contributor": [
-        "British Pharmacological Society (BPS)",
+        "International Union of Basic and Clinical Pharmacology (IUPHAR)",
         "Wellcome Trust",
-        "International Union of Basic and Clinical Pharmacology (IUPHAR)"
+        "British Pharmacological Society (BPS)"
       ],
       "sc:description": "An expert-curated pharmacological database of drug targets and their ligands.",
       "sc:featureList": [
@@ -35,15 +35,15 @@
         }
       ],
       "sc:funder": [
-        "Wellcome Trust",
         "International Union of Basic and Clinical Pharmacology (IUPHAR)",
+        "Wellcome Trust",
         "British Pharmacological Society (BPS)"
       ],
       "sc:license": "CC-BY-SA-3.0",
       "sc:name": "IUPHAR BPS Guide to PHARMACOLOGY",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:provider": [

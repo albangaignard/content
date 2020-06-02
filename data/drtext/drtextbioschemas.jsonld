@@ -19,16 +19,16 @@
   ],
   "sc:description": "Get data resource entries complete text.",
   "sc:funder": [
-    "Wellcome Trust",
+    "UK BBSRC",
     "UK MRC",
-    "UK BBSRC"
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "drtext",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "EMBL EBI",

@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
+    "EMBOSS Contributors",
     "UK MRC",
-    "Wellcome Trust",
-    "EMBOSS Contributors"
+    "Wellcome Trust"
   ],
   "sc:description": "Get ontology root terms by child identifier.",
   "sc:funder": [

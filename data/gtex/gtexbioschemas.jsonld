@@ -22,8 +22,8 @@
         "Web application"
       ],
       "sc:citation": [
-        "pubmed:23715323",
         "pmcid:PMC4010069",
+        "pubmed:23715323",
         {
           "@id": "https://doi.org/10.1038/ng.2653"
         }
@@ -45,9 +45,9 @@
       ],
       "sc:name": "GTEx",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://www.gtexportal.org/home/"
     }

@@ -50,8 +50,8 @@
       "sc:name": "NAFlex",
       "sc:operatingSystem": "Linux",
       "sc:provider": [
-        "ub.edu",
-        "IRB-Barcelona"
+        "IRB-Barcelona",
+        "ub.edu"
       ],
       "sc:url": "http://mmb.irbbarcelona.org/NAFlex/",
       "sc:version": "1"

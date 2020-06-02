@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Robert Scharpf",
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:19609370",
@@ -31,10 +31,10 @@
       "sc:description": "An R package that uses Hidden Markov Model for characterizing chromosomal alterations in high throughput SNP arrays.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2238"
+          "@id": "edam:operation_3196"
         },
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_2238"
         },
         {
           "@id": "edam:operation_3228"
@@ -44,8 +44,8 @@
       "sc:name": "VanillaICE",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/VanillaICE.html",
       "sc:version": "1.36.0"

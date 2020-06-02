@@ -10,14 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0001-8717-6612",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1073/pnas.1307202110",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/dexseq",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -47,11 +39,19 @@
       "sc:name": "DEXSeq",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/DEXSeq.html",
       "sc:version": "1.20.1"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-8717-6612",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1073/pnas.1307202110",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

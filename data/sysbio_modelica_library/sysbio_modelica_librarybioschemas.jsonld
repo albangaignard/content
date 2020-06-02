@@ -13,9 +13,9 @@
   "biotools:primaryContact": "Miha Moškon",
   "sc:additionalType": "Library",
   "sc:author": [
-    "Damjana Rozman",
-    "Miha Moškon",
     "Miha Mraz",
+    "Miha Moškon",
+    "Damjana Rozman",
     "Tanja Cvitanović"
   ],
   "sc:contributor": [
@@ -26,8 +26,8 @@
   "sc:name": "SysBio modelica library",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "Faculty of Computer and Information Science, University of Ljubljana",

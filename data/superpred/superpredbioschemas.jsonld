@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Mathias Dunke",
-    "Janette Nickel",
-    "Priyanka Banerjee",
     "Bjoern-Oliver Gohlke",
-    "Jevgeni Ehreman"
+    "Jevgeni Ehreman",
+    "Priyanka Banerjee",
+    "Janette Nickel"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:18499712",
@@ -23,8 +23,8 @@
   "sc:name": "SuperPred",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://bioinformatics.charite.de/superpred"
 }

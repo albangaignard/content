@@ -16,8 +16,8 @@
   "sc:name": "SWeBLAST",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://bioinformatics.org/sweblast/wiki/"
 }

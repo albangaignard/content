@@ -19,8 +19,8 @@
   "sc:name": "Icarus",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://quast.sourceforge.net/icarus.html"
 }

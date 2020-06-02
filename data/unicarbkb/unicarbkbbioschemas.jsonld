@@ -10,14 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gkt1128",
-      "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-7532-4021",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/unicarbkb",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -32,14 +24,14 @@
         "pubmed:24234447"
       ],
       "sc:contributor": [
-        "UNSW, Australia",
-        "Macquarie University, Australia",
-        "SIB Swiss Institute of Bioinformatics",
-        "University of Gothenburg, Sweden",
-        "CCRC, USA",
+        "Soka University, Japan",
         "Max Planck Institute of Colloids and Interfaces, Germany",
+        "CCRC, USA",
+        "SIB Swiss Institute of Bioinformatics",
+        "UNSW, Australia",
         "National Institute for Bioprocessing Research and Training (NIBRT), Ireland",
-        "Soka University, Japan"
+        "Macquarie University, Australia",
+        "University of Gothenburg, Sweden"
       ],
       "sc:description": "Curated and annotated glycan database which curates information from the scientific literature on glycoprotein derived glycan structures.",
       "sc:featureList": [
@@ -52,11 +44,19 @@
       ],
       "sc:name": "UniCarbKB",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://unicarb-db.expasy.org/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkt1128",
+      "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-7532-4021",
+      "@type": "schema:Person"
     }
   ]
 }

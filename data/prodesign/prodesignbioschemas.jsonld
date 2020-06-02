@@ -19,8 +19,8 @@
   "sc:name": "Prodesign",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.uhnresearch.ca/labs/tillier/software.htm#7"
 }

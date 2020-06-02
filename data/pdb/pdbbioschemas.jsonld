@@ -18,8 +18,8 @@
   "sc:name": "The Protein Data Bank (PDB)",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": "Instruct",
   "sc:url": "http://www.pdb.org"
