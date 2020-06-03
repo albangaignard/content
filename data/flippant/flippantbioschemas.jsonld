@@ -28,9 +28,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "flippant",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://bitbucket.org/graumannlabtools/flippant"
     },

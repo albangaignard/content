@@ -19,9 +19,9 @@
   ],
   "sc:description": "An Emboss tool that fetches XML entry from a file or a local or remote data resource, parses it and rewrites it in various formats",
   "sc:funder": [
+    "UK BBSRC",
     "Wellcome Trust",
-    "UK MRC",
-    "UK BBSRC"
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "xmlget",
@@ -31,8 +31,8 @@
     "Linux"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://www.bioinformatics.nl/cgi-bin/emboss/xmlget",
   "sc:version": "r6"

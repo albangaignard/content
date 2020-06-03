@@ -10,15 +10,11 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-5864-7056",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/orange",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Blaž Zupan",
-        "Janez Demsar"
+        "Janez Demsar",
+        "Blaž Zupan"
       ],
       "sc:additionalType": [
         "Desktop application",
@@ -27,14 +23,14 @@
       "sc:author": [
         "Andrej Čopar",
         "Martin Stražar",
-        "Anže Starič",
-        "Marko Toplak",
-        "Vesna Tanko",
-        "Janez Demšar",
-        "Tomaž Curk",
         "Aleš Erjavec",
+        "Janez Demšar",
         "Jernej Kernc",
-        "Lan Žagar"
+        "Vesna Tanko",
+        "Lan Žagar",
+        "Anže Starič",
+        "Tomaž Curk",
+        "Marko Toplak"
       ],
       "sc:citation": "pubmed:17586552",
       "sc:contributor": {
@@ -45,15 +41,19 @@
       "sc:name": "Orange",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": [
-        "Faculty of Computer and Information Science, University of Ljubljana, Slovenia",
-        "ELIXIR-SI-hackathon"
+        "ELIXIR-SI-hackathon",
+        "Faculty of Computer and Information Science, University of Ljubljana, Slovenia"
       ],
       "sc:url": "https://orange.biolab.si/",
       "sc:version": "2.7"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-5864-7056",
+      "@type": "schema:Person"
     }
   ]
 }

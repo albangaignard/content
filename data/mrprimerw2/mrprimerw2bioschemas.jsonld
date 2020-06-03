@@ -27,8 +27,8 @@
       "sc:license": "Unlicense",
       "sc:name": "MRPrimerW2",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://MRPrimerW2.com"

@@ -17,8 +17,8 @@
   "sc:name": "GRAMM-X",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://vakser.bioinformatics.ku.edu/resources/gramm/grammx"
 }

@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0002-7364-2202",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1093/NAR/GKZ450",
       "@type": "sc:CreativeWork"
     },
@@ -25,8 +21,8 @@
       },
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pubmed:31114925",
         "pmcid:PMC6602512",
+        "pubmed:31114925",
         {
           "@id": "https://doi.org/10.1093/NAR/GKZ450"
         }
@@ -37,20 +33,24 @@
           "@id": "edam:operation_3232"
         },
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_0441"
         },
         {
-          "@id": "edam:operation_0441"
+          "@id": "edam:operation_3196"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "ImmuneRegulation",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://immuneregulation.mssm.edu"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-7364-2202",
+      "@type": "schema:Person"
     }
   ]
 }

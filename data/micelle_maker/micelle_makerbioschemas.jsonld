@@ -36,8 +36,8 @@
       ],
       "sc:name": "Micelle Maker",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://micelle.icm.uu.se/"

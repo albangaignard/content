@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1186/S12859-019-2860-Z",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/NanoDJ",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -54,6 +50,10 @@
         "Linux"
       ],
       "sc:url": "https://github.com/genomicsITER/NanoDJ"
+    },
+    {
+      "@id": "https://doi.org/10.1186/S12859-019-2860-Z",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

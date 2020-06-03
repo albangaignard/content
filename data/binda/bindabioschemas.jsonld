@@ -17,8 +17,8 @@
   "sc:name": "binda",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://strimmerlab.org/software/binda/"
 }

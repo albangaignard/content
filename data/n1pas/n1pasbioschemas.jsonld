@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/N1PAS",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Yves A. Lussier",
-        "Alfred Grant Schissler"
+        "Alfred Grant Schissler",
+        "Yves A. Lussier"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -31,13 +31,13 @@
       "sc:description": "Single-Subject Method to Detect Pathways Enriched With Alternatively Spliced Genes.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3800"
+          "@id": "edam:operation_3501"
         },
         {
           "@id": "edam:operation_0533"
         },
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_3800"
         }
       ],
       "sc:license": "MIT",

@@ -47,8 +47,8 @@
       "sc:name": "w3DNA",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://web.x3dna.org/"
     }

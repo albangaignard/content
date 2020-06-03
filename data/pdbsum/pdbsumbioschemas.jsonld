@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkt940",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/pdbsum",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -38,15 +42,11 @@
       },
       "sc:name": "PDBsum overview of macromolecular structures",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://www.ebi.ac.uk/pdbsum/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkt940",
-      "@type": "sc:CreativeWork"
     },
     {
       "@id": "http://orcid.org/0000-0001-5528-0087",

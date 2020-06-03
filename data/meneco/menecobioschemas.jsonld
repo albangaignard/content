@@ -46,8 +46,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "meneco",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://bioasp.github.io/meneco/",
       "sc:version": "1.5"

@@ -30,8 +30,8 @@
       "sc:name": "Hupho",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": [
         "ELIXIR-ITA-TORVERGATA",

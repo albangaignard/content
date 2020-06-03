@@ -14,8 +14,8 @@
   "sc:description": "Interactive genomic locus overlap enrichment analysis.",
   "sc:name": "LOLAweb",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:url": "http://lolaweb.databio.org",

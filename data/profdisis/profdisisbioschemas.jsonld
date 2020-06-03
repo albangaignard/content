@@ -25,8 +25,8 @@
   "sc:name": "PROFdisis",
   "sc:operatingSystem": "Linux",
   "sc:provider": [
-    "Columbia University",
     "D.E.Shaw Research",
+    "Columbia University",
     "RostLab"
   ],
   "sc:url": "http://ppopen.informatik.tu-muenchen.de/",

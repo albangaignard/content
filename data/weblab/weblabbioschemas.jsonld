@@ -17,8 +17,8 @@
   "sc:name": "WebLab",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://weblab.cbi.pku.edu.cn"
 }

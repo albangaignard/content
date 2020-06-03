@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkn857",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/vectorbase",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -28,15 +32,15 @@
           "@id": "edam:topic_0622"
         },
         {
-          "@id": "edam:topic_0114"
+          "@id": "edam:topic_0078"
         },
         {
-          "@id": "edam:topic_0078"
+          "@id": "edam:topic_0114"
         }
       ],
       "sc:citation": [
-        "pmcid:PMC2686483",
         "pubmed:19028744",
+        "pmcid:PMC2686483",
         {
           "@id": "https://doi.org/10.1093/nar/gkn857"
         }
@@ -53,10 +57,6 @@
       ],
       "sc:provider": "Identifiers.org",
       "sc:url": "http://www.vectorbase.org/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkn857",
-      "@type": "sc:CreativeWork"
     }
   ]
 }
