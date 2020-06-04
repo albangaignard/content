@@ -19,9 +19,9 @@
   ],
   "sc:description": "Trace processing of an application ACD file (for testing).",
   "sc:funder": [
-    "UK MRC",
+    "Wellcome Trust",
     "UK BBSRC",
-    "Wellcome Trust"
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "acdtrace",

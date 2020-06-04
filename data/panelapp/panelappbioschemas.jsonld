@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/panelapp",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web application",
     "Web API",
+    "Web application",
     "Database portal",
     "Web service"
   ],

@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/stategra",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "David Gomez-Cabrero",
     "Patricia Sebastián-León",
+    "David Gomez-Cabrero",
     "Gordon Ball"
   ],
   "sc:additionalType": [

@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/NAR/GKZ451",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://orcid.org/0000-0002-9998-2408",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/NAR/GKZ451",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/IAMBEE",
@@ -40,10 +40,10 @@
           "@id": "edam:operation_3280"
         },
         {
-          "@id": "edam:operation_3216"
+          "@id": "edam:operation_3196"
         },
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_3216"
         }
       ],
       "sc:license": "Unlicense",

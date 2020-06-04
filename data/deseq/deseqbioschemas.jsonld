@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/gb-2010-11-10-r106",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0003-4868-1805",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/deseq",
@@ -20,8 +20,8 @@
         "@id": "http://orcid.org/0000-0003-4868-1805"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:20979621",
@@ -35,15 +35,15 @@
       "sc:name": "DESeq",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/DESeq.html",
       "sc:version": "1.26.0"
     },
     {
-      "@id": "http://orcid.org/0000-0003-4868-1805",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1186/gb-2010-11-10-r106",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

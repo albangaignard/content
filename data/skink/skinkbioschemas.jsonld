@@ -16,8 +16,8 @@
   "sc:name": "SKINK",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://biows-inf.zdv.uni-mainz.de/skink/index.php"
 }

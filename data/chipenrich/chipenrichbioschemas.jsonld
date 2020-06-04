@@ -22,10 +22,10 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_1276"
         },
         {
-          "@id": "edam:data_1276"
+          "@id": "edam:data_2884"
         }
       ],
       "sc:additionalType": [
@@ -34,18 +34,18 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3169"
+          "@id": "edam:topic_3572"
         },
         {
-          "@id": "edam:topic_3572"
+          "@id": "edam:topic_3169"
         }
       ],
       "sc:citation": [
-        "pubmed:24878920",
         {
           "@id": "https://doi.org/10.1093/nar/gku463"
         },
-        "pmcid:PMC4117744"
+        "pmcid:PMC4117744",
+        "pubmed:24878920"
       ],
       "sc:contributor": {
         "@id": "http://orcid.org/0000-0001-6155-5702"

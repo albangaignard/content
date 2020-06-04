@@ -32,9 +32,9 @@
       },
       "sc:name": "GIPS",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://github.com/synergy-zju/gips/wiki"
     },

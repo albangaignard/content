@@ -17,20 +17,20 @@
         "Blaž Zupan"
       ],
       "sc:additionalType": [
-        "Desktop application",
-        "Command-line tool"
+        "Command-line tool",
+        "Desktop application"
       ],
       "sc:author": [
-        "Andrej Čopar",
-        "Martin Stražar",
-        "Aleš Erjavec",
+        "Marko Toplak",
+        "Tomaž Curk",
         "Janez Demšar",
-        "Jernej Kernc",
         "Vesna Tanko",
+        "Andrej Čopar",
+        "Aleš Erjavec",
         "Lan Žagar",
         "Anže Starič",
-        "Tomaž Curk",
-        "Marko Toplak"
+        "Jernej Kernc",
+        "Martin Stražar"
       ],
       "sc:citation": "pubmed:17586552",
       "sc:contributor": {
@@ -40,9 +40,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Orange",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:provider": [
         "ELIXIR-SI-hackathon",

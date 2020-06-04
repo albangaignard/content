@@ -15,8 +15,8 @@
   "sc:name": "SNAPR",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://price.systemsbiology.org/research/snapr/"
 }

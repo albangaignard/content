@@ -16,8 +16,8 @@
   "sc:name": "RNA virus genome database (RNAVirusDB)",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://bioafrica.mrc.ac.za/rnavirusdb/"
 }

@@ -23,8 +23,8 @@
   "sc:name": "ReactPRED",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://sourceforge.net/projects/reactpred/"
 }

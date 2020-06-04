@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/DiffExpress",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Paul Walsh",
-        "Cintia C. Palu"
+        "Cintia C. Palu",
+        "Paul Walsh"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -31,21 +31,21 @@
       "sc:description": "Bespoke Cloud-Based Interface for RNA-seq Differential Expression Modeling and Analysis.",
       "sc:featureList": [
         {
+          "@id": "edam:operation_3223"
+        },
+        {
           "@id": "edam:operation_3680"
         },
         {
           "@id": "edam:operation_3800"
-        },
-        {
-          "@id": "edam:operation_3223"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "DiffExpress",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://simplicity.nsilico.com/dea"
     }

@@ -22,23 +22,23 @@
         "@id": "edam:data_1669"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
+        {
+          "@id": "edam:topic_3308"
+        },
         {
           "@id": "edam:topic_3053"
         },
         {
           "@id": "edam:topic_0203"
-        },
-        {
-          "@id": "edam:topic_3308"
         }
       ],
       "sc:citation": [
-        "pubmed:27266441",
         "pmcid:PMC4937203",
+        "pubmed:27266441",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/btw224"
         }
@@ -58,12 +58,12 @@
       "sc:version": "1.8.0"
     },
     {
-      "@id": "http://orcid.org/0000-0002-5965-1639",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1093/bioinformatics/btw224",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-5965-1639",
+      "@type": "schema:Person"
     }
   ]
 }

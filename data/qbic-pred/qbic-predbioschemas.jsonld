@@ -37,8 +37,8 @@
       "sc:name": "QBiC-Pred",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://qbic.genome.duke.edu"
     },

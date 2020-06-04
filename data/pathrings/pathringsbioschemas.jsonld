@@ -27,9 +27,9 @@
       },
       "sc:name": "PathRings",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://raven.anr.udel.edu/~sunliang/PathRings/"
     },

@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK MRC",
-    "Wellcome Trust",
     "UK BBSRC",
+    "Wellcome Trust",
     "EMBOSS Contributors"
   ],
   "sc:description": "Remove vectors from the ends of nucleotide sequence(s).",

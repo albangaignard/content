@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/N1PAS",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Alfred Grant Schissler",
-        "Yves A. Lussier"
+        "Yves A. Lussier",
+        "Alfred Grant Schissler"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -31,10 +31,10 @@
       "sc:description": "Single-Subject Method to Detect Pathways Enriched With Alternatively Spliced Genes.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_0533"
         },
         {
-          "@id": "edam:operation_0533"
+          "@id": "edam:operation_3501"
         },
         {
           "@id": "edam:operation_3800"
@@ -44,8 +44,8 @@
       "sc:name": "N1PAS",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://github.com/grizant/n1pas/tree/master"
     }

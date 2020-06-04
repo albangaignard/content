@@ -24,13 +24,13 @@
       },
       "edam:has_output": [
         {
+          "@id": "edam:data_2884"
+        },
+        {
           "@id": "edam:data_1772"
         },
         {
           "@id": "edam:data_1636"
-        },
-        {
-          "@id": "edam:data_2884"
         }
       ],
       "sc:additionalType": [
@@ -59,8 +59,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "massiR",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/massiR.html",

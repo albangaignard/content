@@ -22,8 +22,8 @@
         "Marius Herr"
       ],
       "sc:additionalType": [
-        "Web application",
         "Web service",
+        "Web application",
         "Desktop application"
       ],
       "sc:citation": [
@@ -36,18 +36,18 @@
       "sc:description": "Web server for dimensionality reduction and sample clustering of multi-view data based on unsupervised multiple kernel learning.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3891"
+          "@id": "edam:operation_3501"
         },
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_3891"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "web-rMKL",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://web-rMKL.org"
     }

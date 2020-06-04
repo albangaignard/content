@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
         "Web application",
-        "Command-line tool",
-        "Web service"
+        "Web service",
+        "Command-line tool"
       ],
       "sc:author": {
         "@id": "http://orcid.org/0000-0001-7369-1322"
@@ -28,8 +28,8 @@
       "sc:license": "Apache-2.0",
       "sc:name": "PRODIGY-LIG",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:provider": [

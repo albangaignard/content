@@ -17,11 +17,11 @@
       "@id": "https://bio.tools/Monoallelic_Gene_Inference_from_Chromatin",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Henry Ward",
-        "Svetlana Vinogradova",
-        "Sachit Saksena",
         "Sébastien Vigneau",
-        "Alexander Gimelbrant"
+        "Alexander Gimelbrant",
+        "Henry Ward",
+        "Sachit Saksena",
+        "Svetlana Vinogradova"
       ],
       "sc:additionalType": [
         "Command-line tool",
@@ -37,10 +37,10 @@
       "sc:description": "Monoallelic Gene Inference from Chromatin (MaGIC) - tool to classify genes into monoallelically expressed (MAE) and biallelically expressed (BAE) using chromatin mark enrichment data.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3227"
+          "@id": "edam:operation_3501"
         },
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_3227"
         }
       ],
       "sc:license": "MIT",
