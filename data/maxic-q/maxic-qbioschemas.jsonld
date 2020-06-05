@@ -17,8 +17,8 @@
   "sc:name": "MaXIC-Q",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://ms.iis.sinica.edu.tw/MaXIC-Q"
 }

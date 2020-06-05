@@ -10,11 +10,15 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/S12859-014-0426-7",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/subpatcnv",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Kuang R.",
-        "Johnson N."
+        "Johnson N.",
+        "Kuang R."
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
@@ -30,14 +34,10 @@
       },
       "sc:name": "SubPatCNV",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://sourceforge.net/projects/subpatcnv/"
-    },
-    {
-      "@id": "https://doi.org/10.1186/S12859-014-0426-7",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

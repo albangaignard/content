@@ -18,18 +18,18 @@
     "Leonardo Briganti"
   ],
   "sc:contributor": [
+    "Livia Perfetto",
     "Elena Santonico",
     "Gianni Cesareni",
-    "Marta Iannuccelli",
-    "Livia Perfetto"
+    "Marta Iannuccelli"
   ],
   "sc:description": "A tool collects manually-annotated logic relationships between molecules that participate in signal transduction.",
   "sc:license": "CC-BY-SA-4.0",
   "sc:name": "SIGNOR",
   "sc:operatingSystem": [
-    "Windows",
+    "Mac",
     "Linux",
-    "Mac"
+    "Windows"
   ],
   "sc:provider": [
     "Molecular Genetic Group, University of Rome \"Tor Vergata\", Rome, Italy",

@@ -27,9 +27,9 @@
       "sc:license": "Other",
       "sc:name": "SNPdb",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://www.ncbi.nlm.nih.gov/snp"
     },

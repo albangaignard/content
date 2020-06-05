@@ -31,18 +31,18 @@
           "@id": "edam:operation_3222"
         },
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_2495"
         },
         {
-          "@id": "edam:operation_2495"
+          "@id": "edam:operation_3501"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "universal TTSs",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://github.com/vanya-antonov/universal_tts"
     }

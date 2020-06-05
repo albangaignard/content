@@ -39,8 +39,8 @@
       "sc:license": "BSD-2-Clause",
       "sc:name": "dStruct",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "https://github.com/AviranLab/dStruct"

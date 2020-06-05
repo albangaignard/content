@@ -24,16 +24,16 @@
         "@id": "edam:data_0857"
       },
       "sc:additionalType": [
-        "Web application",
         "Web API",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0080"
+          "@id": "edam:topic_0622"
         },
         {
-          "@id": "edam:topic_0622"
+          "@id": "edam:topic_0080"
         }
       ],
       "sc:author": "Web Production",
@@ -60,13 +60,13 @@
       ],
       "sc:name": "BLAST (EBI)",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:provider": [
-        "EMBL-EBI",
-        "NCBI"
+        "NCBI",
+        "EMBL-EBI"
       ],
       "sc:url": "http://www.ebi.ac.uk/Tools/sss/ncbiblast/"
     },

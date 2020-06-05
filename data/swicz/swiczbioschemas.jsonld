@@ -12,12 +12,12 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Database portal",
   "sc:author": [
-    "Ivan Janda",
-    "Jiří­ Vohradský"
+    "Jiří­ Vohradský",
+    "Ivan Janda"
   ],
   "sc:contributor": [
-    "Urs Jenal",
     "Bjorn Grunenfelder",
+    "Urs Jenal",
     "Karel Mikulik",
     "Marek Basler",
     "Jan Bobek"
@@ -26,8 +26,8 @@
   "sc:name": "SWICZ",
   "sc:operatingSystem": "Windows",
   "sc:provider": [
-    "Institute of Microbiology, Prague, Czech Republic",
-    "Biozentrum, Univ. Basel, Switzerland"
+    "Biozentrum, Univ. Basel, Switzerland",
+    "Institute of Microbiology, Prague, Czech Republic"
   ],
   "sc:url": "http://proteom.biomed.cas.cz/"
 }

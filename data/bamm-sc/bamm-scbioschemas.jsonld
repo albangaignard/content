@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/BAMM-SC",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Li Chen",
-        "Zhe Sun"
+        "Zhe Sun",
+        "Li Chen"
       ],
       "sc:additionalType": [
         "Command-line tool",
@@ -43,9 +43,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "BAMM-SC",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://github.com/lichen-lab/BAMMSC",
       "sc:version": "1.0.0"

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-0128-8363",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.1093/bioinformatics/btp238",
       "@type": "sc:CreativeWork"
     },
@@ -35,16 +39,12 @@
       "sc:name": "ModLink+",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:provider": "upf.edu",
       "sc:url": "http://sbi.imim.es/modlink/",
       "sc:version": "1"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-0128-8363",
-      "@type": "schema:Person"
     }
   ]
 }
