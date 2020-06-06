@@ -17,8 +17,8 @@
   "sc:name": "refTSS",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://reftss.clst.riken.jp/"
 }

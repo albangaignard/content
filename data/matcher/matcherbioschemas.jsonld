@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
+    "UK MRC",
     "EMBOSS Contributors",
-    "Wellcome Trust",
-    "UK MRC"
+    "Wellcome Trust"
   ],
   "sc:description": "Waterman-Eggert local alignment of two sequences.",
   "sc:funder": [
@@ -26,8 +26,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "matcher",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": [

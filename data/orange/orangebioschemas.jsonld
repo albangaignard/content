@@ -10,31 +10,27 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-5864-7056",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/orange",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Blaž Zupan",
-        "Janez Demsar"
+        "Janez Demsar",
+        "Blaž Zupan"
       ],
       "sc:additionalType": [
-        "Desktop application",
-        "Command-line tool"
+        "Command-line tool",
+        "Desktop application"
       ],
       "sc:author": [
-        "Anže Starič",
-        "Andrej Čopar",
-        "Tomaž Curk",
-        "Vesna Tanko",
-        "Jernej Kernc",
-        "Martin Stražar",
-        "Lan Žagar",
         "Aleš Erjavec",
+        "Andrej Čopar",
+        "Anže Starič",
+        "Jernej Kernc",
+        "Lan Žagar",
+        "Tomaž Curk",
+        "Marko Toplak",
+        "Vesna Tanko",
         "Janez Demšar",
-        "Marko Toplak"
+        "Martin Stražar"
       ],
       "sc:citation": "pubmed:17586552",
       "sc:contributor": {
@@ -44,8 +40,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Orange",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:provider": [
@@ -54,6 +50,10 @@
       ],
       "sc:url": "https://orange.biolab.si/",
       "sc:version": "2.7"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-5864-7056",
+      "@type": "schema:Person"
     }
   ]
 }

@@ -39,8 +39,8 @@
       ],
       "sc:name": "ANNOVAR",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://annovar.openbioinformatics.org/en/latest/"

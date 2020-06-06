@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Thomas Kuilman",
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:25887352",
@@ -35,9 +35,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "CopywriteR",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/CopywriteR.html",
       "sc:version": "2.6.0"

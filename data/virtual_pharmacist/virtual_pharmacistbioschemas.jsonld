@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/virtual_pharmacist",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Ross Ka-Kit Leung",
     "Zhoufang Li",
+    "Ross Ka-Kit Leung",
     "Jiankui He"
   ],
   "sc:additionalType": "Web application",
@@ -21,8 +21,8 @@
   "sc:name": "Virtual Pharmacist",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.sustc-genome.org.cn/vp/"
 }

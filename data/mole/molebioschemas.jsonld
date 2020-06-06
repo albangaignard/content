@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/mole",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web application",
     "Desktop application",
+    "Web application",
     "Command-line tool"
   ],
   "sc:author": "Martin Petrek",

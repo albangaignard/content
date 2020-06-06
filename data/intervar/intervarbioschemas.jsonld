@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1016/j.ajhg.2017.01.004",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/intervar",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Kai Wang",
@@ -33,14 +37,10 @@
       "sc:license": "Other",
       "sc:name": "InterVar",
       "sc:operatingSystem": [
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://github.com/WGLab/InterVar"
-    },
-    {
-      "@id": "https://doi.org/10.1016/j.ajhg.2017.01.004",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

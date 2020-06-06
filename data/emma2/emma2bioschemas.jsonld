@@ -15,9 +15,9 @@
   "sc:license": "LGPL-2.1",
   "sc:name": "EMMA2",
   "sc:operatingSystem": [
-    "Windows",
+    "Mac",
     "Linux",
-    "Mac"
+    "Windows"
   ],
   "sc:provider": [
     "CeBiTec",

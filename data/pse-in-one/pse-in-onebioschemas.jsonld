@@ -31,8 +31,8 @@
       },
       "sc:name": "Pse-in-One",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://bioinformatics.hitsz.edu.cn/Pse-in-One/"

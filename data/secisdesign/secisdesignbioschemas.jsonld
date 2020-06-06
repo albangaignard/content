@@ -29,13 +29,13 @@
       "sc:description": "Insert SECIS-elements in coding mRNAs.",
       "sc:name": "SECISDesign web server",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:provider": [
-        "rnateam",
-        "University Freiburg"
+        "University Freiburg",
+        "rnateam"
       ],
       "sc:url": "http://rna.informatik.uni-freiburg.de/SECISDesign/",
       "sc:version": "1.0.0"

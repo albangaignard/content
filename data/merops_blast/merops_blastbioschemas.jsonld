@@ -25,8 +25,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "Sanger Institute",
-    "EMBL-EBI"
+    "EMBL-EBI",
+    "Sanger Institute"
   ],
   "sc:url": "http://merops.sanger.ac.uk/cgi-bin/blast/submitblast/merops/advanced",
   "sc:version": "1"

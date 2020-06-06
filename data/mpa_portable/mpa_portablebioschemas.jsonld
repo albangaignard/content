@@ -16,8 +16,8 @@
   "sc:name": "MPA Portable",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/compomics/meta-proteome-analyzer"
 }

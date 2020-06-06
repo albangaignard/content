@@ -44,8 +44,8 @@
       "sc:name": "Yosshi",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://biokinet.belozersky.msu.ru/yosshiserver/"
     }

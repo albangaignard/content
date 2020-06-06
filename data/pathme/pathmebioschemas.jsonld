@@ -40,8 +40,8 @@
       "sc:name": "PathMe",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://pathme.scai.fraunhofer.de/"
     },

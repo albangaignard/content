@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/scanmot",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Saikat Chakrabarti",
     "Prem Anand A.",
     "Pugalenthi G.",
-    "Saikat Chakrabarti",
     "Nitin Bhardwaj",
     "Sowdhamini R."
   ],

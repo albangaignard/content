@@ -22,18 +22,18 @@
           "@id": "edam:data_1917"
         },
         {
-          "@id": "edam:data_1463"
+          "@id": "edam:data_2526"
         },
         {
-          "@id": "edam:data_2526"
+          "@id": "edam:data_1463"
         }
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_1917"
+          "@id": "edam:data_2526"
         },
         {
-          "@id": "edam:data_2526"
+          "@id": "edam:data_1917"
         },
         {
           "@id": "edam:data_2048"
@@ -64,10 +64,10 @@
         "Windows"
       ],
       "sc:provider": [
-        "National Centre for Biomolecular Research, Masaryk University, Brno",
-        "mail.muni.cz",
         "ELIXIR-CZ",
-        "Central European Institute of Technology, Brno"
+        "Central European Institute of Technology, Brno",
+        "mail.muni.cz",
+        "National Centre for Biomolecular Research, Masaryk University, Brno"
       ],
       "sc:softwareHelp": {
         "@id": "http://webchem.ncbr.muni.cz/Wiki/NEEMP:UserManual"

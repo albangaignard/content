@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Contact Form",
   "sc:additionalType": [
-    "Script",
     "Command-line tool",
+    "Script",
     "Web service",
     "Web application"
   ],
