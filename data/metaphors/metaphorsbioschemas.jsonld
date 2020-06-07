@@ -18,8 +18,8 @@
   "sc:name": "MetaPhors",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://betaorthology.phylomedb.org/",
   "sc:version": "metaphors_201405"

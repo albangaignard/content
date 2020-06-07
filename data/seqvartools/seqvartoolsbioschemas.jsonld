@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/seqvartools",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Adrienne Stilp",
+    "Stephanie M. Gogarten",
     "Xiuwen Zheng",
-    "Stephanie M. Gogarten"
+    "Adrienne Stilp"
   ],
   "sc:additionalType": [
     "Command-line tool",
@@ -24,8 +24,8 @@
   "sc:name": "SeqVarTools",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/SeqVarTools.html",
   "sc:version": "1.12.0"

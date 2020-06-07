@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Tulip Nandu",
-        "Venkat Malladi",
         "Anusha Nagari",
+        "Venkat Malladi",
         "W. Lee Kraus"
       ],
       "edam:has_input": [
@@ -32,28 +32,28 @@
       ],
       "edam:has_output": [
         {
+          "@id": "edam:data_3002"
+        },
+        {
           "@id": "edam:data_2048"
         },
         {
           "@id": "edam:data_1017"
         },
         {
-          "@id": "edam:data_3002"
-        },
-        {
           "@id": "edam:data_2884"
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3308"
+          "@id": "edam:topic_3168"
         },
         {
-          "@id": "edam:topic_3168"
+          "@id": "edam:topic_3308"
         }
       ],
       "sc:citation": [

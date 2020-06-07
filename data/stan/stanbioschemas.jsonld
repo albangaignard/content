@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-8924-8365",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.15252/msb.20145654",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/stan",
@@ -46,8 +46,8 @@
       "sc:version": "2.2.0"
     },
     {
-      "@id": "https://doi.org/10.15252/msb.20145654",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0002-8924-8365",
+      "@type": "schema:Person"
     }
   ]
 }

@@ -14,25 +14,25 @@
   "sc:contributor": [
     "UK BBSRC",
     "UK MRC",
-    "EMBOSS Contributors",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Waterman-Eggert local alignment of two sequences.",
   "sc:funder": [
+    "Wellcome Trust",
     "UK BBSRC",
-    "UK MRC",
-    "Wellcome Trust"
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "matcher",
   "sc:operatingSystem": [
+    "Mac",
     "Windows",
-    "Linux",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/matcher.html",
   "sc:version": "r6"

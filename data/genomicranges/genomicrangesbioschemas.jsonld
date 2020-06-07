@@ -25,10 +25,10 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0080"
+          "@id": "edam:topic_3071"
         },
         {
-          "@id": "edam:topic_3071"
+          "@id": "edam:topic_0080"
         }
       ],
       "sc:citation": [
@@ -51,8 +51,8 @@
       "sc:name": "GenomicRanges",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/GenomicRanges.html",
       "sc:version": "1.26.2"

@@ -17,8 +17,8 @@
   "sc:name": "3DEM Loupe",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://3demloupe.cnb.csic.es"
 }

@@ -17,8 +17,8 @@
   "sc:name": "Microbial Genome Database (MBGD)",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://mbgd.genome.ad.jp/"
 }

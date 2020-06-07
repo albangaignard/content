@@ -15,8 +15,8 @@
   "sc:name": "DescFold",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://protein.cau.edu.cn/DescFold/"
 }

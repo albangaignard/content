@@ -26,15 +26,15 @@
       "sc:additionalType": "Database portal",
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0780"
+          "@id": "edam:topic_0820"
         },
         {
-          "@id": "edam:topic_0820"
+          "@id": "edam:topic_0780"
         }
       ],
       "sc:citation": [
-        "pubmed:12529511",
         "pmcid:PMC166783",
+        "pubmed:12529511",
         {
           "@id": "https://doi.org/10.1104/pp.011577"
         }
@@ -45,8 +45,8 @@
       },
       "sc:name": "ARAMEMNON database of plant membrane proteins",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:provider": "Botanical Institute  University of Cologne",

@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Marc Hanauer",
   "sc:additionalType": [
-    "Database portal",
     "SPARQL endpoint",
+    "Database portal",
     "Web API"
   ],
   "sc:contributor": [

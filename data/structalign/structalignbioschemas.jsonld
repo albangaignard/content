@@ -16,8 +16,8 @@
   "sc:license": "Unlicense",
   "sc:name": "StructAlign",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://mouse.genebee.msu.ru/tools/StructAlign.html"

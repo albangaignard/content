@@ -17,8 +17,8 @@
   "sc:name": "incaRNAfbinv",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://www.cs.bgu.ac.il/incaRNAfbinv/"
 }

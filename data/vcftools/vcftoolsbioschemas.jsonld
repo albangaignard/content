@@ -40,8 +40,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "VCFtools",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://vcftools.github.io/index.html"
     }

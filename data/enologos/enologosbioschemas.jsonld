@@ -17,8 +17,8 @@
   "sc:name": "enoLOGOS",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://biodev.hgen.pitt.edu/enologos/"
 }

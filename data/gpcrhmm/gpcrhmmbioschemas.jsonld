@@ -18,8 +18,8 @@
   "sc:name": "GPCRHMM",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": "bils.se",
   "sc:url": "http://gpcrhmm.sbc.su.se/",

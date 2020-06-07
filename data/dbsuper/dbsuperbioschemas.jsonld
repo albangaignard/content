@@ -10,13 +10,17 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/NAR/GKV1002",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/dbsuper",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Contact form",
       "sc:additionalType": "Database portal",
       "sc:citation": [
-        "pmcid:PMC4702767",
         "pubmed:26438538",
+        "pmcid:PMC4702767",
         {
           "@id": "https://doi.org/10.1093/NAR/GKV1002"
         }
@@ -28,14 +32,10 @@
       "sc:name": "dbSUPER",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://asntech.org/dbsuper/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKV1002",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

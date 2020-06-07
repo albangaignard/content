@@ -16,8 +16,8 @@
   "sc:name": "RABIT",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://rabit.dfci.harvard.edu/"
 }

@@ -13,9 +13,9 @@
       "@id": "https://bio.tools/Simple_ClinVar",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Marie Gramm",
+        "Eduardo PÃ©rez-Palma",
         "Dennis Lal",
-        "Eduardo PÃ©rez-Palma"
+        "Marie Gramm"
       ],
       "sc:additionalType": [
         "Web service",
@@ -34,10 +34,10 @@
           "@id": "edam:operation_3461"
         },
         {
-          "@id": "edam:operation_3197"
+          "@id": "edam:operation_3436"
         },
         {
-          "@id": "edam:operation_3436"
+          "@id": "edam:operation_3197"
         }
       ],
       "sc:license": "Unlicense",

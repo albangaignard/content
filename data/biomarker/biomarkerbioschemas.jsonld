@@ -15,8 +15,8 @@
   "sc:name": "Biomarker",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.liuzlab.org/?page_id=547"
 }

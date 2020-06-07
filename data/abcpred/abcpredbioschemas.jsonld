@@ -17,8 +17,8 @@
   "sc:name": "ABCpred",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://crdd.osdd.net/raghava//abcpred/"
 }

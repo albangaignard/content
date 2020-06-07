@@ -21,9 +21,9 @@
     "Windows"
   ],
   "sc:provider": [
-    "NCBI",
+    "UniProt Consortium",
     "EMBL-EBI",
-    "UniProt Consortium"
+    "NCBI"
   ],
   "sc:url": "http://www.uniprot.org/blast/",
   "sc:version": "1"

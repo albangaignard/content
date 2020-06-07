@@ -15,9 +15,9 @@
     "Jose Rodriguez"
   ],
   "sc:additionalType": [
-    "Database portal",
     "Web API",
-    "Web application"
+    "Web application",
+    "Database portal"
   ],
   "sc:author": "Jose Rodriguez",
   "sc:contributor": "ISCIII",

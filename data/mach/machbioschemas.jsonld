@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
-        "pmcid:PMC3175618",
         "pubmed:21058334",
+        "pmcid:PMC3175618",
         {
           "@id": "https://doi.org/10.1002/gepi.20533"
         }
@@ -32,9 +32,9 @@
       "sc:license": "Not licensed",
       "sc:name": "MACH",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://csg.sph.umich.edu/abecasis/mach/"
     },

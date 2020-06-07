@@ -16,8 +16,8 @@
   "sc:name": "miR-AT",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://cptweb.cpt.wayne.edu/miR-AT/search.jsp"
 }
