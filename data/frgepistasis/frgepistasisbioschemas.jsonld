@@ -17,13 +17,13 @@
       },
       "edam:has_input": [
         {
-          "@id": "edam:data_1017"
+          "@id": "edam:data_0955"
         },
         {
           "@id": "edam:data_0920"
         },
         {
-          "@id": "edam:data_0955"
+          "@id": "edam:data_1017"
         }
       ],
       "edam:has_output": {

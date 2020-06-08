@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
-    "UK MRC",
+    "EMBOSS Contributors",
     "Wellcome Trust",
-    "EMBOSS Contributors"
+    "UK MRC"
   ],
   "sc:description": "Get parents of taxon(s).",
   "sc:funder": [

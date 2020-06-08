@@ -13,17 +13,17 @@
       "@id": "https://bio.tools/HNADOCK",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Lab of Bioinformatics and Molecular Modeling",
+        "Sheng-You Huang",
         "Yi Xiao",
-        "Sheng-You Huang"
+        "Lab of Bioinformatics and Molecular Modeling"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1093/NAR/GKZ412"
         },
-        "pmcid:PMC6602492",
-        "pubmed:31114906"
+        "pubmed:31114906",
+        "pmcid:PMC6602492"
       ],
       "sc:description": "Nucleic acid docking server for modeling RNA/DNA-RNA/DNA 3D complex structures.",
       "sc:featureList": [

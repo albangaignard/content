@@ -21,11 +21,11 @@
     "Mac"
   ],
   "sc:provider": [
-    "Heroit Watt University",
     "Manchester University",
-    "Maastricht University",
+    "Gladstone Institutes",
     "maastrichtuniversity.nl",
-    "Gladstone Institutes"
+    "Maastricht University",
+    "Heroit Watt University"
   ],
   "sc:url": "http://www.bridgedb.org/",
   "sc:version": "1"

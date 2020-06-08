@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/icbn",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Achim Tresch",
     "Niko Beerenwinkel",
+    "Achim Tresch",
     "Patrick Knupfer"
   ],
   "sc:additionalType": "Library",

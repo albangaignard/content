@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Khalid Belkhir",
-    "Paul Simion",
-    "Maximilian Telford"
+    "Maximilian Telford",
+    "Paul Simion"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:description": "A program to detect potential cross contaminations in HTS assembled transcriptomes using expression level quantification.",

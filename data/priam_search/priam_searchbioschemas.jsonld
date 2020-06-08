@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/priam_search",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Command-line tool",
     "Database portal",
-    "Web application"
+    "Web application",
+    "Command-line tool"
   ],
   "sc:author": "Thomas Bernard",
   "sc:contributor": "Daniel Kahn",
@@ -25,10 +25,10 @@
     "Mac"
   ],
   "sc:provider": [
-    "univ-lyon1.fr",
     "Pole Rhone-Alpin de Bioinformatique",
-    "Lyon 1 University",
-    "INRA"
+    "univ-lyon1.fr",
+    "INRA",
+    "Lyon 1 University"
   ],
   "sc:url": "http://priam.prabi.fr/REL_MAR15/index_mar15.html"
 }

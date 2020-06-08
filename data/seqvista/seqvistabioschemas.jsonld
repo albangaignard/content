@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/seqvista",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Martin Frith",
     "Tianhua Niu",
+    "Martin Frith",
     "Zhenjun Hu",
     "Zhiping Weng"
   ],
@@ -22,8 +22,8 @@
   "sc:name": "SeqVISTA",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://zlab.bu.edu/SeqVISTA/"
 }

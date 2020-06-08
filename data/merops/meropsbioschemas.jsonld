@@ -16,8 +16,8 @@
   "sc:name": "MEROPS",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://merops.sanger.ac.uk/"
 }

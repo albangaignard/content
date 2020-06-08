@@ -29,8 +29,8 @@
       "sc:name": "RACIPE",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/simonhb1990/RACIPE-1.0",
       "sc:version": "1.0"

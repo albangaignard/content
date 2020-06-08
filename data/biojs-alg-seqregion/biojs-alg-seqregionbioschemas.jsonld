@@ -15,8 +15,8 @@
   "sc:description": "Object and function to deal with a sequence region (reg:start-end).",
   "sc:name": "biojs-alg-seqregion",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "BioJS",

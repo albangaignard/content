@@ -19,16 +19,16 @@
   ],
   "sc:description": "Compare and report features of two similar sequences.",
   "sc:funder": [
+    "UK BBSRC",
     "Wellcome Trust",
-    "UK MRC",
-    "UK BBSRC"
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "diffseq",
   "sc:operatingSystem": [
-    "Mac",
+    "Linux",
     "Windows",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
     "EMBOSS",

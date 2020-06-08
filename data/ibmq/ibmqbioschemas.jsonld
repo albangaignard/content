@@ -18,8 +18,8 @@
         "Command-line tool"
       ],
       "sc:citation": [
-        "pmcid:PMC4627701",
         "pubmed:22850063",
+        "pmcid:PMC4627701",
         {
           "@id": "https://doi.org/10.1515/1544-6115.1760"
         }

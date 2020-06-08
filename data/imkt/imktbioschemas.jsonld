@@ -40,21 +40,21 @@
       "sc:description": "integrative McDonald and Kreitman test.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0310"
-        },
-        {
           "@id": "edam:operation_2495"
         },
         {
           "@id": "edam:operation_0451"
+        },
+        {
+          "@id": "edam:operation_0310"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "iMKT",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "https://imkt.uab.cat"
     }

@@ -35,19 +35,19 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3292"
-        },
-        {
-          "@id": "edam:topic_0121"
-        },
-        {
           "@id": "edam:topic_3047"
+        },
+        {
+          "@id": "edam:topic_3520"
         },
         {
           "@id": "edam:topic_0123"
         },
         {
-          "@id": "edam:topic_3520"
+          "@id": "edam:topic_3292"
+        },
+        {
+          "@id": "edam:topic_0121"
         }
       ],
       "sc:citation": [
@@ -65,9 +65,9 @@
       "sc:license": "Other",
       "sc:name": "IPC",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:softwareHelp": {
         "@id": "http://isoelectric.org/algorithms.html"

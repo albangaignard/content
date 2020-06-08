@@ -32,8 +32,8 @@
       "sc:license": "GPL-1.0",
       "sc:name": "FlexFlux",
       "sc:operatingSystem": [
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://lipm-bioinfo.toulouse.inra.fr/flexflux/"
     }

@@ -34,8 +34,8 @@
       "sc:license": "BSD-2-Clause-FreeBSD",
       "sc:name": "ViromeScan",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://sourceforge.net/projects/viromescan/"
     },

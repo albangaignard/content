@@ -20,8 +20,8 @@
         "@id": "http://orcid.org/0000-0002-0540-9353"
       },
       "sc:additionalType": [
-        "Desktop application",
-        "Command-line tool"
+        "Command-line tool",
+        "Desktop application"
       ],
       "sc:citation": [
         "pmcid:PMC5035138",
@@ -37,9 +37,9 @@
       "sc:license": "Proprietary",
       "sc:name": "BIANCA",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BIANCA"
     },

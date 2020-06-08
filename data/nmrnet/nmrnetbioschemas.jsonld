@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/nmrnet",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Michał J Walczak",
     "Piotr Klukowski",
+    "Michał J Walczak",
     "Adam Gonczarek"
   ],
   "sc:additionalType": "Desktop application",
@@ -20,8 +20,8 @@
   "sc:name": "NMRNet",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://dumpling.bio/"
 }

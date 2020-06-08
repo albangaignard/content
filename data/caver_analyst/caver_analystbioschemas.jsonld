@@ -12,33 +12,33 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Desktop application",
   "sc:author": [
-    "Martin Bezdeka",
-    "Artur Gora",
-    "Matus Kotry",
-    "Martin Manak",
-    "David Bednar",
-    "Ondrej Strnad",
-    "Petr Benes",
     "Jiri Damborsky",
-    "Jan Brezovsky",
-    "Barbora Kozlikova",
-    "Eva Sebestova",
-    "Vilem Sustr",
     "Lukas Daniel",
-    "Jiri Sochor",
-    "Antonin Pavelka"
+    "Artur Gora",
+    "David Bednar",
+    "Martin Manak",
+    "Jan Brezovsky",
+    "Vilem Sustr",
+    "Petr Benes",
+    "Ondrej Strnad",
+    "Matus Kotry",
+    "Eva Sebestova",
+    "Barbora Kozlikova",
+    "Antonin Pavelka",
+    "Martin Bezdeka",
+    "Jiri Sochor"
   ],
   "sc:description": "A tool for interactive visualization and analysis of tunnels, channels and cavities in protein structures.",
   "sc:name": "CAVER Analyst",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": [
-    "Masaryk University, Brno, Czech Republic",
+    "Loschmidt Laboratories",
     "University of West Bohemia, Plzen, Czech Republic",
-    "Loschmidt Laboratories"
+    "Masaryk University, Brno, Czech Republic"
   ],
   "sc:url": "http://www.caver.cz",
   "sc:version": "1.0"

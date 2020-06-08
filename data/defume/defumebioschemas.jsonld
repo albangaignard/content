@@ -30,9 +30,9 @@
       },
       "sc:name": "deFUME",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://www.cbs.dtu.dk/services/deFUME/",
       "sc:version": "1.0"
