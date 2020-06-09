@@ -19,8 +19,8 @@
         "Database portal"
       ],
       "sc:author": [
-        "Dahui Hu",
         "Xianwen Meng",
+        "Dahui Hu",
         "Ming Chen"
       ],
       "sc:citation": [
@@ -36,17 +36,17 @@
           "@id": "edam:operation_3431"
         },
         {
-          "@id": "edam:operation_2422"
+          "@id": "edam:operation_3501"
         },
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_2422"
         }
       ],
       "sc:name": "CircFunBase",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bis.zju.edu.cn/CircFunBase/"
     },

@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/geneid",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Francisco Camara",
-        "Support"
+        "Support",
+        "Francisco Camara"
       ],
       "sc:additionalType": [
         "Command-line tool",
@@ -37,8 +37,8 @@
       "sc:name": "Geneid",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": "Centre for Genomic Regulation (CRG), Parc de Recerca Biomedica (PRBB)",
       "sc:url": "http://genome.crg.es/software/geneid/index.html",

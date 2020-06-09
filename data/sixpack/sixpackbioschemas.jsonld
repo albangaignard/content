@@ -19,16 +19,16 @@
   ],
   "sc:description": "Display a DNA sequence with 6-frame translation and ORFs.",
   "sc:funder": [
-    "UK BBSRC",
     "UK MRC",
+    "UK BBSRC",
     "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "sixpack",
   "sc:operatingSystem": [
-    "Mac",
+    "Windows",
     "Linux",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

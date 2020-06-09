@@ -28,28 +28,28 @@
       },
       "edam:has_output": [
         {
+          "@id": "edam:data_2048"
+        },
+        {
           "@id": "edam:data_3117"
         },
         {
           "@id": "edam:data_2884"
-        },
-        {
-          "@id": "edam:data_2048"
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
           "@id": "edam:topic_3518"
         },
         {
-          "@id": "edam:topic_3295"
+          "@id": "edam:topic_3572"
         },
         {
-          "@id": "edam:topic_3572"
+          "@id": "edam:topic_3295"
         }
       ],
       "sc:citation": [
@@ -62,18 +62,18 @@
       "sc:description": "This package provides an efficient data pre-processing tool designed to reduce background noise and improve signal for DNA methylation estimation from Illumina Methylation BeadChip array measurements. It is a model based background correction method that can significantly improve accuracy and reproducibility of methylation measures.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3204"
+          "@id": "edam:operation_2409"
         },
         {
-          "@id": "edam:operation_2409"
+          "@id": "edam:operation_3204"
         }
       ],
       "sc:license": "Artistic-2.0",
       "sc:name": "ENmix",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/ENmix.html",
       "sc:version": "1.10.0"

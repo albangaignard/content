@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1371/journal.pcbi.1006384",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/Context-explorer",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Joel Ostblom",
@@ -34,14 +38,10 @@
       "sc:name": "Context-explorer",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://contextexplorer.readthedocs.io/en/latest/"
-    },
-    {
-      "@id": "https://doi.org/10.1371/journal.pcbi.1006384",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

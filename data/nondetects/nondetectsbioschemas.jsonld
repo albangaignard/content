@@ -24,8 +24,8 @@
         "@id": "edam:data_2048"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
@@ -45,10 +45,10 @@
       "sc:description": "Methods to model and impute non-detects in the results of qPCR experiments.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3566"
+          "@id": "edam:operation_3435"
         },
         {
-          "@id": "edam:operation_3435"
+          "@id": "edam:operation_3566"
         },
         {
           "@id": "edam:operation_3557"
@@ -58,8 +58,8 @@
       "sc:name": "nondetects",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/nondetects.html",
       "sc:version": "2.4.0"

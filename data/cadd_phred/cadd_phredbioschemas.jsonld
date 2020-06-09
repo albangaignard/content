@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1038/ng.2892",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/cadd_phred",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "CADD support",
@@ -27,24 +31,20 @@
           "@id": "edam:operation_2436"
         },
         {
-          "@id": "edam:operation_3226"
+          "@id": "edam:operation_2238"
         },
         {
-          "@id": "edam:operation_2238"
+          "@id": "edam:operation_3226"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "CADD",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://cadd.gs.washington.edu/"
-    },
-    {
-      "@id": "https://doi.org/10.1038/ng.2892",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

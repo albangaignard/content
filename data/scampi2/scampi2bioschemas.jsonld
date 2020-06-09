@@ -16,8 +16,8 @@
   "sc:name": "SCAMPI2",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://scampi.bioinfo.se"
 }

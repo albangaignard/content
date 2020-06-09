@@ -17,24 +17,24 @@
       "@id": "https://bio.tools/orange",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Janez Demsar",
-        "Blaž Zupan"
+        "Blaž Zupan",
+        "Janez Demsar"
       ],
       "sc:additionalType": [
-        "Desktop application",
-        "Command-line tool"
+        "Command-line tool",
+        "Desktop application"
       ],
       "sc:author": [
-        "Tomaž Curk",
-        "Martin Stražar",
-        "Marko Toplak",
-        "Anže Starič",
         "Vesna Tanko",
+        "Martin Stražar",
         "Janez Demšar",
-        "Andrej Čopar",
         "Jernej Kernc",
         "Lan Žagar",
-        "Aleš Erjavec"
+        "Anže Starič",
+        "Tomaž Curk",
+        "Aleš Erjavec",
+        "Marko Toplak",
+        "Andrej Čopar"
       ],
       "sc:citation": "pubmed:17586552",
       "sc:contributor": {
@@ -49,8 +49,8 @@
         "Linux"
       ],
       "sc:provider": [
-        "ELIXIR-SI-hackathon",
-        "Faculty of Computer and Information Science, University of Ljubljana, Slovenia"
+        "Faculty of Computer and Information Science, University of Ljubljana, Slovenia",
+        "ELIXIR-SI-hackathon"
       ],
       "sc:url": "https://orange.biolab.si/",
       "sc:version": "2.7"

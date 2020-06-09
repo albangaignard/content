@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
     "EMBOSS Contributors",
     "UK BBSRC",
+    "UK MRC",
     "Wellcome Trust"
   ],
   "sc:description": "Read and write a feature table.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "featcopy",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

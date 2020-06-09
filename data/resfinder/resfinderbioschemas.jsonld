@@ -43,8 +43,8 @@
       "sc:name": "ResFinder",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:provider": "CBS",
       "sc:softwareHelp": {

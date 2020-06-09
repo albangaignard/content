@@ -17,9 +17,9 @@
       "@id": "https://bio.tools/exomepeak",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Lian Liu",
         "Jia Meng",
-        "Lin Zhang"
+        "Lin Zhang",
+        "Lian Liu"
       ],
       "sc:additionalType": [
         "Command-line tool",
@@ -39,8 +39,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "exomePeak",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/exomePeak.html",

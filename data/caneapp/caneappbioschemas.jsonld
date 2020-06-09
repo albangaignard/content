@@ -32,9 +32,9 @@
       ],
       "sc:name": "CANEapp",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://psychiatry.med.miami.edu/research/laboratory-of-translational-rna-genomics/CANE-app"
     },

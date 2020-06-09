@@ -13,12 +13,12 @@
       "@id": "https://bio.tools/coeus",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Pedro Sernadela",
-        "Pedro Lopes"
+        "Pedro Lopes",
+        "Pedro Sernadela"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         {
@@ -30,10 +30,10 @@
       "sc:description": "Semantic web application network that combines a set of algorithms to streamline the creation of new semantic web-based knowledge management systems. In a single package, it provides the tools to create new applications, including advanced integration connectors for different data sources along with ontology mapping techniques.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0335"
+          "@id": "edam:operation_2422"
         },
         {
-          "@id": "edam:operation_2422"
+          "@id": "edam:operation_0335"
         },
         {
           "@id": "edam:operation_3436"
@@ -42,9 +42,9 @@
       "sc:license": "CC-BY-3.0",
       "sc:name": "COEUS",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://bioinformatics.ua.pt/coeus/"
     },

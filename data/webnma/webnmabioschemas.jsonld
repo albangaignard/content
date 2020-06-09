@@ -15,13 +15,13 @@
     "Web service"
   ],
   "sc:author": [
-    "Siv M Hollup",
     "Gisle Salensminde",
-    "Tristan Cragnolini",
-    "Svenn H Grindhaug",
-    "Sandhya P Tiwari",
-    "Edvin Fuglebakk",
     "Kidane M Tekle",
+    "Edvin Fuglebakk",
+    "Svenn H Grindhaug",
+    "Siv M Hollup",
+    "Sandhya P Tiwari",
+    "Tristan Cragnolini",
     "Lars Skjærven",
     "Nathalie Reuter"
   ],
@@ -29,8 +29,8 @@
   "sc:name": "WEBnma",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "Computational Biology Unit, Department of Informatics, University of Bergen, Norway",

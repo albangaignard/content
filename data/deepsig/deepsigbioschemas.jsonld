@@ -19,8 +19,8 @@
   "sc:description": "Prediction of secretory signal peptides in protein sequences",
   "sc:name": "DeepSig",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "ELIXIR-ITA-BOLOGNA",

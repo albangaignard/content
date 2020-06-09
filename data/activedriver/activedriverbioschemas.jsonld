@@ -26,8 +26,8 @@
       "sc:name": "ActiveDriver",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://reimandlab.org/software/activedriver/",
       "sc:version": "1.0.0"

@@ -17,10 +17,10 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_0920"
+          "@id": "edam:data_0896"
         },
         {
-          "@id": "edam:data_0896"
+          "@id": "edam:data_0920"
         }
       ],
       "sc:additionalType": [
@@ -49,9 +49,9 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "EffectiveS346",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:provider": [
         "CUBE - Computational Systems Biology",

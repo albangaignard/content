@@ -10,14 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0003-4191-3714",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkv054",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/cager",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -41,12 +33,20 @@
       "sc:license": "GPL-3.0",
       "sc:name": "CAGEr",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/CAGEr.html",
       "sc:version": "1.16.0"
+    },
+    {
+      "@id": "http://orcid.org/0000-0003-4191-3714",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkv054",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

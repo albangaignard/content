@@ -15,8 +15,8 @@
   "sc:contributor": [
     "Radka Svobodová Vařeková",
     "Crina-Maria Ionescu",
-    "Lukáš Pravda",
-    "Deepti Jaiswal"
+    "Deepti Jaiswal",
+    "Lukáš Pravda"
   ],
   "sc:description": "Database of validation results for ligands and non-standard residues in the Protein Data Bank.",
   "sc:name": "ValidatorDB",
