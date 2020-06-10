@@ -17,8 +17,8 @@
   "sc:name": "Ambit-SMIRKS",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://ambit.sourceforge.net/smirks/"
 }

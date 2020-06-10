@@ -15,8 +15,8 @@
   "sc:name": "Yeast gene order browser",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://ygob.ucd.ie/"
 }

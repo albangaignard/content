@@ -21,10 +21,10 @@
       "@id": "https://bio.tools/zfpkm",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Ron Ammar",
         {
           "@id": "http://orcid.org/0000-0002-1880-3341"
-        }
+        },
+        "Ron Ammar"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [

@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1002/humu.23655",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/match_box",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
@@ -34,20 +30,24 @@
           "@id": "edam:operation_2422"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_3196"
         },
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_3431"
         }
       ],
       "sc:license": "BSD-3-Clause",
       "sc:name": "matchbox",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://seqr.broadinstitute.org/matchmaker/matchbox"
+    },
+    {
+      "@id": "https://doi.org/10.1002/humu.23655",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

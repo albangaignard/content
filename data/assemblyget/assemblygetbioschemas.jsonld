@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
-    "EMBOSS Contributors",
     "UK MRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC",
+    "EMBOSS Contributors"
   ],
   "sc:description": "An Emboss tool that searches for a sequence assembly and returns the data in one of the EMBOSS assembly formats.",
   "sc:funder": [
@@ -26,13 +26,13 @@
   "sc:license": "Other",
   "sc:name": "assemblyget",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://www.bioinformatics.nl/cgi-bin/emboss/assemblyget",
   "sc:version": "r6"

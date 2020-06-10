@@ -17,8 +17,8 @@
   "sc:name": "JVirGel",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.jvirgel.de/"
 }

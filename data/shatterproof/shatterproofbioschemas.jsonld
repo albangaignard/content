@@ -32,8 +32,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "ShatterProof",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://search.cpan.org/~sgovind/Shatterproof/"

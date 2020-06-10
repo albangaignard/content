@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0003-0484-5871",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1371/JOURNAL.PONE.0215337",
       "@type": "sc:CreativeWork"
     },
@@ -25,11 +21,11 @@
       },
       "sc:additionalType": "Script",
       "sc:citation": [
-        "pmcid:PMC6493727",
+        "pubmed:31042738",
         {
           "@id": "https://doi.org/10.1371/JOURNAL.PONE.0215337"
         },
-        "pubmed:31042738"
+        "pmcid:PMC6493727"
       ],
       "sc:description": "Algorithm for automated analysis of high-throughput droplet microfluidic data.",
       "sc:featureList": [
@@ -44,10 +40,14 @@
       "sc:name": "FluoroCellTrack",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/Manibarathi/FluoroCellTrack"
+    },
+    {
+      "@id": "https://orcid.org/0000-0003-0484-5871",
+      "@type": "schema:Person"
     }
   ]
 }

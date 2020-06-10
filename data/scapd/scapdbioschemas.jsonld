@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Jiang Qian",
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         {
@@ -27,17 +27,17 @@
       "sc:description": "Database for human scaffold proteins.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2414"
+          "@id": "edam:operation_2497"
         },
         {
-          "@id": "edam:operation_2497"
+          "@id": "edam:operation_2414"
         }
       ],
       "sc:name": "ScaPD",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioinfo.wilmer.jhu.edu/ScaPD/"
     },

@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Thomas Carroll",
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:22827163",
@@ -37,18 +37,18 @@
           "@id": "edam:operation_0445"
         },
         {
-          "@id": "edam:operation_2238"
+          "@id": "edam:operation_3501"
         },
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_2238"
         }
       ],
       "sc:license": "GPL-2.0",
       "sc:name": "triform",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/triform.html",
       "sc:version": "1.20.0"

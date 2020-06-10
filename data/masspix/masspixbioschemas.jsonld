@@ -37,8 +37,8 @@
       "sc:name": "massPix",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://github.com/hallz/massPix"
     }

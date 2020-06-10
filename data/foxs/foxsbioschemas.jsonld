@@ -17,8 +17,8 @@
   "sc:name": "FoXS",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://salilab.org/foxs"
 }

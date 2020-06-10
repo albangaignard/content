@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12859-017-1812-8",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/bufet",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Command-line tool",
@@ -31,10 +35,6 @@
         "Linux"
       ],
       "sc:url": "https://github.com/diwis/BUFET/"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12859-017-1812-8",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -20,8 +20,8 @@
   "sc:name": "TriPOINT",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.uconn.edu/ajt06004/TriPOINT"
 }

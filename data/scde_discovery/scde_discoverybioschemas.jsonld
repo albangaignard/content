@@ -17,8 +17,8 @@
   "sc:name": "Stem Cell Discovery Engine (SCDE)",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://discovery.hsci.harvard.edu/"
 }

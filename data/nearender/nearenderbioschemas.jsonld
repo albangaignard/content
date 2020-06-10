@@ -31,9 +31,9 @@
       },
       "sc:name": "NEArender",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/NEArender/"
     }

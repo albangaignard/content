@@ -34,8 +34,8 @@
       "sc:name": "bhrcr",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://cran.r-project.org/package=bhrcr",
       "sc:version": "1.0.3"

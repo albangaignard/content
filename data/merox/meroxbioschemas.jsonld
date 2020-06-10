@@ -20,8 +20,8 @@
       "sc:license": "Freeware",
       "sc:name": "MeroX",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "https://www.stavrox.com",

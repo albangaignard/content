@@ -13,12 +13,12 @@
   "sc:additionalType": "Web application",
   "sc:author": [
     "Ricard Sangrós",
-    "Carlos Morcillo Suarez",
     "Tere Páramo Prieto",
-    "Pep Alegre",
-    "José Marí­a Heredia Genestar",
+    "Carlos Morcillo Suarez",
     "Arcadi Navarro Cuartiellas",
-    "Angel Carreño Torres"
+    "José Marí­a Heredia Genestar",
+    "Angel Carreño Torres",
+    "Pep Alegre"
   ],
   "sc:citation": "pubmed:18515823",
   "sc:contributor": [
@@ -29,8 +29,8 @@
   "sc:name": "SNPator",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "upf.edu",
