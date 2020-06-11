@@ -20,16 +20,22 @@
     "description": "Constraint-based reconstruction and analysis (COBRA) provides a molecular mechanistic framework for integrative analysis of experimental molecular systems biology data and quantitative prediction of physicochemically and biochemically feasible phenotypic states.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://github.com/opencobra/cobratoolbox/"
         },
         {
-            "type": "User manual",
+            "type": [
+                "User manual"
+            ],
             "url": "https://opencobra.github.io/cobratoolbox/latest/modules/index.html"
         },
         {
             "note": "Tutorial material",
-            "type": "Training material",
+            "type": [
+                "Training material"
+            ],
             "url": "https://opencobra.github.io/cobratoolbox/latest/tutorials/index.html"
         }
     ],
@@ -37,7 +43,7 @@
         "authors": [
             "laurentheirendt"
         ],
-        "type": "private"
+        "type": "group"
     },
     "elixirNode": [
         "Luxembourg"
@@ -49,7 +55,7 @@
     "language": [
         "MATLAB"
     ],
-    "lastUpdate": "2020-01-21T11:13:40Z",
+    "lastUpdate": "2020-02-20T07:44:09Z",
     "license": "GPL-3.0",
     "maturity": "Mature",
     "name": "COBRA Toolbox",
@@ -58,7 +64,7 @@
         "Windows",
         "Mac"
     ],
-    "owner": "rmtfleming",
+    "owner": "laurentheirendt",
     "publication": [
         {
             "doi": "10.1038/s41596-018-0098-2",
@@ -236,7 +242,9 @@
                 "journal": "Nature Protocols",
                 "title": "Creation and analysis of biochemical constraint-based models using the COBRA Toolbox v.3.0"
             },
-            "type": "Primary",
+            "type": [
+                "Primary"
+            ],
             "version": "3.0"
         }
     ],
