@@ -31,10 +31,10 @@
           "@id": "edam:operation_2495"
         },
         {
-          "@id": "edam:operation_3223"
+          "@id": "edam:operation_3501"
         },
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_3223"
         }
       ],
       "sc:license": "GPL-3.0",

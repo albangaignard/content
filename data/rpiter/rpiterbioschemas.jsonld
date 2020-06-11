@@ -10,13 +10,17 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.3390/ijms20051070",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/RPITER",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "C. Peng",
       "sc:additionalType": "Script",
       "sc:citation": [
-        "pmcid:PMC6429152",
         "pubmed:30832218",
+        "pmcid:PMC6429152",
         {
           "@id": "https://doi.org/10.3390/ijms20051070"
         }
@@ -40,10 +44,6 @@
         "Linux"
       ],
       "sc:url": "https://github.com/Pengeace/RPITER"
-    },
-    {
-      "@id": "https://doi.org/10.3390/ijms20051070",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

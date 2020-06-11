@@ -21,19 +21,19 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_1277"
+          "@id": "edam:data_1460"
         },
         {
-          "@id": "edam:data_1460"
+          "@id": "edam:data_1277"
         }
       ],
       "sc:additionalType": "Web application",
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0121"
+          "@id": "edam:topic_0128"
         },
         {
-          "@id": "edam:topic_0128"
+          "@id": "edam:topic_0121"
         }
       ],
       "sc:citation": [
@@ -59,8 +59,8 @@
       "sc:license": "Apache-2.0",
       "sc:name": "ProXL",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:softwareHelp": {

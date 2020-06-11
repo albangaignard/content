@@ -32,9 +32,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "VING",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://vm-gb.curie.fr/ving/"
     }

@@ -21,8 +21,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "NCBI",
     "EMBL-EBI",
+    "NCBI",
     "UniProt Consortium"
   ],
   "sc:url": "http://www.uniprot.org/blast/",

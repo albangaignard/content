@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/edgar",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "ELIXIR-ITA-BOLOGNA",
-    "Giulia Babbi"
+    "Giulia Babbi",
+    "ELIXIR-ITA-BOLOGNA"
   ],
   "sc:additionalType": [
     "Web application",
@@ -23,8 +23,8 @@
   "sc:name": "eDGAR",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://edgar.biocomp.unibo.it"
 }

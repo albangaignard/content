@@ -16,8 +16,8 @@
   "sc:name": "DiscoverySpace",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.bcgsc.ca/bioinfo/software/discoveryspace/"
 }

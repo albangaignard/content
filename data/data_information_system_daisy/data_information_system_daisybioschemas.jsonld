@@ -10,36 +10,44 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0002-8278-1618",
+      "@id": "https://orcid.org/0000-0002-6532-5880",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-2224-0780",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://orcid.org/0000-0001-6501-0806",
       "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/Data_Information_System_DAISY",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Regina Becker",
         {
           "@id": "https://orcid.org/0000-0002-2224-0780"
-        }
+        },
+        "Regina Becker"
       ],
       "sc:additionalType": "Web application",
       "sc:author": [
-        "Kavita Rege",
-        "Jacek Lebioda",
         {
           "@id": "https://orcid.org/0000-0001-6501-0806"
         },
-        "Yohan Jarosz"
+        "Yohan Jarosz",
+        "Kavita Rege",
+        "Jacek Lebioda"
       ],
       "sc:contributor": [
-        {
-          "@id": "https://orcid.org/0000-0002-8278-1618"
-        },
-        "Christophe Trefois",
-        "Sandrine Munoz",
         "Vilem Ded",
         {
           "@id": "https://orcid.org/0000-0002-6532-5880"
+        },
+        "Sandrine Munoz",
+        "Christophe Trefois",
+        {
+          "@id": "https://orcid.org/0000-0002-8278-1618"
         }
       ],
       "sc:description": "DAISY is an open-source  web application that allows biomedical research institutions to map their data and data flows in accordance with GDPR's accountability requirement.",
@@ -47,22 +55,14 @@
       "sc:name": "Data Information System (DAISY)",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/elixir-luxembourg/daisy",
       "sc:version": "1.1.0"
     },
     {
-      "@id": "https://orcid.org/0000-0001-6501-0806",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-6532-5880",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-2224-0780",
+      "@id": "https://orcid.org/0000-0002-8278-1618",
       "@type": "schema:Person"
     }
   ]

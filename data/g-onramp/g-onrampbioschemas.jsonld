@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/G-OnRamp",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jeremy Goecks",
     "Wilson Leung",
+    "Jeremy Goecks",
     "Sarah C.R. Elgin",
     "Luke Sargent"
   ],

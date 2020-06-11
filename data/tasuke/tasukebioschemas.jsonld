@@ -32,8 +32,8 @@
       "sc:name": "TASUKE",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://tasuke.dna.affrc.go.jp/"
     }

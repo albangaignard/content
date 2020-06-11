@@ -14,8 +14,8 @@
   "sc:description": "Secondary structure calculation of non-coding RNA sequences.",
   "sc:name": "Randfold",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "ugent.be",

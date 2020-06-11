@@ -18,8 +18,8 @@
   "sc:name": "Quip",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://homes.cs.washington.edu/%7Edcjones/quip/"
 }

@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Antonio Barbadilla",
-    "Sonia Casillas",
-    "Raquel Egea"
+    "Raquel Egea",
+    "Sonia Casillas"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:18515345",

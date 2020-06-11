@@ -42,8 +42,8 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "NetPhorest",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:provider": "CBS",

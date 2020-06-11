@@ -31,9 +31,9 @@
       },
       "sc:name": "UbiSite",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://csb.cse.yzu.edu.tw/UbiSite/"
     }

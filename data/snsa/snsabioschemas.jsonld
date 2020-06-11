@@ -16,8 +16,8 @@
   "sc:name": "SNSA",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://bs.ipm.ir/softwares/snsa/"
 }

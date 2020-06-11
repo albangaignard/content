@@ -21,8 +21,8 @@
         "Hannes Hettling"
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:25806817",
@@ -37,8 +37,8 @@
       },
       "sc:name": "BiGGR",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/BiGGR.html",

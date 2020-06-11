@@ -17,8 +17,8 @@
   "sc:name": "QSCOP BLAST",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://archive.is/9B7DA"
 }

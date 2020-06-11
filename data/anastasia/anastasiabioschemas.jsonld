@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Eleftherios Pilalis",
-    "Aristotelis Chatziioannou",
-    "Theodoros Koutsandreas"
+    "Theodoros Koutsandreas",
+    "Aristotelis Chatziioannou"
   ],
   "sc:additionalType": [
     "Desktop application",

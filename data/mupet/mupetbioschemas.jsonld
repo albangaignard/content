@@ -29,8 +29,8 @@
       "sc:name": "MUPET",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://sail.usc.edu/mupet/"
     },

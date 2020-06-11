@@ -13,9 +13,9 @@
       "@id": "https://bio.tools/Simple_ClinVar",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Eduardo PÃ©rez-Palma",
         "Dennis Lal",
-        "Marie Gramm"
+        "Marie Gramm",
+        "Eduardo PÃ©rez-Palma"
       ],
       "sc:additionalType": [
         "Web service",
@@ -31,10 +31,10 @@
       "sc:description": "Interactive web server to explore and retrieve gene and disease variants aggregated in ClinVar database.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3436"
+          "@id": "edam:operation_3461"
         },
         {
-          "@id": "edam:operation_3461"
+          "@id": "edam:operation_3436"
         },
         {
           "@id": "edam:operation_3197"
@@ -43,9 +43,9 @@
       "sc:license": "Unlicense",
       "sc:name": "Simple ClinVar",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://simple-clinvar.broadinstitute.org/"
     },
