@@ -24,8 +24,8 @@
   ],
   "sc:provider": [
     "hdhub",
-    "German Cancer Research Center (DKFZ)",
-    "EilsLabs"
+    "EilsLabs",
+    "German Cancer Research Center (DKFZ)"
   ],
   "sc:url": "https://otp.dkfz.de/"
 }

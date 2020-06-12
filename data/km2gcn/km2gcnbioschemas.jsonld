@@ -28,8 +28,8 @@
       "sc:name": "km2gcn",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://github.com/juanbot/km2gcn"
     },

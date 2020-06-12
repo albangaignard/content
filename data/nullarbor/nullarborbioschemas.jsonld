@@ -18,10 +18,10 @@
   "sc:author": "Torsten Seemann",
   "sc:contributor": [
     "BP Howden",
-    "JC Kwong",
-    "MB Schultz",
     "A Goncalves da Silva",
-    "DM Bulach"
+    "DM Bulach",
+    "MB Schultz",
+    "JC Kwong"
   ],
   "sc:description": "Pipeline to generate complete public health microbiology reports from isolates sequenced with Illumina paired-end sequencing.",
   "sc:license": "GPL-2.0",
@@ -31,8 +31,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "unimelb.edu.au",
-    "University of Melbourne, Australia"
+    "University of Melbourne, Australia",
+    "unimelb.edu.au"
   ],
   "sc:url": "https://github.com/tseemann/nullarbor",
   "sc:version": "1"

@@ -15,8 +15,8 @@
   "sc:description": "VoID dataset description tool.",
   "sc:name": "VoID Editor",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": "manchester.ac.uk",

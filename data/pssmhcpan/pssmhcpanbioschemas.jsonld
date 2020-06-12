@@ -20,8 +20,8 @@
   "sc:name": "PSSMHCpan",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/BGI2016/PSSMHCpan"
 }

@@ -17,9 +17,9 @@
   "sc:description": "Free software environment for statistical computing and graphics.",
   "sc:name": "R",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:url": "http://www.r-project.org/"
 }

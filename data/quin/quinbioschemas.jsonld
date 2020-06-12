@@ -31,8 +31,8 @@
       },
       "sc:name": "QuIN",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "https://quin.jax.org/"

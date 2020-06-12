@@ -37,12 +37,12 @@
       "sc:name": "EffectiveELD",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:provider": [
-        "AT-CUBE",
-        "CUBE - Computational Systems Biology"
+        "CUBE - Computational Systems Biology",
+        "AT-CUBE"
       ],
       "sc:softwareHelp": {
         "@id": "http://www.effectivedb.org/method/effectiveeld"

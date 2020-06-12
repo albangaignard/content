@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0002-0468-0117",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1093/NAR/GKZ460",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-0468-0117",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/HOT",
@@ -40,10 +40,10 @@
           "@id": "edam:operation_0417"
         },
         {
-          "@id": "edam:operation_3207"
+          "@id": "edam:operation_0445"
         },
         {
-          "@id": "edam:operation_0445"
+          "@id": "edam:operation_3207"
         }
       ],
       "sc:license": "Unlicense",

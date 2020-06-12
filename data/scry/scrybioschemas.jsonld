@@ -13,9 +13,9 @@
   "biotools:primaryContact": "Bas Stringer",
   "sc:additionalType": [
     "Workbench",
-    "Web API",
+    "SPARQL endpoint",
     "Command-line tool",
-    "SPARQL endpoint"
+    "Web API"
   ],
   "sc:author": "Bas Stringer",
   "sc:contributor": "Albert Meroño Peñuela",

@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Pierre Barbera",
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
-        "pubmed:30165689",
         "pmcid:PMC6368480",
+        "pubmed:30165689",
         {
           "@id": "https://doi.org/10.1093/sysbio/syy054"
         }
@@ -36,8 +36,8 @@
       "sc:license": "AGPL-3.0",
       "sc:name": "EPA-ng",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/Pbdas/epa-ng"
     },

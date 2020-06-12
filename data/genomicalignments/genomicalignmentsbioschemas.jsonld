@@ -27,10 +27,10 @@
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_0867"
+          "@id": "edam:data_1383"
         },
         {
-          "@id": "edam:data_1383"
+          "@id": "edam:data_0867"
         }
       ],
       "sc:additionalType": [
@@ -50,10 +50,10 @@
       "sc:description": "Provides efficient containers for storing and manipulating short genomic alignments (typically obtained by aligning short reads to a reference genome). This includes read counting, computing the coverage, junction detection, and working with the nucleotide content of the alignments.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3230"
+          "@id": "edam:operation_2478"
         },
         {
-          "@id": "edam:operation_2478"
+          "@id": "edam:operation_3230"
         },
         {
           "@id": "edam:operation_3563"
@@ -63,8 +63,8 @@
       "sc:name": "GenomicAlignments",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/GenomicAlignments.html",
       "sc:version": "1.10.0"

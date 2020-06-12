@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Manuel Viotti",
-    "Oleg Kikin",
     "Lawrence D'Antonio",
-    "Paramjeet Bagga"
+    "Paramjeet Bagga",
+    "Oleg Kikin"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:16845096",

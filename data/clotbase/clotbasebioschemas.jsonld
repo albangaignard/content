@@ -17,8 +17,8 @@
   "sc:name": "Clotbase",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.clotbase.bicnirrh.res.in/"
 }

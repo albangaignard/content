@@ -27,19 +27,19 @@
           "@id": "edam:operation_2949"
         },
         {
+          "@id": "edam:operation_3083"
+        },
+        {
           "@id": "edam:operation_3439"
         },
         {
           "@id": "edam:operation_0276"
-        },
-        {
-          "@id": "edam:operation_3083"
         }
       ],
       "sc:name": "MyproteinNet",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://netbio.bgu.ac.il/myproteinnet/"

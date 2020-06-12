@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/NAR/GKZ456",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/2StrucCompare",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -46,11 +42,15 @@
       "sc:license": "Unlicense",
       "sc:name": "2StrucCompare",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://2struccompare.cryst.bbk.ac.uk/index.php"
+    },
+    {
+      "@id": "https://doi.org/10.1093/NAR/GKZ456",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

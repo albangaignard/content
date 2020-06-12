@@ -39,9 +39,9 @@
       ],
       "sc:name": "ScaPD",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://bioinfo.wilmer.jhu.edu/ScaPD/"
     }

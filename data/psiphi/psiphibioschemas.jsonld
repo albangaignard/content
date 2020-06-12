@@ -13,15 +13,15 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
-    "EMBOSS Contributors",
+    "UK MRC",
     "UK BBSRC",
-    "UK MRC"
+    "EMBOSS Contributors"
   ],
   "sc:description": "Calculates phi and psi torsion angles from protein coordinates.",
   "sc:funder": [
-    "UK BBSRC",
     "Wellcome Trust",
-    "UK MRC"
+    "UK MRC",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "psiphi",

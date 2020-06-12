@@ -17,8 +17,8 @@
   "sc:name": "Xanthusbase",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://ecoliwiki.net/colipedia/index.php/XanthusBase"
 }

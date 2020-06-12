@@ -15,8 +15,8 @@
   "sc:name": "bioLabeler",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://biolabeler.com/",
   "sc:version": "1"
