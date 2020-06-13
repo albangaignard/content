@@ -15,22 +15,22 @@
     "Web application"
   ],
   "sc:author": [
-    "Svenn H Grindhaug",
-    "Gisle Salensminde",
-    "Kidane M Tekle",
-    "Edvin Fuglebakk",
-    "Tristan Cragnolini",
-    "Lars Skjærven",
     "Nathalie Reuter",
+    "Gisle Salensminde",
+    "Edvin Fuglebakk",
+    "Sandhya P Tiwari",
+    "Svenn H Grindhaug",
+    "Kidane M Tekle",
+    "Lars Skjærven",
     "Siv M Hollup",
-    "Sandhya P Tiwari"
+    "Tristan Cragnolini"
   ],
   "sc:description": "Quick, automated computation and analysis of low-frequency normal modes for protein structures.",
   "sc:name": "WEBnma",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "UiB",

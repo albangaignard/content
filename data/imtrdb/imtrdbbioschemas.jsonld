@@ -17,8 +17,8 @@
         "Konstantin Gunbin"
       ],
       "sc:additionalType": [
-        "Database portal",
-        "Desktop application"
+        "Desktop application",
+        "Database portal"
       ],
       "sc:citation": [
         "pubmed:31284879",
@@ -30,18 +30,18 @@
       "sc:description": "Database and software for mitochondrial imperfect interspersed repeats annotation.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_0237"
         },
         {
-          "@id": "edam:operation_0237"
+          "@id": "edam:operation_3431"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "ImtRDB",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bioinfodbs.kantiana.ru/ImtRDB/"
     },

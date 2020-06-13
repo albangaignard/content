@@ -13,12 +13,12 @@
       "@id": "https://bio.tools/Cistrome-GO",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "X Shirley Liu",
-        "Clifford A Meyer"
+        "Clifford A Meyer",
+        "X Shirley Liu"
       ],
       "sc:additionalType": [
-        "Command-line tool",
         "Web service",
+        "Command-line tool",
         "Web application"
       ],
       "sc:citation": [
@@ -43,8 +43,8 @@
       "sc:license": "Other",
       "sc:name": "Cistrome-GO",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://go.cistrome.org/"

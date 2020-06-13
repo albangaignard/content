@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/Fetal_XCMR",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Chris Roy",
-        "Christopher K. Macgowan"
+        "Christopher K. Macgowan",
+        "Chris Roy"
       ],
       "sc:additionalType": "Script",
       "sc:citation": [
@@ -33,8 +33,8 @@
       "sc:name": "Fetal XCMR",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://github.com/cwroy/Fetal-XCMR/"
     }

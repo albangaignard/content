@@ -15,8 +15,8 @@
       "biotools:primaryContact": [
         "Gaurav Kandlikar",
         "Martinez Arbizu",
-        "Madeline Cowen",
-        "Mahendra Mariadassou"
+        "Mahendra Mariadassou",
+        "Madeline Cowen"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -42,8 +42,8 @@
       "sc:name": "ranacapa",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://github.com/gauravsk/ranacapa"
     },

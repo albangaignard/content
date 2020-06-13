@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/cylofold",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Wojciech Kasprzak",
     "Eckart Bindewald",
+    "Wojciech Kasprzak",
     "Bruce A. Shapiro"
   ],
   "sc:additionalType": "Web application",

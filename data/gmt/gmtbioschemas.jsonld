@@ -40,8 +40,8 @@
       "sc:license": "Unlicense",
       "sc:name": "GmT",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "https://galaxyproject.org/use/gmt/"

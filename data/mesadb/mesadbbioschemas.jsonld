@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Gökhan Karakülah",
-    "Koray D. Kaya",
-    "Özlen Konu",
     "Cengiz Yakicier",
+    "Özlen Konu",
+    "Koray D. Kaya",
     "Aybar C. Acar"
   ],
   "sc:additionalType": "Database portal",

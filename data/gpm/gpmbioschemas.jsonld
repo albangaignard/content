@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0001-8030-5346",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/gpm",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -35,10 +39,6 @@
       "sc:name": "GPM",
       "sc:operatingSystem": "Linux",
       "sc:url": "https://github.com/Jianwei-Zhang/LIMS"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-8030-5346",
-      "@type": "schema:Person"
     }
   ]
 }

@@ -19,13 +19,13 @@
   "sc:name": "VARIANT",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
-    "http://bioinfo.cipf.es",
     "cipf.es",
-    "Computational Genomics Department. Prince Felipe Research Center (CIPF)"
+    "Computational Genomics Department. Prince Felipe Research Center (CIPF)",
+    "http://bioinfo.cipf.es"
   ],
   "sc:url": "http://variant.bioinfo.cipf.es/",
   "sc:version": "1"

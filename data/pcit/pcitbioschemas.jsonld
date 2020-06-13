@@ -18,8 +18,8 @@
   "sc:name": "PCIT",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://cran.r-project.org/package=PCIT",
   "sc:version": "1.5-3"

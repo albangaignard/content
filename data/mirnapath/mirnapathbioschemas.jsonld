@@ -27,18 +27,18 @@
       ],
       "edam:has_output": [
         {
+          "@id": "edam:data_1636"
+        },
+        {
           "@id": "edam:data_1669"
         },
         {
           "@id": "edam:data_1772"
-        },
-        {
-          "@id": "edam:data_1636"
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
@@ -49,8 +49,8 @@
         }
       ],
       "sc:citation": [
-        "pmcid:PMC4333818",
         "pubmed:25745387",
+        "pmcid:PMC4333818",
         {
           "@id": "https://doi.org/10.3389/fncel.2015.00053"
         }
@@ -62,8 +62,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "miRNApath",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/miRNApath.html",

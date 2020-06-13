@@ -19,8 +19,8 @@
   "sc:name": "bigsnpr",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://privefl.github.io/bigsnpr/"
 }

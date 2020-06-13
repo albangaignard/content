@@ -13,26 +13,26 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "EMBOSS Contributors",
-    "UK BBSRC",
-    "Wellcome Trust",
-    "UK MRC"
-  ],
-  "sc:description": "Identify protein-coding regions using Fickett TESTCODE statistic.",
-  "sc:funder": [
     "UK MRC",
     "UK BBSRC",
     "Wellcome Trust"
   ],
+  "sc:description": "Identify protein-coding regions using Fickett TESTCODE statistic.",
+  "sc:funder": [
+    "UK BBSRC",
+    "Wellcome Trust",
+    "UK MRC"
+  ],
   "sc:license": "GPL-3.0",
   "sc:name": "tcode",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/tcode.html",
   "sc:version": "r6"

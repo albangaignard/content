@@ -16,8 +16,8 @@
   "sc:name": "PartsGenie",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://parts.synbiochem.co.uk/#"
 }

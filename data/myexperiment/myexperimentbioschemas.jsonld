@@ -17,8 +17,8 @@
   "sc:name": "myExperiment",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.myexperiment.org"
 }

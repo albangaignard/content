@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://orcid.org/0000-0001-5135-5758",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/bacdiver",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -32,10 +36,6 @@
       ],
       "sc:url": "https://tibhannover.github.io/BacDiveR/",
       "sc:version": "0.7.0"
-    },
-    {
-      "@id": "https://orcid.org/0000-0001-5135-5758",
-      "@type": "schema:Person"
     }
   ]
 }

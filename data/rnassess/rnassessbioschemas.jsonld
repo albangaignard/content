@@ -36,9 +36,9 @@
       ],
       "sc:name": "RNAssess",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://rnassess.cs.put.poznan.pl/"
     }

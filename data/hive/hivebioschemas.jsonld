@@ -31,9 +31,9 @@
       },
       "sc:name": "HIVE",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://hive.biochemistry.gwu.edu/home"
     }

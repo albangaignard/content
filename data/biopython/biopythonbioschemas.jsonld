@@ -18,8 +18,8 @@
   "sc:name": "Biopython",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://biopython.org/",
   "sc:version": "1.70"

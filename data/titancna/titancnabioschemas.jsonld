@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0001-7578-7272",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/titancna",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -23,8 +27,8 @@
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         {
@@ -39,10 +43,10 @@
           "@id": "edam:operation_2403"
         },
         {
-          "@id": "edam:operation_3228"
+          "@id": "edam:operation_3202"
         },
         {
-          "@id": "edam:operation_3202"
+          "@id": "edam:operation_3228"
         }
       ],
       "sc:license": "GPL-3.0",
@@ -54,10 +58,6 @@
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/TitanCNA.html",
       "sc:version": "1.16.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-7578-7272",
-      "@type": "schema:Person"
     }
   ]
 }
