@@ -38,9 +38,9 @@
       ],
       "sc:name": "PPB",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://gdbtools.unibe.ch:8080/PPB/"
     },

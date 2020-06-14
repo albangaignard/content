@@ -18,8 +18,8 @@
   "sc:name": "GMA",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://github.com/chaoning/GMA"
 }

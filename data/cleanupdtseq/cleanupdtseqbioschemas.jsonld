@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Jianhong Ou",
-        "Sarah Sheppard",
-        "Lihua Julie Zhu"
+        "Lihua Julie Zhu",
+        "Sarah Sheppard"
       ],
       "sc:additionalType": [
         "Library",

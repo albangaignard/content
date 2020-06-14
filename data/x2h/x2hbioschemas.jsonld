@@ -11,11 +11,11 @@
   "@id": "https://bio.tools/X2H",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Yongzhuang Liu",
-    "Lei Zhang",
+    "Shuhui Su",
     "Jian Liu",
-    "Qiuru Liu",
-    "Shuhui Su"
+    "Lei Zhang",
+    "Yongzhuang Liu",
+    "Qiuru Liu"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:31094692",
@@ -23,9 +23,9 @@
   "sc:license": "Unlicense",
   "sc:name": "X2H",
   "sc:operatingSystem": [
+    "Mac",
     "Linux",
-    "Windows",
-    "Mac"
+    "Windows"
   ],
   "sc:url": "https://github.com/lyotvincent/X2H"
 }

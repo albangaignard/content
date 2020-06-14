@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Mickael ORGEUR",
-    "Claude JACQ",
     "Jean-Christophe GELLY",
+    "Claude JACQ",
     "Gaelle LELANDAIS"
   ],
   "sc:additionalType": "Database portal",

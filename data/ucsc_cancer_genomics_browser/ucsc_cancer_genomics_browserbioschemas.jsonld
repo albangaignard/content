@@ -20,8 +20,8 @@
   "sc:name": "UCSC Cancer Genomics Browser",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://genome-cancer.ucsc.edu"
 }

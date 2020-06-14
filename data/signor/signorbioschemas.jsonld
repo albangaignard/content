@@ -19,16 +19,16 @@
   ],
   "sc:contributor": [
     "Gianni Cesareni",
-    "Livia Perfetto",
     "Elena Santonico",
-    "Marta Iannuccelli"
+    "Marta Iannuccelli",
+    "Livia Perfetto"
   ],
   "sc:description": "A tool collects manually-annotated logic relationships between molecules that participate in signal transduction.",
   "sc:license": "CC-BY-SA-4.0",
   "sc:name": "SIGNOR",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": [

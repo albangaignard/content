@@ -13,8 +13,8 @@
   "biotools:primaryContact": [
     "Alex Zelikovsky",
     "Sahar Al Seesi",
-    "Ion Mandoiu",
-    "Igor Mandric"
+    "Igor Mandric",
+    "Ion Mandoiu"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:21504602",
@@ -22,8 +22,8 @@
   "sc:name": "IsoEM",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://dna.engr.uconn.edu/?page_id=105"
 }

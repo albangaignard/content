@@ -17,8 +17,8 @@
   "sc:name": "NAViGaTOR",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://ophid.utoronto.ca/navigator/"
 }

@@ -24,8 +24,8 @@
         "@id": "edam:topic_3892"
       },
       "sc:citation": [
-        "pmcid:PMC6482212",
         "pubmed:31058167",
+        "pmcid:PMC6482212",
         {
           "@id": "https://doi.org/10.3389/fmolb.2019.00025"
         }
@@ -50,8 +50,8 @@
       "sc:version": [
         "v0.5",
         "v0.4",
-        "v0.3",
         "v0.2",
+        "v0.3",
         "v0.6"
       ]
     },

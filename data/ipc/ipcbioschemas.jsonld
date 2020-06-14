@@ -26,29 +26,29 @@
         "@id": "edam:data_1528"
       },
       "sc:additionalType": [
-        "Web service",
-        "Command-line tool"
+        "Command-line tool",
+        "Web service"
       ],
       "sc:applicationSubCategory": [
+        {
+          "@id": "edam:topic_3520"
+        },
         {
           "@id": "edam:topic_0123"
         },
         {
-          "@id": "edam:topic_3047"
-        },
-        {
-          "@id": "edam:topic_3520"
+          "@id": "edam:topic_0121"
         },
         {
           "@id": "edam:topic_3292"
         },
         {
-          "@id": "edam:topic_0121"
+          "@id": "edam:topic_3047"
         }
       ],
       "sc:citation": [
-        "pmcid:PMC5075173",
         "pubmed:27769290",
+        "pmcid:PMC5075173",
         {
           "@id": "https://doi.org/10.1186/s13062-016-0159-9"
         }
@@ -61,9 +61,9 @@
       "sc:license": "Other",
       "sc:name": "IPC",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:softwareHelp": {
         "@id": "http://isoelectric.org/algorithms.html"

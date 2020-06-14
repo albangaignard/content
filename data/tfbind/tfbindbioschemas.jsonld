@@ -16,8 +16,8 @@
   "sc:name": "TFBIND",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://tfbind.hgc.jp/"
 }

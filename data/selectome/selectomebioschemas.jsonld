@@ -28,10 +28,10 @@
           "@id": "edam:data_0872"
         },
         {
-          "@id": "edam:data_0916"
+          "@id": "edam:data_2093"
         },
         {
-          "@id": "edam:data_2093"
+          "@id": "edam:data_0916"
         }
       ],
       "sc:additionalType": "Database portal",
@@ -51,8 +51,8 @@
       },
       "sc:name": "Selectome",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:provider": "SIB Swiss Institute of Bioinformatics",

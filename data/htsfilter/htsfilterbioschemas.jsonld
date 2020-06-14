@@ -35,9 +35,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "HTSFilter",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/HTSFilter.html",
       "sc:version": "1.14.1"

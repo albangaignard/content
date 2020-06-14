@@ -30,9 +30,9 @@
       },
       "sc:name": "Kassiopeia",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://kassiopeia.motorprotein.de/kassiopeia"
     },

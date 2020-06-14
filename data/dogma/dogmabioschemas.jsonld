@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0002-2416-9842",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1093/NAR/GKZ366",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/DOGMA",
@@ -20,8 +20,8 @@
         "@id": "https://orcid.org/0000-0002-2416-9842"
       },
       "sc:additionalType": [
-        "Web application",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:31076763",
@@ -44,8 +44,8 @@
       "sc:url": "https://domainworld-services.uni-muenster.de/dogma/"
     },
     {
-      "@id": "https://doi.org/10.1093/NAR/GKZ366",
-      "@type": "sc:CreativeWork"
+      "@id": "https://orcid.org/0000-0002-2416-9842",
+      "@type": "schema:Person"
     }
   ]
 }

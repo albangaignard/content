@@ -19,8 +19,8 @@
       "biotools:primaryContact": "Maarten Paul",
       "sc:additionalType": "Library",
       "sc:citation": [
-        "pubmed:30646838",
         "pmcid:PMC6334411",
+        "pubmed:30646838",
         {
           "@id": "https://doi.org/10.1186/s12859-018-2578-3"
         }

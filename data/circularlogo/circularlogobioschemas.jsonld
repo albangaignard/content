@@ -13,13 +13,13 @@
       "@id": "https://bio.tools/circularlogo",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Zhenqing Ye",
-        "Liguo Wang"
+        "Liguo Wang",
+        "Zhenqing Ye"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pubmed:28532394",
         "pmcid:PMC5440937",
+        "pubmed:28532394",
         {
           "@id": "https://doi.org/10.1186/s12859-017-1680-2"
         }

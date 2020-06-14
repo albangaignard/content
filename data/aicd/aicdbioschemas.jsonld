@@ -32,21 +32,21 @@
       "sc:description": "Anti-Inflamamtory Compounds Database for drug discovery.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3431"
-        },
-        {
           "@id": "edam:operation_3891"
         },
         {
           "@id": "edam:operation_2939"
+        },
+        {
+          "@id": "edam:operation_3431"
         }
       ],
       "sc:license": "CC-BY-4.0",
       "sc:name": "AICD",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://956023.ichengyun.net/AICD/index.php"
     }

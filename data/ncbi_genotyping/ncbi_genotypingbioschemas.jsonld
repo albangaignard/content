@@ -17,8 +17,8 @@
   "sc:name": "Genotyping - NCBI",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://www.ncbi.nlm.nih.gov/projects/genotyping/formpage.cgi"
 }

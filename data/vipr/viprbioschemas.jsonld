@@ -16,9 +16,9 @@
         "@id": "http://orcid.org/0000-0001-7930-8160"
       },
       "sc:additionalType": [
-        "Database portal",
         "Workbench",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         {
@@ -32,8 +32,8 @@
       "sc:name": "Virus Pathogen Resource (ViPR)",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": "rki.de",
       "sc:url": "http://www.viprbrc.org/brc/home.spg?decorator=vipr"

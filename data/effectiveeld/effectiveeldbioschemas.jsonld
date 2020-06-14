@@ -36,9 +36,9 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "EffectiveELD",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:provider": [
         "AT-CUBE",
