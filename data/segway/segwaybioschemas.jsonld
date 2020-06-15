@@ -14,14 +14,18 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0002-4517-1562",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/segway",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Command-line tool",
       "sc:author": [
+        "Eric Roberts",
         {
           "@id": "http://orcid.org/0000-0002-4517-1562"
-        },
-        "Eric Roberts"
+        }
       ],
       "sc:citation": [
         "pubmed:23221638",
@@ -41,10 +45,6 @@
       ],
       "sc:url": "http://segway.hoffmanlab.org/",
       "sc:version": "1.4.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-4517-1562",
-      "@type": "schema:Person"
     }
   ]
 }

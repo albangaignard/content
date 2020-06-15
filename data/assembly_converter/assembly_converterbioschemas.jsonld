@@ -15,9 +15,9 @@
   "sc:description": "Map your data to the current assembly.",
   "sc:name": "Assembly converter",
   "sc:operatingSystem": [
+    "Windows",
     "Mac",
-    "Linux",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
     "Sanger Institute",

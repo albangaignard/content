@@ -17,8 +17,8 @@
   "sc:name": "HOMA",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www-nmr.cabm.rutgers.edu/HOMA/"
 }

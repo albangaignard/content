@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/icbn",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Niko Beerenwinkel",
     "Patrick Knupfer",
+    "Niko Beerenwinkel",
     "Achim Tresch"
   ],
   "sc:additionalType": "Library",
@@ -21,8 +21,8 @@
   "sc:name": "icbn",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.bsse.ethz.ch/cbg/software/icbn"
 }

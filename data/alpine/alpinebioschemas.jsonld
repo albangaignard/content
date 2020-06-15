@@ -29,10 +29,10 @@
       ],
       "sc:citation": [
         "pubmed:27669167",
-        "pmcid:PMC5143225",
         {
           "@id": "https://doi.org/10.1038/nbt.3682"
-        }
+        },
+        "pmcid:PMC5143225"
       ],
       "sc:description": "Fragment sequence bias modeling and correction for RNA-seq transcript abundance estimation.",
       "sc:featureList": {
@@ -42,8 +42,8 @@
       "sc:name": "alpine",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/alpine.html",
       "sc:version": "1.0.0"

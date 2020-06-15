@@ -20,11 +20,11 @@
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
+        "pmcid:PMC6507172",
+        "pubmed:31072324",
         {
           "@id": "https://doi.org/10.1186/S12864-019-5738-6"
-        },
-        "pubmed:31072324",
-        "pmcid:PMC6507172"
+        }
       ],
       "sc:description": "Package for network-weighted gene-set clustering and network visualization.",
       "sc:featureList": [

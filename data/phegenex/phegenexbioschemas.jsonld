@@ -16,8 +16,8 @@
   "sc:name": "PheGenEx",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://phegenex-umh.cs.umn.edu:8080/PheGenEx/"
 }

@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0001-8231-3323",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1093/nar/gkm218",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-8231-3323",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/inforna",
@@ -42,10 +42,10 @@
         "@id": "edam:topic_0080"
       },
       "sc:author": [
+        "Anke Busch",
         {
           "@id": "http://orcid.org/0000-0001-8231-3323"
-        },
-        "Anke Busch"
+        }
       ],
       "sc:citation": [
         "pmcid:PMC1933236",
@@ -61,9 +61,9 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "INFORNA Sequence Design",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:provider": [
         "University Freiburg",

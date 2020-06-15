@@ -19,17 +19,17 @@
   ],
   "sc:contributor": [
     "Gianni Cesareni",
+    "Livia Perfetto",
     "Elena Santonico",
-    "Marta Iannuccelli",
-    "Livia Perfetto"
+    "Marta Iannuccelli"
   ],
   "sc:description": "A tool collects manually-annotated logic relationships between molecules that participate in signal transduction.",
   "sc:license": "CC-BY-SA-4.0",
   "sc:name": "SIGNOR",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "Molecular Genetic Group, University of Rome \"Tor Vergata\", Rome, Italy",

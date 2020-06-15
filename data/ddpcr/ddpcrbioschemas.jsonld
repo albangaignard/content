@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.12688/f1000research.9022.1",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/ddpcr",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -41,11 +37,15 @@
       "sc:license": "MIT",
       "sc:name": "ddpcr",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://daattali.com/shiny/ddpcr/"
+    },
+    {
+      "@id": "https://doi.org/10.12688/f1000research.9022.1",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

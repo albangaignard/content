@@ -17,12 +17,12 @@
       "@id": "https://bio.tools/orthograph",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Oliver Niehuis",
-        "Malte Petersen"
+        "Malte Petersen",
+        "Oliver Niehuis"
       ],
       "sc:additionalType": [
-        "Workflow",
-        "Command-line tool"
+        "Command-line tool",
+        "Workflow"
       ],
       "sc:citation": [
         "pmcid:PMC5312442",

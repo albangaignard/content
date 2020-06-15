@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1038/nprot.2009.97",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0002-0474-2218",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/biomart",
@@ -34,14 +34,14 @@
       "sc:name": "biomaRt",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://bioconductor.org/packages/biomaRt/"
     },
     {
-      "@id": "http://orcid.org/0000-0002-0474-2218",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1038/nprot.2009.97",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

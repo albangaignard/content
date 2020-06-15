@@ -16,8 +16,8 @@
   "sc:name": "FoldHandedness",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bioinfo.protres.ru/foldhandedness/"
 }

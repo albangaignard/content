@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Shuhui Su",
-    "Jian Liu",
     "Lei Zhang",
     "Yongzhuang Liu",
+    "Jian Liu",
     "Qiuru Liu"
   ],
   "sc:additionalType": "Command-line tool",

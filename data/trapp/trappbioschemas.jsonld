@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/NAR/GKX277",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0001-5951-8670",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/NAR/GKX277",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/trapp",
@@ -28,8 +28,8 @@
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pmcid:PMC5570179",
         "pubmed:28431137",
+        "pmcid:PMC5570179",
         {
           "@id": "https://doi.org/10.1093/NAR/GKX277"
         }
