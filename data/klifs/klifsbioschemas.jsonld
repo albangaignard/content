@@ -16,16 +16,16 @@
   ],
   "sc:additionalType": [
     "Web API",
-    "Web application",
+    "Database portal",
     "Command-line tool",
-    "Database portal"
+    "Web application"
   ],
   "sc:author": [
-    "Oscar P.J. van Linden",
     "Georgi K. Kanev",
     "Chris de Graaf",
+    "Albert J. Kooistra",
     "Division of Medicinal Chemistry (Vrije Universiteit Amsterdam)",
-    "Albert J. Kooistra"
+    "Oscar P.J. van Linden"
   ],
   "sc:contributor": [
     "Amsterdam Academic Alliance",
@@ -40,13 +40,13 @@
   ],
   "sc:name": "KLIFS",
   "sc:operatingSystem": [
-    "Mac",
+    "Linux",
     "Windows",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
-    "vu.nl",
-    "Vrije Universiteit Amsterdam"
+    "Vrije Universiteit Amsterdam",
+    "vu.nl"
   ],
   "sc:url": "http://klifs.vu-compmedchem.nl"
 }

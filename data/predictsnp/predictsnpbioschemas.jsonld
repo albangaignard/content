@@ -11,15 +11,15 @@
   "@id": "https://bio.tools/predictsnp",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Command-line tool",
-    "Web application"
+    "Web application",
+    "Command-line tool"
   ],
   "sc:author": [
-    "Jaroslav Bendl",
+    "Ondrej Salanda",
     "Jiri Damborsky",
     "Jan Brezovsky",
-    "Jan Stourac",
-    "Ondrej Salanda"
+    "Jaroslav Bendl",
+    "Jan Stourac"
   ],
   "sc:contributor": [
     "Eric D. Wieben",
@@ -36,9 +36,9 @@
   "sc:provider": [
     "Masaryk University, Brno, Czech Republic",
     "Brno University of Technology, Brno, Czech Republic",
-    "Mayo Clinic, Rochester, New York, United States of America",
+    "Loschmidt Laboratories",
     "International Centre for Clinical Research, Brno, Czech Republic",
-    "Loschmidt Laboratories"
+    "Mayo Clinic, Rochester, New York, United States of America"
   ],
   "sc:url": "http://loschmidt.chemi.muni.cz/predictsnp",
   "sc:version": "1.0"

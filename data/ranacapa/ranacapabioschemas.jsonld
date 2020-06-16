@@ -13,10 +13,10 @@
       "@id": "https://bio.tools/ranacapa",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Mahendra Mariadassou",
-        "Gaurav Kandlikar",
+        "Madeline Cowen",
         "Martinez Arbizu",
-        "Madeline Cowen"
+        "Gaurav Kandlikar",
+        "Mahendra Mariadassou"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -41,9 +41,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "ranacapa",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://github.com/gauravsk/ranacapa"
     },

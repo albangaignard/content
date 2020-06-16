@@ -19,8 +19,8 @@
   "sc:name": "SECISearch3  Seblastian",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "Lab Roderic Guigo Group",

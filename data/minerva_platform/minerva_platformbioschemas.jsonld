@@ -10,43 +10,35 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1038/npjsba.2016.20",
-      "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "https://orcid.org/0000-0003-1473-370X",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/MINERVA_Platform",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Piotr Gawron",
         {
           "@id": "https://orcid.org/0000-0003-1473-370X"
-        }
+        },
+        "Piotr Gawron"
       ],
       "sc:additionalType": [
         "Web API",
         "Web service"
       ],
       "sc:author": [
-        "Piotr Gawron",
-        "David Hoksza"
+        "David Hoksza",
+        "Piotr Gawron"
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1038/npjsba.2016.20"
         },
-        "pmcid:PMC5516855",
+        "pubmed:31074494",
         "pubmed:28725475",
-        "pubmed:31074494"
+        "pmcid:PMC5516855"
       ],
       "sc:contributor": [
-        "Reinhard Schneider",
-        "Ewa Smula",
-        "Venkata Satagopam",
         "Rudi Balling",
+        "Reinhard Schneider",
+        "Venkata Satagopam",
+        "Ewa Smula",
         {
           "@id": "https://orcid.org/0000-0003-1473-370X"
         }
@@ -55,13 +47,21 @@
       "sc:license": "AGPL-3.0",
       "sc:name": "MINERVA Platform",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:provider": "Luxembourg Centre for Systems Biomedicine, University of Luxembourg",
       "sc:url": "https://minerva-web.lcsb.uni.lu",
       "sc:version": "13.1.2"
+    },
+    {
+      "@id": "https://orcid.org/0000-0003-1473-370X",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1038/npjsba.2016.20",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

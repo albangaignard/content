@@ -31,8 +31,8 @@
       },
       "sc:name": "EpimiR",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://210.46.85.180:8080/EpimiR/"

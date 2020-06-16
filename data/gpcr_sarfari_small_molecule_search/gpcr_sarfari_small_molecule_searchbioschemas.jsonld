@@ -16,8 +16,8 @@
   "sc:description": "Search against small molecules stored in GPCR SARfari database.",
   "sc:name": "GPCR SARfari Small Molecule Search",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": "EMBL-EBI",

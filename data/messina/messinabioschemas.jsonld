@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1371/journal.pone.0005337",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/messina",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Mark Pinese",
@@ -18,25 +22,25 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_2048"
         },
         {
-          "@id": "edam:data_2048"
+          "@id": "edam:data_2884"
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
           "@id": "edam:topic_0203"
         },
         {
-          "@id": "edam:topic_3344"
+          "@id": "edam:topic_3360"
         },
         {
-          "@id": "edam:topic_3360"
+          "@id": "edam:topic_3344"
         }
       ],
       "sc:citation": [
@@ -67,10 +71,6 @@
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/messina.html",
       "sc:version": "1.10.0"
-    },
-    {
-      "@id": "https://doi.org/10.1371/journal.pone.0005337",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

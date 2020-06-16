@@ -21,8 +21,8 @@
   "sc:name": "Orange Network",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "Laboratory for Bioinformatics, University of Ljubljana",

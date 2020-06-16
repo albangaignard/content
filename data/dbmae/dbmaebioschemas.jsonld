@@ -42,8 +42,8 @@
       "sc:name": "dbMAE",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://mae.hms.harvard.edu/aboutmae.php"
     }

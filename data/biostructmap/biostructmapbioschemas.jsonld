@@ -15,8 +15,8 @@
     "Dr. Paul Ramsland"
   ],
   "sc:additionalType": [
-    "Web application",
     "Web service",
+    "Web application",
     "Script"
   ],
   "sc:description": "Python tool for integration of protein structure and sequence-based features.",
