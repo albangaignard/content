@@ -17,8 +17,8 @@
   "sc:name": "MutaNET",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://service.bioinformatik.uni-saarland.de/mutanet/"
 }

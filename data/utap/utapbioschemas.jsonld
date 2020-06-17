@@ -31,10 +31,10 @@
           "@id": "edam:operation_3680"
         },
         {
-          "@id": "edam:operation_3800"
+          "@id": "edam:operation_3223"
         },
         {
-          "@id": "edam:operation_3223"
+          "@id": "edam:operation_3800"
         }
       ],
       "sc:name": "UTAP",

@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/gridmos",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "WainerZoli",
     "AlessandroBevilacqua",
     "FilippoPiccinini",
     "GiuliaPaganelli",
-    "WainerZoli",
     "AnnaTesei"
   ],
   "sc:additionalType": "Desktop application",

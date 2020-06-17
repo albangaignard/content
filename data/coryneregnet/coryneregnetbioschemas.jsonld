@@ -41,9 +41,9 @@
       ],
       "sc:name": "CoryneRegNet",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:provider": "bmb.sdu.dk",
       "sc:url": "http://www.coryneregnet.de"

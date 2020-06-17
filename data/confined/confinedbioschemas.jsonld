@@ -39,8 +39,8 @@
       ],
       "sc:name": "CONFINED",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "https://github.com/cozygene/CONFINED"

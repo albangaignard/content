@@ -42,9 +42,9 @@
       "sc:license": "Unlicense",
       "sc:name": "ImmuneRegulation",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://immuneregulation.mssm.edu"
     },

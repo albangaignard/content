@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/testdose",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "D. Villoing",
     "M. Bardies",
-    "L. Ferrer",
-    "D. Villoing"
+    "L. Ferrer"
   ],
   "sc:additionalType": "Desktop application",
   "sc:citation": "pubmed:26632045",

@@ -19,9 +19,9 @@
   ],
   "sc:description": "An Emboss tool that writes statistics for a sequence assembly",
   "sc:funder": [
-    "UK BBSRC",
     "UK MRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "infoassembly",

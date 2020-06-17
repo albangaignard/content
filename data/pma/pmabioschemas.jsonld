@@ -28,8 +28,8 @@
       "sc:name": "PMA",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://sourceforge.net/projects/protein-microarray-analyser/"
     },

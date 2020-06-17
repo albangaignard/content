@@ -19,8 +19,8 @@
   "sc:license": "CC0-1.0",
   "sc:name": "Pfam",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": "Identifiers.org",

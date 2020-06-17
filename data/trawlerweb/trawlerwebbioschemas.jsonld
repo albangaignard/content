@@ -38,8 +38,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "TrawlerWeb",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://trawler.erc.monash.edu.au/"

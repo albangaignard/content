@@ -41,9 +41,9 @@
       "sc:license": "Unlicense",
       "sc:name": "CiliaCarta",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioinformatics.bio.uu.nl/john/syscilia/ciliacarta/"
     },

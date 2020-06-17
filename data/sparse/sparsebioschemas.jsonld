@@ -35,13 +35,13 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_0872"
-        },
-        {
           "@id": "edam:data_1916"
         },
         {
           "@id": "edam:data_1465"
+        },
+        {
+          "@id": "edam:data_0872"
         }
       ],
       "sc:additionalType": "Command-line tool",
@@ -54,18 +54,18 @@
         }
       ],
       "sc:author": [
+        "Sebastian Will",
+        "Rolf Backofen",
         {
           "@id": "http://orcid.org/0000-0002-0173-3009"
-        },
-        "Sebastian Will",
-        "Rolf Backofen"
+        }
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1093/bioinformatics/btv185"
         },
-        "pmcid:PMC4514930",
-        "pubmed:25838465"
+        "pubmed:25838465",
+        "pmcid:PMC4514930"
       ],
       "sc:contributor": "Sebastian Will",
       "sc:description": "Very efficient structure-based alignment of RNAs.",
@@ -80,8 +80,8 @@
         "Linux"
       ],
       "sc:provider": [
-        "rnateam",
-        "University Freiburg"
+        "University Freiburg",
+        "rnateam"
       ],
       "sc:softwareHelp": {
         "@id": "http://www.bioinf.uni-freiburg.de/Software/SPARSE/"

@@ -20,8 +20,8 @@
         "@id": "http://orcid.org/0000-0001-6859-8828"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         {
@@ -38,8 +38,8 @@
       "sc:name": "procoil",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/procoil.html",
       "sc:version": "2.2.0"

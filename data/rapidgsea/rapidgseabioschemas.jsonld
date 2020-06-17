@@ -38,8 +38,8 @@
       "sc:license": "Unlicense",
       "sc:name": "rapidGSEA",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://github.com/gravitino/cudaGSEA"

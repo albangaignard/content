@@ -10,11 +10,15 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12859-016-1355-4",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/spectre",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Command-line tool",
-        "Script"
+        "Script",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC5123373",
@@ -33,10 +37,6 @@
         "Mac"
       ],
       "sc:url": "https://github.com/mills-lab/spectre"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12859-016-1355-4",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

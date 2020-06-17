@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1155/2014/910390",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/biomvrcns",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Yang Du",
@@ -29,8 +25,8 @@
         "@id": "edam:data_1276"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
@@ -66,6 +62,10 @@
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/biomvRCNS.html",
       "sc:version": "1.14.0"
+    },
+    {
+      "@id": "https://doi.org/10.1155/2014/910390",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

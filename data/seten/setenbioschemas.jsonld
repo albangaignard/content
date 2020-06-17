@@ -30,8 +30,8 @@
       },
       "sc:name": "Seten",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://www.iupui.edu/~sysbio/seten/"

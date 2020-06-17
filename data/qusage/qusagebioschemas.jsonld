@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0001-9311-9884",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/qusage",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Christopher Bolen",
@@ -25,26 +29,26 @@
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3170"
+          "@id": "edam:topic_3518"
         },
         {
           "@id": "edam:topic_0203"
         },
         {
-          "@id": "edam:topic_3518"
+          "@id": "edam:topic_3170"
         }
       ],
       "sc:citation": [
         "pmcid:PMC3794608",
+        "pubmed:23921631",
         {
           "@id": "https://doi.org/10.1093/nar/gkt660"
-        },
-        "pubmed:23921631"
+        }
       ],
       "sc:contributor": {
         "@id": "http://orcid.org/0000-0001-9311-9884"
@@ -56,8 +60,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "qusage",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/qusage.html",
@@ -66,10 +70,6 @@
     {
       "@id": "https://doi.org/10.1093/nar/gkt660",
       "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-9311-9884",
-      "@type": "schema:Person"
     }
   ]
 }

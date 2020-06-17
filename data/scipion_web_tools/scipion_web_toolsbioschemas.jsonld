@@ -20,8 +20,8 @@
     "Linux"
   ],
   "sc:provider": [
-    "cnb.csic.es",
     "INB",
+    "cnb.csic.es",
     "ELIXIR-ES"
   ],
   "sc:url": "http://scipion.cnb.csic.es/m/services/",

@@ -36,8 +36,8 @@
       ],
       "sc:name": "ePIANNO",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://epianno.stat.sinica.edu.tw/index.html"
