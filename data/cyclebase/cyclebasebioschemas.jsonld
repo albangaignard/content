@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Rasmus Wernersson",
-    "Lars Juhl Jensen",
-    "Alberto Santos"
+    "Alberto Santos",
+    "Lars Juhl Jensen"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:19934261",

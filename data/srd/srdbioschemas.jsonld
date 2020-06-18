@@ -10,6 +10,14 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-0527-1171",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-6816-5931",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.1261/rna.049346.114",
       "@type": "sc:CreativeWork"
     },
@@ -19,21 +27,21 @@
       "biotools:primaryContact": "Olivier Collin",
       "sc:additionalType": "Database portal",
       "sc:author": [
-        "Felden B.",
+        "Mauro T.",
         {
           "@id": "http://orcid.org/0000-0002-0527-1171"
         },
-        "Mauro T.",
         {
           "@id": "http://orcid.org/0000-0002-6816-5931"
         },
         "Chabelskaya S.",
-        "Ivain L.",
-        "Hallier M."
+        "Hallier M.",
+        "Felden B.",
+        "Ivain L."
       ],
       "sc:citation": [
-        "pubmed:25805861",
         "pmcid:PMC4408781",
+        "pubmed:25805861",
         {
           "@id": "https://doi.org/10.1261/rna.049346.114"
         }
@@ -53,14 +61,6 @@
         "Université Rennes 1"
       ],
       "sc:url": "http://srd.genouest.org/"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-0527-1171",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-6816-5931",
-      "@type": "schema:Person"
     }
   ]
 }

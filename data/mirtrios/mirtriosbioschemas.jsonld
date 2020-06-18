@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/mirtrios",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Qing Xie",
     "Huiqian Chen",
     "Tao Wang",
+    "Qing Xie",
     "Yi Jiang",
     "Jinchen Li"
   ],

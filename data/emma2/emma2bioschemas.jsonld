@@ -16,8 +16,8 @@
   "sc:name": "EMMA2",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "Bielefeld University",

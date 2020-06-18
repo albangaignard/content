@@ -13,10 +13,10 @@
   "sc:additionalType": "Database portal",
   "sc:author": "Živa Ramšak",
   "sc:contributor": [
-    "Igor Mozetič",
-    "Špela Baebler",
-    "Ana Rotter",
     "Matej Korbar",
+    "Igor Mozetič",
+    "Ana Rotter",
+    "Špela Baebler",
     "Kristina Gruden",
     "Björn Usadel"
   ],
@@ -24,8 +24,8 @@
   "sc:license": "CC-BY-NC-SA-3.0",
   "sc:name": "GoMapMan",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": [

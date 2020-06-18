@@ -36,9 +36,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "apparent",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://cran.r-project.org/package=apparent",
       "sc:version": "1.1"

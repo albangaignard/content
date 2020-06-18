@@ -25,8 +25,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "Lab Roderic Guigo Group",
-    "crg.eu"
+    "crg.eu",
+    "Lab Roderic Guigo Group"
   ],
   "sc:url": "http://big.crg.cat/services/mmeta",
   "sc:version": "1"

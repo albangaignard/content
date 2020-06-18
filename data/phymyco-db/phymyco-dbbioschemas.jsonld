@@ -16,8 +16,8 @@
   "sc:name": "Phymyco-DB",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": "GenOuest",
   "sc:url": "http://phymycodb.genouest.org/"

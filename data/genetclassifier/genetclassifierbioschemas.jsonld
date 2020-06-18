@@ -14,14 +14,18 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0001-6104-7134",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/genetclassifier",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0001-6104-7134"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC4460584",
@@ -37,16 +41,12 @@
       "sc:license": "GPL-2.0",
       "sc:name": "geNetClassifier",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/geNetClassifier.html",
       "sc:version": "1.14.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-6104-7134",
-      "@type": "schema:Person"
     }
   ]
 }

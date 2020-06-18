@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/1471-2105-15-141",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/dmrforpairs",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -35,10 +39,10 @@
           "@id": "edam:topic_0160"
         },
         {
-          "@id": "edam:topic_3518"
+          "@id": "edam:topic_3295"
         },
         {
-          "@id": "edam:topic_3295"
+          "@id": "edam:topic_3518"
         }
       ],
       "sc:citation": [
@@ -60,9 +64,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "DMRforPairs",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/DMRforPairs.html",
       "sc:version": "1.10.0"
@@ -70,10 +74,6 @@
     {
       "@id": "http://orcid.org/0000-0002-2528-8077",
       "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1186/1471-2105-15-141",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

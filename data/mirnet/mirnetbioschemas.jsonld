@@ -35,9 +35,9 @@
       ],
       "sc:name": "miRNet",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://www.mirnet.ca/"
     },

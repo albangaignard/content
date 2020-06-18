@@ -14,8 +14,8 @@
   "sc:contributor": [
     "EMBOSS Contributors",
     "Wellcome Trust",
-    "UK MRC",
-    "UK BBSRC"
+    "UK BBSRC",
+    "UK MRC"
   ],
   "sc:description": "Generate residue/base frequency table or plot.",
   "sc:funder": [

@@ -30,8 +30,8 @@
       },
       "sc:name": "S4TE",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://sate.cirad.fr",
