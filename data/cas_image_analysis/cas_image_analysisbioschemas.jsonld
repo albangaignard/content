@@ -31,9 +31,9 @@
       },
       "sc:name": "CAS",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://home.agh.edu.pl/~pioro/cas/"
     }

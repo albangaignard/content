@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "UK MRC",
     "UK BBSRC",
     "EMBOSS Contributors",
-    "UK MRC",
     "Wellcome Trust"
   ],
   "sc:description": "Retrieve information from REBASE restriction enzyme database.",
@@ -27,8 +27,8 @@
   "sc:name": "redata",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

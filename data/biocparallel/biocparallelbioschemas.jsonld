@@ -19,8 +19,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "BiocParallel",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/BiocParallel.html",

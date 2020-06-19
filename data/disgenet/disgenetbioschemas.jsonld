@@ -21,21 +21,21 @@
       },
       "sc:additionalType": [
         "SPARQL endpoint",
-        "Plug-in",
-        "Web API",
         "Web application",
-        "Database portal"
+        "Plug-in",
+        "Database portal",
+        "Web API"
       ],
       "sc:author": [
-        "Janet Piñero",
+        "Núria Queralt Rosinach",
         {
           "@id": "https://orcid.org/0000-0002-2846-6174"
         },
-        "Núria Queralt Rosinach"
+        "Janet Piñero"
       ],
       "sc:contributor": [
-        "Núria Queralt Rosinach",
         "Janet Piñero",
+        "Núria Queralt Rosinach",
         {
           "@id": "http://orcid.org/0000-0002-7534-7661"
         }
@@ -50,10 +50,10 @@
       ],
       "sc:url": "http://www.disgenet.org/",
       "sc:version": [
-        "Platform v1.1.0",
+        "disgenet2r R package Version: 0.0.9",
         "REST API v1.0.0",
         "DisGeNET RDF release 5.0",
-        "disgenet2r R package Version: 0.0.9",
+        "Platform v1.1.0",
         "Database version 6.0"
       ]
     },

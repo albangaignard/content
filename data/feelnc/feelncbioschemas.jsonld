@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/feelnc",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Thomas Derrien",
         "Fabrice Legeai",
+        "Thomas Derrien",
         "Valentin Wucher"
       ],
       "sc:additionalType": "Command-line tool",

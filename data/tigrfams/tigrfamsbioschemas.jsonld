@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gks1234",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/tigrfams",
       "@type": "sc:SoftwareApplication",
       "edam:has_input": {
@@ -41,15 +45,11 @@
       "sc:name": "TIGRFAMS  protein family database",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": "J Craig Venter Institute",
       "sc:url": "http://www.tigr.org/TIGRFAMs/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gks1234",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

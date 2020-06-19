@@ -26,20 +26,20 @@
         "pmcid:PMC6500068"
       ],
       "sc:contributor": [
-        "Claudio Lottaz",
         "Julia Engelmann",
-        "Paula Pérez Rubio"
+        "Paula Pérez Rubio",
+        "Claudio Lottaz"
       ],
       "sc:description": "High-performance preprocessing tool for RNA-seq data.",
       "sc:featureList": [
+        {
+          "@id": "edam:operation_3180"
+        },
         {
           "@id": "edam:operation_3800"
         },
         {
           "@id": "edam:operation_3219"
-        },
-        {
-          "@id": "edam:operation_3180"
         }
       ],
       "sc:license": "GPL-3.0",

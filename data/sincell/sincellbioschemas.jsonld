@@ -10,6 +10,14 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-4403-1840",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-4832-6101",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/sincell",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -32,10 +40,13 @@
         "@id": "edam:data_2589"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
+        {
+          "@id": "edam:topic_3170"
+        },
         {
           "@id": "edam:topic_0099"
         },
@@ -44,9 +55,6 @@
         },
         {
           "@id": "edam:topic_3308"
-        },
-        {
-          "@id": "edam:topic_3170"
         }
       ],
       "sc:citation": [
@@ -63,20 +71,12 @@
       "sc:license": "GPL-2.0",
       "sc:name": "sincell",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/sincell.html",
       "sc:version": "1.6.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-4403-1840",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-4832-6101",
-      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1093/bioinformatics/btv368",

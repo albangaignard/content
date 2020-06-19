@@ -16,8 +16,8 @@
   "sc:name": "tqDist",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": "birc.au.dk",
   "sc:url": "http://users-cs.au.dk/cstorm/software/tqdist/",

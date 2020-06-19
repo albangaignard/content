@@ -12,13 +12,13 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:author": [
+    "Jan Plhak",
     "Jiri Filipovic",
-    "Ondrej Vavra",
-    "Jan Plhak"
+    "Ondrej Vavra"
   ],
   "sc:contributor": [
-    "Jan Brezovsky",
     "Ludek Matyska",
+    "Jan Brezovsky",
     "Jiri Damborsky",
     "David Bednar",
     "Sergio Manuel Marques"

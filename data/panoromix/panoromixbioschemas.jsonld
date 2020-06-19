@@ -15,8 +15,8 @@
   "sc:license": "Unlicense",
   "sc:name": "PanoromiX",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "https://bioinfo-abcc.ncifcrf.gov/panoromics/"

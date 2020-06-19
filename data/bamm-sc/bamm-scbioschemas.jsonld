@@ -43,8 +43,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "BAMM-SC",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "https://github.com/lichen-lab/BAMMSC",

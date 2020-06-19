@@ -15,8 +15,8 @@
   "sc:name": "methylSpectrum",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://people.oregonstate.edu/~housemae/software/",
   "sc:version": "v2"

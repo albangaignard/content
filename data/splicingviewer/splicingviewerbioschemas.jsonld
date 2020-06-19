@@ -21,8 +21,8 @@
   "sc:license": "BSD-3-Clause",
   "sc:name": "SplicingViewer",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "http://bioinformatics.zj.cn/splicingviewer/"

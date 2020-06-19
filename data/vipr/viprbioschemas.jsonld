@@ -16,15 +16,15 @@
         "@id": "http://orcid.org/0000-0001-7930-8160"
       },
       "sc:additionalType": [
+        "Web application",
         "Workbench",
-        "Database portal",
-        "Web application"
+        "Database portal"
       ],
       "sc:citation": [
-        "pubmed:22006842",
         {
           "@id": "https://doi.org/10.1093/nar/gkr859"
         },
+        "pubmed:22006842",
         "pmcid:PMC3245011",
         "pubmed:23202522"
       ],
@@ -39,12 +39,12 @@
       "sc:url": "http://www.viprbrc.org/brc/home.spg?decorator=vipr"
     },
     {
-      "@id": "https://doi.org/10.1093/nar/gkr859",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0001-7930-8160",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkr859",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

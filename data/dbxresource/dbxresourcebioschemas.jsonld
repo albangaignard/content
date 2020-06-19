@@ -13,14 +13,14 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
-    "UK MRC",
+    "Wellcome Trust",
     "EMBOSS Contributors",
-    "Wellcome Trust"
+    "UK MRC"
   ],
   "sc:description": "Index a data resource catalogue using b+tree indices.",
   "sc:funder": [
-    "Wellcome Trust",
     "UK BBSRC",
+    "Wellcome Trust",
     "UK MRC"
   ],
   "sc:license": "GPL-3.0",

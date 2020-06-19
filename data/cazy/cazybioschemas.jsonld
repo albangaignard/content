@@ -40,8 +40,8 @@
       },
       "sc:name": "Carbohydrate-active enzymes database (CAZy)",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:provider": "AFMB",

@@ -17,8 +17,8 @@
   "sc:name": "RNA helicase database",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.rnahelicase.org"
 }

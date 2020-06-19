@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
     "UK BBSRC",
-    "Wellcome Trust",
-    "EMBOSS Contributors"
+    "UK MRC",
+    "EMBOSS Contributors",
+    "Wellcome Trust"
   ],
   "sc:description": "Report restriction enzyme cleavage sites in a nucleotide sequence.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "restrict",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "EMBOSS",

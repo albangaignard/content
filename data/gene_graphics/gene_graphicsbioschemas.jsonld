@@ -19,8 +19,8 @@
   "sc:name": "Gene Graphics",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://katlabs.cc/genegraphics/"
 }

@@ -24,8 +24,8 @@
         "@id": "http://orcid.org/0000-0002-9313-8636"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:citation": [
         {
@@ -41,8 +41,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "SeqFeatR",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://seqfeatr.zmb.uni-due.de/",

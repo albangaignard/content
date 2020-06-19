@@ -23,8 +23,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "German Cancer Research Center (DKFZ)",
     "EilsLabs",
+    "German Cancer Research Center (DKFZ)",
     "hdhub"
   ],
   "sc:url": "https://otp.dkfz.de/"

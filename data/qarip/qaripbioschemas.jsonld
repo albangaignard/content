@@ -17,8 +17,8 @@
   "sc:name": "QARIP",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://webclu.bio.wzw.tum.de/qarip/"
 }
