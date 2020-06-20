@@ -24,13 +24,13 @@
       "sc:description": "Proteogenomics workflow for the expert annotation of eukaryotic genomes.",
       "sc:featureList": [
         {
+          "@id": "edam:operation_3644"
+        },
+        {
           "@id": "edam:operation_2929"
         },
         {
           "@id": "edam:operation_3643"
-        },
-        {
-          "@id": "edam:operation_3644"
         }
       ],
       "sc:license": "GPL-3.0",

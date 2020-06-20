@@ -16,8 +16,8 @@
   "sc:name": "WAFFECT",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://nuel.perso.math.cnrs.fr/#software"
 }

@@ -28,8 +28,8 @@
       "sc:name": "NSDNA",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://www.bio-bigdata.net/nsdna/home.jsp"
     },

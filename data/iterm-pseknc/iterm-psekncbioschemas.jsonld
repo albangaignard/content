@@ -19,8 +19,8 @@
   "sc:license": "Unlicense",
   "sc:name": "iTerm-PseKNC",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:url": "http://lin-group.cn/server/iTerm-PseKNC/"

@@ -17,8 +17,8 @@
   "sc:name": "FlyRNAi",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.flyrnai.org/"
 }

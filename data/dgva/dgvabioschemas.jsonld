@@ -38,9 +38,9 @@
       ],
       "sc:name": "DGVa",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://www.ebi.ac.uk/dgva"
     },

@@ -14,8 +14,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:author": [
     "JC Entizne",
-    "Gael P. Alamancos",
     "Miha Skalic",
+    "Gael P. Alamancos",
     "Amadí­s Pagès"
   ],
   "sc:description": "This tool generates Alternative Splicing (AS) events from an annotation and calculates the PSI (\"Percentage Spliced In\") value for each event exploiting fast quantification of transcript abundances from multiple samples.",
@@ -23,8 +23,8 @@
   "sc:name": "SUPPA",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "Pompeu Fabra University",

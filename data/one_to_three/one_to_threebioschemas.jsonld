@@ -17,8 +17,8 @@
   "sc:name": "One to Three",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://bioinformatics.org/sms2/one_to_three.html"
 }

@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/goseq",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Nadia Davidson",
-        "Anthony Hawkins"
+        "Anthony Hawkins",
+        "Nadia Davidson"
       ],
       "sc:additionalType": [
         "Library",

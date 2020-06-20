@@ -18,6 +18,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.12688/F1000RESEARCH.16338.1",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/GenePattern_notebook",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -39,10 +43,10 @@
       "sc:description": "Analysis of copy number variation using Illumina Infinium DNA methylation arrays.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3219"
+          "@id": "edam:operation_3436"
         },
         {
-          "@id": "edam:operation_3436"
+          "@id": "edam:operation_3219"
         },
         {
           "@id": "edam:operation_3501"
@@ -51,15 +55,11 @@
       "sc:license": "Unlicense",
       "sc:name": "GenePattern notebook",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://www.genepattern-notebook.org/"
-    },
-    {
-      "@id": "https://doi.org/10.12688/F1000RESEARCH.16338.1",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

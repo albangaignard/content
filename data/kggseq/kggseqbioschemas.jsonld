@@ -16,8 +16,8 @@
   "sc:name": "KGGSeq",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://statgenpro.psychiatry.hku.hk/limx/kggseq/"
 }

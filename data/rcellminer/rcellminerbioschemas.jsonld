@@ -25,28 +25,28 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_2899"
+          "@id": "edam:data_0993"
         },
         {
-          "@id": "edam:data_0993"
+          "@id": "edam:data_2899"
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_2640"
+          "@id": "edam:topic_3366"
         },
         {
-          "@id": "edam:topic_3373"
+          "@id": "edam:topic_2640"
         },
         {
           "@id": "edam:topic_0622"
         },
         {
-          "@id": "edam:topic_3366"
+          "@id": "edam:topic_3373"
         },
         {
           "@id": "edam:topic_3365"

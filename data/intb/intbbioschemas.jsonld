@@ -31,13 +31,13 @@
       "sc:description": "Data integration platform for molecular and clinical epidemiological analysis of tuberculosis.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2421"
+          "@id": "edam:operation_3197"
         },
         {
           "@id": "edam:operation_3461"
         },
         {
-          "@id": "edam:operation_3197"
+          "@id": "edam:operation_2421"
         }
       ],
       "sc:name": "inTB",

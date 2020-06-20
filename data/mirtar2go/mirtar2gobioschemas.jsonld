@@ -31,9 +31,9 @@
       },
       "sc:name": "miRTar2GO",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://academic.oup.com/nar/article/45/6/e42/2605966"
     },

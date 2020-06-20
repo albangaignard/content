@@ -34,8 +34,8 @@
       },
       "sc:name": "Structure-PPi",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://structureppi.bioinfo.cnio.es/Structure"
     }

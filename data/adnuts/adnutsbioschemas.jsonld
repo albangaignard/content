@@ -16,8 +16,8 @@
   "sc:name": "adnuts",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://cran.r-project.org/web/packages/adnuts/index.html"
 }

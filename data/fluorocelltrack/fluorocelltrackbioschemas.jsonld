@@ -35,8 +35,8 @@
       "sc:license": "Unlicense",
       "sc:name": "FluoroCellTrack",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://github.com/Manibarathi/FluoroCellTrack"

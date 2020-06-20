@@ -36,9 +36,9 @@
       ],
       "sc:name": "isma",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://www.itb.cnr.it/web/bioinformatics/isma",
       "sc:version": "0.1.3"

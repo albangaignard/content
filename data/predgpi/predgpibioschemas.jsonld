@@ -12,16 +12,16 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Pier Luigi Martelli",
-    "Andrea Pierleoni",
-    "Rita Casadio"
+    "Rita Casadio",
+    "Andrea Pierleoni"
   ],
   "sc:additionalType": "Web application",
   "sc:description": "Prediction system for GPI-anchored proteins.",
   "sc:name": "PredGPI",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": "ELIXIR-ITA-BOLOGNA",
   "sc:url": "http://gpcr2.biocomp.unibo.it/gpipe/index.htm",
