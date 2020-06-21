@@ -20,8 +20,8 @@
   "sc:name": "Compendium of protein lysine acetylation (CPLA)",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://cplm.biocuckoo.org/"
 }

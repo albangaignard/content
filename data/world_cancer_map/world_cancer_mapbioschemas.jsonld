@@ -33,9 +33,9 @@
       "sc:license": "Unlicense",
       "sc:name": "World Cancer Map",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://worldmap.csmu-liawyp.tw"
     },

@@ -17,8 +17,8 @@
   "sc:name": "SplicePlot",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://montgomerylab.stanford.edu/spliceplot/index.html"
 }

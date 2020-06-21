@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0002-5045-0857",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/traitrateprop",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Web application",
@@ -38,6 +34,10 @@
       "sc:name": "TraitRateProp",
       "sc:operatingSystem": "Linux",
       "sc:url": "http://traitrate.tau.ac.il/prop"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-5045-0857",
+      "@type": "schema:Person"
     }
   ]
 }

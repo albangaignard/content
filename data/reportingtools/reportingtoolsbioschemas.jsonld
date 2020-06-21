@@ -24,8 +24,8 @@
         "@id": "edam:data_1270"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_3316"
@@ -44,8 +44,8 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "ReportingTools",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/ReportingTools.html",

@@ -33,9 +33,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "CANDI",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://candi.nextgenhealthcare.org/"
     },

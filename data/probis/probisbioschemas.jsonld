@@ -17,8 +17,8 @@
   "sc:name": "ProBiS",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://probis.cmm.ki.si"
 }

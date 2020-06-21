@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Martin Modrák",
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:29653518",
@@ -31,9 +31,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Genexpi",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://github.com/cas-bioinf/genexpi/wiki"
     },

@@ -28,18 +28,18 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_1669"
+          "@id": "edam:data_2884"
         },
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_1669"
         },
         {
           "@id": "edam:data_0862"
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {

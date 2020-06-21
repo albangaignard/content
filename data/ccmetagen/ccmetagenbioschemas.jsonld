@@ -13,8 +13,8 @@
   "biotools:primaryContact": "Vanessa R. Marcelino",
   "sc:additionalType": [
     "Command-line tool",
-    "Web service",
-    "Web application"
+    "Web application",
+    "Web service"
   ],
   "sc:description": "Pipeline to classify organisms in metagenomes or metatranscriptomes accurately.",
   "sc:license": "GPL-3.0",

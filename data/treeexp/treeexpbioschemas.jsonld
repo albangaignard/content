@@ -21,8 +21,8 @@
   "sc:name": "TreeExp",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/hr1912/TreeExp"
 }
