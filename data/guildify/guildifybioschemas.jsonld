@@ -29,8 +29,8 @@
       "sc:funder": "MICINN/MINECO & FEBS BIO2011-22568",
       "sc:name": "GUILDify",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:provider": [

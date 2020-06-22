@@ -17,8 +17,8 @@
   "sc:name": "PubCrawler",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://pubcrawler.gen.tcd.ie/"
 }

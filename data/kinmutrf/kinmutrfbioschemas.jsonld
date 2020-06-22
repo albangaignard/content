@@ -32,9 +32,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "KinMutRF",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://kinmut2.bioinfo.cnio.es/KinMut2"
     }

@@ -17,8 +17,8 @@
   "sc:name": "PVS",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://imed.med.ucm.es/PVS/"
 }

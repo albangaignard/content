@@ -36,9 +36,9 @@
       ],
       "sc:name": "DAMBE7",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://dambe.bio.uottawa.ca/DAMBE/dambe.aspx"
     }

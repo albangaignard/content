@@ -21,8 +21,8 @@
         "Jan Baumbach"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Library"
+        "Library",
+        "Web application"
       ],
       "sc:citation": [
         {
@@ -37,9 +37,9 @@
       },
       "sc:name": "CoNVaQ",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://convaq.compbio.sdu.dk/"
     }

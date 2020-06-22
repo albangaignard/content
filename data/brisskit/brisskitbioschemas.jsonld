@@ -15,11 +15,11 @@
     "Dr Jonathan Tedds"
   ],
   "sc:additionalType": [
-    "Workbench",
-    "Web API",
-    "Database portal",
     "Web application",
-    "Command-line tool"
+    "Database portal",
+    "Command-line tool",
+    "Workbench",
+    "Web API"
   ],
   "sc:author": [
     "Shajid Issa (Technical Lead)",
@@ -38,8 +38,8 @@
   "sc:name": "BRISSKit",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "University of Bristol",

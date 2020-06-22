@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/bnbr",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Siamak Zamani Dadaneh",
     "Xiaoning Qian",
+    "Siamak Zamani Dadaneh",
     "Mingyuan Zhou"
   ],
   "sc:additionalType": "Library",

@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0001-6764-6656",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/gpu-cassert",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -35,6 +31,10 @@
       "sc:name": "GPU-CASSERT",
       "sc:operatingSystem": "Windows",
       "sc:url": "http://zti.polsl.pl/dmrozek/science/gpucassert/cassert.htm"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-6764-6656",
+      "@type": "schema:Person"
     }
   ]
 }

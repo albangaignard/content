@@ -10,18 +10,14 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.12688/F1000RESEARCH.7453.1",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/crambled",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0002-7876-7338"
       },
       "sc:additionalType": [
-        "Web application",
-        "Desktop application"
+        "Desktop application",
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:26962434",
@@ -41,6 +37,10 @@
     {
       "@id": "http://orcid.org/0000-0002-7876-7338",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.12688/F1000RESEARCH.7453.1",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

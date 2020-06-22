@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/NAR/GKZ427",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://orcid.org/0000-0002-8225-4025",
       "@type": "schema:Person"
     },
@@ -43,14 +47,10 @@
       "sc:name": "DVASS",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://bitbucket.org/dokhlab/dvass"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKZ427",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

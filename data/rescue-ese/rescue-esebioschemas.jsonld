@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/rescue-ese",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Gene Yeo",
     "Will Fairbrother",
+    "Gene Yeo",
     "Ru-Fang Yeh"
   ],
   "sc:additionalType": "Web application",

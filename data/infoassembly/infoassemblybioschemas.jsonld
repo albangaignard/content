@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
-    "UK BBSRC",
     "EMBOSS Contributors",
+    "UK BBSRC",
     "UK MRC"
   ],
   "sc:description": "An Emboss tool that writes statistics for a sequence assembly",
@@ -27,12 +27,12 @@
   "sc:name": "infoassembly",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://www.bioinformatics.nl/cgi-bin/emboss/infoassembly",
   "sc:version": "r6"

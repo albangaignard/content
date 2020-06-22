@@ -18,10 +18,10 @@
           "@id": "edam:data_1917"
         },
         {
-          "@id": "edam:data_2526"
+          "@id": "edam:data_1463"
         },
         {
-          "@id": "edam:data_1463"
+          "@id": "edam:data_2526"
         }
       ],
       "edam:has_output": [
@@ -29,10 +29,10 @@
           "@id": "edam:data_2048"
         },
         {
-          "@id": "edam:data_1917"
+          "@id": "edam:data_2526"
         },
         {
-          "@id": "edam:data_2526"
+          "@id": "edam:data_1917"
         }
       ],
       "sc:additionalType": "Command-line tool",
@@ -56,8 +56,8 @@
       "sc:name": "NEEMP",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": [
         "ELIXIR-CZ",

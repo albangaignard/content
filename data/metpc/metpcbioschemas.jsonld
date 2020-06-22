@@ -41,8 +41,8 @@
       "sc:name": "MetPC",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://github.com/jjs3098/CNU-Bioinformatics-Lab"
     }

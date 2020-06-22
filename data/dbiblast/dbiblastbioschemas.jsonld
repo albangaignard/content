@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
     "UK BBSRC",
     "UK MRC",
+    "Wellcome Trust",
     "EMBOSS Contributors"
   ],
   "sc:description": "Index a BLAST database.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "dbiblast",
   "sc:operatingSystem": [
-    "Windows",
+    "Mac",
     "Linux",
-    "Mac"
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

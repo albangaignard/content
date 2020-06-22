@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/phenomecentral",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         {
@@ -33,19 +33,19 @@
           "@id": "edam:operation_3436"
         },
         {
+          "@id": "edam:operation_3197"
+        },
+        {
           "@id": "edam:operation_3431"
         },
         {
           "@id": "edam:operation_2422"
-        },
-        {
-          "@id": "edam:operation_3197"
         }
       ],
       "sc:name": "PhenomeCentral",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://phenomecentral.org",

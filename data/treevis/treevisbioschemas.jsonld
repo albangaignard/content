@@ -16,8 +16,8 @@
   "sc:name": "TreeVis",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://pengqiu.gatech.edu/software/TreeVis/index.htm"
 }

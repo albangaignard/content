@@ -30,10 +30,10 @@
           "@id": "edam:data_2884"
         },
         {
-          "@id": "edam:data_1017"
+          "@id": "edam:data_2955"
         },
         {
-          "@id": "edam:data_2955"
+          "@id": "edam:data_1017"
         }
       ],
       "sc:additionalType": [
@@ -57,9 +57,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "FourCSeq",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/FourCSeq.html",
       "sc:version": "1.8.0"

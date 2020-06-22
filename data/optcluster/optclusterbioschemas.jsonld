@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/optcluster",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Somnath Datta",
         "Susmita Datta",
+        "Somnath Datta",
         "Michael Sekula"
       ],
       "sc:additionalType": "Library",
@@ -36,9 +36,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "optCluster",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/optCluster/index.html"
     }

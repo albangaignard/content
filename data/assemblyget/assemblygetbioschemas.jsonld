@@ -19,15 +19,15 @@
   ],
   "sc:description": "An Emboss tool that searches for a sequence assembly and returns the data in one of the EMBOSS assembly formats.",
   "sc:funder": [
-    "UK BBSRC",
     "Wellcome Trust",
+    "UK BBSRC",
     "UK MRC"
   ],
   "sc:license": "Other",
   "sc:name": "assemblyget",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": [

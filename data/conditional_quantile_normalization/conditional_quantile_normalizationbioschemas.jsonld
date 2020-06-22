@@ -20,8 +20,8 @@
   "sc:name": "Conditional quantile normalization",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": "sanger.ac.uk",
   "sc:url": "http://www.bioconductor.org/packages/release/bioc/html/cqn.html",

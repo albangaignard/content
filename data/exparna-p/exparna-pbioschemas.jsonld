@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0001-8231-3323",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/exparna-p",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -47,11 +43,11 @@
         "Christina Otto"
       ],
       "sc:citation": [
+        "pubmed:25551362",
         "pmcid:PMC4302096",
         {
           "@id": "https://doi.org/10.1186/s12859-014-0404-0"
-        },
-        "pubmed:25551362"
+        }
       ],
       "sc:description": "Simultaneous exact pattern matching and folding of RNAs.",
       "sc:featureList": {
@@ -61,12 +57,12 @@
       "sc:license": "GPL-3.0",
       "sc:name": "ExpaRNA-P",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": [
-        "rnateam",
-        "University Freiburg"
+        "University Freiburg",
+        "rnateam"
       ],
       "sc:softwareHelp": {
         "@id": "http://www.bioinf.uni-freiburg.de/Software/ExpaRNA-P/"
@@ -77,6 +73,10 @@
     {
       "@id": "https://doi.org/10.1186/s12859-014-0404-0",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-8231-3323",
+      "@type": "schema:Person"
     }
   ]
 }

@@ -28,8 +28,8 @@
       "sc:description": "R package for detailed development of Maxent Ecological Niche Models.",
       "sc:name": "kuenm",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "https://github.com/marlonecobos/kuenm"

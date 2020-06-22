@@ -33,9 +33,9 @@
       "sc:license": "Unlicense",
       "sc:name": "BASILIScan",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://basilisc.com/"
     },
