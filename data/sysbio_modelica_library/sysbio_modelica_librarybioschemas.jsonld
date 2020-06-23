@@ -13,9 +13,9 @@
   "biotools:primaryContact": "Miha Moškon",
   "sc:additionalType": "Library",
   "sc:author": [
+    "Tanja Cvitanović",
     "Miha Mraz",
     "Miha Moškon",
-    "Tanja Cvitanović",
     "Damjana Rozman"
   ],
   "sc:contributor": [
@@ -25,9 +25,9 @@
   "sc:description": "Library which implements basic systems biology objects within the modelica environment.",
   "sc:name": "SysBio modelica library",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
     "ELIXIR-SI-hackathon",

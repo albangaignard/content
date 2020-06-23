@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gku1180",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/dorina",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -24,18 +28,18 @@
       "sc:additionalType": "Database portal",
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0204"
+          "@id": "edam:topic_0099"
         },
         {
-          "@id": "edam:topic_0099"
+          "@id": "edam:topic_0204"
         }
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1093/nar/gku1180"
         },
-        "pmcid:PMC4383974",
-        "pubmed:25416797"
+        "pubmed:25416797",
+        "pmcid:PMC4383974"
       ],
       "sc:description": "A database of RNA interactions in post-transcriptional regulation.",
       "sc:featureList": {
@@ -45,8 +49,8 @@
       "sc:name": "doRiNA",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": [
         "Max Delbrück Centre for Molecular Medicine",
@@ -65,10 +69,6 @@
     {
       "@id": "http://orcid.org/0000-0002-0468-0117",
       "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gku1180",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

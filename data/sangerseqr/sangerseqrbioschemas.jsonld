@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1002/dvdy.24183",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0003-1190-6302",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/sangerseqr",
@@ -24,8 +24,8 @@
         "Command-line tool"
       ],
       "sc:citation": [
-        "pubmed:25160973",
         "pmcid:PMC4525701",
+        "pubmed:25160973",
         {
           "@id": "https://doi.org/10.1002/dvdy.24183"
         }
@@ -38,15 +38,15 @@
       "sc:name": "sangerseqR",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/sangerseqR.html",
       "sc:version": "1.10.0"
     },
     {
-      "@id": "http://orcid.org/0000-0003-1190-6302",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1002/dvdy.24183",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

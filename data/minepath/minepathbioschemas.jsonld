@@ -19,9 +19,9 @@
       "biotools:primaryContact": "Lefteris Koumakis",
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pmcid:PMC5104320",
-        "pubmed:27832067",
         "pubmed:28431175",
+        "pubmed:27832067",
+        "pmcid:PMC5104320",
         {
           "@id": "https://doi.org/10.1371/journal.pcbi.1005187"
         }

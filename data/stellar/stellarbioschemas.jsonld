@@ -15,8 +15,8 @@
   "sc:name": "Stellar",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.seqan.de/projects/stellar/",
   "sc:version": "1.4"

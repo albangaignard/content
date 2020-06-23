@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Alejandro Quiroz-Zarate",
   "sc:additionalType": [
-    "Library",
-    "Command-line tool"
+    "Command-line tool",
+    "Library"
   ],
   "sc:description": "R package providing functions to perform geneset significance analysis over simple cross-sectional data between 2 and 5 phenotypes of interest.",
   "sc:license": "Artistic-2.0",

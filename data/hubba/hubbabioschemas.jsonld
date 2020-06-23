@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Chia-Hao Chin",
-    "Hsin-Hung Wu",
     "Chin-Wen Ho",
-    "Chung-Yen Lin",
-    "Shu-Hwa Chen"
+    "Shu-Hwa Chen",
+    "Hsin-Hung Wu",
+    "Chung-Yen Lin"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:18503085",

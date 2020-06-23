@@ -53,8 +53,8 @@
       "sc:license": "Other",
       "sc:name": "NetCTLpan",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:provider": "CBS",

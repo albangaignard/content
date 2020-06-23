@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/qbioimages",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Tytus Bernas",
-    "Błażej Ruszczycki"
+    "Błażej Ruszczycki",
+    "Tytus Bernas"
   ],
   "sc:additionalType": "Script",
   "sc:description": "Quality of biological images, reconstructed using localization microscopy data.",

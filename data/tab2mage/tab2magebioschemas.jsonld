@@ -16,8 +16,8 @@
   "sc:name": "Tab2MAGE",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://tab2mage.sourceforge.net/"
 }

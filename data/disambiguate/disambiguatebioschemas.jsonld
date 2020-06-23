@@ -21,10 +21,10 @@
         "Command-line tool"
       ],
       "sc:citation": [
-        "pmcid:PMC5130069",
         {
           "@id": "https://doi.org/10.12688/f1000research.10082.2"
         },
+        "pmcid:PMC5130069",
         "pubmed:27990269"
       ],
       "sc:contributor": {

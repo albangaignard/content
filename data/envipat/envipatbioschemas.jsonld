@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
     "Library",
-    "Web application",
-    "Command-line tool"
+    "Command-line tool",
+    "Web application"
   ],
   "sc:description": "Batch fine structure, profile and centroid calculation with resolution settings provided.",
   "sc:license": "GPL-2.0",

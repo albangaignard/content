@@ -13,14 +13,14 @@
       "@id": "https://bio.tools/mzr",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Bernd Fischer",
         "Steffen Neumann",
         "Qiang Kou",
-        "Laurent Gatto",
-        "Bernd Fischer"
+        "Laurent Gatto"
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC2732273",

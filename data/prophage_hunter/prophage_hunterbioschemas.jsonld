@@ -35,8 +35,8 @@
       "sc:name": "Prophage Hunter",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://pro-hunter.bgi.com/"
     },

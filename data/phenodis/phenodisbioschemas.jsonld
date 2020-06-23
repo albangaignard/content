@@ -27,17 +27,17 @@
       "sc:description": "Database for phenotypic characterization of rare cardiac diseases.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_2422"
         },
         {
-          "@id": "edam:operation_2422"
+          "@id": "edam:operation_3196"
         }
       ],
       "sc:name": "PhenoDis",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://mips.helmholtz-muenchen.de/phenodis/"
     },

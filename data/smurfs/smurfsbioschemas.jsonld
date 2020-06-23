@@ -19,8 +19,8 @@
   "sc:name": "SMuRFS",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://github.com/jomayer/SMuRF"
 }

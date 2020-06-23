@@ -27,9 +27,9 @@
       },
       "sc:name": "iGPCR-Drug",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://www.jci-bioinfo.cn/iGPCR-Drug/"
     },

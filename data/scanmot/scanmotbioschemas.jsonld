@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/scanmot",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Nitin Bhardwaj",
-    "Prem Anand A.",
     "Pugalenthi G.",
     "Sowdhamini R.",
+    "Prem Anand A.",
+    "Nitin Bhardwaj",
     "Saikat Chakrabarti"
   ],
   "sc:additionalType": "Web application",
@@ -23,8 +23,8 @@
   "sc:name": "SCANMOT",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://caps.ncbs.res.in/scanmot/scanmot.html"
 }
