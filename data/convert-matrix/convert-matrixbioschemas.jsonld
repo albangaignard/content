@@ -30,9 +30,9 @@
         "@id": "edam:data_2070"
       },
       "sc:additionalType": [
-        "Web application",
         "Web service",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_3511"
@@ -52,9 +52,9 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "convert-matrix",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": "RSAT",
       "sc:softwareHelp": {

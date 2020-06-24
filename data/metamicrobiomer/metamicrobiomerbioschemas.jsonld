@@ -27,8 +27,8 @@
       },
       "sc:name": "metamicrobiomeR",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://github.com/nhanhocu/metamicrobiomeR"

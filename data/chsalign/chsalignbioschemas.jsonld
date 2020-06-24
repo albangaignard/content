@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Jason T.L. Wang",
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pubmed:26789998",
         "pmcid:PMC4720362",
+        "pubmed:26789998",
         {
           "@id": "https://doi.org/10.1371/JOURNAL.PONE.0147097"
         }
@@ -32,9 +32,9 @@
       ],
       "sc:name": "CHSalign",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://nature.njit.edu/biosoft/CHSalign/"
     },

@@ -23,8 +23,8 @@
   "sc:name": "RSAT Var-tools",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://rsat.eu"
 }

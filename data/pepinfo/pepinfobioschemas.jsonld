@@ -12,22 +12,22 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
-    "EMBOSS Contributors",
     "Wellcome Trust",
-    "UK MRC"
+    "EMBOSS Contributors",
+    "UK MRC",
+    "UK BBSRC"
   ],
   "sc:description": "Plot amino acid properties of a protein sequence in parallel.",
   "sc:funder": [
     "UK MRC",
-    "Wellcome Trust",
-    "UK BBSRC"
+    "UK BBSRC",
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "pepinfo",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": [

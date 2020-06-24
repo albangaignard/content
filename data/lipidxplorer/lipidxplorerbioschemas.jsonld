@@ -15,8 +15,8 @@
   "sc:name": "LipidXplorer",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": "BioInfra.Prot",
   "sc:url": "https://lifs.isas.de/wiki",

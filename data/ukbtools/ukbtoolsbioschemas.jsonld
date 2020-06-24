@@ -24,10 +24,10 @@
       "sc:description": "R package to manage and query UK Biobank data.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_2428"
         },
         {
-          "@id": "edam:operation_2428"
+          "@id": "edam:operation_3196"
         },
         {
           "@id": "edam:operation_2422"
@@ -37,8 +37,8 @@
       "sc:name": "ukbtools",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://cran.r-project.org/package=ukbtools"
     },

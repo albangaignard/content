@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0002-0621-9914",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/miarma-seq",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Suite",
@@ -39,11 +35,15 @@
       "sc:name": "miARma-Seq",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://miarmaseq.idoproteins.com/",
       "sc:version": "1.7.2"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-0621-9914",
+      "@type": "schema:Person"
     }
   ]
 }

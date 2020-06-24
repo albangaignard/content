@@ -26,8 +26,8 @@
   "sc:name": "SysBio modelica library",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "ELIXIR-SI-hackathon",

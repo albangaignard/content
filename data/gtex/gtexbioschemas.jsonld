@@ -18,10 +18,10 @@
         "Database portal"
       ],
       "sc:citation": [
-        "pmcid:PMC4010069",
         {
           "@id": "https://doi.org/10.1038/ng.2653"
         },
+        "pmcid:PMC4010069",
         "pubmed:23715323"
       ],
       "sc:description": "Genotype-Tissue Expression (GTEx) - database which helps to study the relationship between genetic variation and gene expression in human tissues.",
@@ -42,8 +42,8 @@
       "sc:name": "GTEx",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://www.gtexportal.org/home/"
     },

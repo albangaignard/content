@@ -20,8 +20,8 @@
   "sc:name": "GFBio",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://www.gfbio.org"
 }

@@ -32,9 +32,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Lncident",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://csbl.bmb.uga.edu/mirrors/JLU/Lncident/index.php"
     }

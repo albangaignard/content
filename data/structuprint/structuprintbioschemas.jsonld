@@ -14,14 +14,18 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0002-5082-1929",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/structuprint",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0002-5082-1929"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Desktop application"
+        "Desktop application",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:26911476",
@@ -38,14 +42,10 @@
       "sc:name": "Structuprint",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://dgkontopoulos.io/Structuprint/"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-5082-1929",
-      "@type": "schema:Person"
     }
   ]
 }

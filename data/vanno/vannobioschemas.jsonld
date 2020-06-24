@@ -17,8 +17,8 @@
   "sc:name": "Vanno",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://cgts.cgu.edu.tw/vanno/"
 }

@@ -15,8 +15,8 @@
   "sc:name": "PAnalyzer",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://code.google.com/archive/p/ehu-bio/wikis/PAnalyzer.wiki"
 }

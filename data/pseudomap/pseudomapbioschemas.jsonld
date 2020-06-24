@@ -28,8 +28,8 @@
       "sc:name": "pseudoMap",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://pseudomap.mbc.nctu.edu.tw/php/index.php"
     },

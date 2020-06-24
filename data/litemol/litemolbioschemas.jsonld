@@ -18,8 +18,8 @@
   "sc:name": "LiteMol",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://www.litemol.org",
   "sc:version": "1.6.5"

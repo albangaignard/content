@@ -12,14 +12,14 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Ulrich Bodenhofer",
   "sc:additionalType": [
-    "Command-line tool",
-    "Library"
+    "Library",
+    "Command-line tool"
   ],
   "sc:author": "Sebastian Wilzbach",
   "sc:contributor": [
     "Google Summer of Code (GSoC) 2014",
-    "Ian Sillitoe",
     "Tatyana Goldberg",
+    "Ian Sillitoe",
     "Guy Yachdav",
     "Benedikt Rauscher"
   ],
@@ -28,9 +28,9 @@
   "sc:license": "Apache-2.0",
   "sc:name": "msa",
   "sc:operatingSystem": [
+    "Windows",
     "Mac",
-    "Linux",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
     "BioJS",
