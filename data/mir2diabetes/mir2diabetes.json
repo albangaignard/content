@@ -1,0 +1,73 @@
+{
+    "additionDate": "2020-01-09T18:09:35Z",
+    "biotoolsCURIE": "biotools:miR2Diabetes",
+    "biotoolsID": "miR2Diabetes",
+    "confidence_flag": "tool",
+    "credit": [
+        {
+            "email": "drhormone@gilhospital.com",
+            "name": "Dae Ho Lee",
+            "typeEntity": "Person"
+        },
+        {
+            "email": "nams@gachon.ac.kr",
+            "name": "Seungyoon Nam",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "A Literature-Curated Database of microRNA Expression Patterns, in Diabetic Microvascular Complications.\nmiR2Diabetes aims to provide a comprehensive resource of miRNA dysregulation in diabetic microvascular complications (DMC). Each entry in the miR2Diabetes contains detailed information on a miRNA-DMC relationship, including miRNA symbol, DMC name, experiment subjects, miRNA dysregulation pattern in a specific experimental design, and literature reference.\n\nmicroRNAs (miRNAs) have been established as critical regulators of the pathogenesis of diabetes mellitus (DM), and diabetes microvascular complications (DMCs).  The annotations in the database cover 14 DM and DMC phenotypes, involving 156 miRNAs, by browsing diverse sample origins (e.g., blood, kidney, liver, and other tissues).",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Database search",
+                    "uri": "http://edamontology.org/operation_2421"
+                },
+                {
+                    "term": "Deposition",
+                    "uri": "http://edamontology.org/operation_3431"
+                },
+                {
+                    "term": "miRNA target prediction",
+                    "uri": "http://edamontology.org/operation_0463"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://mir2diabetes.yoonlab.or.kr",
+    "lastUpdate": "2020-06-19T11:59:33.484265Z",
+    "name": "miR2Diabetes",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.3390/GENES10100784",
+            "pmcid": "PMC6826485",
+            "pmid": "31601051"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Functional, regulatory and non-coding RNA",
+            "uri": "http://edamontology.org/topic_0659"
+        },
+        {
+            "term": "Pathology",
+            "uri": "http://edamontology.org/topic_0634"
+        },
+        {
+            "term": "Genotype and phenotype",
+            "uri": "http://edamontology.org/topic_0625"
+        },
+        {
+            "term": "Biomarkers",
+            "uri": "http://edamontology.org/topic_3360"
+        },
+        {
+            "term": "Data submission, annotation and curation",
+            "uri": "http://edamontology.org/topic_0219"
+        }
+    ]
+}
