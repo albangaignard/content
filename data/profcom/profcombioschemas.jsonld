@@ -18,9 +18,9 @@
   "sc:license": "Unlicense",
   "sc:name": "ProfCom",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:url": "http://webclu.bio.wzw.tum.de/profcom/"
 }

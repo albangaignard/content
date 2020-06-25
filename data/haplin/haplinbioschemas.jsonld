@@ -41,8 +41,8 @@
       "sc:name": "Haplin",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://cran.r-project.org/package=Haplin",
       "sc:version": "7.1.0"

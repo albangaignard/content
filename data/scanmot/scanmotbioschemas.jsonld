@@ -12,18 +12,18 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Saikat Chakrabarti",
+    "Pugalenthi G.",
     "Nitin Bhardwaj",
     "Prem Anand A.",
-    "Sowdhamini R.",
-    "Pugalenthi G."
+    "Sowdhamini R."
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:15980468",
   "sc:description": "SCANMOT is a sequence similarity searching tool that adds the additional constraints of simultaneous matching of multiple motifs.",
   "sc:name": "SCANMOT",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:url": "http://caps.ncbs.res.in/scanmot/scanmot.html"

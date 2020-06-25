@@ -15,8 +15,8 @@
   "sc:license": "Unlicense",
   "sc:name": "SPARCS",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://csb.cs.mcgill.ca/sparcs/"

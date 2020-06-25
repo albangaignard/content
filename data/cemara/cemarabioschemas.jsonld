@@ -15,8 +15,8 @@
   "sc:name": "CEMARA",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://cemara.org/presentation/show.jsp"
 }

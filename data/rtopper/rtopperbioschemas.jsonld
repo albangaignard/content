@@ -37,9 +37,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "RTopper",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/RTopper.html",
       "sc:version": "1.20.0"

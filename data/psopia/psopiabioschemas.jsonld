@@ -15,8 +15,8 @@
   "sc:name": "PSOPIA",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://mizuguchilab.org/PSOPIA/",
   "sc:version": "20130501"

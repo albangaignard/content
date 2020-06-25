@@ -21,8 +21,8 @@
   "sc:license": "Unlicense",
   "sc:name": "TheoReTS",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://theorets.univ-reims.fr"

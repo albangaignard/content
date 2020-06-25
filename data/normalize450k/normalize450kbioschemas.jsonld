@@ -10,14 +10,22 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0003-1448-2509",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.3389/fgene.2015.00092",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/normalize450k",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0003-1448-2509"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:25806048",
@@ -38,20 +46,12 @@
       "sc:license": "BSD-4-Clause",
       "sc:name": "normalize450K",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/normalize450K.html",
       "sc:version": "1.2.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0003-1448-2509",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.3389/fgene.2015.00092",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

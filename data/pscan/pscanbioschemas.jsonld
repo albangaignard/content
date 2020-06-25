@@ -14,8 +14,8 @@
   "sc:contributor": [
     "Wellcome Trust",
     "UK BBSRC",
-    "UK MRC",
-    "EMBOSS Contributors"
+    "EMBOSS Contributors",
+    "UK MRC"
   ],
   "sc:description": "Scan protein sequence(s) with fingerprints from the PRINTS database.",
   "sc:funder": [

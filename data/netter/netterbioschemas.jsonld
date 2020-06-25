@@ -18,8 +18,8 @@
   "sc:name": "Netter",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "ugent.be",
   "sc:url": "http://bioinformatics.intec.ugent.be/netter/index.html",

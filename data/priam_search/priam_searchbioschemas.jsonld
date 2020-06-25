@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/priam_search",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Database portal",
+    "Web application",
     "Command-line tool",
-    "Web application"
+    "Database portal"
   ],
   "sc:author": "Thomas Bernard",
   "sc:contributor": "Daniel Kahn",
