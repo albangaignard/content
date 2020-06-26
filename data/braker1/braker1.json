@@ -15,12 +15,17 @@
     "description": "Pipeline for unsupervised RNA-Seq-based genome annotation with GeneMark-ET and AUGUSTUS.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "http://bioinf.uni-greifswald.de/bioinf/braker/index.html"
         }
     ],
     "editPermission": {
-        "type": "private"
+        "authors": [
+            "anchittha"
+        ],
+        "type": "group"
     },
     "function": [
         {
@@ -36,10 +41,12 @@
     "language": [
         "Perl"
     ],
-    "lastUpdate": "2018-12-10T12:58:56Z",
+    "lastUpdate": "2020-04-07T12:48:28Z",
     "link": [
         {
-            "type": "Software catalogue",
+            "type": [
+                "Software catalogue"
+            ],
             "url": "http://www.mybiosoftware.com/braker1-rna-seq-based-eukaryotic-genome-annotation-pipeline.html"
         }
     ],
@@ -47,7 +54,7 @@
     "operatingSystem": [
         "Linux"
     ],
-    "owner": "mbs_import",
+    "owner": "anchittha",
     "publication": [
         {
             "metadata": {
