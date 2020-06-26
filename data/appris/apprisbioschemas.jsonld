@@ -15,9 +15,9 @@
     "Michael Tress"
   ],
   "sc:additionalType": [
-    "Web application",
     "Database portal",
-    "Web API"
+    "Web API",
+    "Web application"
   ],
   "sc:author": "Jose Rodriguez",
   "sc:contributor": "ISCIII",
@@ -25,8 +25,8 @@
   "sc:funder": "ISCIII",
   "sc:name": "APPRIS",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": [

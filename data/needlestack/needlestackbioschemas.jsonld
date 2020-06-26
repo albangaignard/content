@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/needlestack",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Matthieu Foll",
-    "Tiffany Delhomme",
     "Aurelie Gabriel",
+    "Tiffany Delhomme",
+    "Matthieu Foll",
     "Nicolas Alcala"
   ],
   "sc:additionalType": "Command-line tool",
@@ -22,8 +22,8 @@
   "sc:name": "needlestack",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://github.com/IARCbioinfo/needlestack"
 }

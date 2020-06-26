@@ -15,8 +15,8 @@
   "sc:name": "wclique",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.hpcf.upr.edu/~humberto/software/BPE/wclique/index.html",
   "sc:version": "0.1"

@@ -24,9 +24,9 @@
         "@id": "http://orcid.org/0000-0002-9732-4313"
       },
       "sc:additionalType": [
-        "Command-line tool",
         "Plug-in",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         {

@@ -27,24 +27,24 @@
           "@id": "edam:operation_3561"
         },
         {
-          "@id": "edam:operation_3715"
+          "@id": "edam:operation_3282"
         },
         {
           "@id": "edam:operation_2429"
         },
         {
-          "@id": "edam:operation_3660"
+          "@id": "edam:operation_3715"
         },
         {
-          "@id": "edam:operation_3282"
+          "@id": "edam:operation_3660"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "MetaCrop",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://metacrop.ipk-gatersleben.de/"
     },

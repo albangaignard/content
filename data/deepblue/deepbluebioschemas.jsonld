@@ -13,8 +13,8 @@
   "biotools:primaryContact": "Felipe Albrecht",
   "sc:additionalType": [
     "Web application",
-    "Database portal",
-    "Web API"
+    "Web API",
+    "Database portal"
   ],
   "sc:author": "Felipe Albrecht",
   "sc:contributor": [
@@ -30,12 +30,12 @@
   "sc:name": "DeepBlue Epigenomic Data Server",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
-    "Max Planck Institute for Informatics",
-    "mpi-inf.mpg.de"
+    "mpi-inf.mpg.de",
+    "Max Planck Institute for Informatics"
   ],
   "sc:url": "http://deepblue.mpi-inf.mpg.de/"
 }

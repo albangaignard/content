@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Lei Zhang",
-    "Shuhui Su",
-    "Yongzhuang Liu",
+    "Jian Liu",
     "Qiuru Liu",
-    "Jian Liu"
+    "Yongzhuang Liu",
+    "Shuhui Su"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:31094692",

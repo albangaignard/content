@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Mike Jiang",
   "sc:additionalType": [
-    "Library",
-    "Command-line tool"
+    "Command-line tool",
+    "Library"
   ],
   "sc:description": "Provides HDF5 storage based methods and functions for manipulation of flow cytometry data.",
   "sc:license": "Artistic-2.0",

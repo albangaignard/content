@@ -17,8 +17,8 @@
   "sc:name": "bayNorm",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://bioconductor.org/packages/release/bioc/html/bayNorm.html"
 }

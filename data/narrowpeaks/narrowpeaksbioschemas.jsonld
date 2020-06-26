@@ -24,8 +24,8 @@
         "@id": "http://orcid.org/0000-0003-1959-8199"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:25853185",
@@ -41,9 +41,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "NarrowPeaks",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/NarrowPeaks.html",
       "sc:version": "1.18.0"

@@ -39,13 +39,13 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0602"
+          "@id": "edam:topic_3308"
         },
         {
           "@id": "edam:topic_3170"
         },
         {
-          "@id": "edam:topic_3308"
+          "@id": "edam:topic_0602"
         }
       ],
       "sc:citation": [
@@ -63,8 +63,8 @@
       "sc:name": "ToPASeq",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/ToPASeq.html",
       "sc:version": "1.8.0"

@@ -29,13 +29,13 @@
       "sc:description": "Identification of Adaptive Mutations in Bacterial Evolution Experiments (IAMBEE) - web server designed for network-based genotype-phenotype mapping of clonal populations that display the same focal phenotype.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3280"
+          "@id": "edam:operation_3216"
         },
         {
           "@id": "edam:operation_3196"
         },
         {
-          "@id": "edam:operation_3216"
+          "@id": "edam:operation_3280"
         }
       ],
       "sc:license": "Unlicense",

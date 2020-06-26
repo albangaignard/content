@@ -38,8 +38,8 @@
       "sc:license": "Unlicense",
       "sc:name": "GIDB",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://bmtongji.cn/GIDB/index.html"

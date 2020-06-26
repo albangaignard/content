@@ -10,16 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.12688/F1000RESEARCH.6767.1",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/cyrest",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Web service",
       "sc:citation": [
-        "pmcid:PMC4670004",
         "pubmed:26672762",
+        "pmcid:PMC4670004",
         {
           "@id": "https://doi.org/10.12688/F1000RESEARCH.6767.1"
         }
@@ -40,10 +36,14 @@
       "sc:name": "CyREST",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://apps.cytoscape.org/apps/cyrest"
+    },
+    {
+      "@id": "https://doi.org/10.12688/F1000RESEARCH.6767.1",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

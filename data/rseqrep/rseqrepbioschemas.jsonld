@@ -16,8 +16,8 @@
   "sc:name": "RSEQREP",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://github.com/emmesgit/RSEQREP"
 }
