@@ -16,8 +16,8 @@
   "sc:name": "Selenzyme",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://selenzyme.synbiochem.co.uk/"
 }

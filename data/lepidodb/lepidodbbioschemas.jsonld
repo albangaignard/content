@@ -15,8 +15,8 @@
   "sc:description": "Genomics of two major lepidopteran pests.",
   "sc:name": "LepidoDB",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": "GenOuest",

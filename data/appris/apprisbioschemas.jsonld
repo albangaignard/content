@@ -15,9 +15,9 @@
     "Michael Tress"
   ],
   "sc:additionalType": [
-    "Database portal",
+    "Web application",
     "Web API",
-    "Web application"
+    "Database portal"
   ],
   "sc:author": "Jose Rodriguez",
   "sc:contributor": "ISCIII",
@@ -30,9 +30,9 @@
     "Linux"
   ],
   "sc:provider": [
-    "CNIO",
     "INB",
-    "cnio.es"
+    "cnio.es",
+    "CNIO"
   ],
   "sc:url": "http://appris.bioinfo.cnio.es/#/database",
   "sc:version": "23"

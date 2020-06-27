@@ -28,9 +28,9 @@
       "sc:license": "MIT",
       "sc:name": "ProDy",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://prody.csb.pitt.edu/"
     },

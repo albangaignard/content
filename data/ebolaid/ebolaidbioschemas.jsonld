@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1371/journal.pntd.0004757",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0001-8950-1036",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/ebolaid",
@@ -33,15 +33,15 @@
       },
       "sc:name": "EbolaID",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://ebolaid.portugene.com"
     },
     {
-      "@id": "http://orcid.org/0000-0001-8950-1036",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1371/journal.pntd.0004757",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

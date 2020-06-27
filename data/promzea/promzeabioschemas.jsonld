@@ -30,8 +30,8 @@
       },
       "sc:name": "Promzea",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://www.promzea.org"

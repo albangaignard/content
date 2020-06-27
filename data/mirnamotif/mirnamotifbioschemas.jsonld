@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.3390/ijms19124075",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/miRNAmotif",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Web application",
@@ -40,10 +36,14 @@
       "sc:name": "miRNAmotif",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://mirnamotif.ibch.poznan.pl"
+    },
+    {
+      "@id": "https://doi.org/10.3390/ijms19124075",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

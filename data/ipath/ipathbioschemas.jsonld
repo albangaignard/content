@@ -29,8 +29,8 @@
       "sc:name": "iPATH",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": [
         "European Molecular Biology Laboratory (EMBL)",

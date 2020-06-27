@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Tal Pupko",
       "sc:additionalType": [
-        "Web application",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:citation": [
         {
@@ -27,10 +27,10 @@
       "sc:description": "Web server for the analysis of large-scale microbial genomics data.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3745"
+          "@id": "edam:operation_3478"
         },
         {
-          "@id": "edam:operation_3478"
+          "@id": "edam:operation_3745"
         },
         {
           "@id": "edam:operation_0306"
@@ -39,9 +39,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "M1CR0B1AL1Z3R",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://microbializer.tau.ac.il/"
     },

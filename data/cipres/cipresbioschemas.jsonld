@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/cipres",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Terri Schwartz",
     "Wayne Pfeiffer",
+    "Terri Schwartz",
     "Mark A. Miller"
   ],
   "sc:additionalType": "Web application",

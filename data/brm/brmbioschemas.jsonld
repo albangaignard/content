@@ -21,10 +21,10 @@
       "@id": "https://bio.tools/BRM",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Katrina M. Waters",
         {
           "@id": "https://orcid.org/0000-0002-5427-6462"
-        },
-        "Katrina M. Waters"
+        }
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -40,18 +40,18 @@
           "@id": "edam:operation_2422"
         },
         {
-          "@id": "edam:operation_1812"
+          "@id": "edam:operation_0463"
         },
         {
-          "@id": "edam:operation_0463"
+          "@id": "edam:operation_1812"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "BRM",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://cbb.pnnl.gov/brm/"
     }

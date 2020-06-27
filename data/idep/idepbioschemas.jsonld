@@ -24,10 +24,10 @@
       "sc:description": "Integrated web application for differential expression and pathway analysis of RNA-Seq.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3680"
+          "@id": "edam:operation_3766"
         },
         {
-          "@id": "edam:operation_3766"
+          "@id": "edam:operation_3680"
         },
         {
           "@id": "edam:operation_3223"
@@ -37,8 +37,8 @@
       "sc:name": "iDEP",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioinformatics.sdstate.edu/idep/"
     },

@@ -40,9 +40,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Haplin",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://cran.r-project.org/package=Haplin",
       "sc:version": "7.1.0"
