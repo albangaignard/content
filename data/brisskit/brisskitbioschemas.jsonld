@@ -15,20 +15,20 @@
     "Dr Jonathan Tedds"
   ],
   "sc:additionalType": [
-    "Database portal",
     "Command-line tool",
+    "Web API",
     "Web application",
     "Workbench",
-    "Web API"
+    "Database portal"
   ],
   "sc:author": [
-    "Dr Olly Butters (former Technical Lead)",
-    "Shajid Issa (Technical Lead)"
+    "Shajid Issa (Technical Lead)",
+    "Dr Olly Butters (former Technical Lead)"
   ],
   "sc:contributor": [
     "Dr Jonathan Tedds (PI)",
-    "Jisc",
-    "HEFCE UMF"
+    "HEFCE UMF",
+    "Jisc"
   ],
   "sc:description": "Biomedical Research Software as a Service that enables biomedical & translational researchers to securely manage and combine datasets, typically for patient cohorts. A suite of cloud enabled & integrated open source applications can be accessed in a browser, which make it easier for researchers to manage their studies. Sensitive data can be secured and only accessible to those with permission.",
   "sc:funder": [
@@ -37,13 +37,13 @@
   ],
   "sc:name": "BRISSKit",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
-    "University of Bristol",
-    "University of Leicester"
+    "University of Leicester",
+    "University of Bristol"
   ],
   "sc:url": "http://www.brisskit.le.ac.uk"
 }

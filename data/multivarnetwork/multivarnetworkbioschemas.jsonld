@@ -18,8 +18,8 @@
   "sc:name": "multivarNetwork",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://github.com/jchiquet/multivarNetwork"
 }

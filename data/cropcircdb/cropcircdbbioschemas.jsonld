@@ -41,8 +41,8 @@
       "sc:license": "Unlicense",
       "sc:name": "CropCircDB",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://deepbiology.cn/crop/"

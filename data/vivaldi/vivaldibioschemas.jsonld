@@ -16,8 +16,8 @@
   "sc:name": "Vivaldi",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.ebi.ac.uk/pdbe/vivaldi/"
 }

@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/ndexr",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Florian Auer",
     "Frank Kramer",
+    "Florian Auer",
     "Alex Ishkin",
     "Dexter Pratt"
   ],
@@ -21,8 +21,8 @@
   "sc:name": "ndexr",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/ndexr.html"
 }

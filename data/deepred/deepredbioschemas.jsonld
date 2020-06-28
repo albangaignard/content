@@ -36,8 +36,8 @@
       "sc:name": "DEEPred",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://github.com/cansyl/DEEPred"
     }

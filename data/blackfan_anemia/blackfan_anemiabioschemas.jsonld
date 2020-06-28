@@ -35,8 +35,8 @@
       },
       "sc:name": "Blackfan Anemia mutation database",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:provider": "Leiden University Medical Center",

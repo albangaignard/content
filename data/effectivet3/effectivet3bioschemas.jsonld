@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1371/journal.ppat.1000376",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/effectivet3",
       "@type": "sc:SoftwareApplication",
       "edam:has_input": {
@@ -19,8 +23,8 @@
         "@id": "edam:data_0896"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_0080"
@@ -42,9 +46,9 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "EffectiveT3",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": "AT-CUBE",
       "sc:softwareHelp": {
@@ -56,10 +60,6 @@
     {
       "@id": "http://orcid.org/0000-0002-7496-7578",
       "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1371/journal.ppat.1000376",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

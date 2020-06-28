@@ -28,9 +28,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "DRAWID",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://www.drawid.xyz/"
     },

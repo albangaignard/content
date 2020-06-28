@@ -24,8 +24,8 @@
   "sc:name": "EWAS",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.bioapp.org/ewas/"
 }

@@ -14,8 +14,8 @@
   "sc:contributor": [
     "Wellcome Trust",
     "UK MRC",
-    "UK BBSRC",
-    "EMBOSS Contributors"
+    "EMBOSS Contributors",
+    "UK BBSRC"
   ],
   "sc:description": "Report on protein proteolytic enzyme or reagent cleavage sites.",
   "sc:funder": [

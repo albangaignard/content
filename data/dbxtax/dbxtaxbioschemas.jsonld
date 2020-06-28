@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
-    "UK MRC",
     "EMBOSS Contributors",
+    "UK MRC",
+    "UK BBSRC",
     "Wellcome Trust"
   ],
   "sc:description": "Index NCBI taxonomy using b+tree indices.",
@@ -27,8 +27,8 @@
   "sc:name": "dbxtax",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "EMBL EBI",

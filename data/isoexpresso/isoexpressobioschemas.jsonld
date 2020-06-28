@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/isoexpresso",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Sangwoo Kim",
-        "In Seok Yang"
+        "In Seok Yang",
+        "Sangwoo Kim"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -31,8 +31,8 @@
       "sc:name": "ISOexpresso",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://wiki.tgilab.org/ISOexpresso/"
     },

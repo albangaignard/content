@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "EMBOSS Contributors",
     "UK BBSRC",
     "UK MRC",
-    "EMBOSS Contributors",
     "Wellcome Trust"
   ],
   "sc:description": "Retrieve all database cross-references for a sequence entry.",
@@ -26,13 +26,13 @@
   "sc:license": "GPL-3.0",
   "sc:name": "seqxref",
   "sc:operatingSystem": [
-    "Linux",
+    "Windows",
     "Mac",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/seqxref.html",
   "sc:version": "r6"

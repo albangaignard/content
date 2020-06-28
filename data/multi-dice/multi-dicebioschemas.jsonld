@@ -29,8 +29,8 @@
       "sc:name": "multi-dice",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://github.com/xanderxue/Multi-DICE",
       "sc:version": "1.0.2"

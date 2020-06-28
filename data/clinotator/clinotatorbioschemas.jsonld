@@ -16,8 +16,8 @@
   "sc:name": "Clinotator",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://github.com/rbutleriii/Clinotator"
 }

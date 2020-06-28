@@ -28,8 +28,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "UPF",
-    "upf.edu"
+    "upf.edu",
+    "UPF"
   ],
   "sc:url": "http://www.gwaspi.org/",
   "sc:version": "1"

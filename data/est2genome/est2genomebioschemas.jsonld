@@ -12,16 +12,16 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
     "EMBOSS Contributors",
-    "UK BBSRC",
-    "Wellcome Trust"
-  ],
-  "sc:description": "Align EST sequences to genomic DNA sequence.",
-  "sc:funder": [
     "Wellcome Trust",
     "UK BBSRC",
     "UK MRC"
+  ],
+  "sc:description": "Align EST sequences to genomic DNA sequence.",
+  "sc:funder": [
+    "UK MRC",
+    "UK BBSRC",
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "est2genome",
@@ -31,8 +31,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/est2genome.html",
   "sc:version": "r6"

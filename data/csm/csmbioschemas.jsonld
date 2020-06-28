@@ -15,8 +15,8 @@
   "sc:name": "CSM",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://homepages.dcc.ufmg.br/~dpires/csm/index.html"
 }

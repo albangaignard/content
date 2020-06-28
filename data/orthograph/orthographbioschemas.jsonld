@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/orthograph",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Oliver Niehuis",
-        "Malte Petersen"
+        "Malte Petersen",
+        "Oliver Niehuis"
       ],
       "sc:additionalType": [
         "Command-line tool",

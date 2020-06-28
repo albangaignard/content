@@ -25,13 +25,13 @@
   "sc:funder": "ISCIII",
   "sc:name": "APPRIS",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": [
-    "INB",
     "cnio.es",
+    "INB",
     "CNIO"
   ],
   "sc:url": "http://appris.bioinfo.cnio.es/#/database",

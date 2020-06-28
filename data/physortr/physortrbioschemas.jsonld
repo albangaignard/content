@@ -30,8 +30,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "PhySortR",
       "sc:operatingSystem": [
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/PhySortR/",
       "sc:version": "1.0.8"

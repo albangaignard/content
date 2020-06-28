@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Paola Galdi",
-        "Angela Serra",
-        "Roberto Tagliaferri"
+        "Roberto Tagliaferri",
+        "Angela Serra"
       ],
       "edam:has_input": {
         "@id": "edam:data_2603"
@@ -34,8 +34,8 @@
       },
       "sc:name": "CONDOP",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:provider": "ELIXIR-ITA-SALERNO",

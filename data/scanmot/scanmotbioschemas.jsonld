@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Nitin Bhardwaj",
-    "Pugalenthi G.",
-    "Saikat Chakrabarti",
+    "Sowdhamini R.",
     "Prem Anand A.",
-    "Sowdhamini R."
+    "Saikat Chakrabarti",
+    "Pugalenthi G."
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:15980468",

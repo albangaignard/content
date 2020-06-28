@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/dolce",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Daniel Svozil",
     "Petr Cech",
+    "Daniel Svozil",
     "Bohdan Schneider",
     "Jiří Černý",
     "Filip Lankaš"
@@ -21,8 +21,8 @@
   "sc:description": "Database of local biomolecular conformers, stores DNA structural data including the information about DNA local spatial arrangement.",
   "sc:name": "Dolbico",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "ELIXIR-CZ",

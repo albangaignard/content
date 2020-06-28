@@ -38,9 +38,9 @@
       "sc:license": "OSL-3.0",
       "sc:name": "ClinGen Pathogenicity Calculator",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://calculator.clinicalgenome.org/site/cg-calculator"
     },
