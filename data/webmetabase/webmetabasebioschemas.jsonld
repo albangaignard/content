@@ -18,9 +18,9 @@
   "sc:license": "Other",
   "sc:name": "WebMetabase",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://webmetabase.com:8182/WebMetabaseBioinformatics/"
 }

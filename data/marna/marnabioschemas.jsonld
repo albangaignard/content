@@ -28,8 +28,8 @@
       "sc:description": "Sequence-structure alignment of RNAs.",
       "sc:name": "MARNA web server",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:provider": [

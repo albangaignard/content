@@ -28,10 +28,10 @@
       "sc:description": "Database of enhancers identified by high-throughput reporter assays.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0224"
+          "@id": "edam:operation_3501"
         },
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_0224"
         },
         {
           "@id": "edam:operation_0438"
@@ -39,9 +39,9 @@
       ],
       "sc:name": "RAEdb",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://www.computationalbiology.cn/RAEdb/index.php"
     }

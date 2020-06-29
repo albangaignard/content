@@ -31,9 +31,9 @@
       },
       "sc:name": "BitPAI",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://lobstah.bu.edu/cgi-bin/BitPAl/index.cgi"
     }

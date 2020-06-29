@@ -10,18 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/btv368",
-      "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-4832-6101",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-4403-1840",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/sincell",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -34,31 +22,31 @@
       ],
       "edam:has_input": [
         {
-          "@id": "edam:data_0872"
+          "@id": "edam:data_0863"
         },
         {
-          "@id": "edam:data_0863"
+          "@id": "edam:data_0872"
         }
       ],
       "edam:has_output": {
         "@id": "edam:data_2589"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0637"
-        },
-        {
-          "@id": "edam:topic_3170"
+          "@id": "edam:topic_3308"
         },
         {
           "@id": "edam:topic_0099"
         },
         {
-          "@id": "edam:topic_3308"
+          "@id": "edam:topic_0637"
+        },
+        {
+          "@id": "edam:topic_3170"
         }
       ],
       "sc:citation": [
@@ -81,6 +69,18 @@
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/sincell.html",
       "sc:version": "1.6.0"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-4403-1840",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-4832-6101",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/bioinformatics/btv368",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

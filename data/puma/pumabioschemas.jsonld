@@ -50,9 +50,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "puma",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/puma.html",
       "sc:version": "3.16.0"

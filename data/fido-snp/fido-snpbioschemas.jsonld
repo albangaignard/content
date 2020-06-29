@@ -10,17 +10,21 @@
   },
   "@graph": [
     {
+      "@id": "https://orcid.org/0000-0002-2323-0963",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/Fido-SNP",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Piero Fariselli",
         {
           "@id": "https://orcid.org/0000-0002-2323-0963"
-        },
-        "Piero Fariselli"
+        }
       ],
       "sc:additionalType": [
-        "Web application",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC6602425",
@@ -44,15 +48,11 @@
       "sc:license": "CC-BY-NC-SA-4.0",
       "sc:name": "Fido-SNP",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://fidosnp.bca.unipd.it/"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-2323-0963",
-      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1093/NAR/GKZ420",

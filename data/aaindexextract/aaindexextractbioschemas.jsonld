@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "Wellcome Trust",
     "UK BBSRC",
     "UK MRC",
-    "Wellcome Trust",
     "EMBOSS Contributors"
   ],
   "sc:description": "Extract amino acid property data from AAINDEX.",
@@ -27,8 +27,8 @@
   "sc:name": "aaindexextract",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "EMBL EBI",

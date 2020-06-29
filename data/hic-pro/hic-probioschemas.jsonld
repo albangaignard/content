@@ -39,8 +39,8 @@
       },
       "sc:name": "HiC-Pro",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": [
         "Institut Curie",

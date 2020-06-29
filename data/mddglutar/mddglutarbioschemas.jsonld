@@ -19,8 +19,8 @@
   "sc:name": "MDDGlutar",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://csb.cse.yzu.edu.tw/MDDGlutar/"
 }

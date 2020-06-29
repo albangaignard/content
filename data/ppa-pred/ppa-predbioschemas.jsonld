@@ -16,8 +16,8 @@
   "sc:name": "PPA-Pred",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.iitm.ac.in/bioinfo/PPA_Pred/"
 }

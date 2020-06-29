@@ -15,9 +15,9 @@
     "Martina Kutmon"
   ],
   "sc:additionalType": [
+    "Web API",
     "Web application",
     "Database portal",
-    "Web API",
     "Web service"
   ],
   "sc:description": "WikiPathways is a database of biological pathways maintained by and for the scientific community.",
@@ -25,8 +25,8 @@
   "sc:name": "WikiPathways",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.wikipathways.org"
 }

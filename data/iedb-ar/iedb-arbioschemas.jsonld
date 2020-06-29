@@ -17,8 +17,8 @@
   "sc:name": "IEDB-AR",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://tools.immuneepitope.org"
 }

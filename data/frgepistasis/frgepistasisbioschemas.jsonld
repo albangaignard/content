@@ -28,10 +28,10 @@
           "@id": "edam:data_0920"
         },
         {
-          "@id": "edam:data_0955"
+          "@id": "edam:data_1017"
         },
         {
-          "@id": "edam:data_1017"
+          "@id": "edam:data_0955"
         }
       ],
       "edam:has_output": {
@@ -69,8 +69,8 @@
       "sc:name": "FRGEpistasis",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/FRGEpistasis.html",
       "sc:version": "1.10.0"
