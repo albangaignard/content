@@ -38,8 +38,8 @@
       "sc:license": "BSD-3-Clause",
       "sc:name": "pgltools",
       "sc:operatingSystem": [
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://github.com/billgreenwald/pgltools"
     }

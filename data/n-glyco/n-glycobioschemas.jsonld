@@ -16,8 +16,8 @@
   "sc:license": "Unlicense",
   "sc:name": "HIV N-linked Glycosylation Site Analyzer",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://hivtools.publichealth.uga.edu/N-Glyco/"

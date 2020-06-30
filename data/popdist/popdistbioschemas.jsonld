@@ -16,8 +16,8 @@
   "sc:name": "POPDIST",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://genetics.agrsci.dk/~bernt/popgen/"
 }

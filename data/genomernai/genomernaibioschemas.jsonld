@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Database portal",
   "sc:author": [
+    "Michael Boutros",
     "Oliver Pelz",
     "Esther Schmidt",
-    "Michael Boutros",
     "Benedikt Rauscher"
   ],
   "sc:citation": "pubmed:23193271",
@@ -22,12 +22,12 @@
   "sc:name": "GenomeRNAi",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
-    "hdhub",
-    "German Cancer Research Center"
+    "German Cancer Research Center",
+    "hdhub"
   ],
   "sc:url": "http://www.genomernai.org/"
 }

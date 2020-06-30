@@ -19,20 +19,20 @@
   ],
   "sc:description": "Display a nucleotide sequence and translation in pretty format.",
   "sc:funder": [
-    "UK BBSRC",
     "Wellcome Trust",
-    "UK MRC"
+    "UK MRC",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "showorf",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/showorf.html",
   "sc:version": "r6"

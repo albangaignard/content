@@ -13,14 +13,14 @@
       "@id": "https://bio.tools/glycodigest",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "ExPASy helpdesk",
         {
           "@id": "http://orcid.org/0000-0002-0948-4537"
-        },
-        "ExPASy helpdesk"
+        }
       ],
       "sc:additionalType": [
-        "Web application",
-        "Desktop application"
+        "Desktop application",
+        "Web application"
       ],
       "sc:citation": [
         {
@@ -35,9 +35,9 @@
       },
       "sc:name": "GlycoDigest",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://www.glycodigest.org/"
     },

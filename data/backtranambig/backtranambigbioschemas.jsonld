@@ -19,15 +19,15 @@
   ],
   "sc:description": "Back-translate a protein sequence to ambiguous nucleotide sequence.",
   "sc:funder": [
+    "UK BBSRC",
     "UK MRC",
-    "Wellcome Trust",
-    "UK BBSRC"
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "backtranambig",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": [

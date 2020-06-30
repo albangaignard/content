@@ -15,15 +15,15 @@
     "Command-line tool"
   ],
   "sc:author": [
-    "Maximilian Hecht",
-    "Guy Yachdav",
+    "Tatyana Goldberg",
     "Timothy Karl",
-    "Tobias Hamp",
-    "Tatyana Goldberg"
+    "Guy Yachdav",
+    "Maximilian Hecht",
+    "Tobias Hamp"
   ],
   "sc:contributor": [
-    "Burkhard Rost",
     "Henrik Nielsen",
+    "Burkhard Rost",
     "Ernst Ludwig Ehrlich Studienwerk",
     "Alexander von Humboldt Foundation through German Federal Ministry for Education and Research"
   ],
@@ -36,8 +36,8 @@
   "sc:name": "LocTree3",
   "sc:operatingSystem": "Linux",
   "sc:provider": [
-    "Technische Universität München",
-    "RostLab"
+    "RostLab",
+    "Technische Universität München"
   ],
   "sc:url": "https://rostlab.org/services/loctree3/",
   "sc:version": "1.0.8"

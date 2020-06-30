@@ -31,8 +31,8 @@
       },
       "sc:name": "Multi-CAR",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://140.114.85.168/Multi-CAR/index.php"

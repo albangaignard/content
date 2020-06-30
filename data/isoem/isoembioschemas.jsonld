@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Igor Mandric",
-    "Alex Zelikovsky",
+    "Ion Mandoiu",
     "Sahar Al Seesi",
-    "Ion Mandoiu"
+    "Alex Zelikovsky"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:21504602",

@@ -51,8 +51,8 @@
       "sc:license": "Unlicense",
       "sc:name": "Pindel",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:softwareHelp": [

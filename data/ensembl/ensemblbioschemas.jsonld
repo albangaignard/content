@@ -18,8 +18,8 @@
   "sc:description": "Genome databases for vertebrates genomes.",
   "sc:name": "Ensembl",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": "EMBL-EBI Databases",

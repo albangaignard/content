@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Library",
   "sc:author": [
-    "John May",
     "Rajarshi Guha",
+    "John May",
     "Egon Willighagen",
     "Christoph Steinbeck"
   ],

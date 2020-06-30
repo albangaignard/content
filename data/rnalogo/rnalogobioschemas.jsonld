@@ -17,8 +17,8 @@
   "sc:name": "RNALogo",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://rnalogo.mbc.nctu.edu.tw/"
 }

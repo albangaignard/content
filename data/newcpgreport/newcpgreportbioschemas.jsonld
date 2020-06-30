@@ -19,15 +19,15 @@
   ],
   "sc:description": "Identify CpG islands in nucleotide sequence(s).",
   "sc:funder": [
-    "UK BBSRC",
     "Wellcome Trust",
+    "UK BBSRC",
     "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "newcpgreport",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": [

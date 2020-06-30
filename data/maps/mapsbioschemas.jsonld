@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/MAPS",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Ivan Juric",
-        "Ming Hu"
+        "Ming Hu",
+        "Ivan Juric"
       ],
       "sc:additionalType": "Script",
       "sc:citation": [
@@ -30,10 +30,10 @@
           "@id": "edam:operation_2429"
         },
         {
-          "@id": "edam:operation_3222"
+          "@id": "edam:operation_3798"
         },
         {
-          "@id": "edam:operation_3798"
+          "@id": "edam:operation_3222"
         }
       ],
       "sc:name": "MAPS",

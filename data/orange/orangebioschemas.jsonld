@@ -21,20 +21,20 @@
         "Janez Demsar"
       ],
       "sc:additionalType": [
-        "Desktop application",
-        "Command-line tool"
+        "Command-line tool",
+        "Desktop application"
       ],
       "sc:author": [
-        "Aleš Erjavec",
-        "Vesna Tanko",
-        "Anže Starič",
-        "Tomaž Curk",
+        "Andrej Čopar",
+        "Jernej Kernc",
         "Marko Toplak",
         "Martin Stražar",
-        "Jernej Kernc",
-        "Andrej Čopar",
+        "Vesna Tanko",
+        "Tomaž Curk",
+        "Anže Starič",
         "Janez Demšar",
-        "Lan Žagar"
+        "Lan Žagar",
+        "Aleš Erjavec"
       ],
       "sc:citation": "pubmed:17586552",
       "sc:contributor": {
@@ -44,9 +44,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Orange",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:provider": [
         "ELIXIR-SI-hackathon",
