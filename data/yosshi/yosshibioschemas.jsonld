@@ -39,8 +39,8 @@
       "sc:license": "Unlicense",
       "sc:name": "Yosshi",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "https://biokinet.belozersky.msu.ru/yosshiserver/"

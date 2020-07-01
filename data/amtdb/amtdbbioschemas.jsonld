@@ -14,7 +14,7 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "https://orcid.org/0000-0003-1774-0091",
+      "@id": "https://orcid.org/0000-0003-1338-638X",
       "@type": "schema:Person"
     },
     {
@@ -22,7 +22,7 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://orcid.org/0000-0003-1338-638X",
+      "@id": "https://orcid.org/0000-0003-1774-0091",
       "@type": "schema:Person"
     },
     {
@@ -50,8 +50,8 @@
         "@id": "https://orcid.org/0000-0003-1338-638X"
       },
       "sc:citation": [
-        "pubmed:30247677",
         "pmcid:PMC6324066",
+        "pubmed:30247677",
         {
           "@id": "https://doi.org/10.1093/nar/gky843"
         }

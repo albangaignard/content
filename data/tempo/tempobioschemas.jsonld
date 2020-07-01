@@ -16,8 +16,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "TEMPO",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://bcb.cs.tufts.edu/tempo/"

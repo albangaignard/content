@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "MEME Suite Support",
   "sc:additionalType": [
-    "Command-line tool",
     "Suite",
+    "Command-line tool",
     "Web application"
   ],
   "sc:citation": "pubmed:7584402",
@@ -21,8 +21,8 @@
   "sc:name": "MEME Suite",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://meme-suite.org/"
 }

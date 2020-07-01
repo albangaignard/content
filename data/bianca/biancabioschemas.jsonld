@@ -37,9 +37,9 @@
       "sc:license": "Proprietary",
       "sc:name": "BIANCA",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BIANCA"
     },

@@ -10,22 +10,14 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/1752-0509-1-2",
-      "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "http://orcid.org/0000-0003-2563-7561",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/cellnetanalyzer",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0003-2563-7561"
       },
       "sc:additionalType": [
-        "Desktop application",
-        "Command-line tool"
+        "Command-line tool",
+        "Desktop application"
       ],
       "sc:citation": [
         "pmcid:PMC1847467",
@@ -39,10 +31,18 @@
       "sc:name": "CellNetAnalyzer",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://www2.mpi-magdeburg.mpg.de/projects/cna/cna.html"
+    },
+    {
+      "@id": "http://orcid.org/0000-0003-2563-7561",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1186/1752-0509-1-2",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

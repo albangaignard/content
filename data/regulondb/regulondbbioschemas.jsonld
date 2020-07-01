@@ -17,8 +17,8 @@
   "sc:name": "RegulonDB",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://regulondb.ccg.unam.mx/"
 }

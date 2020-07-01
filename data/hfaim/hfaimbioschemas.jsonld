@@ -32,8 +32,8 @@
         }
       ],
       "sc:additionalType": [
-        "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_3510"
@@ -57,9 +57,9 @@
       ],
       "sc:name": "hfAIM",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:provider": "PSB",
       "sc:url": "http://bioinformatics.psb.ugent.be/hfAIM/",

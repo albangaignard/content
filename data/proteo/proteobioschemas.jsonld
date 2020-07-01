@@ -19,9 +19,9 @@
     "Mac"
   ],
   "sc:provider": [
+    "CNIC",
     "cnio.es",
-    "CNIO",
-    "CNIC"
+    "CNIO"
   ],
   "sc:url": "http://proteo.bioinfo.cnio.es",
   "sc:version": "1"

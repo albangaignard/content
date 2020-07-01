@@ -31,9 +31,9 @@
       },
       "sc:name": "VLAD",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://proto.informatics.jax.org/prototypes/vlad/"
     }

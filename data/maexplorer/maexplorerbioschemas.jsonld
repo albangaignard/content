@@ -15,8 +15,8 @@
   "sc:name": "MAExplorer",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://maexplorer.sourceforge.net/",
   "sc:version": "0.96.34.01"

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://orcid.org/0000-0002-7918-2040",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.1101/467910",
       "@type": "sc:CreativeWork"
     },
@@ -42,15 +46,11 @@
       "sc:license": "Unlicense",
       "sc:name": "PRS",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://mrcieu.mrsoftware.org/PRS_atlas"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-7918-2040",
-      "@type": "schema:Person"
     }
   ]
 }

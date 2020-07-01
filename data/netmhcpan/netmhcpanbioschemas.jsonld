@@ -49,8 +49,8 @@
       "sc:license": "Other",
       "sc:name": "NetMHCpan",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": "CBS",
       "sc:softwareHelp": {

@@ -19,8 +19,8 @@
   "sc:license": "CC-BY-4.0",
   "sc:name": "Complex Portal",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "https://www.ebi.ac.uk/complexportal/"

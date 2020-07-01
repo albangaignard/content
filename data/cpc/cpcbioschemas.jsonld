@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Ge Gao",
-        "CPC Team",
-        "Li-Ping Wei"
+        "Li-Ping Wei",
+        "CPC Team"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -38,21 +38,21 @@
           "@id": "edam:operation_0253"
         },
         {
-          "@id": "edam:operation_0256"
-        },
-        {
           "@id": "edam:operation_2995"
         },
         {
           "@id": "edam:operation_0235"
+        },
+        {
+          "@id": "edam:operation_0256"
         }
       ],
       "sc:license": "GPL-2.0",
       "sc:name": "CPC",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://cpc.cbi.pku.edu.cn/"
     }

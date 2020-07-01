@@ -24,13 +24,13 @@
       "sc:description": "The code to identify the universal Triplex Target Sites (TTSs) DNA regions",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3501"
-        },
-        {
           "@id": "edam:operation_2495"
         },
         {
           "@id": "edam:operation_3222"
+        },
+        {
+          "@id": "edam:operation_3501"
         }
       ],
       "sc:license": "GPL-3.0",
