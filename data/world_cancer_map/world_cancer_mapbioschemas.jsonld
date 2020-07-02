@@ -38,8 +38,8 @@
       "sc:name": "World Cancer Map",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://worldmap.csmu-liawyp.tw"
     }

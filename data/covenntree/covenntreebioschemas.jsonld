@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.3389/fgene.2015.00043",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/covenntree",
       "@type": "sc:SoftwareApplication",
       "edam:has_input": {
@@ -67,10 +71,6 @@
         "@id": "https://toolshed.g2.bx.psu.edu/repository?repository_id=a28ac1e84572e3ca&changeset_revision=745aede829e9"
       },
       "sc:url": "https://toolshed.g2.bx.psu.edu/repository?repository_id=a28ac1e84572e3ca"
-    },
-    {
-      "@id": "https://doi.org/10.3389/fgene.2015.00043",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

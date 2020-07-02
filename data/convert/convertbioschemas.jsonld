@@ -20,8 +20,8 @@
   "sc:name": "convert",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/convert.html",
   "sc:version": "1.50.0"

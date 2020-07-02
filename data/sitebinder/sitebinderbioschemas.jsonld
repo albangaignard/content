@@ -19,8 +19,8 @@
   "sc:description": "A web based tool for superimposing and analyzing structural fragments in molecules.",
   "sc:name": "SiteBinder",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "Masaryk University, Brno, Czech Republic",

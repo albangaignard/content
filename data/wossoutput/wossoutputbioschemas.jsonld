@@ -12,22 +12,22 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
     "EMBOSS Contributors",
-    "UK BBSRC",
-    "UK MRC"
-  ],
-  "sc:description": "Find programs by EDAM output data.",
-  "sc:funder": [
     "UK MRC",
     "UK BBSRC",
     "Wellcome Trust"
   ],
+  "sc:description": "Find programs by EDAM output data.",
+  "sc:funder": [
+    "UK MRC",
+    "Wellcome Trust",
+    "UK BBSRC"
+  ],
   "sc:license": "GPL-3.0",
   "sc:name": "wossoutput",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": [

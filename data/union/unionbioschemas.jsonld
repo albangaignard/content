@@ -14,8 +14,8 @@
   "sc:contributor": [
     "Wellcome Trust",
     "UK MRC",
-    "UK BBSRC",
-    "EMBOSS Contributors"
+    "EMBOSS Contributors",
+    "UK BBSRC"
   ],
   "sc:description": "Concatenate multiple sequences into a single sequence.",
   "sc:funder": [
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "union",
   "sc:operatingSystem": [
+    "Linux",
     "Mac",
-    "Windows",
-    "Linux"
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

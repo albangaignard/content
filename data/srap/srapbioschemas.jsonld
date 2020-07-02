@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Charles Warden",
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC3775632",
@@ -34,17 +34,17 @@
           "@id": "edam:operation_2495"
         },
         {
-          "@id": "edam:operation_0571"
+          "@id": "edam:operation_3223"
         },
         {
-          "@id": "edam:operation_3223"
+          "@id": "edam:operation_0571"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "sRAP",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/sRAP.html",

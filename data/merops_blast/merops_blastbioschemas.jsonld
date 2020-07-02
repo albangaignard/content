@@ -20,8 +20,8 @@
   "sc:description": "Search MEROPS sequences with BLAST.",
   "sc:name": "MEROPS Blast",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": [

@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/1751-0473-9-14",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/rdrf",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "RDRF Support",
@@ -47,6 +43,10 @@
         "Mac"
       ],
       "sc:url": "https://muccg.github.io/rdrf/"
+    },
+    {
+      "@id": "https://doi.org/10.1186/1751-0473-9-14",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

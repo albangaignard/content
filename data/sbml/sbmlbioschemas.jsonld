@@ -15,8 +15,8 @@
   "sc:name": "SBML",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://sbml.org/Software"
 }

@@ -16,8 +16,8 @@
   "sc:name": "PluMiST",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.cibiv.at/software/plumist/"
 }

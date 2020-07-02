@@ -19,8 +19,8 @@
   "sc:name": "BioContainers",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://biocontainers.pro/"
 }

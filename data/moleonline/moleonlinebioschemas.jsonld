@@ -12,16 +12,16 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Michal Otyepka",
-    "Karel Berka",
+    "Ondřej Hanák",
     "David Sehnal",
-    "Ondřej Hanák"
+    "Karel Berka",
+    "Michal Otyepka"
   ],
   "sc:contributor": [
+    "Deepti Jaiswal",
     "Crina-Maria Ionescu",
     "Pavel Banáš",
     "Radka Svobodová Vařeková",
-    "Deepti Jaiswal",
     "Jaroslav Koča",
     "Veronika Navrátilová"
   ],
@@ -30,12 +30,12 @@
   "sc:name": "MOLEonline",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
-    "Masaryk University Brno, Czech Republic",
-    "Palacký University Olomouc, Czech Republic"
+    "Palacký University Olomouc, Czech Republic",
+    "Masaryk University Brno, Czech Republic"
   ],
   "sc:url": "https://mole.upol.cz/",
   "sc:version": "3.0"

@@ -29,8 +29,8 @@
       "sc:name": "DGW",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://lukauskas.co.uk/dgw/",
       "sc:version": "0.1.0"

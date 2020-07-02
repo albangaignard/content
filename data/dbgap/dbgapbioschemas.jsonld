@@ -34,16 +34,16 @@
           "@id": "edam:operation_2422"
         },
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_3431"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_3196"
         }
       ],
       "sc:name": "dbGAP",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://www.ncbi.nlm.nih.gov/gap"

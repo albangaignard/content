@@ -41,8 +41,8 @@
       "sc:name": "VPAC",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/ShengquanChen/VPAC"
     }

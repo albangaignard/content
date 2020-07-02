@@ -13,9 +13,9 @@
   "biotools:primaryContact": [
     "Koray D. Kaya",
     "Cengiz Yakicier",
+    "Özlen Konu",
     "Gökhan Karakülah",
-    "Aybar C. Acar",
-    "Özlen Konu"
+    "Aybar C. Acar"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:21177657",
@@ -23,8 +23,8 @@
   "sc:name": "mESAdb",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://konulab.fen.bilkent.edu.tr/mirna/"
 }

@@ -20,15 +20,15 @@
   "sc:description": "Find programs with similar function to a specified program.",
   "sc:funder": [
     "UK MRC",
-    "UK BBSRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "seealso",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

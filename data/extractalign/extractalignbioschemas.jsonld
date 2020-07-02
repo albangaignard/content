@@ -14,13 +14,13 @@
   "sc:contributor": [
     "EMBOSS Contributors",
     "UK MRC",
-    "Wellcome Trust",
-    "UK BBSRC"
+    "UK BBSRC",
+    "Wellcome Trust"
   ],
   "sc:description": "Extract regions from a sequence alignment.",
   "sc:funder": [
-    "Wellcome Trust",
     "UK MRC",
+    "Wellcome Trust",
     "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",

@@ -16,8 +16,8 @@
   "sc:name": "QMLGalaxyPortal",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://github.com/Tarostar/QMLGalaxyPortal"
 }
