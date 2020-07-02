@@ -1,0 +1,89 @@
+{
+    "additionDate": "2020-04-23T07:50:13Z",
+    "biotoolsCURIE": "biotools:metabolicatlas",
+    "biotoolsID": "metabolicatlas",
+    "credit": [
+        {
+            "email": "contact@metabolicatlas.org"
+        }
+    ],
+    "description": "Metabolic Atlas integrates open source genome-scale metabolic models (GEMs) of human and yeast for easy browsing and analysis. It also contains many more GEMs constructed by our organization. Detailed biochemical information is provided for individual model components, such as reactions, metabolites, and genes. These components are also associated with standard identifiers, facilitating integration with external databases, such as the Human Protein Atlas.",
+    "documentation": [
+        {
+            "type": [
+                "User manual"
+            ],
+            "url": "https://metabolicatlas.org/documentation"
+        },
+        {
+            "type": [
+                "API documentation"
+            ],
+            "url": "https://metabolicatlas.org/api"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Pathway visualisation",
+                    "uri": "http://edamontology.org/operation_3926"
+                },
+                {
+                    "term": "Map drawing",
+                    "uri": "http://edamontology.org/operation_0573"
+                },
+                {
+                    "term": "Expression profile pathway mapping",
+                    "uri": "http://edamontology.org/operation_0533"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://metabolicatlas.org",
+    "lastUpdate": "2020-05-13T07:58:28Z",
+    "license": "GPL-3.0",
+    "maturity": "Emerging",
+    "name": "Metabolic Atlas",
+    "operatingSystem": [
+        "Linux",
+        "Windows",
+        "Mac"
+    ],
+    "otherID": [
+        {
+            "type": "doi",
+            "value": "doi:10.1126/scisignal.aaz1482",
+            "version": "1.6"
+        }
+    ],
+    "owner": "M",
+    "publication": [
+        {
+            "doi": "10.1126/scisignal.aaz1482",
+            "pmid": "32209698"
+        }
+    ],
+    "relation": [
+        {
+            "biotoolsID": "proteinatlas",
+            "type": "usedBy"
+        },
+        {
+            "biotoolsID": "proteinatlas",
+            "type": "uses"
+        }
+    ],
+    "toolType": [
+        "Web application"
+    ],
+    "topic": [
+        {
+            "term": "Systems biology",
+            "uri": "http://edamontology.org/topic_2259"
+        }
+    ]
+}
