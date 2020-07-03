@@ -13,14 +13,14 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
+    "UK BBSRC",
     "UK MRC",
-    "EMBOSS Contributors",
-    "UK BBSRC"
+    "EMBOSS Contributors"
   ],
   "sc:description": "Display the trace in an ABI sequencer file.",
   "sc:funder": [
-    "UK MRC",
     "Wellcome Trust",
+    "UK MRC",
     "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",

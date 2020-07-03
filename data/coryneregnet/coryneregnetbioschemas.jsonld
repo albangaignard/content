@@ -10,14 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-0282-0462",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkr883",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/coryneregnet",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -25,8 +17,8 @@
       },
       "sc:additionalType": "Database portal",
       "sc:citation": [
-        "pmcid:PMC3245100",
         "pubmed:22080556",
+        "pmcid:PMC3245100",
         {
           "@id": "https://doi.org/10.1093/nar/gkr883"
         }
@@ -46,11 +38,19 @@
       "sc:name": "CoryneRegNet",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": "bmb.sdu.dk",
       "sc:url": "http://www.coryneregnet.de"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-0282-0462",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkr883",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

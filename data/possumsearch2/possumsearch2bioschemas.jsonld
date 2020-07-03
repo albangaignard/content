@@ -23,8 +23,8 @@
   ],
   "sc:provider": [
     "CeBiTec",
-    "BiBiServ",
-    "Bielefeld University"
+    "Bielefeld University",
+    "BiBiServ"
   ],
   "sc:url": "https://bibiserv.cebitec.uni-bielefeld.de/possumsearch2",
   "sc:version": "2"

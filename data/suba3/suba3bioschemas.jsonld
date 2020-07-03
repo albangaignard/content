@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Sandra Tanz",
-    "Cornelia Hooper",
-    "Australia"
+    "Australia",
+    "Cornelia Hooper"
   ],
   "sc:additionalType": "Database portal",
   "sc:contributor": [

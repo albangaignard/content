@@ -27,18 +27,18 @@
           "@id": "edam:operation_3643"
         },
         {
-          "@id": "edam:operation_3644"
+          "@id": "edam:operation_2929"
         },
         {
-          "@id": "edam:operation_2929"
+          "@id": "edam:operation_3644"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "Peptimapper",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://hub.docker.com/r/dockerprotim/peptimapper/",
       "sc:version": "1.0"

@@ -20,8 +20,8 @@
   "sc:name": "CUBE-DB",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://epsf.bmad.bii.a-star.edu.sg/cube/db/html/home.html"
 }

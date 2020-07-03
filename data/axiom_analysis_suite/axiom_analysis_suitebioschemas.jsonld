@@ -24,12 +24,12 @@
         "@id": "https://orcid.org/0000-0001-9224-056X"
       },
       "sc:additionalType": [
-        "Suite",
-        "Desktop application"
+        "Desktop application",
+        "Suite"
       ],
       "sc:citation": [
-        "pmcid:PMC6498479",
         "pubmed:31046664",
+        "pmcid:PMC6498479",
         {
           "@id": "https://doi.org/10.1186/S12864-019-5712-3"
         }

@@ -15,21 +15,21 @@
     "Dr. Chris de Graaf"
   ],
   "sc:additionalType": [
+    "Web application",
     "Command-line tool",
-    "Database portal",
     "Web API",
-    "Web application"
+    "Database portal"
   ],
   "sc:author": [
-    "Georgi K. Kanev",
-    "Division of Medicinal Chemistry (Vrije Universiteit Amsterdam)",
-    "Chimed Jansen",
     "Chris de Graaf",
-    "Albert J. Kooistra"
+    "Chimed Jansen",
+    "Albert J. Kooistra",
+    "Division of Medicinal Chemistry (Vrije Universiteit Amsterdam)",
+    "Georgi K. Kanev"
   ],
   "sc:contributor": [
-    "Iwan J.P. de Esch",
     "European Commission seventh Framework Programme FP7-HEALTH-2013-INNOVATION-1, PDE4NPD (no. 602666)",
+    "Iwan J.P. de Esch",
     "Rob Leurs",
     "TI Pharma grant T4-302"
   ],
@@ -45,8 +45,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "Vrije Universiteit Amsterdam",
-    "vu.nl"
+    "vu.nl",
+    "Vrije Universiteit Amsterdam"
   ],
   "sc:url": "http://pdestrian.vu-compmedchem.nl"
 }

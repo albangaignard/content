@@ -19,9 +19,9 @@
   "sc:license": "Other",
   "sc:name": "GENCODE",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:url": "https://www.gencodegenes.org/"
 }

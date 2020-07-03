@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-8718-8848",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1093/bioinformatics/btt650",
       "@type": "sc:CreativeWork"
     },
@@ -47,6 +43,10 @@
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/MEDIPS.html",
       "sc:version": "1.24.0"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-8718-8848",
+      "@type": "schema:Person"
     }
   ]
 }

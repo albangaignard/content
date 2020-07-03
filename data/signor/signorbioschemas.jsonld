@@ -18,18 +18,18 @@
     "Prisca Lo Surdo"
   ],
   "sc:contributor": [
-    "Livia Perfetto",
     "Marta Iannuccelli",
     "Elena Santonico",
+    "Livia Perfetto",
     "Gianni Cesareni"
   ],
   "sc:description": "A tool collects manually-annotated logic relationships between molecules that participate in signal transduction.",
   "sc:license": "CC-BY-SA-4.0",
   "sc:name": "SIGNOR",
   "sc:operatingSystem": [
+    "Linux",
     "Windows",
-    "Mac",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
     "ELIXIR-ITA-TORVERGATA",

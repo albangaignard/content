@@ -20,8 +20,8 @@
   "sc:name": "MetaComp",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://cqb.pku.edu.cn/ZhuLab/MetaComp/"
 }

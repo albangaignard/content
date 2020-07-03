@@ -17,8 +17,8 @@
   "sc:name": "QSRA",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://mocklerlab.org/tools/2"
 }

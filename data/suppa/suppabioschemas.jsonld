@@ -23,12 +23,12 @@
   "sc:name": "SUPPA",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
-    "upf.edu",
-    "Pompeu Fabra University"
+    "Pompeu Fabra University",
+    "upf.edu"
   ],
   "sc:url": "https://bitbucket.org/regulatorygenomicsupf/suppa/",
   "sc:version": "1"

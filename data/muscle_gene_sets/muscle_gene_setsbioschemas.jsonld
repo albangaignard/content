@@ -26,10 +26,10 @@
       "sc:description": "Versatile methodological aid to functional genomics in the neuromuscular field.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3223"
+          "@id": "edam:operation_0571"
         },
         {
-          "@id": "edam:operation_0571"
+          "@id": "edam:operation_3223"
         },
         {
           "@id": "edam:operation_2436"
@@ -38,9 +38,9 @@
       "sc:license": "Unlicense",
       "sc:name": "Muscle Gene Sets",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://www.sys-myo.com/muscle_gene_sets"
     },
