@@ -26,8 +26,8 @@
         "@id": "edam:data_1270"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_3361"
@@ -46,9 +46,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Risa",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/Risa.html",
       "sc:version": "1.16.0"

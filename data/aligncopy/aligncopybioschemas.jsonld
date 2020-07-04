@@ -14,8 +14,8 @@
   "sc:contributor": [
     "Wellcome Trust",
     "EMBOSS Contributors",
-    "UK MRC",
-    "UK BBSRC"
+    "UK BBSRC",
+    "UK MRC"
   ],
   "sc:description": "Read and write alignments.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "aligncopy",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

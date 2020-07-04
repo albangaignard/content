@@ -22,8 +22,8 @@
   "sc:name": "MobilomeFINDER",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://db-mml.sjtu.edu.cn/MobilomeFINDER/"
 }

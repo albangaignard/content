@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Stefanie E. LaZerte",
       "sc:additionalType": [
-        "Web application",
-        "Library"
+        "Library",
+        "Web application"
       ],
       "sc:citation": [
         {
@@ -39,9 +39,9 @@
       ],
       "sc:name": "animalnexus",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://animalnexus.ca/"
     }

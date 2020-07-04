@@ -20,8 +20,8 @@
         "@id": "http://orcid.org/0000-0002-1390-0708"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         {
@@ -38,8 +38,8 @@
       "sc:name": "SeqArray",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/SeqArray.html",
       "sc:version": "1.14.0"

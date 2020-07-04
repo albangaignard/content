@@ -23,8 +23,8 @@
   "sc:name": "CGRtools",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://github.com/cimm-kzn/CGRtools"
 }

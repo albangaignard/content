@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1371/JOURNAL.PONE.0216705",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/CiliaCarta",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -49,11 +45,15 @@
       "sc:license": "Unlicense",
       "sc:name": "CiliaCarta",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://bioinformatics.bio.uu.nl/john/syscilia/ciliacarta/"
+    },
+    {
+      "@id": "https://doi.org/10.1371/JOURNAL.PONE.0216705",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

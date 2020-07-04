@@ -14,14 +14,18 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0002-4650-8745",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/methylpipe",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0002-4650-8745"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC4587815",
@@ -37,16 +41,12 @@
       "sc:license": "GPL-2.0",
       "sc:name": "methylPipe",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/methylPipe.html",
       "sc:version": "1.8.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-4650-8745",
-      "@type": "schema:Person"
     }
   ]
 }

@@ -30,8 +30,8 @@
       "sc:license": "Other",
       "sc:name": "MaGelLAn",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://lissp.irb.hr/software/magellan-1-0/",

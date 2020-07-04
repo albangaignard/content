@@ -20,9 +20,9 @@
     "Linux"
   ],
   "sc:provider": [
+    "bigi",
     "CeBiTec",
-    "Bielefeld University",
-    "bigi"
+    "Bielefeld University"
   ],
   "sc:url": "https://qupe.cebitec.uni-bielefeld.de",
   "sc:version": "1.0"

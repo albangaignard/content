@@ -24,10 +24,10 @@
       "sc:description": "Alignment-free phylogeny reconstruction based on whole-proteome sequences.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0557"
+          "@id": "edam:operation_0289"
         },
         {
-          "@id": "edam:operation_0289"
+          "@id": "edam:operation_0557"
         },
         {
           "@id": "edam:operation_3478"
@@ -36,9 +36,9 @@
       "sc:license": "Unlicense",
       "sc:name": "Prot-SpaM",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://github.com/jschellh/ProtSpaM"
     },

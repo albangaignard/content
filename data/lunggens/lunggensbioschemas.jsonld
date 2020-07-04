@@ -36,8 +36,8 @@
         }
       ],
       "sc:citation": [
-        "pubmed:26130332",
         "pmcid:PMC4641439",
+        "pubmed:26130332",
         {
           "@id": "https://doi.org/10.1136/thoraxjnl-2015-207035"
         }

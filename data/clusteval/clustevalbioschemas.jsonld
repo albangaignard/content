@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "http://orcid.org/0000-0001-9181-7160",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/clusteval",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -38,11 +34,15 @@
       "sc:name": "Clusteval",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:provider": "bmb.sdu.dk",
       "sc:url": "http://clusteval.sdu.dk/"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-9181-7160",
+      "@type": "schema:Person"
     }
   ]
 }

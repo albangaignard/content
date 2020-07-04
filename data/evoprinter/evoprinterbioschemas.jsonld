@@ -19,8 +19,8 @@
   "sc:name": "EvoPrinter",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://evoprinter.ninds.nih.gov/evoprintprogramHD/evphd.html"
 }
