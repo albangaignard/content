@@ -14,8 +14,8 @@
   "sc:description": "A suite of image processing programs.",
   "sc:name": "XMIPP",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "Instruct",

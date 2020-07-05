@@ -24,8 +24,8 @@
       "sc:license": "Apache-2.0",
       "sc:name": "PRODIGY",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:provider": {

@@ -21,8 +21,8 @@
         "Dong Li"
       ],
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pubmed:31086734",
@@ -34,10 +34,10 @@
       "sc:description": "Human osteoporosis-related gene database.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_2495"
         },
         {
-          "@id": "edam:operation_2495"
+          "@id": "edam:operation_3431"
         }
       ],
       "sc:license": "Unlicense",

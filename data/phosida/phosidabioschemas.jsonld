@@ -17,8 +17,8 @@
   "sc:name": "PHOSIDA",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.phosida.com"
 }

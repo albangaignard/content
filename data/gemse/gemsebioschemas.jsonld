@@ -17,8 +17,8 @@
   "sc:name": "GeMSE",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.bioinformatics.deib.polimi.it/genomic_computing/GeMSE/"
 }

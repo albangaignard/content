@@ -17,12 +17,12 @@
       "@id": "https://bio.tools/ImtRDB",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Konstantin Gunbin",
-        "Viktor Shamansky"
+        "Viktor Shamansky",
+        "Konstantin Gunbin"
       ],
       "sc:additionalType": [
-        "Database portal",
-        "Desktop application"
+        "Desktop application",
+        "Database portal"
       ],
       "sc:citation": [
         "pmcid:PMC6614062",

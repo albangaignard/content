@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Donna R. Maglott",
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pmcid:PMC3965032",
@@ -30,13 +30,13 @@
           "@id": "edam:operation_3431"
         },
         {
-          "@id": "edam:operation_3197"
+          "@id": "edam:operation_0224"
         },
         {
           "@id": "edam:operation_3436"
         },
         {
-          "@id": "edam:operation_0224"
+          "@id": "edam:operation_3197"
         }
       ],
       "sc:name": "ClinVar",

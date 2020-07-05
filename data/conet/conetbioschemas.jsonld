@@ -35,8 +35,8 @@
         "Windows"
       ],
       "sc:provider": [
-        "VUB",
         "VIB",
+        "VUB",
         "vib-kuleuven.be",
         "KU Leuven"
       ],

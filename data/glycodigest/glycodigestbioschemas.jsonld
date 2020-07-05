@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-0948-4537",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1093/bioinformatics/btu425",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-0948-4537",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/glycodigest",
@@ -43,9 +43,9 @@
       },
       "sc:name": "GlycoDigest",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://www.glycodigest.org/"
     }

@@ -29,8 +29,8 @@
       "sc:name": "phylo-node",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://github.com/dohalloran/phylo-node"
     },

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s13059-019-1681-8",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/SCRABBLE",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Tao Peng",
@@ -33,15 +37,11 @@
       "sc:license": "GPL-3.0",
       "sc:name": "SCRABBLE",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://rdrr.io/cran/SCRABBLE/"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s13059-019-1681-8",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

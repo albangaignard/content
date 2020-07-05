@@ -28,8 +28,8 @@
       "sc:name": "BRONCO",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://infos.korea.ac.kr/bronco/"
     },

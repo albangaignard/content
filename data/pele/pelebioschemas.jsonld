@@ -17,8 +17,8 @@
   "sc:name": "PELE",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://pele.bsc.es"
 }

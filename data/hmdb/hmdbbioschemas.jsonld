@@ -17,8 +17,8 @@
   "sc:name": "HMDB",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.hmdb.ca/"
 }

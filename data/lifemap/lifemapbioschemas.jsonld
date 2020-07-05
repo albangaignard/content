@@ -19,8 +19,8 @@
   "sc:name": "Lifemap",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://lifemap.univ-lyon1.fr",
   "sc:version": "1.0"

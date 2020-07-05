@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/rd-connect_sample_catalogue",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         {
@@ -28,9 +28,9 @@
       "sc:license": "Other",
       "sc:name": "RD-Connect Sample Catalogue",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://samples.rd-connect.eu/"
     },

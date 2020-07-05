@@ -53,8 +53,8 @@
       "sc:name": "Meta-SNP",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:softwareHelp": {
         "@id": "http://snps.biofold.org/meta-snp/pages/help.html"
@@ -62,12 +62,12 @@
       "sc:url": "http://snps.biofold.org/meta-snp"
     },
     {
-      "@id": "https://doi.org/10.1186/1471-2164-14-S3-S2",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0002-2323-0963",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1186/1471-2164-14-S3-S2",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

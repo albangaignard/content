@@ -13,15 +13,15 @@
       "@id": "https://bio.tools/Monoallelic_Gene_Inference_from_Chromatin",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Henry Ward",
         "Sachit Saksena",
-        "Sébastien Vigneau",
+        "Henry Ward",
         "Alexander Gimelbrant",
-        "Svetlana Vinogradova"
+        "Svetlana Vinogradova",
+        "Sébastien Vigneau"
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:30819107",
@@ -42,9 +42,9 @@
       "sc:license": "MIT",
       "sc:name": "MaGIC",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://github.com/gimelbrantlab/magic"
     },

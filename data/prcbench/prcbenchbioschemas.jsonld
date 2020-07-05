@@ -33,9 +33,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "prcbench",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:provider": "ii.uib.no",
       "sc:url": "https://cran.r-project.org/package=prcbench",

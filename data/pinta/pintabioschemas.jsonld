@@ -17,8 +17,8 @@
   "sc:name": "PINTA",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.esat.kuleuven.be/pinta/"
 }

@@ -27,8 +27,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "ODAM",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "https://pmb-bordeaux.fr/dataexplorer/",

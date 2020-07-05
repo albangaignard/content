@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gkp353",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/medline_ranker",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Jean Fred Fontaine",
@@ -53,11 +49,15 @@
       ],
       "sc:name": "Medline Ranker",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://cbdm.uni-mainz.de/medlineranker"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkp353",
+      "@type": "sc:CreativeWork"
     }
   ]
 }
