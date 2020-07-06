@@ -39,9 +39,9 @@
       ],
       "sc:name": "animalnexus",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://animalnexus.ca/"
     }

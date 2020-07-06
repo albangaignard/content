@@ -14,8 +14,8 @@
   "sc:contributor": [
     "Wellcome Trust",
     "UK MRC",
-    "UK BBSRC",
-    "EMBOSS Contributors"
+    "EMBOSS Contributors",
+    "UK BBSRC"
   ],
   "sc:description": "An Emboss tool that searches for a sequence assembly and returns the data in one of the EMBOSS assembly formats.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "assemblyget",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

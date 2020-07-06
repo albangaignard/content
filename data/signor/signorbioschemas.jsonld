@@ -13,9 +13,9 @@
   "biotools:primaryContact": "Luana Licata",
   "sc:additionalType": "Database portal",
   "sc:author": [
-    "Leonardo Briganti",
     "Prisca Lo Surdo",
-    "Alberto Calderone"
+    "Alberto Calderone",
+    "Leonardo Briganti"
   ],
   "sc:contributor": [
     "Gianni Cesareni",

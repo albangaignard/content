@@ -30,8 +30,8 @@
       },
       "sc:name": "SubPatCNV",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://sourceforge.net/projects/subpatcnv/"
     },

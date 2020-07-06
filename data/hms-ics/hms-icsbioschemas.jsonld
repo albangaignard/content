@@ -17,8 +17,8 @@
   "sc:name": "HMS-ICS",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://biodb.jp/"
 }

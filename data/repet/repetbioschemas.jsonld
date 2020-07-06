@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1371/journal.pone.0091929",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://doi.org/10.1371/journal.pcbi.0010022",
       "@type": "sc:CreativeWork"
     },
@@ -25,16 +29,16 @@
       "sc:citation": [
         "pubmed:16110336",
         "pubmed:15008403",
+        "pubmed:21304975",
         {
           "@id": "https://doi.org/10.1371/journal.pone.0016526"
         },
-        "pubmed:21304975",
         "pmcid:PMC1185648",
-        "pmcid:PMC4008368",
         {
           "@id": "https://doi.org/10.1371/journal.pcbi.0010022"
         },
         "pmcid:PMC3031573",
+        "pmcid:PMC4008368",
         "pubmed:24786468",
         {
           "@id": "https://doi.org/10.1371/journal.pone.0091929"
@@ -51,10 +55,6 @@
       "sc:provider": "URGI",
       "sc:url": "https://urgi.versailles.inra.fr/Tools/REPET",
       "sc:version": "v3.0"
-    },
-    {
-      "@id": "https://doi.org/10.1371/journal.pone.0091929",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

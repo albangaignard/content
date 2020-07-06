@@ -19,8 +19,8 @@
   "sc:name": "HERMES",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://hermes.grnet.gr/"
 }

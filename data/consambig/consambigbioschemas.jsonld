@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "EMBOSS Contributors",
-    "Wellcome Trust",
     "UK MRC",
-    "UK BBSRC"
+    "UK BBSRC",
+    "EMBOSS Contributors",
+    "Wellcome Trust"
   ],
   "sc:description": "Create an ambiguous consensus sequence from a multiple alignment.",
   "sc:funder": [

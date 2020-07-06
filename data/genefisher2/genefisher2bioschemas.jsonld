@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/genefisher2",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web API",
     "Command-line tool",
-    "Web application"
+    "Web application",
+    "Web API"
   ],
   "sc:author": [
     "Thomas Gatter",
@@ -29,8 +29,8 @@
     "Linux"
   ],
   "sc:provider": [
-    "Bielefeld University",
     "CeBiTec",
+    "Bielefeld University",
     "BiBiServ"
   ],
   "sc:url": "http://bibiserv.cebitec.uni-bielefeld.de/genefisher2",

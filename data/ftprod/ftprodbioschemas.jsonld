@@ -16,8 +16,8 @@
   "sc:name": "FTProd",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://amarolab.ucsd.edu/ftprod/"
 }

@@ -30,9 +30,9 @@
       },
       "sc:name": "dbPTM",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://dbptm.mbc.nctu.edu.tw",
       "sc:version": "3.0"

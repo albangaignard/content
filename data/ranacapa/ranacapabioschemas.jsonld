@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Martinez Arbizu",
-        "Mahendra Mariadassou",
         "Gaurav Kandlikar",
+        "Mahendra Mariadassou",
         "Madeline Cowen"
       ],
       "sc:additionalType": "Library",
@@ -41,9 +41,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "ranacapa",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://github.com/gauravsk/ranacapa"
     },

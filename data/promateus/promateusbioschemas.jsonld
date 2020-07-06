@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Asaf Carmi",
+    "Dana Reichmann",
     "Jaimie Prilusky",
-    "Mati Cohen",
-    "Dana Reichmann"
+    "Mati Cohen"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:15050833",

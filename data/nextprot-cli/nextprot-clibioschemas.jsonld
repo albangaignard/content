@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/nextprot-cli",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Library",
     "Command-line tool",
     "SPARQL endpoint",
+    "Library",
     "Web API"
   ],
   "sc:description": "This node module contains methods to access the neXtProt API as well as the SPARQL endpoint.",

@@ -32,8 +32,8 @@
       "sc:license": "Unlicense",
       "sc:name": "DEPOT",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://depot.tbportals.niaid.nih.gov"
