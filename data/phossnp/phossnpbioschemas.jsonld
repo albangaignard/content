@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Jian Ren",
-    "Zhaolei Zhang",
-    "Yu Xue"
+    "Yu Xue",
+    "Zhaolei Zhang"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:19995808",

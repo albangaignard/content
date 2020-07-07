@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0002-4146-0551",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/pileline",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -35,14 +39,10 @@
       "sc:name": "PileLine",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://sing.ei.uvigo.es/pileline/index.php/Main_Page"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-4146-0551",
-      "@type": "schema:Person"
     }
   ]
 }

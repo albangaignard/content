@@ -45,9 +45,9 @@
       "sc:license": "ODbL-1.0",
       "sc:name": "gnomAD",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://gnomad.broadinstitute.org/"
     }

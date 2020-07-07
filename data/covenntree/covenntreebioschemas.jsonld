@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.3389/fgene.2015.00043",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/covenntree",
       "@type": "sc:SoftwareApplication",
       "edam:has_input": {
@@ -17,10 +21,10 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_2600"
+          "@id": "edam:data_2526"
         },
         {
-          "@id": "edam:data_2526"
+          "@id": "edam:data_2600"
         }
       ],
       "sc:additionalType": [
@@ -29,10 +33,10 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3174"
+          "@id": "edam:topic_3070"
         },
         {
-          "@id": "edam:topic_3070"
+          "@id": "edam:topic_3174"
         },
         {
           "@id": "edam:topic_0092"
@@ -60,17 +64,13 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "CoVennTree",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:softwareHelp": {
         "@id": "https://toolshed.g2.bx.psu.edu/repository?repository_id=a28ac1e84572e3ca&changeset_revision=745aede829e9"
       },
       "sc:url": "https://toolshed.g2.bx.psu.edu/repository?repository_id=a28ac1e84572e3ca"
-    },
-    {
-      "@id": "https://doi.org/10.3389/fgene.2015.00043",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

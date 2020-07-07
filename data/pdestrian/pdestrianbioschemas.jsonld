@@ -11,27 +11,27 @@
   "@id": "https://bio.tools/pdestrian",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Dr. Albert J. Kooistra",
-    "Dr. Chris de Graaf"
+    "Dr. Chris de Graaf",
+    "Dr. Albert J. Kooistra"
   ],
   "sc:additionalType": [
-    "Database portal",
+    "Web application",
     "Command-line tool",
     "Web API",
-    "Web application"
+    "Database portal"
   ],
   "sc:author": [
-    "Chimed Jansen",
     "Chris de Graaf",
     "Division of Medicinal Chemistry (Vrije Universiteit Amsterdam)",
-    "Georgi K. Kanev",
-    "Albert J. Kooistra"
+    "Chimed Jansen",
+    "Albert J. Kooistra",
+    "Georgi K. Kanev"
   ],
   "sc:contributor": [
+    "European Commission seventh Framework Programme FP7-HEALTH-2013-INNOVATION-1, PDE4NPD (no. 602666)",
     "Iwan J.P. de Esch",
     "Rob Leurs",
-    "TI Pharma grant T4-302",
-    "European Commission seventh Framework Programme FP7-HEALTH-2013-INNOVATION-1, PDE4NPD (no. 602666)"
+    "TI Pharma grant T4-302"
   ],
   "sc:description": "The database revolves around the protein structure of catalytic PDE domains and the way PDE inhibitors can interact with them. It contains a systematic analysis of all phosphodiesterase (PDE) catalytic domain crystal structures present in the Protein Data Bank (PDB) with a focus on PDE-ligand interactions.",
   "sc:funder": [
@@ -40,13 +40,13 @@
   ],
   "sc:name": "PDEStrIAn",
   "sc:operatingSystem": [
+    "Mac",
     "Linux",
-    "Windows",
-    "Mac"
+    "Windows"
   ],
   "sc:provider": [
-    "Vrije Universiteit Amsterdam",
-    "vu.nl"
+    "vu.nl",
+    "Vrije Universiteit Amsterdam"
   ],
   "sc:url": "http://pdestrian.vu-compmedchem.nl"
 }

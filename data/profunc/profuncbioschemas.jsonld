@@ -20,8 +20,8 @@
   "sc:description": "Protein function prediction.",
   "sc:name": "ProFunc",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": "EMBL-EBI",

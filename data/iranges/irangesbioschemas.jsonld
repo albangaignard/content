@@ -39,9 +39,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "IRanges",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/IRanges.html",
       "sc:version": "2.8.1"

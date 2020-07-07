@@ -31,9 +31,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "seqbias",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/seqbias.html",
       "sc:version": "1.22.0"

@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/pindel",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Kai Ye",
-        "Support Forum"
+        "Support Forum",
+        "Kai Ye"
       ],
       "edam:has_input": [
         {
@@ -47,9 +47,9 @@
       "sc:license": "Unlicense",
       "sc:name": "Pindel",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:softwareHelp": [
         {

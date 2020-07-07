@@ -14,19 +14,19 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Elhanan Borenstein",
+        "Shiri Freilich",
         "Anat Kreimer",
         "Roie Levy",
-        "Rogan Carr",
-        "Shiri Freilich"
+        "Rogan Carr"
       ],
       "sc:additionalType": [
-        "Library",
         "Command-line tool",
+        "Library",
         "Web application"
       ],
       "sc:citation": [
-        "pubmed:25980407",
         "pmcid:PMC4434858",
+        "pubmed:25980407",
         {
           "@id": "https://doi.org/10.1186/s12859-015-0588-y"
         }
@@ -39,8 +39,8 @@
       "sc:name": "NetCooperate",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://elbo.gs.washington.edu/software_netcooperate.html"
     },

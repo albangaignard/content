@@ -16,21 +16,21 @@
   ],
   "sc:author": [
     "Gisle Salensminde",
-    "Edvin Fuglebakk",
     "Lars Skjærven",
-    "Svenn H Grindhaug",
-    "Siv M Hollup",
-    "Nathalie Reuter",
     "Sandhya P Tiwari",
+    "Nathalie Reuter",
+    "Siv M Hollup",
     "Kidane M Tekle",
-    "Tristan Cragnolini"
+    "Tristan Cragnolini",
+    "Svenn H Grindhaug",
+    "Edvin Fuglebakk"
   ],
   "sc:description": "Quick, automated computation and analysis of low-frequency normal modes for protein structures.",
   "sc:name": "WEBnma",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "UiB",

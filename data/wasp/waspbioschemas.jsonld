@@ -34,8 +34,8 @@
       "sc:name": "WASP",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://www4a.biotec.or.th/GI/tools/wasp"
     },

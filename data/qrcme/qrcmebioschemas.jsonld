@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/qrcme",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jie Huang",
     "Yun Li",
+    "Jie Huang",
     "Yun Li Statistical Genetics Group"
   ],
   "sc:additionalType": "Web application",

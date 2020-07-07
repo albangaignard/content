@@ -14,14 +14,18 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0002-0540-9353",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/bianca",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0002-0540-9353"
       },
       "sc:additionalType": [
-        "Desktop application",
-        "Command-line tool"
+        "Command-line tool",
+        "Desktop application"
       ],
       "sc:citation": [
         "pubmed:27402600",
@@ -37,15 +41,11 @@
       "sc:license": "Proprietary",
       "sc:name": "BIANCA",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BIANCA"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-0540-9353",
-      "@type": "schema:Person"
     }
   ]
 }
