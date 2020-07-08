@@ -21,8 +21,8 @@
   "sc:name": "MKT",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://mkt.uab.es"
 }

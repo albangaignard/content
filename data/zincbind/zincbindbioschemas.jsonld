@@ -18,9 +18,9 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Sam Ireland",
       "sc:additionalType": [
+        "Database portal",
         "Web application",
-        "Web API",
-        "Database portal"
+        "Web API"
       ],
       "sc:citation": [
         "pmcid:PMC6361820",
@@ -32,13 +32,13 @@
       "sc:description": "Database of zinc binding sites.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2575"
+          "@id": "edam:operation_0445"
         },
         {
           "@id": "edam:operation_0389"
         },
         {
-          "@id": "edam:operation_0445"
+          "@id": "edam:operation_2575"
         }
       ],
       "sc:name": "ZincBind",

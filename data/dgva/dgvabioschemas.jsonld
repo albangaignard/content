@@ -14,15 +14,15 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "DGVa Helpdesk",
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1093/nar/gks1213"
         },
-        "pmcid:PMC3531204",
-        "pubmed:23193291"
+        "pubmed:23193291",
+        "pmcid:PMC3531204"
       ],
       "sc:description": "The Database of Genomic Variants archive ((DGVa) is a repository that provides archiving, accessioning and distribution of publicly available genomic structural variants, in all species.",
       "sc:featureList": [
@@ -38,9 +38,9 @@
       ],
       "sc:name": "DGVa",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://www.ebi.ac.uk/dgva"
     },

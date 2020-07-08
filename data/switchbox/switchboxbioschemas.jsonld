@@ -10,17 +10,17 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/1471-2164-14-336",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0002-7336-8071",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/switchbox",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Bahman Afsari",
         {
           "@id": "http://orcid.org/0000-0002-7336-8071"
         },
-        "Bahman Afsari",
         "Wikum Dinalankara"
       ],
       "edam:has_input": {
@@ -56,15 +56,15 @@
       "sc:name": "switchBox",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/switchBox.html",
       "sc:version": "1.10.0"
     },
     {
-      "@id": "http://orcid.org/0000-0002-7336-8071",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1186/1471-2164-14-336",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

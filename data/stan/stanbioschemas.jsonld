@@ -22,8 +22,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Benedikt Zacher",
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:25527639",
@@ -43,8 +43,8 @@
       "sc:name": "STAN",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/STAN.html",
       "sc:version": "2.2.0"

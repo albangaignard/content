@@ -18,8 +18,8 @@
   "sc:name": "IONiseR",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "hdhub",

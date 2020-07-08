@@ -35,9 +35,9 @@
       ],
       "sc:name": "BuddySuite",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://research.nhgri.nih.gov/software/BuddySuite/"
     },

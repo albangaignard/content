@@ -12,15 +12,15 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Andrew D. Smith",
-    "Weili Wang",
-    "Wenzheng Li"
+    "Wenzheng Li",
+    "Weili Wang"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:description": "Fast and flexible identification of differential translation from Ribo-seq data.",
   "sc:name": "Riborex",
   "sc:operatingSystem": [
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://github.com/smithlabcode/riborex"
 }

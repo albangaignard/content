@@ -18,10 +18,10 @@
     "Leonardo Briganti"
   ],
   "sc:contributor": [
-    "Livia Perfetto",
-    "Elena Santonico",
     "Marta Iannuccelli",
-    "Gianni Cesareni"
+    "Livia Perfetto",
+    "Gianni Cesareni",
+    "Elena Santonico"
   ],
   "sc:description": "A tool collects manually-annotated logic relationships between molecules that participate in signal transduction.",
   "sc:license": "CC-BY-SA-4.0",

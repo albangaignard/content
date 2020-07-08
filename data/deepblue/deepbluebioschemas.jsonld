@@ -13,8 +13,8 @@
   "biotools:primaryContact": "Felipe Albrecht",
   "sc:additionalType": [
     "Web API",
-    "Web application",
-    "Database portal"
+    "Database portal",
+    "Web application"
   ],
   "sc:author": "Felipe Albrecht",
   "sc:contributor": [
@@ -29,9 +29,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "DeepBlue Epigenomic Data Server",
   "sc:operatingSystem": [
-    "Linux",
+    "Windows",
     "Mac",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
     "mpi-inf.mpg.de",

@@ -29,8 +29,8 @@
       "sc:name": "ChromContact",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://bioinfo.sls.kyushu-u.ac.jp/chromcontact/"
     },

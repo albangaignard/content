@@ -23,8 +23,8 @@
   "sc:name": "KSEA App",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://casecpb.shinyapps.io/ksea/"
 }

@@ -17,8 +17,8 @@
   "sc:name": "iFUSE",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://ifuse.erasmusmc.nl/"
 }

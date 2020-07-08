@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Igor Mandric",
-    "Alex Zelikovsky",
     "Ion Mandoiu",
+    "Alex Zelikovsky",
     "Sahar Al Seesi"
   ],
   "sc:additionalType": "Command-line tool",

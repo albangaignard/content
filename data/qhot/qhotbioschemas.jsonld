@@ -15,10 +15,10 @@
       "biotools:primaryContact": "Chen-Hung Kao",
       "sc:additionalType": "Script",
       "sc:citation": [
-        "pubmed:30541929",
         {
           "@id": "https://doi.org/10.1534/g3.118.200922"
         },
+        "pubmed:30541929",
         "pmcid:PMC6385979"
       ],
       "sc:description": "Statistical procedure for genome-wide detection of QTL hotspots using public databases.",
@@ -36,8 +36,8 @@
       "sc:name": "QHOT",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://www.stat.sinica.edu.tw/chkao/RQTL/download.htm"
     },
