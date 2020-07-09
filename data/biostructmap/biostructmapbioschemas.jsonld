@@ -11,12 +11,12 @@
   "@id": "https://bio.tools/BioStructMap",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Andrew Guy",
-    "Dr. Paul Ramsland"
+    "Dr. Paul Ramsland",
+    "Andrew Guy"
   ],
   "sc:additionalType": [
-    "Web application",
     "Web service",
+    "Web application",
     "Script"
   ],
   "sc:description": "Python tool for integration of protein structure and sequence-based features.",

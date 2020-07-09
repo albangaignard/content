@@ -11,20 +11,20 @@
   "@id": "https://bio.tools/hana",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Desktop application",
-    "Web application"
+    "Web application",
+    "Desktop application"
   ],
   "sc:author": [
-    "Lucie Houdová",
     "Miloš Fetter",
-    "Daniel Georgiev"
+    "Daniel Georgiev",
+    "Lucie Houdová"
   ],
   "sc:description": "Haplotype analyzer for the Czech population.",
   "sc:name": "HANA",
   "sc:operatingSystem": [
+    "Linux",
     "Mac",
-    "Windows",
-    "Linux"
+    "Windows"
   ],
   "sc:provider": "University of West Bohemia, Czech Republic",
   "sc:url": "http://ccy.zcu.cz/registr/CZ-HANA.html",

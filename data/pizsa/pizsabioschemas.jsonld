@@ -39,9 +39,9 @@
       "sc:license": "Unlicense",
       "sc:name": "PIZSA",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://cospi.iiserpune.ac.in/pizsa"
     },

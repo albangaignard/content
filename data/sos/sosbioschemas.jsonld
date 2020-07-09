@@ -39,9 +39,9 @@
       "sc:license": "BSD-3-Clause",
       "sc:name": "SoS",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://vatlab.github.io/sos-docs/"
     },

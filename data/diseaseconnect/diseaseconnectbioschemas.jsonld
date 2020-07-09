@@ -19,8 +19,8 @@
   "sc:name": "DiseaseConnect",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://disease-connect.org"
 }

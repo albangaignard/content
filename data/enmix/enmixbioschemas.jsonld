@@ -20,28 +20,28 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_3117"
+          "@id": "edam:data_2884"
         },
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_3117"
         },
         {
           "@id": "edam:data_2048"
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
           "@id": "edam:topic_3295"
         },
         {
-          "@id": "edam:topic_3518"
+          "@id": "edam:topic_3572"
         },
         {
-          "@id": "edam:topic_3572"
+          "@id": "edam:topic_3518"
         }
       ],
       "sc:citation": [

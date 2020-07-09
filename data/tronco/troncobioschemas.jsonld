@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Marco Antoniotti",
       "sc:additionalType": "Workbench",
       "sc:citation": [
-        "pubmed:26861821",
         "pmcid:PMC6280783",
+        "pubmed:26861821",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/btw035"
         }
@@ -25,9 +25,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "TRONCO",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:provider": "ELIXIR-ITA-BICOCCA",
       "sc:url": "https://sites.google.com/site/troncopackage/",

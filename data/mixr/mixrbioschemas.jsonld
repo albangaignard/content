@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/MIXR",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "William H. Press",
-        "Sara L. Sawyer"
+        "Sara L. Sawyer",
+        "William H. Press"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -39,9 +39,9 @@
       "sc:license": "Unlicense",
       "sc:name": "MIXR",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://github.com/hawkjo/mixr"
     },

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/NAR/GKX046",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/brainscope",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -36,10 +40,6 @@
         "Linux"
       ],
       "sc:url": "http://www.brainscope.nl/brainscope"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKX046",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

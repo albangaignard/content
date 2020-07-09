@@ -17,8 +17,8 @@
   "sc:name": "PPISearch",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://gemdock.life.nctu.edu.tw/ppisearch/"
 }

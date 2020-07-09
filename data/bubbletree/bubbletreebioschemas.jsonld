@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/bubbletree",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Todd Creasy",
-    "Wei Zhu"
+    "Wei Zhu",
+    "Todd Creasy"
   ],
   "sc:additionalType": [
     "Command-line tool",
@@ -22,8 +22,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "BubbleTree",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/BubbleTree.html",

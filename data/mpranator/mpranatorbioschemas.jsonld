@@ -23,8 +23,8 @@
   "sc:name": "MPRAnator",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://www.sanger.ac.uk/science/tools/mpranator"
 }

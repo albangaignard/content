@@ -20,8 +20,8 @@
   "sc:license": "Unlicense",
   "sc:name": "PhenoScanner",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:url": "http://www.phenoscanner.medschl.cam.ac.uk/",

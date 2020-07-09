@@ -20,8 +20,8 @@
   "sc:name": "PAIR",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.cls.zju.edu.cn/pair/"
 }

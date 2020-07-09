@@ -19,8 +19,8 @@
   "sc:name": "Fangorn Forest (F2)",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.geminivirus.org:8080/geminivirusdw/discoveryGeminivirus.jsp"
 }

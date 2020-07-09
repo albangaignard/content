@@ -16,8 +16,8 @@
   "sc:name": "IMGT 3Dstructure-DB",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.imgt.org/3Dstructure-DB/"
 }

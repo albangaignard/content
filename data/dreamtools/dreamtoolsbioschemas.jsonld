@@ -21,8 +21,8 @@
       },
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
-        "pubmed:27134723",
         "pmcid:PMC4837986",
+        "pubmed:27134723",
         {
           "@id": "https://doi.org/10.12688/f1000research.7118.2"
         }
