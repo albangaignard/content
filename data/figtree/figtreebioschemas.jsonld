@@ -18,8 +18,8 @@
   "sc:name": "FigTree",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://tree.bio.ed.ac.uk/software/figtree/"
 }

@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "EMBOSS Contributors",
     "UK BBSRC",
-    "UK MRC",
     "Wellcome Trust",
-    "EMBOSS Contributors"
+    "UK MRC"
   ],
   "sc:description": "Get ontology term(s) original full text.",
   "sc:funder": [

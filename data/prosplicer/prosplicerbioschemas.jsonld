@@ -17,8 +17,8 @@
   "sc:name": "ProSplicer",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://prosplicer.mbc.nctu.edu.tw/"
 }

@@ -27,8 +27,8 @@
       },
       "sc:name": "XS",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioinformatics.ua.pt/software/xs/"
     },

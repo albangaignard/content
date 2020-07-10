@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/vista_enhancer_browser",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         {
@@ -37,9 +37,9 @@
       ],
       "sc:name": "VISTA Enhancer Browser",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://enhancer.lbl.gov/frnt_page_n.shtml"
     },

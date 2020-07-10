@@ -18,10 +18,10 @@
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
+        "pubmed:25747917",
         {
           "@id": "https://doi.org/10.1016/j.neuroimage.2015.02.050"
         },
-        "pubmed:25747917",
         "pmcid:PMC4387079"
       ],
       "sc:description": "A software package for genetic variance components analysis, including linkage analysis, quantitative genetic analysis, SNP association analysis (QTN and QTLD), and covariate screening.",
@@ -31,9 +31,9 @@
       "sc:license": "Other",
       "sc:name": "SOLAR-eclipse",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://solar-eclipse-genetics.org/"
     }

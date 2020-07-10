@@ -19,8 +19,8 @@
   "sc:license": "Unlicense",
   "sc:name": "codon congruence",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "https://github.com/ridgelab/codon_congruence"

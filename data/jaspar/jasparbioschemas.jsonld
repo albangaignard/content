@@ -13,10 +13,10 @@
       "@id": "https://bio.tools/jaspar",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Albin Sandelin",
         {
           "@id": "http://orcid.org/0000-0001-5127-5459"
         },
+        "Albin Sandelin",
         "Boris Lenhard",
         "Wyeth Wasserman"
       ],

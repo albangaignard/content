@@ -21,8 +21,8 @@
         "Anne Siegel"
       ],
       "sc:additionalType": [
-        "Script",
-        "Command-line tool"
+        "Command-line tool",
+        "Script"
       ],
       "sc:citation": [
         "pubmed:28129330",
@@ -34,20 +34,20 @@
       "sc:description": "Topological gap-filling of genome-scale draft metabolic networks.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3660"
-        },
-        {
           "@id": "edam:operation_3715"
         },
         {
           "@id": "edam:operation_3803"
+        },
+        {
+          "@id": "edam:operation_3660"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "meneco",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://bioasp.github.io/meneco/",
       "sc:version": "1.5"

@@ -20,8 +20,8 @@
         "@id": "edam:data_2600"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Desktop application"
+        "Desktop application",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC4743151",
@@ -36,10 +36,10 @@
           "@id": "edam:operation_2238"
         },
         {
-          "@id": "edam:operation_0337"
+          "@id": "edam:operation_3658"
         },
         {
-          "@id": "edam:operation_3658"
+          "@id": "edam:operation_0337"
         }
       ],
       "sc:license": "GPL-3.0",

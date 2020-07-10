@@ -24,8 +24,8 @@
         "@id": "http://orcid.org/0000-0003-1741-0738"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:19808880",
@@ -41,9 +41,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "HTqPCR",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/HTqPCR.html",
       "sc:version": "1.28.0"

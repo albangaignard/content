@@ -17,10 +17,10 @@
       },
       "edam:has_input": [
         {
-          "@id": "edam:data_1096"
+          "@id": "edam:data_2775"
         },
         {
-          "@id": "edam:data_2775"
+          "@id": "edam:data_1096"
         },
         {
           "@id": "edam:data_1009"
@@ -46,9 +46,9 @@
       },
       "sc:name": "PhosphoELM database",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://phospho.elm.eu.org/"
     },

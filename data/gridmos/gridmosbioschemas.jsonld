@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/gridmos",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "FilippoPiccinini",
-    "GiuliaPaganelli",
-    "AlessandroBevilacqua",
     "WainerZoli",
+    "FilippoPiccinini",
+    "AlessandroBevilacqua",
+    "GiuliaPaganelli",
     "AnnaTesei"
   ],
   "sc:additionalType": "Desktop application",
@@ -23,8 +23,8 @@
   "sc:name": "GridMos",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://sourceforge.net/projects/gridmos/"
 }
