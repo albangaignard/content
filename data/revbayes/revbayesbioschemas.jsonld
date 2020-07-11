@@ -39,8 +39,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "RevBayes",
       "sc:operatingSystem": [
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://revbayes.github.io/"
     }

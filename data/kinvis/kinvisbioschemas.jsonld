@@ -23,8 +23,8 @@
   "sc:license": "Unlicense",
   "sc:name": "KinVis",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "https://shiny-vis.qcri.org/public/kinvis/"

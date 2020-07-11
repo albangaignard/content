@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "UK MRC",
     "UK BBSRC",
     "EMBOSS Contributors",
-    "UK MRC",
     "Wellcome Trust"
   ],
   "sc:description": "Plot bending and curvature data for B-DNA.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "banana",
   "sc:operatingSystem": [
-    "Linux",
+    "Windows",
     "Mac",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
     "EMBL EBI",

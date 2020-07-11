@@ -17,19 +17,19 @@
       "@id": "https://bio.tools/2StrucCompare",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Elliot Drew",
-        "Robert W. Janes"
+        "Robert W. Janes",
+        "Elliot Drew"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1093/NAR/GKZ456"
         },
-        "pubmed:31114904",
-        "pmcid:PMC6602421"
+        "pmcid:PMC6602421",
+        "pubmed:31114904"
       ],
       "sc:description": "Webserver for the comparison of secondary structure algorithms and the secondary structure of protein structures.",
       "sc:featureList": [
@@ -46,8 +46,8 @@
       "sc:license": "Unlicense",
       "sc:name": "2StrucCompare",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://2struccompare.cryst.bbk.ac.uk/index.php"

@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/BiAlign",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Michael T. Wolfinger",
-    "Maria Waldl",
     "Sebastian Will",
+    "Maria Waldl",
+    "Michael T. Wolfinger",
     "Ivo L. Hofacker"
   ],
   "sc:additionalType": "Script",

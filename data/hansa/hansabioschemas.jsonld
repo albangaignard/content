@@ -17,8 +17,8 @@
   "sc:name": "Hansa",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://hansa.cdfd.org.in:8080/"
 }

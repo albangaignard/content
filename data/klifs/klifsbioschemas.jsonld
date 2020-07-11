@@ -15,21 +15,21 @@
     "Dr. Chris de Graaf"
   ],
   "sc:additionalType": [
-    "Database portal",
-    "Web API",
     "Web application",
-    "Command-line tool"
+    "Web API",
+    "Command-line tool",
+    "Database portal"
   ],
   "sc:author": [
-    "Oscar P.J. van Linden",
-    "Chris de Graaf",
+    "Georgi K. Kanev",
     "Division of Medicinal Chemistry (Vrije Universiteit Amsterdam)",
     "Albert J. Kooistra",
-    "Georgi K. Kanev"
+    "Oscar P.J. van Linden",
+    "Chris de Graaf"
   ],
   "sc:contributor": [
-    "Rob Leurs",
     "Amsterdam Academic Alliance",
+    "Rob Leurs",
     "Iwan J.P. de Esch",
     "Netherlands eScience Center (NLeSC)"
   ],
@@ -40,8 +40,8 @@
   ],
   "sc:name": "KLIFS",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": [

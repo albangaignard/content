@@ -20,8 +20,8 @@
   "sc:name": "TreeDyn",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.treedyn.org/",
   "sc:version": "198.3"

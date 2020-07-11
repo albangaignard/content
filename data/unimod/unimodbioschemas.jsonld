@@ -15,8 +15,8 @@
   "sc:name": "UniMod",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.unimod.org"
 }

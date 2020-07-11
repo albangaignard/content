@@ -16,8 +16,8 @@
   "sc:name": "LoQuM",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://compbio.case.edu/loqum/"
 }

@@ -17,8 +17,8 @@
         "Zhe Sun"
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         {
@@ -39,8 +39,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "BAMM-SC",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://github.com/lichen-lab/BAMMSC",

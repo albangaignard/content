@@ -16,10 +16,10 @@
       "sc:additionalType": "Web application",
       "sc:citation": [
         "pmcid:PMC5907363",
-        "pubmed:29669518",
         {
           "@id": "https://doi.org/10.1186/s12859-018-2144-z"
-        }
+        },
+        "pubmed:29669518"
       ],
       "sc:description": "High throughput immune receptor profiling.",
       "sc:featureList": {
@@ -29,8 +29,8 @@
       "sc:name": "IRProfiler",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://irprofiler.med.auth.gr:8080/"
     },

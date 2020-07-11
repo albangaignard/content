@@ -20,8 +20,8 @@
   "sc:name": "GWASdb",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://jjwanglab.org:8080/gwasdb/"
 }
