@@ -2,6 +2,9 @@
     "additionDate": "2015-01-22T11:45:54Z",
     "biotoolsCURIE": "biotools:virusmentha",
     "biotoolsID": "virusmentha",
+    "collectionID": [
+        "COVID-19"
+    ],
     "credit": [
         {
             "name": "Alberto Calderone",
@@ -51,7 +54,9 @@
     "description": "This tool archives evidence about viral interactions collected from different manually curated protein-protein interaction databases that have adhered to the IMEx consortium.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "http://virusmentha.uniroma2.it/about.php#userguide"
         }
     ],
@@ -88,7 +93,7 @@
         }
     ],
     "homepage": "http://virusmentha.uniroma2.it/",
-    "lastUpdate": "2019-07-11T12:36:39Z",
+    "lastUpdate": "2020-03-26T14:44:29Z",
     "name": "VirusMentha",
     "operatingSystem": [
         "Linux",
@@ -101,7 +106,9 @@
             "doi": "10.1093/nar/gku830",
             "pmcid": "PMC4384001",
             "pmid": "25217587",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
