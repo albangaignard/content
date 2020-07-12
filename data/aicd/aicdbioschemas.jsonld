@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/AICD",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Biaoyan Du",
         "Zaoyuan Kuang",
+        "Biaoyan Du",
         "Jiangyong Gu"
       ],
       "sc:additionalType": "Web application",

@@ -11,15 +11,15 @@
   "@id": "https://bio.tools/apache_taverna",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Apache Taverna mailing lists",
-    "Apache Taverna community"
+    "Apache Taverna community",
+    "Apache Taverna mailing lists"
   ],
   "sc:additionalType": [
-    "Web application",
+    "Workbench",
+    "Web service",
     "Web API",
     "Desktop application",
-    "Web service",
-    "Workbench",
+    "Web application",
     "Command-line tool"
   ],
   "sc:author": "Apache Taverna community",

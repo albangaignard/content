@@ -31,8 +31,8 @@
       },
       "sc:name": "VAS",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "https://yiplab.cse.cuhk.edu.hk/vas/"

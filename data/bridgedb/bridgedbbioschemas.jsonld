@@ -21,11 +21,11 @@
     "Linux"
   ],
   "sc:provider": [
-    "Maastricht University",
-    "Gladstone Institutes",
-    "Heroit Watt University",
+    "Manchester University",
     "maastrichtuniversity.nl",
-    "Manchester University"
+    "Heroit Watt University",
+    "Gladstone Institutes",
+    "Maastricht University"
   ],
   "sc:url": "http://www.bridgedb.org/",
   "sc:version": "1"

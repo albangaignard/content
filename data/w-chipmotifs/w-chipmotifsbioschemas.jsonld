@@ -16,8 +16,8 @@
   "sc:name": "W-ChIPMotifs",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://compbio.uthscsa.edu/ChIPMotifs/"
 }

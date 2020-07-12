@@ -34,10 +34,10 @@
       "sc:description": "Fast approximation to a Dirichlet Process Mixture model (DPM) for clustering genetic data.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_3432"
         },
         {
-          "@id": "edam:operation_3432"
+          "@id": "edam:operation_3196"
         },
         {
           "@id": "edam:operation_3891"
@@ -47,8 +47,8 @@
       "sc:name": "fastbaps",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://github.com/gtonkinhill/fastbaps"
     }

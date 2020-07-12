@@ -26,17 +26,17 @@
           "@id": "edam:operation_3225"
         },
         {
-          "@id": "edam:operation_3226"
+          "@id": "edam:operation_3197"
         },
         {
-          "@id": "edam:operation_3197"
+          "@id": "edam:operation_3226"
         }
       ],
       "sc:name": "VAT",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://opengenetics.ca/2015/02/25/variant-assessment-tool-vat/"
     },

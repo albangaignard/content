@@ -17,8 +17,8 @@
   "sc:name": "RNApredator",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://rna.tbi.univie.ac.at/RNApredator"
 }

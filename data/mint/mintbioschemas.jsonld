@@ -36,27 +36,27 @@
         "pubmed:22096227"
       ],
       "sc:contributor": [
+        "Gianni Cesareni",
         "Livia Perfetto",
         "Marta Iannuccelli",
-        "Gianni Cesareni",
         "Luana Licata"
       ],
       "sc:description": "Molecular interaction Database (MINT) - public repository for protein-protein interactions (PPI) reported in peer-reviewed journals. The web interface allows the users to search, visualize and download interactions data",
       "sc:featureList": [
         {
+          "@id": "edam:operation_2422"
+        },
+        {
           "@id": "edam:operation_2497"
         },
         {
           "@id": "edam:operation_3431"
-        },
-        {
-          "@id": "edam:operation_2422"
         }
       ],
       "sc:name": "MINT",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:provider": [

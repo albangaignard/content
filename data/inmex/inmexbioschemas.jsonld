@@ -17,8 +17,8 @@
   "sc:name": "INMEX",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.inmex.ca"
 }

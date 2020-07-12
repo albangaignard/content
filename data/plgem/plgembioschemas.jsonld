@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0003-4542-9970",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1186/1471-2105-5-203",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/plgem",
@@ -45,8 +45,8 @@
       "sc:version": "1.46.0"
     },
     {
-      "@id": "https://doi.org/10.1186/1471-2105-5-203",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0003-4542-9970",
+      "@type": "schema:Person"
     }
   ]
 }

@@ -31,9 +31,9 @@
       ],
       "sc:name": "Linked Registries",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://bioinformatics.ua.pt/linked-registries-app/#"
     },
