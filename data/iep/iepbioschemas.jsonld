@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
-    "Wellcome Trust",
+    "UK BBSRC",
     "EMBOSS Contributors",
-    "UK BBSRC"
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:description": "Calculate the isoelectric point of proteins.",
   "sc:funder": [
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "iep",
   "sc:operatingSystem": [
-    "Linux",
+    "Mac",
     "Windows",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
     "EMBOSS",

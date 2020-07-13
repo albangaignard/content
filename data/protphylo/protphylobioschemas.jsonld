@@ -10,15 +10,11 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/NAR/GKV455",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/protphylo",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Dr. Yiming Cheng",
-        "Dr. Fabiana Perocchi"
+        "Dr. Fabiana Perocchi",
+        "Dr. Yiming Cheng"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -39,6 +35,10 @@
         "Windows"
       ],
       "sc:url": "http://www.protphylo.org/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/NAR/GKV455",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

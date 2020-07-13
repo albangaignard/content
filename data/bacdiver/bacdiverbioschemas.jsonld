@@ -17,8 +17,8 @@
       },
       "sc:additionalType": [
         "Plug-in",
-        "Script",
         "Web service",
+        "Script",
         "Library",
         "Command-line tool"
       ],
@@ -27,8 +27,8 @@
       "sc:name": "BacDiveR: A Programmatic Interface For BacDive",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://tibhannover.github.io/BacDiveR/",
       "sc:version": "0.7.0"

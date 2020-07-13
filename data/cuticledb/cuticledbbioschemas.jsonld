@@ -40,9 +40,9 @@
       },
       "sc:name": "CuticleDB",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": [
         "University of Georgia",

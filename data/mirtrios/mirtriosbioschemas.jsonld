@@ -13,8 +13,8 @@
   "biotools:primaryContact": [
     "Jinchen Li",
     "Huiqian Chen",
-    "Yi Jiang",
     "Qing Xie",
+    "Yi Jiang",
     "Tao Wang"
   ],
   "sc:additionalType": "Web application",
@@ -23,8 +23,8 @@
   "sc:name": "MirTrios",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://centre.bioinformatics.zj.cn/mirTrios/"
 }

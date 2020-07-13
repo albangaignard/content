@@ -19,8 +19,8 @@
   "sc:name": "SMS",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.bioinformatics.org/sms2/"
 }

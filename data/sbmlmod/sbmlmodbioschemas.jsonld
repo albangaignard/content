@@ -27,8 +27,8 @@
       },
       "sc:name": "SBMLmod",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://sbmlmod.uit.no:8000/sbmlmod/"

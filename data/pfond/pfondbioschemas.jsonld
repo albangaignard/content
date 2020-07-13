@@ -10,16 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.2196/resprot.2675",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/PFOND",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Wasserman Lab",
       "sc:additionalType": [
-        "Web application",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC3742411",
@@ -35,10 +31,14 @@
       "sc:name": "PFOND",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://pfond.cmmt.ubc.ca/index.html"
+    },
+    {
+      "@id": "https://doi.org/10.2196/resprot.2675",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

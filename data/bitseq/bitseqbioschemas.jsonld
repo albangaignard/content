@@ -28,15 +28,15 @@
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0203"
+          "@id": "edam:topic_3170"
         },
         {
-          "@id": "edam:topic_3170"
+          "@id": "edam:topic_0203"
         }
       ],
       "sc:citation": [
@@ -53,9 +53,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "BitSeq",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/BitSeq.html",
       "sc:version": "1.18.0"

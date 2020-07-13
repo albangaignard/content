@@ -28,10 +28,10 @@
         "Library"
       ],
       "sc:citation": [
-        "pmcid:PMC5408813",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/btw724"
         },
+        "pmcid:PMC5408813",
         "pubmed:27993776"
       ],
       "sc:description": "An application of functional canonical correlation analysis to assess covariance of nucleic acid sequencing datasets such as chromatin immunoprecipitation followed by deep sequencing (ChIP-seq).",
@@ -41,9 +41,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "fCCAC",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/fCCAC.html",
       "sc:version": "1.0.0"

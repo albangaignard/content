@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Lihua Julie Zhu",
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:25247697",
@@ -35,8 +35,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "CRISPRseek",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/CRISPRseek.html",

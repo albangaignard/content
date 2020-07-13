@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/pasd-qc",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Maxwell Sherman",
-        "Peter Park"
+        "Peter Park",
+        "Maxwell Sherman"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [

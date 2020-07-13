@@ -15,8 +15,8 @@
   "sc:name": "MSAprobs",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://msaprobs.sourceforge.net/homepage.htm#latest",
   "sc:version": "1"

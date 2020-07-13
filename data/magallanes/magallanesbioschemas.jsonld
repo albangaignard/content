@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Esteban Pérez-Wohlfeil",
       "sc:additionalType": [
-        "Web application",
-        "Desktop application"
+        "Desktop application",
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC2771019",
@@ -45,9 +45,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Magallanes",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:provider": "uma.es",
       "sc:url": "http://bitlab-es.com/magallanes/",

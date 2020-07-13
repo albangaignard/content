@@ -15,8 +15,8 @@
   "sc:name": "ISA tools",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://isa-tools.org/"
 }
