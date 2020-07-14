@@ -50,8 +50,8 @@
         {
           "@id": "https://doi.org/10.1093/bioinformatics/bts389"
         },
-        "pubmed:22962466",
-        "pmcid:PMC3436816"
+        "pmcid:PMC3436816",
+        "pubmed:22962466"
       ],
       "sc:description": "Network-based enrichment analysis",
       "sc:featureList": {
@@ -61,8 +61,8 @@
       "sc:name": "EnrichNet",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": "lumc.nl",
       "sc:softwareHelp": {

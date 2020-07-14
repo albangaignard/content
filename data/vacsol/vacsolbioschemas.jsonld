@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Muhammad Rizwan",
       "sc:additionalType": [
-        "Desktop application",
-        "Workflow"
+        "Workflow",
+        "Desktop application"
       ],
       "sc:citation": [
         "pubmed:28193166",

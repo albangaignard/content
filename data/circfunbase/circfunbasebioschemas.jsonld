@@ -15,13 +15,13 @@
       "biotools:primaryContact": "Ming Chen",
       "sc:additionalType": [
         "Web application",
-        "Web API",
-        "Database portal"
+        "Database portal",
+        "Web API"
       ],
       "sc:author": [
+        "Xianwen Meng",
         "Ming Chen",
-        "Dahui Hu",
-        "Xianwen Meng"
+        "Dahui Hu"
       ],
       "sc:citation": [
         "pmcid:PMC6360206",
@@ -44,9 +44,9 @@
       ],
       "sc:name": "CircFunBase",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bis.zju.edu.cn/CircFunBase/"
     },

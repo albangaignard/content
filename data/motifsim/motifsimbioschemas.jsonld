@@ -27,9 +27,9 @@
       },
       "sc:name": "MOTIFSIM",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://motifsim.org/"
     },

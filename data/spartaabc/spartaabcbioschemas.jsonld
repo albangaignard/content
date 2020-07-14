@@ -18,8 +18,8 @@
   "sc:license": "GPL-2.0",
   "sc:name": "SpartaABC",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://spartaabc.tau.ac.il/webserver"

@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
-    "UK BBSRC",
     "EMBOSS Contributors",
-    "UK MRC"
+    "Wellcome Trust",
+    "UK MRC",
+    "UK BBSRC"
   ],
   "sc:description": "Identify proteins with specified sequence word composition.",
   "sc:funder": [
@@ -27,12 +27,12 @@
   "sc:name": "oddcomp",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/oddcomp.html",
   "sc:version": "r6"

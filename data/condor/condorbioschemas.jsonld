@@ -36,8 +36,8 @@
       "sc:name": "Condor",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://github.com/FXIhub/condor",
       "sc:version": "1.0"

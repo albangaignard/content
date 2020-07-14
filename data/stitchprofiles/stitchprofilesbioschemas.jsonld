@@ -22,9 +22,9 @@
   "sc:funder": "The Research Council of Norway",
   "sc:name": "Stitchprofiles",
   "sc:operatingSystem": [
-    "Windows",
+    "Linux",
     "Mac",
-    "Linux"
+    "Windows"
   ],
   "sc:provider": [
     "UiO",

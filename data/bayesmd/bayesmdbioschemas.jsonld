@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Anders Krogh",
-    "Man-Hung Eric Tang",
-    "Ole Winther"
+    "Ole Winther",
+    "Man-Hung Eric Tang"
   ],
   "sc:additionalType": [
     "Library",

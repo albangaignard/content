@@ -11,15 +11,15 @@
   "@id": "https://bio.tools/nullarbor",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Torsten Seemann",
-    "Australia"
+    "Australia",
+    "Torsten Seemann"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:author": "Torsten Seemann",
   "sc:contributor": [
-    "JC Kwong",
-    "DM Bulach",
     "BP Howden",
+    "DM Bulach",
+    "JC Kwong",
     "A Goncalves da Silva",
     "MB Schultz"
   ],

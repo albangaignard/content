@@ -37,8 +37,8 @@
       "sc:name": "MACH",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://csg.sph.umich.edu/abecasis/mach/"
     }

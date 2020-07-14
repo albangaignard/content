@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Frank Kramer",
-    "Alex Ishkin",
     "Dexter Pratt",
+    "Alex Ishkin",
     "Florian Auer"
   ],
   "sc:additionalType": "Library",

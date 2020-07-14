@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
+    "UK MRC",
     "Wellcome Trust",
-    "EMBOSS Contributors",
-    "UK MRC"
+    "EMBOSS Contributors"
   ],
   "sc:description": "Index an obo ontology using b+tree indices.",
   "sc:funder": [

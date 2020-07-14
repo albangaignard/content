@@ -13,14 +13,14 @@
   "biotools:primaryContact": "Web Production",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Liisa Holm",
-    "Web Production"
+    "Web Production",
+    "Liisa Holm"
   ],
   "sc:description": "Pairwise structure alignment.",
   "sc:name": "DaliLite",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": [

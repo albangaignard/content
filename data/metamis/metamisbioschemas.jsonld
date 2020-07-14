@@ -24,10 +24,10 @@
       "sc:description": "Metagenomic microbial interaction simulator based on microbial community profiles.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3562"
+          "@id": "edam:operation_3660"
         },
         {
-          "@id": "edam:operation_3660"
+          "@id": "edam:operation_3562"
         }
       ],
       "sc:name": "MetaMIS",

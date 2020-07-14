@@ -18,8 +18,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "MEMBPLUGIN",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": "cnr.it",

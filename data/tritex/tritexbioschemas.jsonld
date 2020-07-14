@@ -17,8 +17,8 @@
   "sc:name": "TRITEX",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://tritexassembly.bitbucket.io"
 }

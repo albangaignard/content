@@ -27,8 +27,8 @@
       },
       "sc:name": "SuperPhy",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "https://lfz.corefacility.ca/superphy/"

@@ -16,8 +16,8 @@
         {
           "@id": "https://orcid.org/0000-0001-5930-4111"
         },
-        "Jeffrey J. Essner",
-        "Stephen C. Ekker"
+        "Stephen C. Ekker",
+        "Jeffrey J. Essner"
       ],
       "sc:additionalType": [
         "Web application",
@@ -27,9 +27,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Gene Sculpt Suite",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://www.genesculpt.org"
     },

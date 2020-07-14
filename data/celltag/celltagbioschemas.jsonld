@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0001-8561-4340",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1186/S13059-019-1699-Y",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/CellTag",
@@ -45,15 +45,15 @@
       "sc:license": "MIT",
       "sc:name": "CellTag",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://github.com/morris-lab/CellTag-Classifier"
     },
     {
-      "@id": "https://doi.org/10.1186/S13059-019-1699-Y",
-      "@type": "sc:CreativeWork"
+      "@id": "https://orcid.org/0000-0001-8561-4340",
+      "@type": "schema:Person"
     }
   ]
 }

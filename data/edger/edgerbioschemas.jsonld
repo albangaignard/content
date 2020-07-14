@@ -17,35 +17,35 @@
       "@id": "https://bio.tools/edger",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Yunshun Chen",
         {
           "@id": "http://orcid.org/0000-0002-2218-6833"
         },
+        "Aaron Lun",
         "Mark Robinson",
-        "Yunshun Chen",
-        "Gordon Smyth",
-        "Aaron Lun"
+        "Gordon Smyth"
       ],
       "edam:has_input": {
         "@id": "edam:data_2044"
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_1669"
+          "@id": "edam:data_2884"
         },
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_1669"
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3170"
+          "@id": "edam:topic_3169"
         },
         {
-          "@id": "edam:topic_3169"
+          "@id": "edam:topic_3170"
         },
         {
           "@id": "edam:topic_3053"
@@ -65,9 +65,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "edgeR",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/edgeR.html",
       "sc:version": "3.16.5"

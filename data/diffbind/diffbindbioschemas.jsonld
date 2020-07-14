@@ -18,12 +18,12 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Rory Stark",
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
-        "pmcid:PMC4076632",
         "pubmed:24886537",
+        "pmcid:PMC4076632",
         {
           "@id": "https://doi.org/10.1186/bcr3664"
         }

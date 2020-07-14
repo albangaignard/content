@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/hmrfbayeshic",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Yun Li",
     "Ming Hu",
+    "Yun Li",
     "Zheng Xu"
   ],
   "sc:additionalType": "Command-line tool",
@@ -21,8 +21,8 @@
   "sc:name": "HMRFBayesHiC",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.unc.edu/~yunmli/HMRFBayesHiC/"
 }

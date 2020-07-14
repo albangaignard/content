@@ -10,15 +10,11 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/btt551",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/reportingtools",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Gabriel Becker",
         "Jason A. Hackney",
+        "Gabriel Becker",
         "Jessica L. Larson"
       ],
       "edam:has_input": {
@@ -28,15 +24,15 @@
         "@id": "edam:data_1270"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_3316"
       },
       "sc:citation": [
-        "pubmed:24078713",
         "pmcid:PMC5994940",
+        "pubmed:24078713",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/btt551"
         }
@@ -49,11 +45,15 @@
       "sc:name": "ReportingTools",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/ReportingTools.html",
       "sc:version": "2.14.0"
+    },
+    {
+      "@id": "https://doi.org/10.1093/bioinformatics/btt551",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

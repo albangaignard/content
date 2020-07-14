@@ -16,8 +16,8 @@
   "sc:name": "jPCR",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://primerdigital.com/tools/pcr.html",
   "sc:version": "1.15.8"

@@ -17,8 +17,8 @@
   "sc:name": "MAGNA++",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www3.nd.edu/~cone/MAGNA++/"
 }
