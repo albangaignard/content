@@ -17,9 +17,9 @@
       },
       "sc:additionalType": [
         "Desktop application",
-        "Library",
         "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:author": {
         "@id": "http://orcid.org/0000-0001-7522-4007"
@@ -29,8 +29,8 @@
       "sc:license": "BSD-3-Clause",
       "sc:name": "PIA - Protein Inference Algorithms",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:provider": "BioInfra.Prot",

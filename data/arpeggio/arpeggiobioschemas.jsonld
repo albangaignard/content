@@ -19,8 +19,8 @@
       "biotools:primaryContact": "Jubb HC",
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pubmed:27964945",
         "pmcid:PMC5282402",
+        "pubmed:27964945",
         {
           "@id": "https://doi.org/10.1016/J.JMB.2016.12.004"
         }

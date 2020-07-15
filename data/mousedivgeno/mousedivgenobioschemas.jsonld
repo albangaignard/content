@@ -17,8 +17,8 @@
   "sc:name": "MouseDivGeno",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://cgd.jax.org/tools/mousedivgeno/"
 }

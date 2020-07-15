@@ -16,8 +16,8 @@
   "sc:name": "MICO",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://mico.ggc.org/MICO/SearchEntry.jsp"
 }

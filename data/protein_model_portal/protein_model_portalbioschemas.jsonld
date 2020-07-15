@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/database/bat031",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/protein_model_portal",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Prof. Torsten Schwede",
@@ -42,15 +46,11 @@
       ],
       "sc:name": "Protein Model Portal",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://www.proteinmodelportal.org"
-    },
-    {
-      "@id": "https://doi.org/10.1093/database/bat031",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -18,15 +18,15 @@
         "Fei Yi"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1093/database/bay131"
         },
-        "pubmed:30576494",
-        "pmcid:PMC6301336"
+        "pmcid:PMC6301336",
+        "pubmed:30576494"
       ],
       "sc:description": "Comprehensive database of transposable elements in conifers.",
       "sc:featureList": [
@@ -43,8 +43,8 @@
       "sc:license": "Unlicense",
       "sc:name": "ConTEdb",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://genedenovoweb.ticp.net:81/conTEdb/index.php"

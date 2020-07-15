@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
-    "UK BBSRC",
+    "EMBOSS Contributors",
     "UK MRC",
-    "EMBOSS Contributors"
+    "UK BBSRC"
   ],
   "sc:description": "Remove non-alphabetic (e.g. gap) characters from sequences.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "degapseq",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "EMBL EBI",

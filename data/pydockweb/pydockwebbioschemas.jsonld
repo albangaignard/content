@@ -21,8 +21,8 @@
       "sc:name": "pyDockWEB",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": [
         "Barcelona Supercomputing Center",

@@ -25,8 +25,8 @@
       "sc:license": "MIT",
       "sc:name": "classification noise",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "https://imperfect-gold-standard.shinyapps.io/classification-noise/"

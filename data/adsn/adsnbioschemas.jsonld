@@ -20,8 +20,8 @@
   "sc:license": "Unlicense",
   "sc:name": "adsn",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:url": "http://adsn.ddnetbio.com"

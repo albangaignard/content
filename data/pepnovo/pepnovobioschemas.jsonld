@@ -16,8 +16,8 @@
   "sc:name": "PepNovo",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://proteomics.ucsd.edu/ProteoSAFe/"
 }

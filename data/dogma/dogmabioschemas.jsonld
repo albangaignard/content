@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.1093/NAR/GKZ366",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/DOGMA",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -37,15 +41,11 @@
       "sc:license": "Unlicense",
       "sc:name": "DOGMA",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://domainworld-services.uni-muenster.de/dogma/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKZ366",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

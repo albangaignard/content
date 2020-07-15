@@ -35,8 +35,8 @@
       "sc:name": "4DGenome",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://4dgenome.research.chop.edu"
     }

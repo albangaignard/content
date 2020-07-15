@@ -13,9 +13,9 @@
   "sc:additionalType": "Library",
   "sc:author": "Sebastian Wilzbach",
   "sc:contributor": [
-    "Google Summer of Code (GSoC) 2014",
-    "Benedikt Rauscher",
     "Guy Yachdav",
+    "Benedikt Rauscher",
+    "Google Summer of Code (GSoC) 2014",
     "Tatyana Goldberg",
     "Ian Sillitoe"
   ],
@@ -25,12 +25,12 @@
   "sc:name": "MSAViewer",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
-    "BioJS",
-    "Technische Universität München"
+    "Technische Universität München",
+    "BioJS"
   ],
   "sc:url": "http://msa.biojs.net",
   "sc:version": "1.0.0"

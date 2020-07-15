@@ -16,8 +16,8 @@
   "sc:name": "TreSpEx",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://annelida.de/research/bioinformatics/software/index.html"
 }

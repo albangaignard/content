@@ -10,13 +10,17 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/NAR/GKS877",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/noncoder",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Thomas Braun",
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pubmed:23012263",
         "pmcid:PMC3592461",
+        "pubmed:23012263",
         {
           "@id": "https://doi.org/10.1093/NAR/GKS877"
         }
@@ -27,15 +31,11 @@
       },
       "sc:name": "Noncoder",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://noncoder.mpi-bn.mpg.de/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKS877",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

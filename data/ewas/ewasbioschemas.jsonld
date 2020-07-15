@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Yongshuai Jiang",
-    "Liangde Xu",
-    "Fanwu Kong"
+    "Fanwu Kong",
+    "Liangde Xu"
   ],
   "sc:additionalType": [
     "Command-line tool",

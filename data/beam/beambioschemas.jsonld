@@ -19,8 +19,8 @@
   "sc:name": "BEAM",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://beam.uniroma2.it/home"
 }
