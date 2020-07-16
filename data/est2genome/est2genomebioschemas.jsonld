@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
     "EMBOSS Contributors",
-    "UK MRC",
-    "Wellcome Trust"
+    "UK BBSRC",
+    "Wellcome Trust",
+    "UK MRC"
   ],
   "sc:description": "Align EST sequences to genomic DNA sequence.",
   "sc:funder": [

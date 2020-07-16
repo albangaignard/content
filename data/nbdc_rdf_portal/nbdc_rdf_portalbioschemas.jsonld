@@ -36,8 +36,8 @@
       "sc:license": "Unlicense",
       "sc:name": "NBDC RDF Portal",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "https://integbio.jp/rdf/"

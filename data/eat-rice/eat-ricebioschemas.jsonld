@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "https://orcid.org/0000-0002-5525-4011",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/EAT-Rice",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -48,6 +44,10 @@
         "Windows"
       ],
       "sc:url": "http://predictor.nchu.edu.tw/EAT-Rice"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-5525-4011",
+      "@type": "schema:Person"
     }
   ]
 }

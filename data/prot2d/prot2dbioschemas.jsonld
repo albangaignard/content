@@ -21,8 +21,8 @@
   "sc:name": "prot2D",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/prot2D.html",
   "sc:version": "1.12.0"

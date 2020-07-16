@@ -18,9 +18,9 @@
   "sc:license": "BSD-3-Clause",
   "sc:name": "OpenMS",
   "sc:operatingSystem": [
-    "Linux",
+    "Windows",
     "Mac",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
     "Eberhard-Karls-Universität Tübingen",

@@ -26,8 +26,8 @@
       },
       "sc:name": "PreDREM",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://server.cs.ucf.edu/predrem/"

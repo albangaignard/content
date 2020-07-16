@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "AnnaTesei",
-    "GiuliaPaganelli",
     "AlessandroBevilacqua",
-    "FilippoPiccinini",
-    "WainerZoli"
+    "WainerZoli",
+    "GiuliaPaganelli",
+    "FilippoPiccinini"
   ],
   "sc:additionalType": "Desktop application",
   "sc:citation": "pubmed:25438936",

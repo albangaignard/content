@@ -20,8 +20,8 @@
   "sc:license": "Unlicense",
   "sc:name": "kmcEx",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://github.com/lzhLab/kmcEx"

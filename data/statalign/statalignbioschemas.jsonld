@@ -10,11 +10,15 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/molbev/msu184",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/StatAlign",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Joe Herman",
-        "Adam Novak"
+        "Adam Novak",
+        "Joe Herman"
       ],
       "sc:additionalType": "Desktop application",
       "sc:citation": [
@@ -29,15 +33,11 @@
       "sc:license": "GPL-3.0",
       "sc:name": "StatAlign",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://statalign.github.io/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/molbev/msu184",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -19,8 +19,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "PSB",
     "UGent",
+    "PSB",
     "VIB"
   ],
   "sc:url": "https://cornet.psb.ugent.be",

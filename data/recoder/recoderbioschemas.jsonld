@@ -19,20 +19,20 @@
   ],
   "sc:description": "Find restriction sites to remove (mutate) with no translation change.",
   "sc:funder": [
-    "Wellcome Trust",
     "UK BBSRC",
+    "Wellcome Trust",
     "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "recoder",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/recoder.html",
   "sc:version": "r6"

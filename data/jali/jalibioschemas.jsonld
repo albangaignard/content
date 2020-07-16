@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
     "Web application",
-    "Command-line tool",
-    "Web API"
+    "Web API",
+    "Command-line tool"
   ],
   "sc:author": "Jens Stoye",
   "sc:description": "Alignment method for comparing a protein sequence to a protein family, represented by a multiple alignment. It can also be used for sensitive protein database searches. The algorithm is a generalization of the Smith-Waterman algorithm.",

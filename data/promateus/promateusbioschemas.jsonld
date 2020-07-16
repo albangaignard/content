@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Jaimie Prilusky",
-    "Mati Cohen",
     "Dana Reichmann",
+    "Mati Cohen",
     "Asaf Carmi"
   ],
   "sc:additionalType": "Web application",

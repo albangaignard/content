@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "EMBOSS Contributors",
     "UK MRC",
     "Wellcome Trust",
-    "UK BBSRC"
+    "UK BBSRC",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Find programs by EDAM operation.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "wossoperation",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "EMBOSS",

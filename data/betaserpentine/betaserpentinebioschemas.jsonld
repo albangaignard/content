@@ -23,8 +23,8 @@
   "sc:name": "BetaSerpentine",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bioinfo.montp.cnrs.fr/b-serpentine",
   "sc:version": "1.0"

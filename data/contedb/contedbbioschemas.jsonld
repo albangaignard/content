@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/ConTEdb",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Junhui Wang",
         "Fangqun Ouyang",
+        "Junhui Wang",
         "Fei Yi"
       ],
       "sc:additionalType": [
@@ -31,21 +31,21 @@
       "sc:description": "Comprehensive database of transposable elements in conifers.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0524"
-        },
-        {
           "@id": "edam:operation_3216"
         },
         {
           "@id": "edam:operation_3431"
+        },
+        {
+          "@id": "edam:operation_0524"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "ConTEdb",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://genedenovoweb.ticp.net:81/conTEdb/index.php"
     },

@@ -19,16 +19,16 @@
   ],
   "sc:description": "Write to file a single sequence from an input stream of sequences.",
   "sc:funder": [
+    "Wellcome Trust",
     "UK MRC",
-    "UK BBSRC",
-    "Wellcome Trust"
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "nthseq",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "EMBL EBI",

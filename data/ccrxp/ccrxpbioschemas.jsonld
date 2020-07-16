@@ -17,8 +17,8 @@
   "sc:name": "CCRXP",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://ccrxp.netasa.org"
 }
