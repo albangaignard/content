@@ -21,8 +21,8 @@
   "sc:name": "Trimitomics",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/bplese/Trimitomics"
 }

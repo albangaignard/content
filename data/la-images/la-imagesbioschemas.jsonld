@@ -16,9 +16,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "LA-iMageS",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "Bioscope Group, University Nova of Lisbon",

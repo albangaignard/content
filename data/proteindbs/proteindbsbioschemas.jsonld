@@ -17,8 +17,8 @@
   "sc:name": "ProteinDBS",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://proteindbs.rnet.missouri.edu/"
 }

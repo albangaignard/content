@@ -13,8 +13,8 @@
   "biotools:primaryContact": [
     "Guanghua Xiao",
     "Bo Yao",
-    "Contact Address",
-    "Yang Xie"
+    "Yang Xie",
+    "Contact Address"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:24398258",

@@ -42,8 +42,8 @@
       "sc:license": "Unlicense",
       "sc:name": "VOLPES",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://volpes.univie.ac.at"

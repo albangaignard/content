@@ -47,8 +47,8 @@
       "sc:name": "CS2BP2-Plot",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://nrcmonsrv01.nrc.ca/cs2bp2plot"
     }

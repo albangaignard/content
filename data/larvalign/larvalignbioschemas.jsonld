@@ -27,8 +27,8 @@
       },
       "sc:name": "larvalign",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "https://github.com/larvalign/larvalign/releases/tag/v1.0",

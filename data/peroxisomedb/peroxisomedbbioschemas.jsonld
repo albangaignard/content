@@ -33,16 +33,16 @@
           "@id": "edam:operation_3431"
         },
         {
-          "@id": "edam:operation_3092"
-        },
-        {
           "@id": "edam:operation_0324"
         },
         {
-          "@id": "edam:operation_0477"
+          "@id": "edam:operation_3092"
         },
         {
           "@id": "edam:operation_0554"
+        },
+        {
+          "@id": "edam:operation_0477"
         }
       ],
       "sc:license": "Unlicense",

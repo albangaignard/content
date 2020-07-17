@@ -16,8 +16,8 @@
   "sc:name": "FuncPatch",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://info.mcmaster.ca/yifei/FuncPatch/"
 }

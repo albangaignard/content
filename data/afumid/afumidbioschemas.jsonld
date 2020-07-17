@@ -26,18 +26,18 @@
       "sc:description": "framework for the analysis of Aspergillus fumigatus isolates based on their microsatellite profile.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_3797"
         },
         {
-          "@id": "edam:operation_3797"
+          "@id": "edam:operation_3196"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "AfumID",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://afumid.shinyapps.io/afumID"
     },

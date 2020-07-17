@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/promateus",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Mati Cohen",
     "Jaimie Prilusky",
     "Dana Reichmann",
-    "Mati Cohen",
     "Asaf Carmi"
   ],
   "sc:additionalType": "Web application",

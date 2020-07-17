@@ -30,8 +30,8 @@
       "sc:name": "RILogo",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": "binf.ku.dk",
       "sc:url": "http://rth.dk/resources/rilogo/",

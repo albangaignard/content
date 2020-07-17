@@ -17,8 +17,8 @@
   "sc:name": "SigProfilerMatrixGenerator",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/AlexandrovLab/SigProfilerMatrixGenerator"
 }

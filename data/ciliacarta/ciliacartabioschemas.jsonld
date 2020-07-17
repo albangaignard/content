@@ -17,10 +17,10 @@
       "@id": "https://bio.tools/CiliaCarta",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Martijn A. Huynen",
         {
           "@id": "https://orcid.org/0000-0002-8122-190X"
-        }
+        },
+        "Martijn A. Huynen"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -45,9 +45,9 @@
       "sc:license": "Unlicense",
       "sc:name": "CiliaCarta",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioinformatics.bio.uu.nl/john/syscilia/ciliacarta/"
     },

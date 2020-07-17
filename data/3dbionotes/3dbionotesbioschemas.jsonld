@@ -16,8 +16,8 @@
   "sc:name": "3DBIONOTES",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "INB",

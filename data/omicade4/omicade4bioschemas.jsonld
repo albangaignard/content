@@ -25,12 +25,15 @@
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3518"
+          "@id": "edam:topic_0203"
+        },
+        {
+          "@id": "edam:topic_3303"
         },
         {
           "@id": "edam:topic_3391"
@@ -39,13 +42,10 @@
           "@id": "edam:topic_0091"
         },
         {
+          "@id": "edam:topic_3518"
+        },
+        {
           "@id": "edam:topic_2229"
-        },
-        {
-          "@id": "edam:topic_3303"
-        },
-        {
-          "@id": "edam:topic_0203"
         }
       ],
       "sc:citation": [
@@ -61,10 +61,10 @@
       "sc:description": "Multiple co-inertia analysis of omics datasets.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3432"
+          "@id": "edam:operation_2942"
         },
         {
-          "@id": "edam:operation_2942"
+          "@id": "edam:operation_3432"
         },
         {
           "@id": "edam:operation_2938"
