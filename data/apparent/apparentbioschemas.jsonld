@@ -24,10 +24,10 @@
       "sc:description": "R package for accurate SNP-based parentage analysis in the absence of guiding information.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3661"
+          "@id": "edam:operation_3196"
         },
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_3661"
         },
         {
           "@id": "edam:operation_0484"

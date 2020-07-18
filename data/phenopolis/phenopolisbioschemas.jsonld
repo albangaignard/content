@@ -19,9 +19,9 @@
   "sc:license": "MIT",
   "sc:name": "Phenopolis",
   "sc:operatingSystem": [
+    "Windows",
     "Mac",
-    "Linux",
-    "Windows"
+    "Linux"
   ],
   "sc:url": "https://phenopolis.org/"
 }

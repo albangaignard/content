@@ -16,8 +16,8 @@
   "sc:name": "dBBQs",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://arc-gem.uams.edu/dbbqs/"
 }

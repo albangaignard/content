@@ -13,8 +13,8 @@
   "sc:additionalType": "Library",
   "sc:author": "Sebastian Wilzbach",
   "sc:contributor": [
-    "Tatyana Goldberg",
     "Ian Sillitoe",
+    "Tatyana Goldberg",
     "Guy Yachdav",
     "Google Summer of Code (GSoC) 2014",
     "Benedikt Rauscher"
@@ -24,9 +24,9 @@
   "sc:license": "Apache-2.0",
   "sc:name": "MSAViewer",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
     "Technische Universität München",

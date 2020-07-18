@@ -10,13 +10,17 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1038/ng.2892",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/cadd_phred",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "CADD support",
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pubmed:24487276",
         "pmcid:PMC3992975",
+        "pubmed:24487276",
         {
           "@id": "https://doi.org/10.1038/ng.2892"
         }
@@ -41,10 +45,6 @@
         "Mac"
       ],
       "sc:url": "http://cadd.gs.washington.edu/"
-    },
-    {
-      "@id": "https://doi.org/10.1038/ng.2892",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

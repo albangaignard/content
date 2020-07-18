@@ -22,14 +22,14 @@
   "sc:description": "Text mining for melanoma.",
   "sc:name": "MelanomaMine",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": [
     "cnio.es",
-    "Spanish National Bioinformatics Institute",
-    "Spanish Cancer Research Center"
+    "Spanish Cancer Research Center",
+    "Spanish National Bioinformatics Institute"
   ],
   "sc:url": "http://melanomamine.bioinfo.cnio.es/",
   "sc:version": "0.1"

@@ -39,8 +39,8 @@
       "sc:name": "KiT",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://bitbucket.org/jarmond/kit/overview"
     }

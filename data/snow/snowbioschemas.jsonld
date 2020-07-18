@@ -17,8 +17,8 @@
   "sc:name": "SNOW",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://snow.bioinfo.cipf.es"
 }

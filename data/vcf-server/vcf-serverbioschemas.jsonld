@@ -38,9 +38,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "VCF-Server",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://diseasegps.sjtu.edu.cn/VCF-Server?lan=eng"
     },

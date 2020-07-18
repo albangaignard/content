@@ -16,8 +16,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "CELLmicrocosmos 4 PathwayIntegration (CmPI)",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "http://Cm4.CELLmicrocosmos.org",

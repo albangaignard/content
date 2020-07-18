@@ -16,8 +16,8 @@
   "sc:name": "QuPE",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "bigi",

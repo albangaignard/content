@@ -22,8 +22,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "Bielefeld University",
     "CeBiTec",
+    "Bielefeld University",
     "BiBiServ"
   ],
   "sc:url": "https://bibiserv.cebitec.uni-bielefeld.de/possumsearch2",

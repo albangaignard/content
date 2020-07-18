@@ -38,9 +38,9 @@
       "sc:license": "Unlicense",
       "sc:name": "SPARK-MSNA",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://sourceforge.net/projects/spark-msna/"
     },

@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "http://orcid.org/0000-0001-5555-3321",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.1093/nar/gkx337",
       "@type": "sc:CreativeWork"
     },
@@ -42,10 +46,6 @@
       },
       "sc:name": "GASS-WEB",
       "sc:url": "http://gass.unifei.edu.br/"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-5555-3321",
-      "@type": "schema:Person"
     }
   ]
 }

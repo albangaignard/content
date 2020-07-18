@@ -14,13 +14,13 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "GWAS Catalog Support",
       "sc:additionalType": [
-        "Web application",
         "Database portal",
-        "Web API"
+        "Web API",
+        "Web application"
       ],
       "sc:citation": [
-        "pmcid:PMC3965119",
         "pubmed:24316577",
+        "pmcid:PMC3965119",
         {
           "@id": "https://doi.org/10.1093/nar/gkt1229"
         }
@@ -43,9 +43,9 @@
       "sc:license": "Apache-2.0",
       "sc:name": "GWAS catalog",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://www.ebi.ac.uk/gwas/"
     },

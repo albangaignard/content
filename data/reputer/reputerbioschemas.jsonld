@@ -24,18 +24,18 @@
       },
       "sc:additionalType": [
         "Command-line tool",
-        "Web application",
-        "Web API"
+        "Web API",
+        "Web application"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0654"
+          "@id": "edam:topic_0157"
         },
         {
           "@id": "edam:topic_0622"
         },
         {
-          "@id": "edam:topic_0157"
+          "@id": "edam:topic_0654"
         }
       ],
       "sc:citation": [

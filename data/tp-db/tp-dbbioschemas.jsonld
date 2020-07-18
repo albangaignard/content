@@ -21,8 +21,8 @@
   "sc:name": "TP-DB",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://dyn.life.nthu.edu.tw/design"
 }

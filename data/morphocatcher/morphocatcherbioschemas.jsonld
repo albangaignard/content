@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.7717/PEERJ.6801",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/MorphoCatcher",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Fedor V. Shirshikov",
@@ -41,10 +45,6 @@
         "Windows"
       ],
       "sc:url": "http://morphocatcher.ru"
-    },
-    {
-      "@id": "https://doi.org/10.7717/PEERJ.6801",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

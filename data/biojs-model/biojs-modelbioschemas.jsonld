@@ -15,8 +15,8 @@
   "sc:description": "Biological data models.",
   "sc:name": "biojs-model",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": "BioJS",

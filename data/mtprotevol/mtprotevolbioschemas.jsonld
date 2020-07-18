@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12862-019-1371-x",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/mtProtEvol",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Konstantin Gunbin",
@@ -36,14 +40,10 @@
       "sc:name": "mtProtEvol",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioinfodbs.kantiana.ru/mtProtEvol/"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12862-019-1371-x",
-      "@type": "sc:CreativeWork"
     }
   ]
 }
