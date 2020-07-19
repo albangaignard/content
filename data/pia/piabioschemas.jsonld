@@ -21,9 +21,9 @@
       },
       "sc:additionalType": [
         "Command-line tool",
-        "Web application",
+        "Desktop application",
         "Library",
-        "Desktop application"
+        "Web application"
       ],
       "sc:author": {
         "@id": "http://orcid.org/0000-0001-7522-4007"

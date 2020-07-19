@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0002-5635-2692",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/allelicimbalance",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Jesper R Gadin",
@@ -44,10 +48,6 @@
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/AllelicImbalance.html",
       "sc:version": "1.12.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-5635-2692",
-      "@type": "schema:Person"
     }
   ]
 }

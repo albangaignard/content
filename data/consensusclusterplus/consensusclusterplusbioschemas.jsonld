@@ -22,18 +22,18 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_2048"
         },
         {
           "@id": "edam:data_1636"
         },
         {
-          "@id": "edam:data_2048"
+          "@id": "edam:data_2884"
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
@@ -57,9 +57,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "ConsensusClusterPlus",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/ConsensusClusterPlus.html",
       "sc:version": "1.38.0"

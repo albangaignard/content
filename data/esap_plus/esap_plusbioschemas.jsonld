@@ -32,8 +32,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "ESAP plus",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://gbp.kku.ac.th/esap_plus/"

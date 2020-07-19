@@ -30,10 +30,10 @@
       "sc:description": "Pipeline for high-throughput extraction of cell contours from 3D image stacks.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3446"
+          "@id": "edam:operation_3799"
         },
         {
-          "@id": "edam:operation_3799"
+          "@id": "edam:operation_3446"
         }
       ],
       "sc:license": "CECILL-C",

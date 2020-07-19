@@ -15,8 +15,8 @@
     "Jose Rodriguez"
   ],
   "sc:additionalType": [
-    "Web application",
     "Web API",
+    "Web application",
     "Database portal"
   ],
   "sc:author": "Jose Rodriguez",
@@ -30,8 +30,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "INB",
     "cnio.es",
+    "INB",
     "CNIO"
   ],
   "sc:url": "http://appris.bioinfo.cnio.es/#/database",

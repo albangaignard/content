@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0001-5210-4387",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/archdb",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Database portal",
@@ -33,16 +37,12 @@
       },
       "sc:name": "ArchDB14",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:provider": "upf.edu",
       "sc:url": "http://sbi.imim.es/archdb/"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-5210-4387",
-      "@type": "schema:Person"
     }
   ]
 }

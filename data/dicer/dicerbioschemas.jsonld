@@ -33,8 +33,8 @@
       "sc:name": "diceR",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/diceR/index.html",
       "sc:version": "0.5.1"

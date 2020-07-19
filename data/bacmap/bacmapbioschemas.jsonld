@@ -17,8 +17,8 @@
   "sc:name": "BacMap",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bacmap.wishartlab.com/"
 }

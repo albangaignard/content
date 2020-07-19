@@ -35,9 +35,9 @@
       },
       "sc:name": "WORFDB",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://worfdb.dfci.harvard.edu/"
     },

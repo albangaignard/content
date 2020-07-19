@@ -22,8 +22,8 @@
   "sc:name": "BRAT",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://brat.nlplab.org/"
 }

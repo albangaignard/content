@@ -17,8 +17,8 @@
   "sc:name": "LFC",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://www.bio.ifi.lmu.de/software/lfc"
 }

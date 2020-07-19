@@ -33,9 +33,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "BURRITO",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://elbo.gs.washington.edu/software_burrito.html"
     },

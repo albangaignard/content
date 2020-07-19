@@ -34,16 +34,16 @@
           "@id": "edam:operation_0253"
         },
         {
-          "@id": "edam:operation_0361"
+          "@id": "edam:operation_2414"
         },
         {
-          "@id": "edam:operation_2414"
+          "@id": "edam:operation_0361"
         }
       ],
       "sc:name": "PROSITE",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:provider": "SIB Swiss Institute of Bioinformatics",

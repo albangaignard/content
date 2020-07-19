@@ -20,8 +20,8 @@
     "Linux"
   ],
   "sc:provider": [
-    "CeBiTec",
     "Bielefeld University",
+    "CeBiTec",
     "bigi"
   ],
   "sc:url": "http://emma.cebitec.uni-bielefeld.de",

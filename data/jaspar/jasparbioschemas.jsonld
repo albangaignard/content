@@ -13,24 +13,24 @@
       "@id": "https://bio.tools/jaspar",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Wyeth Wasserman",
         "Boris Lenhard",
-        "Albin Sandelin",
+        "Wyeth Wasserman",
         {
           "@id": "http://orcid.org/0000-0001-5127-5459"
-        }
+        },
+        "Albin Sandelin"
       ],
       "sc:additionalType": [
-        "Web API",
         "Database portal",
+        "Web API",
         "Web application"
       ],
       "sc:description": "The high-quality transcription factor binding profile database.",
       "sc:license": "CC-BY-NC-4.0",
       "sc:name": "JASPAR",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://jaspar.genereg.net/"

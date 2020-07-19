@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/pep2path",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Desktop application",
-        "Suite"
+        "Suite",
+        "Desktop application"
       ],
       "sc:citation": [
         "pubmed:25188327",
@@ -31,8 +31,8 @@
       "sc:name": "Pep2Path",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://pep2path.sourceforge.net",
       "sc:version": "1.1.0"
