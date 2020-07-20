@@ -36,8 +36,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "ReFernment",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "https://github.com/TARobison/ReFernment",

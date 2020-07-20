@@ -28,13 +28,13 @@
       "sc:description": "Quantitative predictions of transcription factor binding changes due to sequence variants.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0445"
+          "@id": "edam:operation_3799"
         },
         {
           "@id": "edam:operation_0331"
         },
         {
-          "@id": "edam:operation_3799"
+          "@id": "edam:operation_0445"
         }
       ],
       "sc:license": "MIT",

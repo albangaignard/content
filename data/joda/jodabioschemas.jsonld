@@ -41,9 +41,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "joda",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/joda.html",
       "sc:version": "1.22.0"

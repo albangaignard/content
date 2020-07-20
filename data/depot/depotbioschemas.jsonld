@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Andrei Gabrielian",
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pmcid:PMC6532897",
@@ -28,9 +28,9 @@
       "sc:license": "Unlicense",
       "sc:name": "DEPOT",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://depot.tbportals.niaid.nih.gov"
     },

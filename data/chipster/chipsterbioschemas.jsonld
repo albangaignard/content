@@ -20,8 +20,8 @@
   "sc:name": "Chipster",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": "csc.fi",
   "sc:url": "http://chipster.csc.fi/",

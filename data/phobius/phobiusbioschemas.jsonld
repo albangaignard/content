@@ -19,8 +19,8 @@
   "sc:description": "Predict transmembrane topology and signal peptides from the amino acid sequence of a protein.",
   "sc:name": "Phobius",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": [

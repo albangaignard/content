@@ -11,13 +11,13 @@
   "@id": "https://bio.tools/melanomamine",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Martin Krallinger",
-    "Andrés Cañada"
+    "Andrés Cañada",
+    "Martin Krallinger"
   ],
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Martin Krallinger",
-    "Andrés Cañada"
+    "Andrés Cañada",
+    "Martin Krallinger"
   ],
   "sc:description": "Text mining for melanoma.",
   "sc:name": "MelanomaMine",
@@ -27,9 +27,9 @@
     "Windows"
   ],
   "sc:provider": [
+    "Spanish National Bioinformatics Institute",
     "Spanish Cancer Research Center",
-    "cnio.es",
-    "Spanish National Bioinformatics Institute"
+    "cnio.es"
   ],
   "sc:url": "http://melanomamine.bioinfo.cnio.es/",
   "sc:version": "0.1"

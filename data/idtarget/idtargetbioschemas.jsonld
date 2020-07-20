@@ -17,8 +17,8 @@
   "sc:name": "idTarget",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://idtarget.rcas.sinica.edu.tw"
 }

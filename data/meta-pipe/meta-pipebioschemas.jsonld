@@ -13,8 +13,8 @@
   "sc:additionalType": "Web application",
   "sc:author": [
     "Espen Robert Mikalsen",
-    "Inge Alexander Raknes",
     "Tim Kahlke",
+    "Inge Alexander Raknes",
     "Erik Hjerde",
     "Edvard Pedersen"
   ],
@@ -22,8 +22,8 @@
   "sc:name": "Meta-pipe",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": "UiT - The Arctic University of Norway",
   "sc:url": "https://galaxy-uit.bioinfo.no/root/index",

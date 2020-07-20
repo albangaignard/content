@@ -10,14 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-3564-4813",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gku351",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/csaw",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -38,10 +30,13 @@
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
+        {
+          "@id": "edam:topic_3169"
+        },
         {
           "@id": "edam:topic_0092"
         },
@@ -49,18 +44,15 @@
           "@id": "edam:topic_3511"
         },
         {
-          "@id": "edam:topic_3169"
-        },
-        {
           "@id": "edam:topic_3168"
         }
       ],
       "sc:citation": [
+        "pubmed:24852250",
+        "pmcid:PMC4066778",
         {
           "@id": "https://doi.org/10.1093/nar/gku351"
-        },
-        "pubmed:24852250",
-        "pmcid:PMC4066778"
+        }
       ],
       "sc:description": "Detection of differentially bound regions in ChIP-seq data with sliding windows, with methods for normalization and proper FDR control.",
       "sc:featureList": {
@@ -70,11 +62,19 @@
       "sc:name": "csaw",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/csaw.html",
       "sc:version": "1.8.0"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-3564-4813",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gku351",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

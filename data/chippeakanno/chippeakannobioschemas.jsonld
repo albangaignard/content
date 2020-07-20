@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/chippeakanno",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Lihua Julie Zhu",
-    "Jianhong Ou"
+    "Jianhong Ou",
+    "Lihua Julie Zhu"
   ],
   "sc:additionalType": [
     "Library",

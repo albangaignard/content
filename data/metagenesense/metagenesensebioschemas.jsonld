@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/metagenesense",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web application",
-        "Desktop application"
+        "Desktop application",
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:28451381",
@@ -29,10 +29,10 @@
           "@id": "edam:operation_0310"
         },
         {
-          "@id": "edam:operation_2495"
+          "@id": "edam:operation_3460"
         },
         {
-          "@id": "edam:operation_3460"
+          "@id": "edam:operation_2495"
         }
       ],
       "sc:license": "GPL-2.0",

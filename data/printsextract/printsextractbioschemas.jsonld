@@ -19,15 +19,15 @@
   ],
   "sc:description": "Extract data from PRINTS database for use by pscan.",
   "sc:funder": [
+    "UK MRC",
     "Wellcome Trust",
-    "UK BBSRC",
-    "UK MRC"
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "printsextract",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": [

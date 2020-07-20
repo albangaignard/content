@@ -28,6 +28,9 @@
       "sc:description": "Interactive web server to query, browse and interrogate LINCS L1000 gene expression signatures.",
       "sc:featureList": [
         {
+          "@id": "edam:operation_3223"
+        },
+        {
           "@id": "edam:operation_2436"
         },
         {
@@ -37,16 +40,13 @@
           "@id": "edam:operation_3501"
         },
         {
-          "@id": "edam:operation_3223"
-        },
-        {
           "@id": "edam:operation_2495"
         }
       ],
       "sc:name": "LINCS Canvas Browser (LCB)",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://www.maayanlab.net/LINCS/LCB"

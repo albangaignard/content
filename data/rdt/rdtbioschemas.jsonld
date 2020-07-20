@@ -38,9 +38,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "RDT",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://github.com/asad/ReactionDecoder"
     }

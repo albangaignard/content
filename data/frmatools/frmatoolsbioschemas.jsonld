@@ -24,15 +24,15 @@
         "@id": "edam:data_1772"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3047"
+          "@id": "edam:topic_0203"
         },
         {
-          "@id": "edam:topic_0203"
+          "@id": "edam:topic_3047"
         }
       ],
       "sc:citation": [
@@ -49,8 +49,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "frmaTools",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/frmaTools.html",

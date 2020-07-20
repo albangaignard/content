@@ -17,8 +17,8 @@
   "sc:name": "JAMSS",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://ms.cs.umt.edu/simulation.html"
 }

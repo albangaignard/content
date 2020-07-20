@@ -16,8 +16,8 @@
   "sc:name": "GenomeFlow",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://github.com/jianlin-cheng/GenomeFlow"
 }

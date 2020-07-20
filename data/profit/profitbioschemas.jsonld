@@ -14,8 +14,8 @@
   "sc:contributor": [
     "Wellcome Trust",
     "UK BBSRC",
-    "UK MRC",
-    "EMBOSS Contributors"
+    "EMBOSS Contributors",
+    "UK MRC"
   ],
   "sc:description": "Scan one or more sequences with a simple frequency matrix.",
   "sc:funder": [
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "profit",
   "sc:operatingSystem": [
-    "Mac",
+    "Windows",
     "Linux",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

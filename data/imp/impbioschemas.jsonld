@@ -17,8 +17,8 @@
   "sc:name": "IMP",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://imp.princeton.edu"
 }

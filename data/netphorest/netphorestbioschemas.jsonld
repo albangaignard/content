@@ -43,8 +43,8 @@
       "sc:name": "NetPhorest",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:provider": "CBS",
       "sc:softwareHelp": {
