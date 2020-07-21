@@ -17,8 +17,8 @@
   "sc:name": "activeTF",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://hulab.ucf.edu/software"
 }

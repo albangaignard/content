@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Thomas Darde",
-    "Olivier Sallou"
+    "Olivier Sallou",
+    "Thomas Darde"
   ],
   "sc:contributor": [
     "Olivier Collin",

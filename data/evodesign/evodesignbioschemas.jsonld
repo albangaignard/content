@@ -17,8 +17,8 @@
   "sc:name": "EvoDesign",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://zhanglab.ccmb.med.umich.edu/EvoDesign"
 }

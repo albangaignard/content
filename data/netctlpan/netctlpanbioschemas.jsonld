@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1007/s00251-010-0441-4",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/netctlpan",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -49,8 +45,8 @@
       "sc:license": "Other",
       "sc:name": "NetCTLpan",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:provider": "CBS",
@@ -63,6 +59,10 @@
     {
       "@id": "http://orcid.org/0000-0001-7885-4311",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1007/s00251-010-0441-4",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

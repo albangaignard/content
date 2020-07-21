@@ -10,16 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s13023-018-0765-y",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/PhenoDis",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Dr. Andreas Ruepp",
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC5785853",
@@ -31,10 +27,10 @@
       "sc:description": "Database for phenotypic characterization of rare cardiac diseases.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_2422"
         },
         {
-          "@id": "edam:operation_2422"
+          "@id": "edam:operation_3196"
         }
       ],
       "sc:name": "PhenoDis",
@@ -44,6 +40,10 @@
         "Mac"
       ],
       "sc:url": "http://mips.helmholtz-muenchen.de/phenodis/"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s13023-018-0765-y",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

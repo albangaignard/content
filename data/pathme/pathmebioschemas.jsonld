@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Daniel Domingo-Fernández",
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:31092193",
@@ -30,18 +30,18 @@
           "@id": "edam:operation_3083"
         },
         {
-          "@id": "edam:operation_0277"
+          "@id": "edam:operation_3439"
         },
         {
-          "@id": "edam:operation_3439"
+          "@id": "edam:operation_0277"
         }
       ],
       "sc:license": "Apache-2.0",
       "sc:name": "PathMe",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://pathme.scai.fraunhofer.de/"
     },

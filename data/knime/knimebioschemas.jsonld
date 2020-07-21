@@ -17,8 +17,8 @@
   "sc:name": "Konstanz Information Miner (KNIME)",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.knime.org",
   "sc:version": [

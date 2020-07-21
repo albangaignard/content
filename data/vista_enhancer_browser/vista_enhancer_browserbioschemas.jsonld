@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkl822",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/vista_enhancer_browser",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
@@ -29,23 +33,19 @@
           "@id": "edam:operation_1781"
         },
         {
-          "@id": "edam:operation_0361"
+          "@id": "edam:operation_2421"
         },
         {
-          "@id": "edam:operation_2421"
+          "@id": "edam:operation_0361"
         }
       ],
       "sc:name": "VISTA Enhancer Browser",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://enhancer.lbl.gov/frnt_page_n.shtml"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkl822",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

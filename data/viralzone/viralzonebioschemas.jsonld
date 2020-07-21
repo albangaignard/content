@@ -31,8 +31,8 @@
       ],
       "sc:name": "ViralZone",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:provider": "SIB Swiss Institute of Bioinformatics",

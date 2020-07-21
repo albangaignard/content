@@ -18,12 +18,12 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Jianhong Ou",
-        "Sarah Sheppard",
-        "Lihua Julie Zhu"
+        "Lihua Julie Zhu",
+        "Sarah Sheppard"
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC4397975",
@@ -40,8 +40,8 @@
       "sc:name": "cleanUpdTSeq",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/cleanUpdTSeq.html",
       "sc:version": "1.12.0"

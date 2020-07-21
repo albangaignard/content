@@ -13,9 +13,9 @@
       "@id": "https://bio.tools/geseq",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Stephan Greiner",
         "Michael Tillich",
-        "Pascal Lehwark"
+        "Pascal Lehwark",
+        "Stephan Greiner"
       ],
       "edam:has_input": {
         "@id": "edam:data_2044"
@@ -40,8 +40,8 @@
       "sc:name": "GeSeq",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://chlorobox.mpimp-golm.mpg.de/geseq.html",
       "sc:version": "1.55"

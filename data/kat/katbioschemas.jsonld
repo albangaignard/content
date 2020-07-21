@@ -36,9 +36,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "KAT",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://www.earlham.ac.uk/kat-tools"
     }

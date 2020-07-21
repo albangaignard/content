@@ -17,9 +17,9 @@
       "@id": "https://bio.tools/mirtar2go",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Gaurav Sablok",
+        "Gyorgy Hutvagner",
         "Support",
-        "Gyorgy Hutvagner"
+        "Gaurav Sablok"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -35,9 +35,9 @@
       },
       "sc:name": "miRTar2GO",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://academic.oup.com/nar/article/45/6/e42/2605966"
     }
