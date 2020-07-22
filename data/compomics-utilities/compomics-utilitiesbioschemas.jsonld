@@ -50,9 +50,9 @@
       },
       "sc:name": "Compomics-utilities",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": "ugent.be",
       "sc:url": "http://compomics.github.io/projects/compomics-utilities.html",

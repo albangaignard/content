@@ -20,8 +20,8 @@
   "sc:name": "mPTP",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://mptp.h-its.org/#/tree"
 }

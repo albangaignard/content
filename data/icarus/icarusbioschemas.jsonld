@@ -18,8 +18,8 @@
   "sc:license": "GPL-2.0",
   "sc:name": "Icarus",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:url": "http://quast.sourceforge.net/icarus.html"

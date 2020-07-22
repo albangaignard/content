@@ -24,15 +24,15 @@
         "@id": "edam:data_2884"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0080"
+          "@id": "edam:topic_3170"
         },
         {
-          "@id": "edam:topic_3170"
+          "@id": "edam:topic_0080"
         }
       ],
       "sc:citation": [
@@ -50,8 +50,8 @@
       "sc:name": "Guitar",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/Guitar.html",
       "sc:version": "1.12.0"

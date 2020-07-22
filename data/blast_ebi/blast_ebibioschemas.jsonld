@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/bioinformatics/btw305",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://doi.org/10.1186/1471-2105-10-421",
       "@type": "sc:CreativeWork"
     },
@@ -25,8 +29,8 @@
       },
       "sc:additionalType": [
         "Web API",
-        "Web application",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:applicationSubCategory": [
         {
@@ -39,13 +43,13 @@
       "sc:author": "Web Production",
       "sc:citation": [
         {
-          "@id": "https://doi.org/10.1186/1471-2105-10-421"
-        },
-        "pmcid:PMC5013910",
-        "pubmed:20003500",
-        "pubmed:27256311",
-        {
           "@id": "https://doi.org/10.1093/bioinformatics/btw305"
+        },
+        "pubmed:27256311",
+        "pubmed:20003500",
+        "pmcid:PMC5013910",
+        {
+          "@id": "https://doi.org/10.1186/1471-2105-10-421"
         },
         "pmcid:PMC2803857"
       ],
@@ -60,19 +64,15 @@
       ],
       "sc:name": "BLAST (EBI)",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": [
-        "NCBI",
-        "EMBL-EBI"
+        "EMBL-EBI",
+        "NCBI"
       ],
       "sc:url": "http://www.ebi.ac.uk/Tools/sss/ncbiblast/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/bioinformatics/btw305",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

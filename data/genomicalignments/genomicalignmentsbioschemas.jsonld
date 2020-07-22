@@ -27,10 +27,10 @@
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_1383"
+          "@id": "edam:data_0867"
         },
         {
-          "@id": "edam:data_0867"
+          "@id": "edam:data_1383"
         }
       ],
       "sc:additionalType": [
@@ -62,9 +62,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "GenomicAlignments",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/GenomicAlignments.html",
       "sc:version": "1.10.0"

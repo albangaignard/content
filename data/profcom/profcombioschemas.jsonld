@@ -19,8 +19,8 @@
   "sc:name": "ProfCom",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://webclu.bio.wzw.tum.de/profcom/"
 }

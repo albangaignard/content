@@ -19,8 +19,8 @@
   "sc:description": "Text mining for toxicology.",
   "sc:name": "LimTox",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": "cnio.es",

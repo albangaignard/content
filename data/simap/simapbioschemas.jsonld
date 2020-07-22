@@ -53,8 +53,8 @@
       "sc:name": "SIMAP",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": "AT-CUBE",
       "sc:softwareHelp": {

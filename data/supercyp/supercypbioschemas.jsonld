@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Daniel Kuzmann",
+    "Katharina Kroll",
     "Stefan Guenther",
-    "Saskia Preissner",
     "Mathias Dunkel",
-    "Katharina Kroll"
+    "Saskia Preissner"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:19934256",

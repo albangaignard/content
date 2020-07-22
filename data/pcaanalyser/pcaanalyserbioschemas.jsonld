@@ -17,8 +17,8 @@
   "sc:name": "PCaAnalyser",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://cs.uno.edu/~tamjid/Software.html"
 }

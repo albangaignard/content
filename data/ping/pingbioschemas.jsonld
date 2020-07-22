@@ -43,8 +43,8 @@
       "sc:name": "PING",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/PING.html",
       "sc:version": "2.18.0"

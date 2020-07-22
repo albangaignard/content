@@ -22,8 +22,8 @@
   "sc:author": [
     "Solomon Shorser",
     "Brian O'Connor",
-    "Denis Yuen",
-    "Morgan Taschuk"
+    "Morgan Taschuk",
+    "Denis Yuen"
   ],
   "sc:description": "Portable software infrastructure designed to analyze massive genomics datasets produced by contemporary and emerging technologies, in particular Next Generation Sequencing (NGS) platforms.",
   "sc:license": "LGPL-2.1",

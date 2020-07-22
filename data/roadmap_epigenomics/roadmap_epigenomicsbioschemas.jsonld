@@ -29,8 +29,8 @@
       "sc:name": "ROADMAP epigenomics",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://egg2.wustl.edu/roadmap/web_portal/index.html"
     },

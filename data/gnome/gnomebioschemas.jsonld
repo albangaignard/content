@@ -15,8 +15,8 @@
   "sc:description": "Interactive whole-genome analysis pipeline to prioritize disease-linked variants, genes, and pathways.",
   "sc:name": "gNOME",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://gnome.tchlab.org/"

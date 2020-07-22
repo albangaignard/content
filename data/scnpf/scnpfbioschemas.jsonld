@@ -10,11 +10,15 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/S12864-019-5747-5",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/scNPF",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Xiaohui Wu",
-        "Wenbin Ye"
+        "Wenbin Ye",
+        "Xiaohui Wu"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -39,15 +43,11 @@
       "sc:license": "GPL-2.0",
       "sc:name": "scNPF",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://github.com/BMILAB/scNPF"
-    },
-    {
-      "@id": "https://doi.org/10.1186/S12864-019-5747-5",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

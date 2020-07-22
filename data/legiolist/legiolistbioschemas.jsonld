@@ -24,8 +24,8 @@
       "sc:name": "Legionella pneumophila genome database",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:provider": "Institut Pasteur",
       "sc:url": "http://genolist.pasteur.fr/LegioList/"
