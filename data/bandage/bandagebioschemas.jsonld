@@ -18,9 +18,9 @@
   "sc:author": "Ryan Wick",
   "sc:contributor": [
     "Elmar Pruesse",
+    "Kathryn Holt",
     "Mark Schultz",
     "Justin Zobel",
-    "Kathryn Holt",
     "Rayan Chikhi"
   ],
   "sc:description": "GUI program that allows users to interact with the assembly graphs made by de novo assemblers such as Velvet, SPAdes, MEGAHIT and others. It visualises assembly graphs, with connections, using graph layout algorithms.",

@@ -14,8 +14,8 @@
   "sc:contributor": [
     "EMBOSS Contributors",
     "UK BBSRC",
-    "Wellcome Trust",
-    "UK MRC"
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:description": "Draw a non-overlapping wordmatch dotplot of two sequences.",
   "sc:funder": [

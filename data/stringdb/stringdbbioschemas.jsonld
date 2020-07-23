@@ -31,8 +31,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "STRINGdb",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/STRINGdb.html",

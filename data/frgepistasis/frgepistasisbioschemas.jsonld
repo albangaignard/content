@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0002-6043-1756",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/frgepistasis",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -64,16 +68,12 @@
       "sc:license": "GPL-2.0",
       "sc:name": "FRGEpistasis",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/FRGEpistasis.html",
       "sc:version": "1.10.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-6043-1756",
-      "@type": "schema:Person"
     }
   ]
 }

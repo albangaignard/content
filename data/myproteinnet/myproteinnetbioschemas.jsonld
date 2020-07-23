@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkv515",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/myproteinnet",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Esti Yeger-Lotem",
@@ -43,10 +47,6 @@
         "Mac"
       ],
       "sc:url": "http://netbio.bgu.ac.il/myproteinnet/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkv515",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

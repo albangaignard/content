@@ -15,8 +15,8 @@
   "sc:name": "GPHMM",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bioinformatics.ustc.edu.cn/gphmm/",
   "sc:version": "1.3"

@@ -26,8 +26,8 @@
       },
       "sc:name": "CSNAP",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://services.mbi.ucla.edu/CSNAP/",

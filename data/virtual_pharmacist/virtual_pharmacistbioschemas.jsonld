@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/virtual_pharmacist",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Ross Ka-Kit Leung",
     "Jiankui He",
+    "Ross Ka-Kit Leung",
     "Zhoufang Li"
   ],
   "sc:additionalType": "Web application",

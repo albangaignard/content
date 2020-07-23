@@ -19,15 +19,15 @@
   ],
   "sc:description": "Find programs by EDAM parameter.",
   "sc:funder": [
-    "UK BBSRC",
     "UK MRC",
+    "UK BBSRC",
     "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "wossparam",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": [

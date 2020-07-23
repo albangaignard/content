@@ -20,8 +20,8 @@
   "sc:name": "PAComplex",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://PAcomplex.life.nctu.edu.tw"
 }

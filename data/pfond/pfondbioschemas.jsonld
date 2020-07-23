@@ -31,8 +31,8 @@
       "sc:name": "PFOND",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://pfond.cmmt.ubc.ca/index.html"
     },

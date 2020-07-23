@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
-    "EMBOSS Contributors",
     "UK BBSRC",
-    "UK MRC"
+    "UK MRC",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Plot isochores in DNA sequences.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "isochore",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

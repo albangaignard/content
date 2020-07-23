@@ -31,8 +31,8 @@
       "sc:name": "VaccImm",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioinformatics.charite.de/vaccimm/"
     },

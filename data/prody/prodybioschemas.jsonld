@@ -29,8 +29,8 @@
       "sc:name": "ProDy",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://prody.csb.pitt.edu/"
     },

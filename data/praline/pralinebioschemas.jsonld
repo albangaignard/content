@@ -17,8 +17,8 @@
   "sc:name": "PRALINE",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://ibivu.cs.vu.nl/programs/pralinewww/"
 }

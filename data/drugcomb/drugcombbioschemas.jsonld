@@ -10,18 +10,22 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/NAR/GKZ337",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/DrugComb",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "https://orcid.org/0000-0001-7480-7710"
       },
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
-        "pmcid:PMC6602441",
         "pubmed:31066443",
+        "pmcid:PMC6602441",
         {
           "@id": "https://doi.org/10.1093/NAR/GKZ337"
         }
@@ -32,24 +36,20 @@
           "@id": "edam:operation_3894"
         },
         {
-          "@id": "edam:operation_2929"
+          "@id": "edam:operation_3431"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_2929"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "DrugComb",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://drugcomb.fimm.fi"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKZ337",
-      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://orcid.org/0000-0001-7480-7710",
