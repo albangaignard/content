@@ -16,8 +16,8 @@
   "sc:name": "RENATO",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://renato.bioinfo.cipf.es"
 }

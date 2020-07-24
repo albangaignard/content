@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0001-9539-2606",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/bips",
       "@type": "sc:SoftwareApplication",
       "edam:has_input": {
@@ -49,10 +53,6 @@
       "sc:provider": "upf.edu",
       "sc:url": "http://sbi.imim.es/BIPS.php",
       "sc:version": "1"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-9539-2606",
-      "@type": "schema:Person"
     }
   ]
 }

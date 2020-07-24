@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/S12864-019-5712-3",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://orcid.org/0000-0001-9224-056X",
       "@type": "schema:Person"
     },
@@ -24,8 +20,8 @@
         "@id": "https://orcid.org/0000-0001-9224-056X"
       },
       "sc:additionalType": [
-        "Suite",
-        "Desktop application"
+        "Desktop application",
+        "Suite"
       ],
       "sc:citation": [
         {
@@ -50,6 +46,10 @@
       "sc:name": "Axiom Analysis Suite",
       "sc:operatingSystem": "Windows",
       "sc:url": "https://www.thermofisher.com/dk/en/home/life-science/microarray-analysis/microarray-analysis-instruments-software-services/microarray-analysis-software/axiom-analysis-suite.html"
+    },
+    {
+      "@id": "https://doi.org/10.1186/S12864-019-5712-3",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

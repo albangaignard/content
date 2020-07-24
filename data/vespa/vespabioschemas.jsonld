@@ -17,8 +17,8 @@
   "sc:name": "VESPA",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://cbb.pnnl.gov/portal/software/vespa.html"
 }

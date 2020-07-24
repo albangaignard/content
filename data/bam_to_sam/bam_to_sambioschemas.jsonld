@@ -16,8 +16,8 @@
   "sc:name": "bam_to_sam",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.htslib.org/",
   "sc:version": "1.0.3"

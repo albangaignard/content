@@ -17,8 +17,8 @@
   "sc:name": "OligoWalk",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://rna.urmc.rochester.edu/servers/oligowalk"
 }

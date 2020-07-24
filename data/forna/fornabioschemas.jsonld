@@ -19,8 +19,8 @@
         "@id": "edam:data_2884"
       },
       "sc:additionalType": [
-        "Web application",
-        "Desktop application"
+        "Desktop application",
+        "Web application"
       ],
       "sc:applicationSubCategory": [
         {
@@ -46,9 +46,9 @@
       },
       "sc:name": "Forna",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:provider": "bioinf.uni-leipzig.de",
       "sc:url": "http://rna.tbi.univie.ac.at/forna/",

@@ -20,8 +20,8 @@
   "sc:name": "mCSM-AB",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://bleoberis.bioc.cam.ac.uk/mcsm_ab/"
 }

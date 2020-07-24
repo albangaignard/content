@@ -16,8 +16,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "GeMoMa",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://www.jstacs.de/index.php/GeMoMa"

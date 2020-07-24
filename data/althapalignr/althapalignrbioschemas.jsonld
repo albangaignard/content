@@ -19,8 +19,8 @@
   "sc:name": "AltHapAlignR",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/jknightlab/AltHapAlignR"
 }

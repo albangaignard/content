@@ -30,8 +30,8 @@
         "@id": "edam:data_3496"
       },
       "sc:additionalType": [
-        "Command-line tool",
         "Web application",
+        "Command-line tool",
         "Database portal"
       ],
       "sc:applicationSubCategory": {
@@ -48,8 +48,8 @@
         "pmcid:PMC2996960"
       ],
       "sc:contributor": [
-        "Austrian GEN-AU projects \"bioinformatics integration network III\"",
-        "Ivo Hofacker"
+        "Ivo Hofacker",
+        "Austrian GEN-AU projects \"bioinformatics integration network III\""
       ],
       "sc:description": "Wrapper tool for rnpB gene prediction by combining speed of rnabob descriptor model and sensitivity of infernal covariance model.",
       "sc:featureList": [
@@ -71,8 +71,8 @@
       "sc:name": "Bcheck rnpB server",
       "sc:operatingSystem": "Linux",
       "sc:provider": [
-        "rnateam",
-        "Institute for Theoretical Chemistry"
+        "Institute for Theoretical Chemistry",
+        "rnateam"
       ],
       "sc:softwareHelp": {
         "@id": "http://rna.tbi.univie.ac.at/bcheck/help.html"

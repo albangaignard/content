@@ -28,8 +28,8 @@
         }
       ],
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:applicationSubCategory": [
         {
@@ -53,9 +53,9 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "EffectiveS346",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": [
         "CUBE - Computational Systems Biology",

@@ -15,10 +15,10 @@
       "biotools:primaryContact": "Jérôme Waldispühl",
       "edam:has_input": [
         {
-          "@id": "edam:data_3496"
+          "@id": "edam:data_0850"
         },
         {
-          "@id": "edam:data_0850"
+          "@id": "edam:data_3496"
         }
       ],
       "sc:additionalType": "Web application",
@@ -35,10 +35,10 @@
           "@id": "edam:operation_0502"
         },
         {
-          "@id": "edam:operation_0278"
+          "@id": "edam:operation_0267"
         },
         {
-          "@id": "edam:operation_0267"
+          "@id": "edam:operation_0278"
         }
       ],
       "sc:name": "RNA-MolP",

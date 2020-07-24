@@ -15,12 +15,12 @@
   "sc:author": [
     "Miha Mraz",
     "Tanja Cvitanović",
-    "Damjana Rozman",
-    "Miha Moškon"
+    "Miha Moškon",
+    "Damjana Rozman"
   ],
   "sc:contributor": [
-    "Adviti Naik",
-    "Aleš Belič"
+    "Aleš Belič",
+    "Adviti Naik"
   ],
   "sc:description": "Library which implements basic systems biology objects within the modelica environment.",
   "sc:name": "SysBio modelica library",

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/NAR/GKZ411",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/Simple_ClinVar",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -43,15 +47,11 @@
       "sc:license": "Unlicense",
       "sc:name": "Simple ClinVar",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://simple-clinvar.broadinstitute.org/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKZ411",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

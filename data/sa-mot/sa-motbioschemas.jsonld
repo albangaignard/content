@@ -21,8 +21,8 @@
   "sc:name": "SA-Mot",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://sa-mot.mti.univ-paris-diderot.fr"
 }

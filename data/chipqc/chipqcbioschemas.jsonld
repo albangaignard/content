@@ -21,14 +21,14 @@
       "@id": "https://bio.tools/chipqc",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Tom Carroll",
         {
           "@id": "http://orcid.org/0000-0002-1790-5469"
-        }
+        },
+        "Tom Carroll"
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:24782889",
@@ -44,9 +44,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "ChIPQC",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/ChIPQC.html",
       "sc:version": "1.10.2"

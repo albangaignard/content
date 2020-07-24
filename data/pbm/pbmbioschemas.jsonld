@@ -15,8 +15,8 @@
   "sc:name": "PBM",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://thebrain.bwh.harvard.edu/PBMAnalysisSuite/index.html"
 }

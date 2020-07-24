@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-0621-9914",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.1038/srep25749",
       "@type": "sc:CreativeWork"
     },
@@ -34,16 +38,12 @@
       "sc:license": "CC-BY-2.0",
       "sc:name": "miARma-Seq",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://miarmaseq.idoproteins.com/",
       "sc:version": "1.7.2"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-0621-9914",
-      "@type": "schema:Person"
     }
   ]
 }

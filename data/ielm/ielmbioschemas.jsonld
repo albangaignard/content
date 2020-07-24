@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/ielm",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Robert J. Weatheritt",
     "Peter Jehl",
+    "Robert J. Weatheritt",
     "Toby J. Gibson"
   ],
   "sc:additionalType": "Web application",

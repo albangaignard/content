@@ -31,9 +31,9 @@
       },
       "sc:name": "CSM-lig",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://biosig.unimelb.edu.au/csm_lig/"
     }
