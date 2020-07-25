@@ -18,8 +18,8 @@
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
-        "pubmed:30660194",
         "pmcid:PMC6339429",
+        "pubmed:30660194",
         {
           "@id": "https://doi.org/10.1186/s13073-019-0614-1"
         }

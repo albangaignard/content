@@ -23,8 +23,8 @@
         "@id": "edam:data_1255"
       },
       "sc:additionalType": [
-        "Workflow",
-        "Command-line tool"
+        "Command-line tool",
+        "Workflow"
       ],
       "sc:applicationSubCategory": [
         {
@@ -59,8 +59,8 @@
       "sc:license": "BSL-1.0",
       "sc:name": "Sebnif",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://sunlab.lihs.cuhk.edu.hk/sebnif/",
       "sc:version": "1.3rc"

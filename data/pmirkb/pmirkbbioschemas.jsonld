@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Ming Chen",
-    "Yijun Meng",
+    "Dijun Chen",
     "Lingfeng Gou",
-    "Dijun Chen"
+    "Yijun Meng"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:20719744",

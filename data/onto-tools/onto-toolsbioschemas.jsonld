@@ -17,8 +17,8 @@
   "sc:name": "Onto-Tools",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://vortex.cs.wayne.edu/Projects.html"
 }

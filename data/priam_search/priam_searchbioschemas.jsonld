@@ -25,10 +25,10 @@
     "Linux"
   ],
   "sc:provider": [
-    "Pole Rhone-Alpin de Bioinformatique",
     "Lyon 1 University",
-    "univ-lyon1.fr",
-    "INRA"
+    "Pole Rhone-Alpin de Bioinformatique",
+    "INRA",
+    "univ-lyon1.fr"
   ],
   "sc:url": "http://priam.prabi.fr/REL_MAR15/index_mar15.html"
 }

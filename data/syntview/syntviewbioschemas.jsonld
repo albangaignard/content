@@ -62,9 +62,9 @@
       "sc:license": "LGPL-3.0",
       "sc:name": "SynTView",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:softwareHelp": {
         "@id": "http://hub18.hosting.pasteur.fr/SynTView/documentation/"

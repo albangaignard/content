@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Valentin Wucher",
-        "Thomas Derrien",
-        "Fabrice Legeai"
+        "Fabrice Legeai",
+        "Thomas Derrien"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [

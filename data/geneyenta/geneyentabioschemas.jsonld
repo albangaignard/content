@@ -23,8 +23,8 @@
   "sc:name": "GeneYenta",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://geneyenta.com/accounts/home/"
 }

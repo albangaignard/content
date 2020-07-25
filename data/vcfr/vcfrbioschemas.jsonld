@@ -33,8 +33,8 @@
       "sc:name": "vcfR",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/vcfR/index.html",
       "sc:version": "1.8.0"

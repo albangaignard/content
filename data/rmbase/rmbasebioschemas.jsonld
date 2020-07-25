@@ -14,9 +14,9 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Jian-Hua Yang",
       "sc:additionalType": [
+        "Database portal",
         "Web service",
-        "Web application",
-        "Database portal"
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:29040692",
@@ -40,9 +40,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "RMBase",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://rna.sysu.edu.cn/rmbase/index.php",
       "sc:version": "2.0"

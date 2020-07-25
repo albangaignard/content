@@ -27,9 +27,9 @@
       "sc:description": "Resource for the annotation of protein sequences with the location of conserved domain footprints, and functional sites inferred from these footprints. It includes manually curated domain models that make use of protein 3D structure to refine domain models and provide insights into sequence/structure/function relationships.",
       "sc:name": "Conserved domain database CDD",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:provider": "NCBI",
       "sc:url": "http://www.ncbi.nlm.nih.gov/Structure/cdd/cdd.shtml"

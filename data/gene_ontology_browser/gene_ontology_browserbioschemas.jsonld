@@ -15,8 +15,8 @@
   "sc:name": "Gene Ontology Browser",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bioinformatics.mdanderson.org/main/MicroarrayGOBrowser:Overview",
   "sc:version": "0.92"

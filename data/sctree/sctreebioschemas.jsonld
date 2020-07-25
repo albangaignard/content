@@ -21,8 +21,8 @@
   "sc:name": "SCTree",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/XQBai/SCTree-test"
 }

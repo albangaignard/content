@@ -33,9 +33,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Prismatic",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://prism-em.com/"
     },

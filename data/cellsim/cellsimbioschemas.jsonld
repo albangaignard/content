@@ -32,8 +32,8 @@
       "sc:name": "CellSim",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://www.cellsim.nwsuaflmz.com/",
       "sc:version": "1.0.1"

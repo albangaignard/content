@@ -19,8 +19,8 @@
   "sc:name": "PTHGRN",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.byanbioinfo.org/pthgrn"
 }
