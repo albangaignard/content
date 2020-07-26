@@ -12,18 +12,18 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Zhongsheng Sun",
-    "Huabin Hou",
     "Jinyu Wu",
+    "Erle Zhu",
     "Linglin Zhou",
-    "Erle Zhu"
+    "Huabin Hou"
   ],
   "sc:additionalType": "Desktop application",
   "sc:description": "Large-scale short reads and sequencing depth visualization.",
   "sc:name": "MagicViewer",
   "sc:operatingSystem": [
-    "Mac",
+    "Linux",
     "Windows",
-    "Linux"
+    "Mac"
   ],
   "sc:url": "http://bioinformatics.zj.cn/magicviewer/index.php"
 }

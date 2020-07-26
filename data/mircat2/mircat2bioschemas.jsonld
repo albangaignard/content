@@ -19,8 +19,8 @@
   "sc:name": "miRCat2",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://srna-workbench.cmp.uea.ac.uk/mircat-2/"
 }

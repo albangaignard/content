@@ -17,9 +17,9 @@
       "@id": "https://bio.tools/clustom-cloud",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Kyuin Hwang",
+        "Kyung Mo Kim",
         "Jeongsu Oh",
-        "Kyung Mo Kim"
+        "Kyuin Hwang"
       ],
       "sc:additionalType": "Desktop application",
       "sc:citation": [

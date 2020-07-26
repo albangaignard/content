@@ -13,8 +13,8 @@
   "biotools:primaryContact": [
     "Roberto Vera Alvarez",
     "Leonardo Mariño-Ramírez",
-    "Lorinc Pongor",
-    "David Landsman"
+    "David Landsman",
+    "Lorinc Pongor"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:description": "Software to quantify mRNA abundance of genomic features.",
@@ -22,8 +22,8 @@
   "sc:name": "TPMCalculator",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/ncbi/TPMCalculator"
 }

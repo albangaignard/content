@@ -39,8 +39,8 @@
       },
       "sc:name": "Giardia genome resources (GiardiaDB)",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://giardiadb.org/giardiadb/"

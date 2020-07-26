@@ -34,8 +34,8 @@
       "sc:name": "BASILIScan",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://basilisc.com/"
     },

@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Shuhui Su",
-    "Qiuru Liu",
     "Yongzhuang Liu",
-    "Jian Liu",
-    "Lei Zhang"
+    "Lei Zhang",
+    "Qiuru Liu",
+    "Jian Liu"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:31094692",
@@ -24,8 +24,8 @@
   "sc:name": "X2H",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/lyotvincent/X2H"
 }

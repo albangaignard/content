@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "https://orcid.org/0000-0002-3043-0015",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/ProSNEx",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -47,14 +51,10 @@
       "sc:name": "ProSNEx",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://prosnex-tool.com"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-3043-0015",
-      "@type": "schema:Person"
     }
   ]
 }

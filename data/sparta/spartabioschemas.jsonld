@@ -35,9 +35,9 @@
       "sc:license": "CC-BY-4.0",
       "sc:name": "SPARTA",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://sparta.readthedocs.io/en/latest/",
       "sc:version": "1.0"

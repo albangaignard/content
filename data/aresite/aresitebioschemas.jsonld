@@ -16,8 +16,8 @@
   "sc:name": "AREsite",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "bioinf.uni-leipzig.de",
   "sc:url": "http://rna.tbi.univie.ac.at/AREsite",

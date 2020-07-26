@@ -18,12 +18,12 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Lihua Julie Zhu",
-        "Jianhong Ou",
-        "Sarah Sheppard"
+        "Sarah Sheppard",
+        "Jianhong Ou"
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:25827089",

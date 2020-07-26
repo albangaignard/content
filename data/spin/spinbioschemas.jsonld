@@ -21,10 +21,10 @@
       "@id": "https://bio.tools/spin",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Anna Kedzierska",
         {
           "@id": "http://orcid.org/0000-0002-1724-8358"
-        }
+        },
+        "Anna Kedzierska"
       ],
       "edam:has_input": {
         "@id": "edam:data_0863"

@@ -13,8 +13,8 @@
   "biotools:primaryContact": "Luana Licata",
   "sc:additionalType": "Database portal",
   "sc:author": [
-    "Leonardo Briganti",
     "Alberto Calderone",
+    "Leonardo Briganti",
     "Prisca Lo Surdo"
   ],
   "sc:contributor": [
@@ -27,13 +27,13 @@
   "sc:license": "CC-BY-SA-4.0",
   "sc:name": "SIGNOR",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
-    "ELIXIR-ITA-TORVERGATA",
-    "Molecular Genetic Group, University of Rome \"Tor Vergata\", Rome, Italy"
+    "Molecular Genetic Group, University of Rome \"Tor Vergata\", Rome, Italy",
+    "ELIXIR-ITA-TORVERGATA"
   ],
   "sc:url": "http://signor.uniroma2.it/"
 }

@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Lukas Burger",
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:23828043",
@@ -32,8 +32,8 @@
       "sc:name": "MethylSeekR",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/MethylSeekR.html",
       "sc:version": "1.14.0"

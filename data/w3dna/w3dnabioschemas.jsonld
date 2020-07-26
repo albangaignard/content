@@ -46,8 +46,8 @@
       "sc:license": "Unlicense",
       "sc:name": "w3DNA",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://web.x3dna.org/"

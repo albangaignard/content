@@ -13,21 +13,21 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
+    "UK MRC",
     "Wellcome Trust",
-    "EMBOSS Contributors",
-    "UK MRC"
+    "EMBOSS Contributors"
   ],
   "sc:description": "Identify nucleic acid-binding motifs in protein sequences.",
   "sc:funder": [
+    "Wellcome Trust",
     "UK MRC",
-    "UK BBSRC",
-    "Wellcome Trust"
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "helixturnhelix",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": [

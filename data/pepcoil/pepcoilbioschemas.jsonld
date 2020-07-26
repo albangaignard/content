@@ -13,22 +13,22 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
-    "UK BBSRC",
+    "EMBOSS Contributors",
     "UK MRC",
-    "EMBOSS Contributors"
+    "UK BBSRC"
   ],
   "sc:description": "Predict coiled coil regions in protein sequences.",
   "sc:funder": [
+    "UK BBSRC",
     "Wellcome Trust",
-    "UK MRC",
-    "UK BBSRC"
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "pepcoil",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "EMBOSS",

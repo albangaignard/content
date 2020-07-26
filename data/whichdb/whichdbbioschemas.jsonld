@@ -19,15 +19,15 @@
   ],
   "sc:description": "Search all sequence databases for an entry and retrieve it.",
   "sc:funder": [
+    "UK MRC",
     "UK BBSRC",
-    "Wellcome Trust",
-    "UK MRC"
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "whichdb",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": [

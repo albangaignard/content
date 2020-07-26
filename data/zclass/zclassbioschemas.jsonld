@@ -16,8 +16,8 @@
   "sc:name": "ZClass",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.uea.ac.uk/computing/zclass-zernike-class-"
 }

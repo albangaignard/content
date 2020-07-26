@@ -15,8 +15,8 @@
     "Denis Yuen"
   ],
   "sc:additionalType": [
-    "Workbench",
     "Web API",
+    "Workbench",
     "Command-line tool"
   ],
   "sc:author": [

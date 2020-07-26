@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
-    "EMBOSS Contributors",
     "UK MRC",
+    "EMBOSS Contributors",
     "UK BBSRC"
   ],
   "sc:description": "Calculate Nc codon usage statistic.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "chips",
   "sc:operatingSystem": [
+    "Mac",
     "Linux",
-    "Windows",
-    "Mac"
+    "Windows"
   ],
   "sc:provider": [
     "EMBL EBI",

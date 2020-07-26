@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Harpreet Singh",
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pubmed:31073139",

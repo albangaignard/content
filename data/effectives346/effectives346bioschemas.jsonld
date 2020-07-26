@@ -24,8 +24,8 @@
         }
       ],
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:applicationSubCategory": [
         {
@@ -49,13 +49,13 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "EffectiveS346",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:provider": [
-        "AT-CUBE",
-        "CUBE - Computational Systems Biology"
+        "CUBE - Computational Systems Biology",
+        "AT-CUBE"
       ],
       "sc:softwareHelp": {
         "@id": "http://www.effectivedb.org/method/effectives346"

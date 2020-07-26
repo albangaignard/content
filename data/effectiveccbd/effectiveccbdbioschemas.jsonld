@@ -45,8 +45,8 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "EffectiveCCBD",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:provider": "AT-CUBE",
