@@ -17,8 +17,8 @@
   "sc:name": "G2D",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.ogic.ca/projects/g2d_2/"
 }

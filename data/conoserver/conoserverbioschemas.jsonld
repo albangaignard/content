@@ -28,8 +28,8 @@
       "sc:name": "Cone snail toxin database ConoServer",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": "University of Queensland",
       "sc:url": "http://www.conoserver.org/"

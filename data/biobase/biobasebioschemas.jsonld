@@ -34,9 +34,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "Biobase",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/Biobase.html",
       "sc:version": "2.34.0"

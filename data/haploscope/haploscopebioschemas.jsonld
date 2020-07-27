@@ -16,8 +16,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "Haploscope",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://haploscope.scheetlabsoftware.org/",

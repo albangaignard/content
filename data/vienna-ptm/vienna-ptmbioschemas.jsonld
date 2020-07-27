@@ -17,8 +17,8 @@
   "sc:name": "Vienna-PTM",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://vienna-ptm.univie.ac.at"
 }

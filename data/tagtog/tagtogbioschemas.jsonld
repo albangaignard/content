@@ -23,8 +23,8 @@
   "sc:name": "tagtog",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": "tagtog.net",
   "sc:url": "https://www.tagtog.net",

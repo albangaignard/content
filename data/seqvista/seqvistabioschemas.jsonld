@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Martin Frith",
-    "Zhenjun Hu",
     "Tianhua Niu",
+    "Zhenjun Hu",
     "Zhiping Weng"
   ],
   "sc:additionalType": "Web application",

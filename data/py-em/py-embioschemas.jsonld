@@ -16,8 +16,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "Py-EM",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "https://git.embl.de/schorb/pyem"

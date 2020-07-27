@@ -17,8 +17,8 @@
   "sc:name": "ComSin",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://antares.protres.ru/comsin/."
 }

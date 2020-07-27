@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://orcid.org/0000-0001-7899-906X",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/QuickNII",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -31,14 +35,10 @@
       "sc:name": "QuickNII",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://www.nitrc.org/projects/quicknii"
-    },
-    {
-      "@id": "https://orcid.org/0000-0001-7899-906X",
-      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1371/JOURNAL.PONE.0216796",

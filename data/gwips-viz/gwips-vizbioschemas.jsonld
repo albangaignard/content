@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gkt1035",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/gwips-viz",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Database portal",
@@ -31,15 +27,19 @@
       "sc:funder": "Science Foundation Ireland",
       "sc:name": "GWIPS-viz",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:provider": [
         "ucc.ie",
         "School of Biochemistry & Cell Biology, University College Cork"
       ],
       "sc:url": "http://gwips.ucc.ie"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkt1035",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

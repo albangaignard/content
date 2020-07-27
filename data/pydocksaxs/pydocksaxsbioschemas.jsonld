@@ -53,12 +53,12 @@
       "sc:name": "pyDockSAXS",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": [
-        "Barcelona Supercomputing Center",
-        "bsc.es"
+        "bsc.es",
+        "Barcelona Supercomputing Center"
       ],
       "sc:softwareHelp": [
         {

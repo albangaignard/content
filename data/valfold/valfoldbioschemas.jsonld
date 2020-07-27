@@ -16,8 +16,8 @@
   "sc:name": "ValFold",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://code.google.com/p/valfold/"
 }

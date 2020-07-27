@@ -24,8 +24,8 @@
         }
       ],
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:applicationSubCategory": [
         {
@@ -49,8 +49,8 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "EffectiveS346",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:provider": [

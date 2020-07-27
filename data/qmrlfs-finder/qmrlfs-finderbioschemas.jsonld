@@ -36,9 +36,9 @@
       ],
       "sc:name": "QmRLFS-finder",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://rloop.bii.a-star.edu.sg/?pg=qmrlfs-finder"
     },

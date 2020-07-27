@@ -24,8 +24,8 @@
       "sc:description": "Software for detection of conserved secondary structures in multiple alignments.",
       "sc:name": "ddbRNA",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://dibernardo.tigem.it/softwares/ddbrna"
