@@ -27,10 +27,10 @@
           "@id": "edam:topic_0099"
         },
         {
-          "@id": "edam:topic_0097"
+          "@id": "edam:topic_0080"
         },
         {
-          "@id": "edam:topic_0080"
+          "@id": "edam:topic_0097"
         }
       ],
       "sc:citation": [
@@ -46,9 +46,9 @@
       },
       "sc:name": "Forna",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:provider": "bioinf.uni-leipzig.de",
       "sc:url": "http://rna.tbi.univie.ac.at/forna/",

@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
-        "pmcid:PMC5408915",
         "pubmed:27797770",
+        "pmcid:PMC5408915",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/btw663"
         }
@@ -33,8 +33,8 @@
       "sc:name": "KAT",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://www.earlham.ac.uk/kat-tools"
     },

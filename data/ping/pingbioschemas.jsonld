@@ -22,8 +22,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Renan Sauteraud",
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC3290535",
@@ -42,9 +42,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "PING",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/PING.html",
       "sc:version": "2.18.0"

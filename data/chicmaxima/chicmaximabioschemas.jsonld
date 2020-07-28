@@ -40,9 +40,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "ChiCMaxima",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://github.com/yousra291987/ChiCMaxima"
     }

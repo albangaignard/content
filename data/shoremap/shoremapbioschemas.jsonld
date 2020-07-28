@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Korbinian Schneeberger",
-    "Hequan Sun",
-    "Contact form"
+    "Contact form",
+    "Hequan Sun"
   ],
   "sc:additionalType": "Suite",
   "sc:citation": "pubmed:19644454",
@@ -22,8 +22,8 @@
   "sc:name": "SHOREmap",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://1001genomes.org/software/shoremap.html"
 }

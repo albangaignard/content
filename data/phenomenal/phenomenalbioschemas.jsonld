@@ -30,18 +30,18 @@
           "@id": "edam:operation_3435"
         },
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_3431"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_3501"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "PhenoMeNal",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://portal.phenomenal-h2020.eu/home"
     }

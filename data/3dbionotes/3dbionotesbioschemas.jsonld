@@ -20,8 +20,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "cnb.csic.es",
     "ELIXIR-ES",
+    "cnb.csic.es",
     "INB"
   ],
   "sc:url": "http://3dbionotes.cnb.csic.es/ws",

@@ -35,9 +35,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "motifbreakR",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/motifbreakR.html",
       "sc:version": "1.4.0"

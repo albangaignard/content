@@ -17,8 +17,8 @@
   "sc:name": "MLbias",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://tsenglab.biostat.pitt.edu/software.htm#MLbias"
 }

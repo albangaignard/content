@@ -27,9 +27,9 @@
       },
       "sc:name": "VAMPS",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://vamps.mbl.edu/"
     },

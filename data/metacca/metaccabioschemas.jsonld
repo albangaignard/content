@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0003-1072-8858",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1093/bioinformatics/btw052",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0003-1072-8858",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/metacca",
@@ -41,9 +41,9 @@
       "sc:license": "MIT",
       "sc:name": "metaCCA",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/metaCCA.html",
       "sc:version": "1.2.0"

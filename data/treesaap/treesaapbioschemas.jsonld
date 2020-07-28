@@ -17,8 +17,8 @@
   "sc:name": "TreeSAAP",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://dna.cs.byu.edu/treesaap/"
 }

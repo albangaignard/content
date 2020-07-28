@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0003-2001-2474",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/gcta",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -32,10 +36,6 @@
       "sc:operatingSystem": "Linux",
       "sc:url": "http://cnsgenomics.com/software/gcta/",
       "sc:version": "1.91.7beta"
-    },
-    {
-      "@id": "http://orcid.org/0000-0003-2001-2474",
-      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1016/j.ajhg.2010.11.011",

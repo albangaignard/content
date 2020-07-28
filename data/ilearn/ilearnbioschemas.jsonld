@@ -23,8 +23,8 @@
   "sc:license": "Unlicense",
   "sc:name": "iLearn",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "http://ilearn.erc.monash.edu/"

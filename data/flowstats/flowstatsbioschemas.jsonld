@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/flowstats",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Greg Finak",
-    "Mike Jiang"
+    "Mike Jiang",
+    "Greg Finak"
   ],
   "sc:additionalType": [
     "Command-line tool",

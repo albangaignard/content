@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
-    "EMBOSS Contributors",
+    "UK BBSRC",
     "UK MRC",
-    "UK BBSRC"
+    "EMBOSS Contributors"
   ],
   "sc:description": "Scan a protein sequence with motifs from the PROSITE database.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "patmatmotifs",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

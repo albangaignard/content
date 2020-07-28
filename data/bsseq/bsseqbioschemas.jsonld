@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0003-0086-0687",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/bsseq",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -42,11 +38,15 @@
       "sc:name": "bsseq",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/bsseq.html",
       "sc:version": "1.10.0"
+    },
+    {
+      "@id": "http://orcid.org/0000-0003-0086-0687",
+      "@type": "schema:Person"
     }
   ]
 }
