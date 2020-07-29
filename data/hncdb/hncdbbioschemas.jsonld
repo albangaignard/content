@@ -17,13 +17,13 @@
       "@id": "https://bio.tools/HNCDB",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Ankui Yang",
         "Xiaoqing Pei",
-        "Zhixiang Zuo",
-        "Ankui Yang"
+        "Zhixiang Zuo"
       ],
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pmcid:PMC6527845",
@@ -47,9 +47,9 @@
       "sc:license": "Unlicense",
       "sc:name": "HNCDB",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://hncdb.cancerbio.info"
     }

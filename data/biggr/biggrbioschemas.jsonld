@@ -17,12 +17,12 @@
       "@id": "https://bio.tools/biggr",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Hannes Hettling",
-        "Anand K. Gavai"
+        "Anand K. Gavai",
+        "Hannes Hettling"
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         {

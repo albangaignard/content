@@ -17,8 +17,8 @@
   "sc:name": "Protemot",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://protemot.csbb.ntu.edu.tw/"
 }

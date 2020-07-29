@@ -12,30 +12,30 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "David Sehnal",
-    "Ondřej Hanák",
     "Michal Otyepka",
-    "Karel Berka"
+    "David Sehnal",
+    "Karel Berka",
+    "Ondřej Hanák"
   ],
   "sc:contributor": [
-    "Crina-Maria Ionescu",
-    "Radka Svobodová Vařeková",
-    "Pavel Banáš",
     "Jaroslav Koča",
+    "Pavel Banáš",
+    "Crina-Maria Ionescu",
     "Deepti Jaiswal",
-    "Veronika Navrátilová"
+    "Veronika Navrátilová",
+    "Radka Svobodová Vařeková"
   ],
   "sc:description": "Provides a direct access to MOLE functionality and enables on-line and easy-to-use interactive channel analysis.",
   "sc:license": "CC-BY-NC-3.0",
   "sc:name": "MOLEonline",
   "sc:operatingSystem": [
+    "Mac",
     "Windows",
-    "Linux",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
-    "Masaryk University Brno, Czech Republic",
-    "Palacký University Olomouc, Czech Republic"
+    "Palacký University Olomouc, Czech Republic",
+    "Masaryk University Brno, Czech Republic"
   ],
   "sc:url": "https://mole.upol.cz/",
   "sc:version": "3.0"

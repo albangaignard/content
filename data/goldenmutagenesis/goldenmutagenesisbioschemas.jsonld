@@ -14,11 +14,15 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://orcid.org/0000-0002-9212-9957",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/GoldenMutagenesis",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Library",
-        "Web application"
+        "Web application",
+        "Library"
       ],
       "sc:author": {
         "@id": "https://orcid.org/0000-0001-5444-9282"
@@ -31,15 +35,11 @@
       "sc:name": "GoldenMutagenesis",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://msbi.ipb-halle.de/GoldenMutagenesisWeb",
       "sc:version": "1.1.1"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-9212-9957",
-      "@type": "schema:Person"
     }
   ]
 }

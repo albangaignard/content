@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0001-7885-4311",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1110/ps.0239403",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-7885-4311",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/netmhc",
@@ -24,8 +24,8 @@
         "@id": "http://orcid.org/0000-0001-7885-4311"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC2323871",

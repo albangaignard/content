@@ -17,8 +17,8 @@
   "sc:name": "Sfold",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://sfold.wadsworth.org"
 }

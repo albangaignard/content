@@ -26,17 +26,17 @@
           "@id": "edam:operation_2403"
         },
         {
-          "@id": "edam:operation_3197"
+          "@id": "edam:operation_2422"
         },
         {
-          "@id": "edam:operation_2422"
+          "@id": "edam:operation_3197"
         }
       ],
       "sc:name": "RD-Connect Genome-Phenome Analysis Platform",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://platform.rd-connect.eu/"
     },

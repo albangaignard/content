@@ -14,19 +14,19 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Prof. Dr. Nenad Blau",
       "sc:additionalType": [
-        "Web service",
         "Web application",
+        "Web service",
         "Database portal"
       ],
       "sc:citation": [
         "pmcid:PMC5959948",
-        "pubmed:29340838",
         "pubmed:28726811",
-        {
-          "@id": "https://doi.org/10.1007/s10545-017-0125-4"
-        },
+        "pubmed:29340838",
         {
           "@id": "https://doi.org/10.1038/gim.2017.108"
+        },
+        {
+          "@id": "https://doi.org/10.1007/s10545-017-0125-4"
         },
         "pmcid:PMC5763153"
       ],
@@ -36,18 +36,18 @@
       },
       "sc:name": "IEMbase",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://iembase.org/"
     },
     {
-      "@id": "https://doi.org/10.1038/gim.2017.108",
+      "@id": "https://doi.org/10.1007/s10545-017-0125-4",
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "https://doi.org/10.1007/s10545-017-0125-4",
+      "@id": "https://doi.org/10.1038/gim.2017.108",
       "@type": "sc:CreativeWork"
     }
   ]

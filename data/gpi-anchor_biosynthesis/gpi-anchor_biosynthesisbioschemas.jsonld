@@ -24,8 +24,8 @@
         "@id": "https://orcid.org/0000-0001-9713-7107"
       },
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pmcid:PMC6625143",
@@ -40,18 +40,18 @@
           "@id": "edam:operation_3431"
         },
         {
-          "@id": "edam:operation_0417"
+          "@id": "edam:operation_3225"
         },
         {
-          "@id": "edam:operation_3225"
+          "@id": "edam:operation_0417"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "GPI-anchor biosynthesis",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://www.gpibiosynthesis.org"
     }

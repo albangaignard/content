@@ -19,8 +19,8 @@
   "sc:name": "Mocapy plus plus",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": "binf.ku.dk",
   "sc:url": "http://sourceforge.net/projects/mocapy/",

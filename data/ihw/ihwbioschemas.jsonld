@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0002-0474-2218",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/ihw",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Command-line tool",
@@ -40,10 +44,6 @@
       ],
       "sc:url": "http://bioconductor.org/packages/IHW/",
       "sc:version": "1.4.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-0474-2218",
-      "@type": "schema:Person"
     }
   ]
 }

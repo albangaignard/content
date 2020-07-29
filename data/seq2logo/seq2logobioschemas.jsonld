@@ -21,8 +21,8 @@
   "sc:name": "Seq2Logo",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.cbs.dtu.dk/biotools/Seq2Logo/"
 }

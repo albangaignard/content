@@ -13,14 +13,14 @@
   "biotools:primaryContact": "Luana Licata",
   "sc:additionalType": "Database portal",
   "sc:author": [
-    "Leonardo Briganti",
     "Alberto Calderone",
+    "Leonardo Briganti",
     "Prisca Lo Surdo"
   ],
   "sc:contributor": [
-    "Marta Iannuccelli",
-    "Elena Santonico",
     "Gianni Cesareni",
+    "Elena Santonico",
+    "Marta Iannuccelli",
     "Livia Perfetto"
   ],
   "sc:description": "A tool collects manually-annotated logic relationships between molecules that participate in signal transduction.",

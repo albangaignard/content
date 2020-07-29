@@ -41,8 +41,8 @@
       "sc:name": "BEERE",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://discovery.informatics.uab.edu/beere/"
     }

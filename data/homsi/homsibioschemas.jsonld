@@ -17,8 +17,8 @@
   "sc:name": "HomSI",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.igbam.bilgem.tubitak.gov.tr/softwares/HomSI/"
 }

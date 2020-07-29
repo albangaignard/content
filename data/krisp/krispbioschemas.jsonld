@@ -10,19 +10,23 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1371/JOURNAL.PNTD.0007231",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/krisp",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Luiz C. J. Alcantara",
-        "Tulio de Oliveira"
+        "Tulio de Oliveira",
+        "Luiz C. J. Alcantara"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
+        "pmcid:PMC6527240",
+        "pubmed:31067235",
         {
           "@id": "https://doi.org/10.1371/JOURNAL.PNTD.0007231"
-        },
-        "pubmed:31067235",
-        "pmcid:PMC6527240"
+        }
       ],
       "sc:description": "Bioinformatics Software Applications and Online Databases and Tools.",
       "sc:featureList": [
@@ -39,15 +43,11 @@
       "sc:license": "Other",
       "sc:name": "krisp",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://www.krisp.org.za/tools.php"
-    },
-    {
-      "@id": "https://doi.org/10.1371/JOURNAL.PNTD.0007231",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

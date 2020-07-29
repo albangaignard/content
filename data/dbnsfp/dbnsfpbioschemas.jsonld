@@ -28,9 +28,9 @@
       "sc:license": "Unlicense",
       "sc:name": "dbNSFP",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://sites.google.com/site/jpopgen/dbNSFP",
       "sc:version": "3.0"

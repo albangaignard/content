@@ -12,17 +12,17 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Library",
   "sc:author": [
-    "Jan Brezovsky",
-    "Petr Benes",
-    "Jiri Damborsky",
-    "Jiri Sochor",
-    "Ondrej Strnad",
     "Barbora Kozlikova",
-    "Antonin Pavelka",
-    "Vilem Sustr",
-    "Petr Medek",
     "Eva Chovancova",
+    "Petr Medek",
+    "Vilem Sustr",
+    "Jan Brezovsky",
     "Lada Biedermannova",
+    "Ondrej Strnad",
+    "Petr Benes",
+    "Jiri Sochor",
+    "Antonin Pavelka",
+    "Jiri Damborsky",
     "Artur Gora",
     "Martin Klvana"
   ],
@@ -30,13 +30,13 @@
   "sc:license": "GPL-3.0",
   "sc:name": "CAVER PyMOL plugin",
   "sc:operatingSystem": [
+    "Linux",
     "Windows",
-    "Mac",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
-    "Masaryk University, Brno, Czech Republic",
-    "Loschmidt Laboratories"
+    "Loschmidt Laboratories",
+    "Masaryk University, Brno, Czech Republic"
   ],
   "sc:url": "http://www.caver.cz",
   "sc:version": "3.01"
