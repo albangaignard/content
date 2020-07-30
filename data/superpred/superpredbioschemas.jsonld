@@ -11,11 +11,11 @@
   "@id": "https://bio.tools/superpred",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Bjoern-Oliver Gohlke",
-    "Priyanka Banerjee",
     "Mathias Dunke",
+    "Priyanka Banerjee",
+    "Janette Nickel",
     "Jevgeni Ehreman",
-    "Janette Nickel"
+    "Bjoern-Oliver Gohlke"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:18499712",

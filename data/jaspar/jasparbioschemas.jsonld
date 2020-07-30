@@ -14,11 +14,11 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Wyeth Wasserman",
-        "Albin Sandelin",
+        "Boris Lenhard",
         {
           "@id": "http://orcid.org/0000-0001-5127-5459"
         },
-        "Boris Lenhard"
+        "Albin Sandelin"
       ],
       "sc:additionalType": [
         "Web application",

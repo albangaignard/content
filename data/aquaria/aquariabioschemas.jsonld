@@ -16,31 +16,31 @@
   ],
   "sc:author": [
     "Seán I O'Donoghue",
-    "Christian Stolte",
+    "Andrea Schafferhans",
     "Kenneth S Sabir",
-    "Andrea Schafferhans"
+    "Christian Stolte"
   ],
   "sc:contributor": [
-    "Burkhard Rost",
+    "Nelson Perdigão",
     "Manfred Roos",
     "Benjamin Wellmann",
-    "Maria Kalemanov",
+    "Burkhard Rost",
     "Fabian A Buske",
     "Julian Heinrich",
-    "Vivian Ho",
-    "Nelson Perdigão"
+    "Maria Kalemanov",
+    "Vivian Ho"
   ],
   "sc:description": "Simplifying the generation of insight from protein structures through structure visualisation, annotated with protein features; loads sequence-to-structure alignments from the PSSH2 database, sequence features from UniProt and Interpro and user defined features on demand from JSON files; there is also a WebAPI (see ...).",
   "sc:license": "GPL-2.0",
   "sc:name": "Aquaria",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
-    "Digital Productivity, Commonwealth Scientific and Industrial Research Organisation (CSIRO), Sydney",
     "Division of Genomics and Epigenetics, Garvan Institute of Medical Research, Sydney",
+    "Digital Productivity, Commonwealth Scientific and Industrial Research Organisation (CSIRO), Sydney",
     "School of Molecular Bioscience, The University of Sydney",
     "Department for Bioinformatics and Computational Biology, Technische Universität München"
   ],

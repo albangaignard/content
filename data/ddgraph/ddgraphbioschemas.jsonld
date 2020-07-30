@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1371/journal.pcbi.1002725",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/ddgraph",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -23,8 +19,8 @@
         "Robert Stojnic"
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:23144600",
@@ -50,6 +46,10 @@
     {
       "@id": "http://orcid.org/0000-0003-4588-7867",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1371/journal.pcbi.1002725",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -18,8 +18,8 @@
   "sc:license": "Unlicense",
   "sc:name": "p53",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": "bils.se",

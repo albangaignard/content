@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1371/journal.pcbi.1003118",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/genomicalignments",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "BioConductor Package Maintainer",
@@ -27,22 +23,22 @@
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_1383"
+          "@id": "edam:data_0867"
         },
         {
-          "@id": "edam:data_0867"
+          "@id": "edam:data_1383"
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_0080"
       },
       "sc:citation": [
-        "pubmed:23950696",
         "pmcid:PMC3738458",
+        "pubmed:23950696",
         {
           "@id": "https://doi.org/10.1371/journal.pcbi.1003118"
         }
@@ -62,12 +58,16 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "GenomicAlignments",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/GenomicAlignments.html",
       "sc:version": "1.10.0"
+    },
+    {
+      "@id": "https://doi.org/10.1371/journal.pcbi.1003118",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

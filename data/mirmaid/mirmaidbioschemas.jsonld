@@ -15,9 +15,9 @@
     "Morten Lindow"
   ],
   "sc:additionalType": [
-    "Web API",
-    "Command-line tool",
     "Database portal",
+    "Command-line tool",
+    "Web API",
     "Web application",
     "Library"
   ],

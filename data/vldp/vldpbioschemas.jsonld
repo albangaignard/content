@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/vldp",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Sylvain Leonard",
     "Jeremy Esque",
+    "Sylvain Leonard",
     "Alexandre G. de Brevern"
   ],
   "sc:additionalType": "Web application",

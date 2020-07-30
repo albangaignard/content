@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gkt1143",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/guidetopharmacology",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Database portal",
@@ -32,10 +28,10 @@
       "sc:description": "An expert-curated pharmacological database of drug targets and their ligands.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2421"
+          "@id": "edam:operation_3760"
         },
         {
-          "@id": "edam:operation_3760"
+          "@id": "edam:operation_2421"
         }
       ],
       "sc:funder": [
@@ -46,8 +42,8 @@
       "sc:license": "CC-BY-SA-3.0",
       "sc:name": "IUPHAR BPS Guide to PHARMACOLOGY",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:provider": [
@@ -55,6 +51,10 @@
         "The University of Edinburgh"
       ],
       "sc:url": "http://www.guidetopharmacology.org/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkt1143",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -30,8 +30,8 @@
       "sc:license": "Other",
       "sc:name": "PRODIGY-CRYSTAL",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://bianca.science.uu.nl/prodigy/cryst"

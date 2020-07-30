@@ -16,8 +16,8 @@
   ],
   "sc:author": "David Sehnal",
   "sc:contributor": [
-    "Radka Svobodová Vařeková",
     "Deepti Jaiswal",
+    "Radka Svobodová Vařeková",
     "Crina-Maria Ionescu",
     "Lukáš Pravda"
   ],
@@ -25,8 +25,8 @@
   "sc:name": "MotiveValidator",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "Masaryk University, Brno, Czech Republic",
   "sc:url": "http://webchem.ncbr.muni.cz/Platform/MotiveValidator",

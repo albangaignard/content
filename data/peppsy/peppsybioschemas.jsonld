@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Olivier Sallou",
-    "Thomas Darde"
+    "Thomas Darde",
+    "Olivier Sallou"
   ],
   "sc:contributor": [
     "Olivier Collin",
@@ -24,8 +24,8 @@
   "sc:name": "PepPSy",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://peppsy.genouest.org"
 }

@@ -31,13 +31,13 @@
       "sc:funder": "Science Foundation Ireland",
       "sc:name": "GWIPS-viz",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:provider": [
-        "ucc.ie",
-        "School of Biochemistry & Cell Biology, University College Cork"
+        "School of Biochemistry & Cell Biology, University College Cork",
+        "ucc.ie"
       ],
       "sc:url": "http://gwips.ucc.ie"
     }

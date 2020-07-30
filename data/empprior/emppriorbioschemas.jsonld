@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0002-1447-8633",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/empprior",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -37,16 +41,12 @@
       "sc:license": "GPL-3.0",
       "sc:name": "EmpPrior",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://github.com/jembrown/EmpPrior",
       "sc:version": "0.21"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-1447-8633",
-      "@type": "schema:Person"
     }
   ]
 }

@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s12859-018-2592-5",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/IMOS",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Hadadian Nejad Youesfi",
@@ -42,6 +38,10 @@
         "Linux"
       ],
       "sc:url": "https://github.com/Mosjava/IMOS"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s12859-018-2592-5",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

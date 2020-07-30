@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/database/bav007",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/predrem",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Database portal",
@@ -26,15 +30,11 @@
       },
       "sc:name": "PreDREM",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://server.cs.ucf.edu/predrem/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/database/bav007",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

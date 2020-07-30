@@ -20,8 +20,8 @@
   "sc:name": "ClustalW2 (EBI)",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "University College Dublin",
