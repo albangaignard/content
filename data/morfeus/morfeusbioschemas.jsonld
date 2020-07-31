@@ -34,9 +34,9 @@
       },
       "sc:name": "morFeus",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://bio.biochem.mpg.de/morfeus/"
     }

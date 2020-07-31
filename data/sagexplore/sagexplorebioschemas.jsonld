@@ -16,8 +16,8 @@
   "sc:name": "SAGExplore",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://melolab.org/sagexplore/home.php"
 }

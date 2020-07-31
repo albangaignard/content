@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
-    "Wellcome Trust",
     "EMBOSS Contributors",
+    "Wellcome Trust",
     "UK MRC"
   ],
   "sc:description": "Write to file a subset of an input stream of sequences.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "notseq",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

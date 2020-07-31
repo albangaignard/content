@@ -21,12 +21,12 @@
   "sc:name": "mmeta",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
-    "crg.eu",
-    "Lab Roderic Guigo Group"
+    "Lab Roderic Guigo Group",
+    "crg.eu"
   ],
   "sc:url": "http://big.crg.cat/services/mmeta",
   "sc:version": "1"

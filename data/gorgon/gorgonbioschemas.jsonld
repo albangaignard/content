@@ -16,8 +16,8 @@
   "sc:name": "Gorgon",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://gorgon.wustl.edu/"
 }

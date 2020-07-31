@@ -17,8 +17,8 @@
   "sc:name": "PomBase Motif search",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "Sanger Institute",

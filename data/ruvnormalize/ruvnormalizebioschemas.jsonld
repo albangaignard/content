@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Laurent Jacob",
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC4679071",
@@ -35,8 +35,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "RUVnormalize",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/RUVnormalize.html",

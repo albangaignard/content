@@ -19,9 +19,9 @@
     "Windows"
   ],
   "sc:provider": [
-    "VIB",
+    "PSB",
     "UGent",
-    "PSB"
+    "VIB"
   ],
   "sc:url": "https://cornet.psb.ugent.be",
   "sc:version": "3.0"

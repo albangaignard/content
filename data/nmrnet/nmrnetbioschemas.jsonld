@@ -12,15 +12,15 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Piotr Klukowski",
-    "Adam Gonczarek",
-    "Michał J Walczak"
+    "Michał J Walczak",
+    "Adam Gonczarek"
   ],
   "sc:additionalType": "Desktop application",
   "sc:description": "Deep learning approach to automated peak picking of protein NMR spectra (part of a Dumpling software).",
   "sc:name": "NMRNet",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "https://dumpling.bio/"

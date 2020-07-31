@@ -33,9 +33,9 @@
       },
       "sc:name": "MutExSL",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://sites.google.com/site/mutexsl/",
       "sc:version": "v1"

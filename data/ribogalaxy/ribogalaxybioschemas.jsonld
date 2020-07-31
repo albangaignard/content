@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1080/15476286.2016.1141862",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/ribogalaxy",
       "@type": "sc:SoftwareApplication",
       "edam:has_input": {
@@ -17,13 +21,13 @@
       },
       "edam:has_output": [
         {
+          "@id": "edam:data_0863"
+        },
+        {
           "@id": "edam:data_2969"
         },
         {
           "@id": "edam:data_2968"
-        },
-        {
-          "@id": "edam:data_0863"
         }
       ],
       "sc:additionalType": "Workbench",
@@ -64,8 +68,8 @@
         "Windows"
       ],
       "sc:provider": [
-        "School of Biochemistry & Cell Biology, University College Cork",
-        "ucc.ie"
+        "ucc.ie",
+        "School of Biochemistry & Cell Biology, University College Cork"
       ],
       "sc:softwareHelp": {
         "@id": "http://ribogalaxy.ucc.ie/"
@@ -79,10 +83,6 @@
     {
       "@id": "http://orcid.org/0000-0002-3307-2938",
       "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1080/15476286.2016.1141862",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

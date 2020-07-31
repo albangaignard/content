@@ -36,8 +36,8 @@
       ],
       "sc:name": "MetaMIS",
       "sc:operatingSystem": [
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://sourceforge.net/projects/metamis/"
     }

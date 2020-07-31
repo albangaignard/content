@@ -24,8 +24,8 @@
   "sc:name": "SECLAF",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://pitgroup.org/seclaf/"
 }

@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Charles Berry",
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC4029028",
@@ -35,9 +35,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "geneRxCluster",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/geneRxCluster.html",
       "sc:version": "1.10.0"

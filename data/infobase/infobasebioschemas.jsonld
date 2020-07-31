@@ -19,15 +19,15 @@
   ],
   "sc:description": "Return information on a given nucleotide base.",
   "sc:funder": [
-    "Wellcome Trust",
     "UK BBSRC",
-    "UK MRC"
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "infobase",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": [

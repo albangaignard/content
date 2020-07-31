@@ -28,17 +28,17 @@
       "sc:description": "Classification of Duplicate gene RetentiOn Mechanisms.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2995"
+          "@id": "edam:operation_2495"
         },
         {
-          "@id": "edam:operation_2495"
+          "@id": "edam:operation_2995"
         }
       ],
       "sc:name": "CDROM",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://cran.rstudio.com/web/packages/CDROM/"
     }

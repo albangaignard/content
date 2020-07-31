@@ -22,10 +22,10 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_1276"
         },
         {
-          "@id": "edam:data_1276"
+          "@id": "edam:data_2884"
         }
       ],
       "sc:additionalType": [
@@ -57,9 +57,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "chipenrich",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/chipenrich.html",
       "sc:version": "1.12.0"

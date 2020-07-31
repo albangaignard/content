@@ -16,8 +16,8 @@
   "sc:name": "GGEA",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://drupal.bio.ifi.lmu.de/en/GGEA/index.html"
 }

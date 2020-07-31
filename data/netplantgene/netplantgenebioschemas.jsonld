@@ -29,8 +29,8 @@
       "sc:name": "NetPlantGene",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": "CBS",
       "sc:url": "http://www.cbs.dtu.dk/services/NetPGene/",

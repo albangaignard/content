@@ -20,8 +20,8 @@
   "sc:name": "Complex Portal",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://www.ebi.ac.uk/complexportal/"
 }

@@ -17,8 +17,8 @@
   "sc:name": "DisEMBL",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://dis.embl.de/"
 }

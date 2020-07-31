@@ -16,8 +16,8 @@
     "Command-line tool"
   ],
   "sc:author": [
-    "Anna Mantsoki",
-    "Oscar Flores"
+    "Oscar Flores",
+    "Anna Mantsoki"
   ],
   "sc:description": "R package for programmatic retrieval of information from DAS servers.",
   "sc:name": "DASiR",

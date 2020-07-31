@@ -13,8 +13,8 @@
   "biotools:primaryContact": "Eivind Hovig",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Geir Ivar Jerstad",
     "Eivind Hovig",
+    "Geir Ivar Jerstad",
     "Eivind Tøstesen"
   ],
   "sc:contributor": "The Research Council of Norway",
@@ -22,13 +22,13 @@
   "sc:funder": "The Research Council of Norway",
   "sc:name": "Stitchprofiles",
   "sc:operatingSystem": [
+    "Linux",
     "Windows",
-    "Mac",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
-    "University of Oslo",
     "UiO",
+    "University of Oslo",
     "The Norwegian Radium Hospital"
   ],
   "sc:url": "http://stitchprofiles.uio.no/",

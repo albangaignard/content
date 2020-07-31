@@ -14,8 +14,8 @@
   "sc:description": "Archive of life sciences journal literature.",
   "sc:name": "Europe PMC",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "EMBL-EBI Databases",
