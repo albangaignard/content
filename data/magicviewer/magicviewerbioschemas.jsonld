@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/magicviewer",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Erle Zhu",
-    "Zhongsheng Sun",
     "Jinyu Wu",
+    "Zhongsheng Sun",
     "Linglin Zhou",
+    "Erle Zhu",
     "Huabin Hou"
   ],
   "sc:additionalType": "Desktop application",

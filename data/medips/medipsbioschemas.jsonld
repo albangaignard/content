@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/btt650",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0002-8718-8848",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/bioinformatics/btt650",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/medips",
@@ -24,8 +24,8 @@
         "@id": "http://orcid.org/0000-0002-8718-8848"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC3892689",
@@ -41,9 +41,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "MEDIPS",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/MEDIPS.html",
       "sc:version": "1.24.0"

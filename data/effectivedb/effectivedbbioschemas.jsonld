@@ -28,16 +28,16 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3510"
+          "@id": "edam:topic_3174"
+        },
+        {
+          "@id": "edam:topic_0797"
         },
         {
           "@id": "edam:topic_0080"
         },
         {
-          "@id": "edam:topic_3174"
-        },
-        {
-          "@id": "edam:topic_0797"
+          "@id": "edam:topic_3510"
         }
       ],
       "sc:citation": [
@@ -59,9 +59,9 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "EffectiveDB",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:provider": [
         "CUBE - Computational Systems Biology",

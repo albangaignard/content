@@ -14,8 +14,8 @@
   "sc:additionalType": [
     "Suite",
     "Library",
-    "Workflow",
-    "Command-line tool"
+    "Command-line tool",
+    "Workflow"
   ],
   "sc:description": "Python package to setup and run molecular dynamics simulations.",
   "sc:name": "PyMDSetup",

@@ -15,12 +15,12 @@
   "sc:name": "Spectrum similarity",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
-    "ugent.be",
-    "Ghent University"
+    "Ghent University",
+    "ugent.be"
   ],
   "sc:url": "https://github.com/compomics/spectrum_similarity",
   "sc:version": "1"

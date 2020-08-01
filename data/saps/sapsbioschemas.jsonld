@@ -13,8 +13,8 @@
   "biotools:primaryContact": "Daniel Schmolze",
   "sc:additionalType": "Command-line tool",
   "sc:author": [
-    "cre]",
     "Andrew Beck [aut]",
+    "cre]",
     "Benjamin Haibe-Kains [aut]",
     "Daniel Schmolze [aut"
   ],
@@ -22,8 +22,8 @@
   "sc:name": "saps",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": "BioConductor",
   "sc:url": "https://www.bioconductor.org/packages/3.2/bioc/html/saps.html",

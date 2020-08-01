@@ -13,12 +13,12 @@
       "@id": "https://bio.tools/convaq",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Simon Larsen",
-        "Jan Baumbach"
+        "Jan Baumbach",
+        "Simon Larsen"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Library"
+        "Library",
+        "Web application"
       ],
       "sc:citation": [
         {
@@ -33,8 +33,8 @@
       },
       "sc:name": "CoNVaQ",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://convaq.compbio.sdu.dk/"

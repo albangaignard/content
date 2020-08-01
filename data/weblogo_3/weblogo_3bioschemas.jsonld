@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/weblogo_3",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC419797",
@@ -42,8 +42,8 @@
       "sc:name": "WebLogo 3",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://weblogo.threeplusone.com"
     }

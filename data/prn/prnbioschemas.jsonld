@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.12688/F1000RESEARCH.5951.2",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/prn",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -33,10 +37,6 @@
       },
       "sc:name": "PRN",
       "sc:url": "http://rfmri.org/PRN"
-    },
-    {
-      "@id": "https://doi.org/10.12688/F1000RESEARCH.5951.2",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

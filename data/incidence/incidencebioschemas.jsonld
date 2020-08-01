@@ -31,10 +31,10 @@
           "@id": "edam:operation_3503"
         },
         {
-          "@id": "edam:operation_3798"
+          "@id": "edam:operation_3436"
         },
         {
-          "@id": "edam:operation_3436"
+          "@id": "edam:operation_3798"
         }
       ],
       "sc:license": "MIT",

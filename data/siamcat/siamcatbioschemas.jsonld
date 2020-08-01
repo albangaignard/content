@@ -19,10 +19,10 @@
       "biotools:primaryContact": "Georg Zeller",
       "edam:has_input": [
         {
-          "@id": "edam:data_2082"
+          "@id": "edam:data_2914"
         },
         {
-          "@id": "edam:data_2914"
+          "@id": "edam:data_2082"
         }
       ],
       "edam:has_output": [
@@ -34,8 +34,8 @@
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
@@ -63,13 +63,13 @@
       "sc:license": "GPL-3.0",
       "sc:name": "SIAMCAT",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": [
-        "HD-HuB",
-        "European Molecular Biology Laboratory (EMBL)"
+        "European Molecular Biology Laboratory (EMBL)",
+        "HD-HuB"
       ],
       "sc:softwareHelp": {
         "@id": "http://siamcat.embl.de/"
