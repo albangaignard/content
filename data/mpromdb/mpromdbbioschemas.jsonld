@@ -17,8 +17,8 @@
   "sc:name": "Mammalian Promoter Database (MPromDb)",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://bioinformatics.wistar.upenn.edu/MPromDb/"
 }

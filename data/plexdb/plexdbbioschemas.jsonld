@@ -34,21 +34,21 @@
           "@id": "edam:operation_2495"
         },
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_0313"
         },
         {
           "@id": "edam:operation_3232"
         },
         {
-          "@id": "edam:operation_0313"
+          "@id": "edam:operation_3196"
         }
       ],
       "sc:license": "Other",
       "sc:name": "PLEXdb",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://www.plexdb.org/"
     }

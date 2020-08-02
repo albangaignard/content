@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/smite",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Neil Ari Wijetunga",
-    "Andrew Damon Johnston"
+    "Andrew Damon Johnston",
+    "Neil Ari Wijetunga"
   ],
   "sc:additionalType": [
     "Library",
@@ -23,8 +23,8 @@
   "sc:name": "SMITE",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/SMITE.html",
   "sc:version": "1.2.0"

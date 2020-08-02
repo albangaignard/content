@@ -10,13 +10,17 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1038/SREP18854",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/genn",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Support",
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
-        "pmcid:PMC4703976",
         "pubmed:26740369",
+        "pmcid:PMC4703976",
         {
           "@id": "https://doi.org/10.1038/SREP18854"
         }
@@ -28,14 +32,10 @@
       "sc:name": "GeNN",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://genn-team.github.io/genn/"
-    },
-    {
-      "@id": "https://doi.org/10.1038/SREP18854",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -17,8 +17,8 @@
   "sc:name": "Visual Omics Explorer (VOE)",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://bcil.github.io/VOE/"
 }

@@ -15,19 +15,19 @@
     "Web API"
   ],
   "sc:author": [
-    "Christian Stolte",
     "Kenneth S Sabir",
+    "Christian Stolte",
     "Seán I O'Donoghue",
     "Andrea Schafferhans"
   ],
   "sc:contributor": [
-    "Vivian Ho",
-    "Benjamin Wellmann",
-    "Manfred Roos",
     "Nelson Perdigão",
     "Julian Heinrich",
     "Fabian A Buske",
     "Burkhard Rost",
+    "Benjamin Wellmann",
+    "Manfred Roos",
+    "Vivian Ho",
     "Maria Kalemanov"
   ],
   "sc:description": "Simplifying the generation of insight from protein structures through structure visualisation, annotated with protein features; loads sequence-to-structure alignments from the PSSH2 database, sequence features from UniProt and Interpro and user defined features on demand from JSON files; there is also a WebAPI (see ...).",

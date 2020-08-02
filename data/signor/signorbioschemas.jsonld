@@ -14,12 +14,12 @@
   "sc:additionalType": "Database portal",
   "sc:author": [
     "Leonardo Briganti",
-    "Alberto Calderone",
-    "Prisca Lo Surdo"
+    "Prisca Lo Surdo",
+    "Alberto Calderone"
   ],
   "sc:contributor": [
-    "Gianni Cesareni",
     "Livia Perfetto",
+    "Gianni Cesareni",
     "Marta Iannuccelli",
     "Elena Santonico"
   ],
@@ -27,9 +27,9 @@
   "sc:license": "CC-BY-SA-4.0",
   "sc:name": "SIGNOR",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "Molecular Genetic Group, University of Rome \"Tor Vergata\", Rome, Italy",

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-0474-2218",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.1038/nmeth.3252",
       "@type": "sc:CreativeWork"
     },
@@ -22,10 +26,10 @@
         "Command-line tool"
       ],
       "sc:citation": [
-        "pmcid:PMC4509590",
         {
           "@id": "https://doi.org/10.1038/nmeth.3252"
         },
+        "pmcid:PMC4509590",
         "pubmed:25633503"
       ],
       "sc:contributor": {
@@ -44,10 +48,6 @@
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/Biobase.html",
       "sc:version": "2.34.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-0474-2218",
-      "@type": "schema:Person"
     }
   ]
 }

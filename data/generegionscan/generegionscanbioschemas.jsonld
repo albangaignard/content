@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/btp279",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0003-0708-9530",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/bioinformatics/btp279",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/generegionscan",
@@ -41,8 +41,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "GeneRegionScan",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/GeneRegionScan.html",

@@ -21,10 +21,10 @@
           "@id": "edam:data_0842"
         },
         {
-          "@id": "edam:data_3021"
+          "@id": "edam:data_3671"
         },
         {
-          "@id": "edam:data_3671"
+          "@id": "edam:data_3021"
         }
       ],
       "sc:additionalType": [
@@ -45,9 +45,9 @@
       },
       "sc:name": "OMA",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": "SIB",
       "sc:url": "http://omabrowser.org/oma/home/"

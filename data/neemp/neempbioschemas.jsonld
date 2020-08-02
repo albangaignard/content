@@ -18,18 +18,18 @@
           "@id": "edam:data_2526"
         },
         {
-          "@id": "edam:data_1463"
+          "@id": "edam:data_1917"
         },
         {
-          "@id": "edam:data_1917"
+          "@id": "edam:data_1463"
         }
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_1917"
+          "@id": "edam:data_2526"
         },
         {
-          "@id": "edam:data_2526"
+          "@id": "edam:data_1917"
         },
         {
           "@id": "edam:data_2048"
@@ -60,9 +60,9 @@
         "Mac"
       ],
       "sc:provider": [
-        "ELIXIR-CZ",
         "mail.muni.cz",
         "Central European Institute of Technology, Brno",
+        "ELIXIR-CZ",
         "National Centre for Biomolecular Research, Masaryk University, Brno"
       ],
       "sc:softwareHelp": {

@@ -17,8 +17,8 @@
   "sc:name": "MLC",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.github.com/stamakro/MLC"
 }

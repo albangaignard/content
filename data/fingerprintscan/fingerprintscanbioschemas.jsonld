@@ -20,12 +20,12 @@
   "sc:name": "FingerPRINTScan",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
-    "EMBL-EBI",
-    "University of Manchester"
+    "University of Manchester",
+    "EMBL-EBI"
   ],
   "sc:url": "http://www.ebi.ac.uk/Tools/pfa/fingerprintscan/",
   "sc:version": "1"

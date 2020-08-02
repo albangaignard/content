@@ -15,8 +15,8 @@
   "sc:name": "EviNet",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://www.evinet.org",
   "sc:version": "1.0"

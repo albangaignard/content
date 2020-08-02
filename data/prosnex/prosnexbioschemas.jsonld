@@ -14,18 +14,18 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Onur Sercinoglu",
+        "Rasim Murat Aydinkal",
         {
           "@id": "https://orcid.org/0000-0002-3043-0015"
-        },
-        "Rasim Murat Aydinkal"
+        }
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1093/NAR/GKZ390"
         },
-        "pubmed:31114881",
-        "pmcid:PMC6602423"
+        "pmcid:PMC6602423",
+        "pubmed:31114881"
       ],
       "sc:description": "Web-based application for exploration and analysis of protein structures using network formalism.",
       "sc:featureList": [
@@ -33,10 +33,10 @@
           "@id": "edam:operation_0272"
         },
         {
-          "@id": "edam:operation_0244"
+          "@id": "edam:operation_2950"
         },
         {
-          "@id": "edam:operation_2950"
+          "@id": "edam:operation_0244"
         }
       ],
       "sc:license": "Unlicense",
