@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/HAMR",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Command-line tool",
     "Web application",
+    "Command-line tool",
     "Web service"
   ],
   "sc:citation": "pubmed:30539546",

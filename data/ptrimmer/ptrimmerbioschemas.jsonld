@@ -10,15 +10,11 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/S12859-019-2854-X",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/pTrimmer",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Zhiguang Li",
-        "Jun Chen"
+        "Jun Chen",
+        "Zhiguang Li"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
@@ -43,10 +39,14 @@
       "sc:license": "GPL-3.0",
       "sc:name": "pTrimmer",
       "sc:operatingSystem": [
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://github.com/DMU-lilab/pTrimmer"
+    },
+    {
+      "@id": "https://doi.org/10.1186/S12859-019-2854-X",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

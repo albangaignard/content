@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/pmirkb",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Ming Chen",
     "Yijun Meng",
     "Dijun Chen",
+    "Ming Chen",
     "Lingfeng Gou"
   ],
   "sc:additionalType": "Database portal",

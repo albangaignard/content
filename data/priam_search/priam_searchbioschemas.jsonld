@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
     "Web application",
-    "Database portal",
-    "Command-line tool"
+    "Command-line tool",
+    "Database portal"
   ],
   "sc:author": "Thomas Bernard",
   "sc:contributor": "Daniel Kahn",
@@ -21,8 +21,8 @@
   "sc:name": "PRIAM search",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "univ-lyon1.fr",

@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/hubba",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Chin-Wen Ho",
     "Chia-Hao Chin",
+    "Chin-Wen Ho",
     "Hsin-Hung Wu",
     "Chung-Yen Lin",
     "Shu-Hwa Chen"
@@ -23,8 +23,8 @@
   "sc:name": "Hubba",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://hub.iis.sinica.edu.tw/Hubba"
 }

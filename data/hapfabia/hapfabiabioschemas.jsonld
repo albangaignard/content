@@ -20,21 +20,21 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_1863"
+          "@id": "edam:data_2884"
         },
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_1276"
         },
         {
           "@id": "edam:data_2048"
         },
         {
-          "@id": "edam:data_1276"
+          "@id": "edam:data_1863"
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
@@ -45,8 +45,8 @@
         }
       ],
       "sc:citation": [
-        "pubmed:24174545",
         "pmcid:PMC3905877",
+        "pubmed:24174545",
         {
           "@id": "https://doi.org/10.1093/nar/gkt1013"
         }
@@ -66,12 +66,12 @@
       "sc:version": "1.16.0"
     },
     {
-      "@id": "http://orcid.org/0000-0001-7449-2528",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1093/nar/gkt1013",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-7449-2528",
+      "@type": "schema:Person"
     }
   ]
 }

@@ -10,18 +10,14 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/NAR/GKX246",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/galaxyhomomer",
       "@type": "sc:SoftwareApplication",
       "edam:has_input": [
         {
-          "@id": "edam:data_1460"
+          "@id": "edam:data_2976"
         },
         {
-          "@id": "edam:data_2976"
+          "@id": "edam:data_1460"
         }
       ],
       "edam:has_output": [
@@ -35,10 +31,10 @@
       "sc:additionalType": "Web application",
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0736"
+          "@id": "edam:topic_0082"
         },
         {
-          "@id": "edam:topic_0082"
+          "@id": "edam:topic_0736"
         },
         {
           "@id": "edam:topic_3300"
@@ -57,14 +53,18 @@
           "@id": "edam:operation_0267"
         },
         {
-          "@id": "edam:operation_3662"
+          "@id": "edam:operation_0478"
         },
         {
-          "@id": "edam:operation_0478"
+          "@id": "edam:operation_3662"
         }
       ],
       "sc:name": "GalaxyHomomer",
       "sc:url": "http://galaxy.seoklab.org/homomer"
+    },
+    {
+      "@id": "https://doi.org/10.1093/NAR/GKX246",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -21,8 +21,8 @@
       "sc:name": "RainBio",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://www.lesfleursdunormal.fr/static/appliweb/rainbio/index.html"
     },

@@ -15,11 +15,11 @@
     "Dr Jonathan Tedds"
   ],
   "sc:additionalType": [
-    "Workbench",
-    "Database portal",
-    "Web API",
+    "Command-line tool",
     "Web application",
-    "Command-line tool"
+    "Workbench",
+    "Web API",
+    "Database portal"
   ],
   "sc:author": [
     "Dr Olly Butters (former Technical Lead)",
@@ -37,13 +37,13 @@
   ],
   "sc:name": "BRISSKit",
   "sc:operatingSystem": [
+    "Mac",
     "Linux",
-    "Windows",
-    "Mac"
+    "Windows"
   ],
   "sc:provider": [
-    "University of Leicester",
-    "University of Bristol"
+    "University of Bristol",
+    "University of Leicester"
   ],
   "sc:url": "http://www.brisskit.le.ac.uk"
 }

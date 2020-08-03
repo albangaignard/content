@@ -12,13 +12,13 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Claude Mugnier",
-    "Marie-Liesse Chauvet",
+    "Alexandra Caude",
     "Martine Lemerrer",
-    "Alexandra Caude"
+    "Marie-Liesse Chauvet"
   ],
   "sc:additionalType": [
-    "Database portal",
-    "Web application"
+    "Web application",
+    "Database portal"
   ],
   "sc:citation": "pubmed:9835018",
   "sc:description": "The Genatlas database provides information on the structure, expression and function of genes, gene mutations and their consequences on diseases.",

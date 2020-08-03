@@ -13,8 +13,8 @@
   "biotools:primaryContact": "Ari Loytynoja",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Ari Loytynoja",
-    "Goldman group"
+    "Goldman group",
+    "Ari Loytynoja"
   ],
   "sc:contributor": "Nick Goldman",
   "sc:description": "Multiple sequence alignment tool.",
