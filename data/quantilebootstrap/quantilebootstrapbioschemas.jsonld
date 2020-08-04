@@ -18,8 +18,8 @@
   "sc:name": "QuantileBootstrap",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/owatson/QuantileBootstrap"
 }

@@ -39,9 +39,9 @@
       },
       "sc:name": "Mouse Genome Informatics (MGI)",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://www.informatics.jax.org/"
     }

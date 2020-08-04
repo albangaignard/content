@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/dStruct",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Krishna Choudhary",
-        "Sharon Aviran"
+        "Sharon Aviran",
+        "Krishna Choudhary"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -39,9 +39,9 @@
       "sc:license": "BSD-2-Clause",
       "sc:name": "dStruct",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://github.com/AviranLab/dStruct"
     },

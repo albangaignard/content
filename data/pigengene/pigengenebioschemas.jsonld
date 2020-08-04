@@ -16,8 +16,8 @@
         "@id": "http://orcid.org/0000-0001-5902-6238"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         {
@@ -33,9 +33,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "Pigengene",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/Pigengene.html",
       "sc:version": "1.0.0"

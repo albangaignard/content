@@ -16,8 +16,8 @@
   "sc:name": "PCA-PAM50",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "ftp://ftp.wriwindber.org/"
 }

@@ -16,27 +16,27 @@
         {
           "@id": "http://orcid.org/0000-0002-1838-8918"
         },
-        "Samuele Bovo",
-        "Pier Luigi Martelli"
+        "Pier Luigi Martelli",
+        "Samuele Bovo"
       ],
       "edam:has_input": {
         "@id": "edam:data_3021"
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_2600"
-        },
-        {
-          "@id": "edam:data_1155"
-        },
-        {
-          "@id": "edam:data_2343"
+          "@id": "edam:data_3028"
         },
         {
           "@id": "edam:data_1176"
         },
         {
-          "@id": "edam:data_3028"
+          "@id": "edam:data_2600"
+        },
+        {
+          "@id": "edam:data_2343"
+        },
+        {
+          "@id": "edam:data_1155"
         }
       ],
       "sc:additionalType": "Web application",

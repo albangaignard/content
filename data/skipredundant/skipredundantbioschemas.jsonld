@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
-    "Wellcome Trust",
     "EMBOSS Contributors",
+    "Wellcome Trust",
     "UK MRC"
   ],
   "sc:description": "Remove redundant sequences from an input set.",
@@ -26,13 +26,13 @@
   "sc:license": "GPL-3.0",
   "sc:name": "skipredundant",
   "sc:operatingSystem": [
+    "Linux",
     "Mac",
-    "Windows",
-    "Linux"
+    "Windows"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/skipredundant.html",
   "sc:version": "r6"

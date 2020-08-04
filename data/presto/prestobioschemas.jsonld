@@ -16,8 +16,8 @@
   "sc:name": "pRESTO",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://presto.readthedocs.io/en/latest/"
 }

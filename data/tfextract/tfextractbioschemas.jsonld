@@ -19,9 +19,9 @@
   ],
   "sc:description": "Process TRANSFAC transcription factor database for use by tfscan.",
   "sc:funder": [
-    "Wellcome Trust",
     "UK BBSRC",
-    "UK MRC"
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "tfextract",

@@ -17,8 +17,8 @@
   "sc:name": "PromoSer",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://biowulf.bu.edu/zlab/PromoSer/"
 }

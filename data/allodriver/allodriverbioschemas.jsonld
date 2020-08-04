@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1093/NAR/GKZ350",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/AlloDriver",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -48,6 +44,10 @@
         "Mac"
       ],
       "sc:url": "http://mdl.shsmu.edu.cn/ALD"
+    },
+    {
+      "@id": "https://doi.org/10.1093/NAR/GKZ350",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

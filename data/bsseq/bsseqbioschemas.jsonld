@@ -37,9 +37,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "bsseq",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/bsseq.html",
       "sc:version": "1.10.0"

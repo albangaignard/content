@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/X2H",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jian Liu",
     "Shuhui Su",
-    "Lei Zhang",
+    "Jian Liu",
     "Qiuru Liu",
+    "Lei Zhang",
     "Yongzhuang Liu"
   ],
   "sc:additionalType": "Command-line tool",

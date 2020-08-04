@@ -13,15 +13,15 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK MRC",
-    "Wellcome Trust",
     "UK BBSRC",
+    "Wellcome Trust",
     "EMBOSS Contributors"
   ],
   "sc:description": "Scan DNA sequences for transcription factors.",
   "sc:funder": [
-    "UK BBSRC",
+    "Wellcome Trust",
     "UK MRC",
-    "Wellcome Trust"
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "jaspscan",

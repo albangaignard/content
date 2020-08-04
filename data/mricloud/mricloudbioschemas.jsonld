@@ -36,8 +36,8 @@
       "sc:name": "MRICloud",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://braingps.mricloud.org"
     }

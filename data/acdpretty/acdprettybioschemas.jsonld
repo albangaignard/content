@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
-    "EMBOSS Contributors",
     "UK MRC",
-    "UK BBSRC"
+    "UK BBSRC",
+    "Wellcome Trust",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Correctly reformat an application ACD file.",
   "sc:funder": [

@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
-    "Wellcome Trust",
     "UK MRC",
+    "Wellcome Trust",
     "EMBOSS Contributors"
   ],
   "sc:description": "Search DNA sequences for matches with primer pairs.",
@@ -27,8 +27,8 @@
   "sc:name": "primersearch",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "EMBOSS",
