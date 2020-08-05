@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
-    "UK BBSRC",
+    "EMBOSS Contributors",
     "Wellcome Trust",
-    "EMBOSS Contributors"
+    "UK MRC",
+    "UK BBSRC"
   ],
   "sc:description": "Sort sequences by size.",
   "sc:funder": [
@@ -27,12 +27,12 @@
   "sc:name": "sizeseq",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/sizeseq.html",
   "sc:version": "r6"

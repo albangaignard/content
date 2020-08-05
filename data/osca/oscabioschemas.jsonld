@@ -40,8 +40,8 @@
       "sc:name": "OSCA",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://cnsgenomics.com/software/osca/#Overview"
     },

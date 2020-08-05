@@ -18,8 +18,8 @@
   "sc:name": "SWISS-MODEL Repository",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": "SIB Swiss Institute of Bioinformatics",
   "sc:url": "https://swissmodel.expasy.org/repository/",

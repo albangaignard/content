@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/pcrtiler",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Contact Form",
-    "alain.gervais@USherbrooke.ca"
+    "alain.gervais@USherbrooke.ca",
+    "Contact Form"
   ],
   "sc:additionalType": [
     "Web application",
@@ -23,8 +23,8 @@
   "sc:name": "PCRTiler",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://pcrtiler.genap.ca/PCRTiler/"
 }

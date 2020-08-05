@@ -21,8 +21,8 @@
   "sc:name": "SPLATCHE3",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.splatche.com/splatche3"
 }

@@ -23,23 +23,23 @@
         "@id": "edam:data_1255"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Workflow"
+        "Workflow",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
           "@id": "edam:topic_3512"
         },
         {
-          "@id": "edam:topic_3170"
+          "@id": "edam:topic_0659"
         },
         {
-          "@id": "edam:topic_0659"
+          "@id": "edam:topic_3170"
         }
       ],
       "sc:citation": [
-        "pubmed:24400097",
         "pmcid:PMC3882232",
+        "pubmed:24400097",
         {
           "@id": "https://doi.org/10.1371/journal.pone.0084500"
         }

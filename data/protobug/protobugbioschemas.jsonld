@@ -31,9 +31,9 @@
       },
       "sc:name": "ProtoBug",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://www.protobug.cs.huji.ac.il/"
     }

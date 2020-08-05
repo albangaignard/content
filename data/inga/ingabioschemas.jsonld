@@ -47,8 +47,8 @@
       "sc:name": "INGA",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": [
         "University of Padua, Department of Biomedical Sciences, BioComputing UP lab",

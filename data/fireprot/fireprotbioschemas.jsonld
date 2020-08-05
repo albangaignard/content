@@ -12,15 +12,15 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Milos Musil",
-    "Jan Stourac"
+    "Jan Stourac",
+    "Milos Musil"
   ],
   "sc:contributor": [
     "Jaroslav Zendulka",
-    "Jiri Damborsky",
     "Tomas Martinek",
-    "Zbynek Prokop",
     "Jan Brezovsky",
+    "Zbynek Prokop",
+    "Jiri Damborsky",
     "David Bednar",
     "Jaroslav Bendl"
   ],
@@ -29,8 +29,8 @@
   "sc:name": "FireProt",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://loschmidt.chemi.muni.cz/fireprot/",
   "sc:version": "1.1"

@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1186/S13100-019-0163-6",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/MGERT",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -46,11 +42,15 @@
       "sc:license": "Unlicense",
       "sc:name": "MGERT",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "https://github.com/andrewgull/MGERT"
+    },
+    {
+      "@id": "https://doi.org/10.1186/S13100-019-0163-6",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

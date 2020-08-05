@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1158/0008-5472.CAN-18-2047",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/CellMinerCDB",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Web application",
@@ -39,11 +35,15 @@
       "sc:license": "Unlicense",
       "sc:name": "CellMinerCDB",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://discover.nci.nih.gov/cellminercdb/"
+    },
+    {
+      "@id": "https://doi.org/10.1158/0008-5472.CAN-18-2047",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

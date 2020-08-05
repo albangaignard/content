@@ -19,16 +19,16 @@
   ],
   "sc:description": "Calculate Nc codon usage statistic.",
   "sc:funder": [
-    "Wellcome Trust",
+    "UK MRC",
     "UK BBSRC",
-    "UK MRC"
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "chips",
   "sc:operatingSystem": [
+    "Mac",
     "Windows",
-    "Linux",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
     "EMBL EBI",

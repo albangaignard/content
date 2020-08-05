@@ -33,10 +33,10 @@
         }
       ],
       "sc:citation": [
+        "pubmed:27511743",
         {
           "@id": "https://doi.org/10.1038/srep31128"
         },
-        "pubmed:27511743",
         "pmcid:PMC4980628"
       ],
       "sc:description": "A database of interactors and mutations of the human von Hippel-Lindau tumor suppressor protein (pVHL).",
@@ -52,8 +52,8 @@
       "sc:name": "VHLdb",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": "University of Padua, Department of Biomedical Sciences, BioComputing UP lab",
       "sc:softwareHelp": {

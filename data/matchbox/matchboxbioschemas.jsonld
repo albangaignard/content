@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/matchbox",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Anuj Gupta",
-    "Luigi Marchionni"
+    "Luigi Marchionni",
+    "Anuj Gupta"
   ],
   "sc:additionalType": [
     "Command-line tool",

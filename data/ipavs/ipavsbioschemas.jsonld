@@ -17,8 +17,8 @@
   "sc:name": "iPAVS",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://ipavs.cidms.org/"
 }

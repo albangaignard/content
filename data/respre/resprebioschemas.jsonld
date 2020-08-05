@@ -18,8 +18,8 @@
   "sc:name": "ResPRE",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://zhanglab.ccmb.med.umich.edu/ResPRE"
 }

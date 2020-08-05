@@ -42,8 +42,8 @@
       "sc:name": "DrugComb",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://drugcomb.fimm.fi"
     },

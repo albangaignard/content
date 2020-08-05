@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/cylofold",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Eckart Bindewald",
     "Wojciech Kasprzak",
+    "Eckart Bindewald",
     "Bruce A. Shapiro"
   ],
   "sc:additionalType": "Web application",
@@ -21,8 +21,8 @@
   "sc:name": "CyloFold",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://cylofold.ncifcrf.gov"
 }

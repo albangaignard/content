@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://orcid.org/0000-0003-3814-3675",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.1093/NAR/GKZ407",
       "@type": "sc:CreativeWork"
     },
@@ -21,8 +25,8 @@
       },
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pmcid:PMC6602475",
         "pubmed:31114895",
+        "pmcid:PMC6602475",
         {
           "@id": "https://doi.org/10.1093/NAR/GKZ407"
         }
@@ -42,15 +46,11 @@
       "sc:license": "Unlicense",
       "sc:name": "VOLPES",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://volpes.univie.ac.at"
-    },
-    {
-      "@id": "https://orcid.org/0000-0003-3814-3675",
-      "@type": "schema:Person"
     }
   ]
 }
