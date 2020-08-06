@@ -21,8 +21,8 @@
       },
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pmcid:PMC6598954",
         "pubmed:31093725",
+        "pmcid:PMC6598954",
         {
           "@id": "https://doi.org/10.1007/S00247-019-04415-3"
         }

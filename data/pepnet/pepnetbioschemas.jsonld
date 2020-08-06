@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
+    "UK BBSRC",
     "EMBOSS Contributors",
-    "UK MRC",
-    "UK BBSRC"
+    "Wellcome Trust",
+    "UK MRC"
   ],
   "sc:description": "Draw a helical net for a protein sequence.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "pepnet",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "EMBL EBI",

@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/invfest",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pmcid:PMC3965118",
@@ -42,9 +42,9 @@
       "sc:license": "CC-BY-4.0",
       "sc:name": "InvFEST",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://invfestdb.uab.cat/"
     }

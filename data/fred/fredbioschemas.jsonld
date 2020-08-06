@@ -15,8 +15,8 @@
   "sc:name": "FRED",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://abi.inf.uni-tuebingen.de/Software/FRED",
   "sc:version": "1.0"

@@ -17,8 +17,8 @@
   "sc:name": "SChloro",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://schloro.biocomp.unibo.it",
   "sc:version": "1"

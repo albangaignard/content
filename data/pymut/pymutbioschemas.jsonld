@@ -49,10 +49,10 @@
           "@id": "edam:operation_3661"
         },
         {
-          "@id": "edam:operation_3225"
+          "@id": "edam:operation_3092"
         },
         {
-          "@id": "edam:operation_3092"
+          "@id": "edam:operation_3225"
         }
       ],
       "sc:isAccessibleForFree": true,

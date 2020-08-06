@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/pmirkb",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Dijun Chen",
     "Yijun Meng",
+    "Dijun Chen",
     "Ming Chen",
     "Lingfeng Gou"
   ],
@@ -22,8 +22,8 @@
   "sc:name": "PmiRKB",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bis.zju.edu.cn/pmirkb/"
 }

@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/graph-gpa",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Hang J. Kim",
-        "Dongjun Chung"
+        "Dongjun Chung",
+        "Hang J. Kim"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [

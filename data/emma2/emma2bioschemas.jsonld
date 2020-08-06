@@ -21,8 +21,8 @@
   ],
   "sc:provider": [
     "CeBiTec",
-    "bigi",
-    "Bielefeld University"
+    "Bielefeld University",
+    "bigi"
   ],
   "sc:url": "http://emma.cebitec.uni-bielefeld.de",
   "sc:version": "2.8.2"

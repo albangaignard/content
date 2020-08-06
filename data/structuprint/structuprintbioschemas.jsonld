@@ -37,9 +37,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Structuprint",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://dgkontopoulos.io/Structuprint/"
     },

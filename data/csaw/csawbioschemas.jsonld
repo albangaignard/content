@@ -30,21 +30,21 @@
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0092"
-        },
-        {
-          "@id": "edam:topic_3511"
+          "@id": "edam:topic_3169"
         },
         {
           "@id": "edam:topic_3168"
         },
         {
-          "@id": "edam:topic_3169"
+          "@id": "edam:topic_3511"
+        },
+        {
+          "@id": "edam:topic_0092"
         }
       ],
       "sc:citation": [
@@ -61,9 +61,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "csaw",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/csaw.html",
       "sc:version": "1.8.0"

@@ -51,9 +51,9 @@
       },
       "sc:name": "VectorBase",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:provider": "Identifiers.org",
       "sc:url": "http://www.vectorbase.org/"

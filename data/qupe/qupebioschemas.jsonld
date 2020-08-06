@@ -20,8 +20,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "bigi",
     "CeBiTec",
+    "bigi",
     "Bielefeld University"
   ],
   "sc:url": "https://qupe.cebitec.uni-bielefeld.de",

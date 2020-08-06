@@ -33,8 +33,8 @@
       "sc:name": "ModelExplorer",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://almaaslab.nt.ntnu.no/index.php/resources/metabolic-modeling/",
       "sc:version": "2.0"

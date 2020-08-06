@@ -17,8 +17,8 @@
   "sc:name": "PROMALS3D",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://prodata.swmed.edu/promals3d"
 }

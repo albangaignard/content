@@ -24,9 +24,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "ImaGEO",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioinfo.genyo.es/imageo/"
     },
