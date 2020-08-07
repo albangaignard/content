@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0003-4525-7793",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1093/nar/gku399",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/pasta",
@@ -28,18 +28,18 @@
       "sc:additionalType": "Web application",
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0128"
+          "@id": "edam:topic_0080"
         },
         {
-          "@id": "edam:topic_0080"
+          "@id": "edam:topic_0128"
         }
       ],
       "sc:citation": [
         "pmcid:PMC4086119",
+        "pubmed:24848016",
         {
           "@id": "https://doi.org/10.1093/nar/gku399"
-        },
-        "pubmed:24848016"
+        }
       ],
       "sc:description": "A web server predictor for amyloid aggregation propensity from protein sequences.",
       "sc:featureList": {
@@ -48,8 +48,8 @@
       "sc:name": "PASTA",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": [
         "ELIXIR-ITA-PADOVA",
@@ -59,8 +59,8 @@
       "sc:version": "2.0"
     },
     {
-      "@id": "https://doi.org/10.1093/nar/gku399",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0003-4525-7793",
+      "@type": "schema:Person"
     }
   ]
 }

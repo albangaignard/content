@@ -10,6 +10,14 @@
   },
   "@graph": [
     {
+      "@id": "https://orcid.org/0000-0002-7364-2202",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/NAR/GKZ450",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/ImmuneRegulation",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -39,18 +47,10 @@
       "sc:name": "ImmuneRegulation",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://immuneregulation.mssm.edu"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-7364-2202",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKZ450",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

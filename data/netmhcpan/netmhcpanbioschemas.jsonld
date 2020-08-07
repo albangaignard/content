@@ -28,8 +28,8 @@
         "@id": "edam:data_1277"
       },
       "sc:additionalType": [
-        "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_3534"
@@ -47,10 +47,10 @@
       "sc:description": "Predict binding of peptides to any known MHC molecule using artificial neural networks (ANNs).",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0416"
+          "@id": "edam:operation_2575"
         },
         {
-          "@id": "edam:operation_2575"
+          "@id": "edam:operation_0416"
         }
       ],
       "sc:isAccessibleForFree": true,

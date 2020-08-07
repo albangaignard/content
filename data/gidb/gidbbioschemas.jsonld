@@ -17,12 +17,12 @@
         "Xiaoyan Zhang"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
-        "pmcid:PMC6517830",
         "pubmed:31089686",
+        "pmcid:PMC6517830",
         {
           "@id": "https://doi.org/10.1093/DATABASE/BAZ051"
         }
@@ -35,8 +35,8 @@
       "sc:name": "GIDB",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bmtongji.cn/GIDB/index.html"
     },

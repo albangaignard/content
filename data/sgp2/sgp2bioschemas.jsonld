@@ -16,8 +16,8 @@
     "Web application"
   ],
   "sc:author": [
-    "Josep Abril",
     "Roderic Guigo",
+    "Josep Abril",
     "Genis Parra"
   ],
   "sc:description": "Program to predict genes by comparing anonymous genomic sequences from different species. It combines tblastx, a sequence similarity search program, with geneid, an ab initio gene prediction program.",
@@ -25,8 +25,8 @@
   "sc:name": "SGP2",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "crg.eu",

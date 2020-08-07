@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s13062-016-0159-9",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0001-8187-1980",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s13062-016-0159-9",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/ipc",
@@ -35,9 +35,6 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0123"
-        },
-        {
           "@id": "edam:topic_3047"
         },
         {
@@ -45,6 +42,9 @@
         },
         {
           "@id": "edam:topic_3520"
+        },
+        {
+          "@id": "edam:topic_0123"
         },
         {
           "@id": "edam:topic_3292"
@@ -65,9 +65,9 @@
       "sc:license": "Other",
       "sc:name": "IPC",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:softwareHelp": {
         "@id": "http://isoelectric.org/algorithms.html"

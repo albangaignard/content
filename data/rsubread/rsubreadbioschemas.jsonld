@@ -20,8 +20,8 @@
         "@id": "edam:data_0863"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
@@ -35,8 +35,8 @@
         }
       ],
       "sc:citation": [
-        "pmcid:PMC3664803",
         "pubmed:23558742",
+        "pmcid:PMC3664803",
         {
           "@id": "https://doi.org/10.1093/nar/gkt214"
         }
@@ -48,9 +48,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Rsubread",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/Rsubread.html",
       "sc:version": "1.24.1"

@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/pindel",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Kai Ye",
-        "Support Forum"
+        "Support Forum",
+        "Kai Ye"
       ],
       "edam:has_input": [
         {
@@ -47,16 +47,16 @@
       "sc:license": "Unlicense",
       "sc:name": "Pindel",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:softwareHelp": [
         {
-          "@id": "http://gmt.genome.wustl.edu/packages/pindel/"
+          "@id": "http://gmt.genome.wustl.edu/packages/pindel/user-manual.html"
         },
         {
-          "@id": "http://gmt.genome.wustl.edu/packages/pindel/user-manual.html"
+          "@id": "http://gmt.genome.wustl.edu/packages/pindel/"
         }
       ],
       "sc:url": "http://gmt.genome.wustl.edu/packages/pindel/"

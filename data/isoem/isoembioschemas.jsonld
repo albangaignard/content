@@ -21,8 +21,8 @@
   "sc:description": "Expectation maximization algorithm for estimating alternative splicing isoform frequencies",
   "sc:name": "IsoEM",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:url": "http://dna.engr.uconn.edu/?page_id=105"

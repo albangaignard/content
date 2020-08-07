@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Database portal",
   "sc:author": [
+    "Esther Schmidt",
     "Michael Boutros",
     "Benedikt Rauscher",
-    "Esther Schmidt",
     "Oliver Pelz"
   ],
   "sc:citation": "pubmed:23193271",
@@ -22,8 +22,8 @@
   "sc:name": "GenomeRNAi",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "hdhub",

@@ -17,8 +17,8 @@
   "sc:name": "CRCRpred",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://webs.iiitd.edu.in/raghava/crcrpred"
 }

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkm218",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "http://orcid.org/0000-0001-8231-3323",
       "@type": "schema:Person"
     },
@@ -38,14 +42,14 @@
         "@id": "edam:topic_0080"
       },
       "sc:author": [
+        "Anke Busch",
         {
           "@id": "http://orcid.org/0000-0001-8231-3323"
-        },
-        "Anke Busch"
+        }
       ],
       "sc:citation": [
-        "pmcid:PMC1933236",
         "pubmed:17452349",
+        "pmcid:PMC1933236",
         {
           "@id": "https://doi.org/10.1093/nar/gkm218"
         }
@@ -58,22 +62,18 @@
       "sc:name": "INFORNA Sequence Design",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": [
-        "University Freiburg",
-        "rnateam"
+        "rnateam",
+        "University Freiburg"
       ],
       "sc:softwareHelp": {
         "@id": "http://rna.informatik.uni-freiburg.de/Help.jsp"
       },
       "sc:url": "http://rna.informatik.uni-freiburg.de/INFORNA/",
       "sc:version": "2.2.0"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkm218",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -27,17 +27,17 @@
           "@id": "edam:operation_3232"
         },
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_0282"
         },
         {
-          "@id": "edam:operation_0282"
+          "@id": "edam:operation_3196"
         }
       ],
       "sc:name": "QHOT",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://www.stat.sinica.edu.tw/chkao/RQTL/download.htm"
     },

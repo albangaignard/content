@@ -13,9 +13,9 @@
       "@id": "https://bio.tools/AICD",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Biaoyan Du",
         "Zaoyuan Kuang",
-        "Jiangyong Gu",
-        "Biaoyan Du"
+        "Jiangyong Gu"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -40,9 +40,9 @@
       "sc:license": "CC-BY-4.0",
       "sc:name": "AICD",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://956023.ichengyun.net/AICD/index.php"
     },

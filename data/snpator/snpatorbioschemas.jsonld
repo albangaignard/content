@@ -12,12 +12,12 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Web application",
   "sc:author": [
+    "Angel Carreño Torres",
     "Carlos Morcillo Suarez",
-    "Ricard Sangrós",
     "Arcadi Navarro Cuartiellas",
     "José Marí­a Heredia Genestar",
+    "Ricard Sangrós",
     "Tere Páramo Prieto",
-    "Angel Carreño Torres",
     "Pep Alegre"
   ],
   "sc:citation": "pubmed:18515823",

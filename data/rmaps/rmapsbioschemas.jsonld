@@ -16,8 +16,8 @@
   "sc:name": "rMAPS",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://rmaps.cecsresearch.org/"
 }

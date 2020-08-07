@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.1104/pp.15.01327",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/gips",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -37,14 +41,10 @@
       "sc:name": "GIPS",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://github.com/synergy-zju/gips/wiki"
-    },
-    {
-      "@id": "https://doi.org/10.1104/pp.15.01327",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

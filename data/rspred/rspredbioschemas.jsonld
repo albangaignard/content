@@ -16,8 +16,8 @@
   "sc:name": "RSpred",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": "bils.se",
   "sc:url": "http://persson-group.scilifelab.se/rspred/"

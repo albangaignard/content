@@ -40,8 +40,8 @@
       "sc:name": "matchbox",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://seqr.broadinstitute.org/matchmaker/matchbox"
     },

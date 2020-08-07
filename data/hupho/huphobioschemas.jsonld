@@ -21,21 +21,21 @@
       },
       "sc:additionalType": "Web application",
       "sc:author": [
-        "Alberto Calderone",
-        "Susanna Liberti"
+        "Susanna Liberti",
+        "Alberto Calderone"
       ],
       "sc:citation": "pubmed:22804825",
       "sc:contributor": [
-        "Francesca Sacco",
+        "Marta Iannuccelli",
         "Livia Perfetto",
-        "Marta Iannuccelli"
+        "Francesca Sacco"
       ],
       "sc:description": "Online web resource for recovering information about human phosphatases.",
       "sc:name": "Hupho",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:provider": [
         "ELIXIR-ITA-TORVERGATA",

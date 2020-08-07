@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/1746-4811-7-11",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0002-6403-7262",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/csar",
@@ -20,8 +20,8 @@
         "@id": "http://orcid.org/0000-0002-6403-7262"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:21554688",
@@ -38,15 +38,15 @@
       "sc:name": "CSAR",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/CSAR.html",
       "sc:version": "1.26.0"
     },
     {
-      "@id": "http://orcid.org/0000-0002-6403-7262",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1186/1746-4811-7-11",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

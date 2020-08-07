@@ -15,8 +15,8 @@
     "Andrey V. Kajava"
   ],
   "sc:additionalType": [
-    "Web service",
-    "Web application"
+    "Web application",
+    "Web service"
   ],
   "sc:description": "Program for reconstruction of amyloid structures containing adjacent β-arches.",
   "sc:license": "Other",
