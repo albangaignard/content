@@ -18,8 +18,8 @@
   "sc:license": "Unlicense",
   "sc:name": "HERMES",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "https://hermes.grnet.gr/"

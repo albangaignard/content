@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
-    "UK BBSRC",
     "EMBOSS Contributors",
+    "UK BBSRC",
+    "Wellcome Trust",
     "UK MRC"
   ],
   "sc:description": "Retrieve all database cross-references for a sequence entry.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "seqxref",
   "sc:operatingSystem": [
+    "Mac",
     "Linux",
-    "Windows",
-    "Mac"
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

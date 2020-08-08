@@ -18,9 +18,9 @@
   "sc:license": "CC-BY-4.0",
   "sc:name": "cropPAL",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "unimelb.edu.au",

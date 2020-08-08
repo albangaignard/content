@@ -15,8 +15,8 @@
   "sc:name": "XLink",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://tools.proteomecenter.org/XLink.php"
 }

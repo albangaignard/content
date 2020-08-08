@@ -40,8 +40,8 @@
       "sc:name": "PhenX Toolkit",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://www.phenxtoolkit.org/"
     }

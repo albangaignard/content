@@ -17,8 +17,8 @@
   "sc:name": "BBSeq",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.bios.unc.edu/research/genomic_software/BBSeq/"
 }

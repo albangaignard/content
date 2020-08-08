@@ -14,9 +14,9 @@
   "sc:additionalType": "Web application",
   "sc:author": [
     "Dietrich Rebholz-Schuhmann",
-    "Jee-Hyub Kim",
     "Literature Services",
-    "Johanna McEntyre"
+    "Johanna McEntyre",
+    "Jee-Hyub Kim"
   ],
   "sc:description": "A text processing system that allows you to do textmining tasks on text. It is great at identifying molecular biology terms and linking them to publicly available databases.",
   "sc:name": "Whatizit",

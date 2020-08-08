@@ -27,26 +27,26 @@
         }
       ],
       "sc:additionalType": [
-        "Web service",
-        "Web API"
+        "Web API",
+        "Web service"
       ],
       "sc:author": [
         "Piotr Gawron",
         "David Hoksza"
       ],
       "sc:citation": [
-        "pmcid:PMC5516855",
         "pubmed:28725475",
-        "pubmed:31074494",
         {
           "@id": "https://doi.org/10.1038/npjsba.2016.20"
-        }
+        },
+        "pubmed:31074494",
+        "pmcid:PMC5516855"
       ],
       "sc:contributor": [
-        "Reinhard Schneider",
         "Rudi Balling",
-        "Venkata Satagopam",
         "Ewa Smula",
+        "Reinhard Schneider",
+        "Venkata Satagopam",
         {
           "@id": "https://orcid.org/0000-0003-1473-370X"
         }

@@ -10,15 +10,15 @@
   },
   "@graph": [
     {
+      "@id": "https://orcid.org/0000-0002-6476-7206",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://orcid.org/0000-0001-7032-5220",
       "@type": "schema:Person"
     },
     {
       "@id": "https://orcid.org/0000-0002-7139-2107",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-4657-6991",
       "@type": "schema:Person"
     },
     {
@@ -29,16 +29,16 @@
       },
       "sc:additionalType": [
         "Command-line tool",
-        "Desktop application",
+        "Suite",
         "Workflow",
-        "Suite"
+        "Desktop application"
       ],
       "sc:author": [
         {
-          "@id": "https://orcid.org/0000-0002-6476-7206"
+          "@id": "https://orcid.org/0000-0002-4657-6991"
         },
         {
-          "@id": "https://orcid.org/0000-0002-4657-6991"
+          "@id": "https://orcid.org/0000-0002-6476-7206"
         },
         {
           "@id": "https://orcid.org/0000-0002-7139-2107"
@@ -53,7 +53,7 @@
       "sc:url": "https://pegi3s.github.io/dockerfiles/"
     },
     {
-      "@id": "https://orcid.org/0000-0002-6476-7206",
+      "@id": "https://orcid.org/0000-0002-4657-6991",
       "@type": "schema:Person"
     }
   ]

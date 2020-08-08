@@ -13,9 +13,9 @@
       "@id": "https://bio.tools/DiVenn",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Yinbing Ge",
         "Liang Sun",
-        "Zach Robinson",
-        "Yinbing Ge"
+        "Zach Robinson"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -40,9 +40,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "DiVenn",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://divenn.noble.org/"
     },

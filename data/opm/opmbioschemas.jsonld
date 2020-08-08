@@ -17,8 +17,8 @@
   "sc:name": "Orientations of Proteins in Membranes database",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://opm.phar.umich.edu/"
 }

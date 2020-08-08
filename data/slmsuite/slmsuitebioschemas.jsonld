@@ -27,8 +27,8 @@
       },
       "sc:name": "SLMSuite",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "https://sourceforge.net/projects/slmsuite/"

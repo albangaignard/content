@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s13023-018-0765-y",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/PhenoDis",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Dr. Andreas Ruepp",
@@ -35,15 +39,11 @@
       ],
       "sc:name": "PhenoDis",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://mips.helmholtz-muenchen.de/phenodis/"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s13023-018-0765-y",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

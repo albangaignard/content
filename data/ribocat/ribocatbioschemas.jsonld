@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1261/rna.058404.116",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/ribocat",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Support",
@@ -31,11 +27,15 @@
       },
       "sc:name": "RiboCAT",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5238798/"
+    },
+    {
+      "@id": "https://doi.org/10.1261/rna.058404.116",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -17,10 +17,10 @@
       "@id": "https://bio.tools/EpiAlign",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Haowen Zhang",
         {
           "@id": "https://orcid.org/0000-0002-9288-5648"
-        }
+        },
+        "Haowen Zhang"
       ],
       "sc:additionalType": "Script",
       "sc:citation": [
@@ -33,10 +33,10 @@
       "sc:description": "Alignment-based bioinformatic tool for comparing chromatin state sequences.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_3891"
         },
         {
-          "@id": "edam:operation_3891"
+          "@id": "edam:operation_3501"
         }
       ],
       "sc:name": "EpiAlign",

@@ -42,10 +42,10 @@
       "sc:description": "Nucleic Acids flexibility analysis portal.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2476"
+          "@id": "edam:operation_2481"
         },
         {
-          "@id": "edam:operation_2481"
+          "@id": "edam:operation_2476"
         },
         {
           "@id": "edam:operation_0570"
@@ -54,8 +54,8 @@
       "sc:name": "NAFlex",
       "sc:operatingSystem": "Linux",
       "sc:provider": [
-        "IRB-Barcelona",
-        "ub.edu"
+        "ub.edu",
+        "IRB-Barcelona"
       ],
       "sc:url": "http://mmb.irbbarcelona.org/NAFlex/",
       "sc:version": "1"

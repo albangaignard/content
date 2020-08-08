@@ -32,9 +32,9 @@
       ],
       "sc:name": "CHSalign",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://nature.njit.edu/biosoft/CHSalign/"
     },
