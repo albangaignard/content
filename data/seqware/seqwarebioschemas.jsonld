@@ -15,14 +15,14 @@
     "Brian O'Connor"
   ],
   "sc:additionalType": [
+    "Workbench",
     "Command-line tool",
-    "Web API",
-    "Workbench"
+    "Web API"
   ],
   "sc:author": [
     "Brian O'Connor",
-    "Morgan Taschuk",
     "Solomon Shorser",
+    "Morgan Taschuk",
     "Denis Yuen"
   ],
   "sc:description": "Portable software infrastructure designed to analyze massive genomics datasets produced by contemporary and emerging technologies, in particular Next Generation Sequencing (NGS) platforms.",
@@ -30,8 +30,8 @@
   "sc:name": "SeqWare",
   "sc:operatingSystem": "Linux",
   "sc:provider": [
-    "ucla.edu",
-    "Ontario Institute for Cancer Research"
+    "Ontario Institute for Cancer Research",
+    "ucla.edu"
   ],
   "sc:url": "http://seqware.io/",
   "sc:version": "1.1.1"

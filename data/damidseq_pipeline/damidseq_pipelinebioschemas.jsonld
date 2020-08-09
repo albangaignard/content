@@ -20,15 +20,15 @@
         "@id": "edam:data_2048"
       },
       "sc:additionalType": [
-        "Workflow",
-        "Script"
+        "Script",
+        "Workflow"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3169"
+          "@id": "edam:topic_0769"
         },
         {
-          "@id": "edam:topic_0769"
+          "@id": "edam:topic_3169"
         },
         {
           "@id": "edam:topic_3518"
@@ -47,10 +47,10 @@
           "@id": "edam:operation_3435"
         },
         {
-          "@id": "edam:operation_3222"
+          "@id": "edam:operation_3798"
         },
         {
-          "@id": "edam:operation_3798"
+          "@id": "edam:operation_3222"
         }
       ],
       "sc:license": "GPL-2.0",

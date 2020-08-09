@@ -40,8 +40,8 @@
       "sc:name": "myDGR",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://omics.informatics.indiana.edu/myDGR"
     },

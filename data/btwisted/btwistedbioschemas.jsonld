@@ -19,8 +19,8 @@
   ],
   "sc:description": "Calculate the twisting in a B-DNA sequence.",
   "sc:funder": [
-    "UK MRC",
     "Wellcome Trust",
+    "UK MRC",
     "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",

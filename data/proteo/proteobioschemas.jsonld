@@ -20,8 +20,8 @@
   ],
   "sc:provider": [
     "cnio.es",
-    "CNIO",
-    "CNIC"
+    "CNIC",
+    "CNIO"
   ],
   "sc:url": "http://proteo.bioinfo.cnio.es",
   "sc:version": "1"

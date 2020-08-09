@@ -20,8 +20,8 @@
   "sc:name": "FirstEF",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://rulai.cshl.org/tools/FirstEF/"
 }

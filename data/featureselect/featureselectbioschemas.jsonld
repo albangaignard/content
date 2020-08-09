@@ -32,9 +32,9 @@
       ],
       "sc:name": "FeatureSelect",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/LBBSoft/FeatureSelect"
     },

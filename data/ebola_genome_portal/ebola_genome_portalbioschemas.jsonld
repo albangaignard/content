@@ -31,8 +31,8 @@
       ],
       "sc:name": "UCSC Ebola Genome Portal",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:provider": "rki.de",

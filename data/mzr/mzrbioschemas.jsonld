@@ -19,12 +19,12 @@
       "biotools:primaryContact": [
         "Bernd Fischer",
         "Laurent Gatto",
-        "Steffen Neumann",
-        "Qiang Kou"
+        "Qiang Kou",
+        "Steffen Neumann"
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC2732273",

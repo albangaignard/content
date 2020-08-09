@@ -11,13 +11,13 @@
   "@id": "https://bio.tools/mirmaid",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Anders Jacobsen",
-    "Morten Lindow"
+    "Morten Lindow",
+    "Anders Jacobsen"
   ],
   "sc:additionalType": [
-    "Database portal",
-    "Command-line tool",
     "Web API",
+    "Command-line tool",
+    "Database portal",
     "Web application",
     "Library"
   ],

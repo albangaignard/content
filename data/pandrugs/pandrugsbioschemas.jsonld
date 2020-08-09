@@ -27,8 +27,8 @@
       "sc:name": "PanDrugs",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://www.pandrugs.org/",
       "sc:version": "2018.06.18"

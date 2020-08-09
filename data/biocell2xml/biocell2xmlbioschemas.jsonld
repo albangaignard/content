@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/BioCell2XML",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Günther Loose",
     "Carsten Wolff",
+    "Günther Loose",
     "Markus Pennerstorfer"
   ],
   "sc:citation": "pubmed:31119364",
@@ -21,8 +21,8 @@
   "sc:name": "BioCell2XML",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://github.com/guleom/BioCell2XML"
 }

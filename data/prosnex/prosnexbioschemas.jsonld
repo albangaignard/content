@@ -10,18 +10,14 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/NAR/GKZ390",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/ProSNEx",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Onur Sercinoglu",
+        "Rasim Murat Aydinkal",
         {
           "@id": "https://orcid.org/0000-0002-3043-0015"
-        },
-        "Rasim Murat Aydinkal"
+        }
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -55,6 +51,10 @@
     {
       "@id": "https://orcid.org/0000-0002-3043-0015",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/NAR/GKZ390",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

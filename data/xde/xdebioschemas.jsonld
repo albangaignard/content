@@ -31,13 +31,13 @@
       "sc:description": "A package for estimating differential gene expression from different studies with technological differences to improve the statistical power of gene expression studies.",
       "sc:featureList": [
         {
+          "@id": "edam:operation_2495"
+        },
+        {
           "@id": "edam:operation_3436"
         },
         {
           "@id": "edam:operation_3664"
-        },
-        {
-          "@id": "edam:operation_2495"
         },
         {
           "@id": "edam:operation_2428"
@@ -46,8 +46,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "XDE",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/XDE.html",

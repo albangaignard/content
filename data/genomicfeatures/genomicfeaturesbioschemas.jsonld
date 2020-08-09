@@ -32,10 +32,10 @@
           "@id": "edam:data_2048"
         },
         {
-          "@id": "edam:data_3134"
+          "@id": "edam:data_1017"
         },
         {
-          "@id": "edam:data_1017"
+          "@id": "edam:data_3134"
         }
       ],
       "sc:additionalType": [
@@ -72,9 +72,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "GenomicFeatures",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/GenomicFeatures.html",
       "sc:version": "1.26.2"

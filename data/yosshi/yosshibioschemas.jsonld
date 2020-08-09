@@ -10,20 +10,16 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/NAR/GKZ385",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/Yosshi",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Dmitry Suplatov",
       "sc:additionalType": [
-        "Web application",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:citation": [
-        "pubmed:31106356",
         "pmcid:PMC6602428",
+        "pubmed:31106356",
         {
           "@id": "https://doi.org/10.1093/NAR/GKZ385"
         }
@@ -44,10 +40,14 @@
       "sc:name": "Yosshi",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://biokinet.belozersky.msu.ru/yosshiserver/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/NAR/GKZ385",
+      "@type": "sc:CreativeWork"
     }
   ]
 }
