@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Yutaka Suzuki",
-    "Masahiro Kasahara",
+    "Reginaldo Kuroshu",
     "Shin-ichi Morishita",
-    "Reginaldo Kuroshu"
+    "Masahiro Kasahara"
   ],
   "sc:additionalType": "Workflow",
   "sc:citation": "pubmed:20479877",

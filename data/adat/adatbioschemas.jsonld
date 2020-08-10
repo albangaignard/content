@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Foo Cheung",
       "sc:additionalType": [
-        "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:citation": [
         {
@@ -27,18 +27,18 @@
       "sc:description": "Web Tool for Navigating and Plotting SomaLogic ADAT Files.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2495"
+          "@id": "edam:operation_2939"
         },
         {
-          "@id": "edam:operation_2939"
+          "@id": "edam:operation_2495"
         }
       ],
       "sc:license": "Apache-2.0",
       "sc:name": "ADAT",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://foocheung.shinyapps.io/adat/"
     },

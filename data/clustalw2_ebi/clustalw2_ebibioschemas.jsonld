@@ -20,12 +20,12 @@
   "sc:name": "ClustalW2 (EBI)",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
-    "EMBL-EBI",
-    "University College Dublin"
+    "University College Dublin",
+    "EMBL-EBI"
   ],
   "sc:url": "http://www.ebi.ac.uk/Tools/msa/clustalw2/",
   "sc:version": "1"

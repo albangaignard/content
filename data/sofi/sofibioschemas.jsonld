@@ -36,8 +36,8 @@
       "sc:name": "SOFI",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://github.com/lob-epfl/sofitool"
     }

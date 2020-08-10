@@ -17,8 +17,8 @@
   "sc:name": "NetControl4BioMed",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://combio.abo.fi/research/network-controlability-project/"
 }

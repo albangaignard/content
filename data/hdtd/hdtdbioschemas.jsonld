@@ -30,10 +30,10 @@
           "@id": "edam:topic_3053"
         },
         {
-          "@id": "edam:topic_0203"
+          "@id": "edam:topic_3308"
         },
         {
-          "@id": "edam:topic_3308"
+          "@id": "edam:topic_0203"
         }
       ],
       "sc:citation": [
@@ -51,8 +51,8 @@
       "sc:name": "HDTD",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/HDTD.html",
       "sc:version": "1.8.0"

@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Tae Yong Kim",
-    "Anirban Bhaduri",
-    "Varun Giri"
+    "Varun Giri",
+    "Anirban Bhaduri"
   ],
   "sc:additionalType": "Library",
   "sc:description": "Tool computes reaction similarity based on the molecular signatures of participating molecules.",

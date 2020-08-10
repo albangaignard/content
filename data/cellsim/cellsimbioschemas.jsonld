@@ -27,9 +27,9 @@
       "sc:license": "MIT",
       "sc:name": "CellSim",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://www.cellsim.nwsuaflmz.com/",
       "sc:version": "1.0.1"

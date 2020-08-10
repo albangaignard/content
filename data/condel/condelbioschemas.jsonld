@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Abel González-Pérez",
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC3071923",
@@ -27,10 +27,10 @@
       "sc:description": "Method to assess the outcome of non-synonymous SNVs using a CONsensus DELeteriousness score that combines various tools.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3436"
+          "@id": "edam:operation_3225"
         },
         {
-          "@id": "edam:operation_3225"
+          "@id": "edam:operation_3436"
         },
         {
           "@id": "edam:operation_3226"
@@ -38,9 +38,9 @@
       ],
       "sc:name": "Condel",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bbglab.irbbarcelona.org/fannsdb/"
     },

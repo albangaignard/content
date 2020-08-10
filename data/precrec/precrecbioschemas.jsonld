@@ -16,8 +16,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "Precrec",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": "ii.uib.no",

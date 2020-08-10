@@ -20,8 +20,8 @@
   "sc:name": "corRna",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://corrna.cs.mcgill.ca"
 }

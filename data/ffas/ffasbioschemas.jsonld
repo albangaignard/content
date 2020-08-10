@@ -17,8 +17,8 @@
   "sc:name": "FFAS",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://ffas.godziklab.org"
 }

@@ -26,13 +26,13 @@
   "sc:name": "APPRIS",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
+    "INB",
     "cnio.es",
-    "CNIO",
-    "INB"
+    "CNIO"
   ],
   "sc:url": "http://appris.bioinfo.cnio.es/#/database",
   "sc:version": "23"

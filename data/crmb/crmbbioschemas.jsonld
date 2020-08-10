@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12885-018-4038-x",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/crmb",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Nolan A. Wages",
@@ -33,10 +37,6 @@
         "Windows"
       ],
       "sc:url": "https://uvatrapps.shinyapps.io/crmb/"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12885-018-4038-x",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

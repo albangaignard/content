@@ -18,8 +18,8 @@
   "sc:name": "AStalavista",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "crg.eu",

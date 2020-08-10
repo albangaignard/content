@@ -16,8 +16,8 @@
   "sc:name": "Alloscore",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://mdl.shsmu.edu.cn/alloscore/"
 }

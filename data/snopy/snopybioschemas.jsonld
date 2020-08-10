@@ -28,8 +28,8 @@
       "sc:name": "snOPY",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://snoopy.med.miyazaki-u.ac.jp/"
     },

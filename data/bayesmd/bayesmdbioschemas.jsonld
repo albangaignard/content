@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/bayesmd",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Anders Krogh",
     "Ole Winther",
-    "Man-Hung Eric Tang",
-    "Anders Krogh"
+    "Man-Hung Eric Tang"
   ],
   "sc:additionalType": [
     "Command-line tool",

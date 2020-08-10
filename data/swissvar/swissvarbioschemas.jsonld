@@ -18,10 +18,7 @@
       "@type": "sc:SoftwareApplication",
       "edam:has_input": [
         {
-          "@id": "edam:data_3021"
-        },
-        {
-          "@id": "edam:data_2099"
+          "@id": "edam:data_2291"
         },
         {
           "@id": "edam:data_1177"
@@ -30,19 +27,22 @@
           "@id": "edam:data_1150"
         },
         {
-          "@id": "edam:data_2299"
-        },
-        {
-          "@id": "edam:data_2291"
-        },
-        {
           "@id": "edam:data_1153"
+        },
+        {
+          "@id": "edam:data_2099"
         },
         {
           "@id": "edam:data_3498"
         },
         {
           "@id": "edam:data_1009"
+        },
+        {
+          "@id": "edam:data_2299"
+        },
+        {
+          "@id": "edam:data_3021"
         }
       ],
       "edam:has_output": {
@@ -79,8 +79,8 @@
       "sc:name": "SwissVar",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": "SIB Swiss Institute of Bioinformatics",
       "sc:url": "http://swissvar.expasy.org/"

@@ -11,13 +11,13 @@
   "@id": "https://bio.tools/genefisher2",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Command-line tool",
     "Web API",
+    "Command-line tool",
     "Web application"
   ],
   "sc:author": [
-    "Daniel Hagemeier",
     "Thomas Gatter",
+    "Daniel Hagemeier",
     "Chris Schleiermacher"
   ],
   "sc:citation": "pubmed:8877506",
@@ -25,13 +25,13 @@
   "sc:name": "genefisher2",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
+    "Bielefeld University",
     "CeBiTec",
-    "BiBiServ",
-    "Bielefeld University"
+    "BiBiServ"
   ],
   "sc:url": "http://bibiserv.cebitec.uni-bielefeld.de/genefisher2",
   "sc:version": "1"

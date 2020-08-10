@@ -18,8 +18,8 @@
   "sc:license": "Unlicense",
   "sc:name": "CDRgator",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://cdrgator.ewha.ac.kr"

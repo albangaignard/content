@@ -12,12 +12,12 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Sonya T Dyhrman",
-    "LeAnn P Whitney",
-    "Mak A Saito",
-    "Bethany D Jenkins",
-    "Tatiana A Rynearson",
+    "Zhijin Wu",
     "Melissa Mercier",
-    "Zhijin Wu"
+    "Tatiana A Rynearson",
+    "Bethany D Jenkins",
+    "LeAnn P Whitney",
+    "Mak A Saito"
   ],
   "sc:additionalType": "Library",
   "sc:citation": "pubmed:21080965",
