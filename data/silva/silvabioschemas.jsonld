@@ -15,8 +15,8 @@
     "Database portal"
   ],
   "sc:contributor": [
-    "MPG",
     "BMBF",
+    "MPG",
     "DFG",
     "Ribocon GmbH"
   ],
@@ -30,9 +30,9 @@
   "sc:license": "CC-BY-4.0",
   "sc:name": "SILVA rRNA database",
   "sc:operatingSystem": [
+    "Linux",
     "Windows",
-    "Mac",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": "SILVA",
   "sc:url": "http://www.arb-silva.de"

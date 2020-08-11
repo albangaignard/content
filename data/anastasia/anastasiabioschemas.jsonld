@@ -12,18 +12,18 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Theodoros Koutsandreas",
-    "Aristotelis Chatziioannou",
-    "Eleftherios Pilalis"
+    "Eleftherios Pilalis",
+    "Aristotelis Chatziioannou"
   ],
   "sc:additionalType": [
-    "Desktop application",
-    "Web application"
+    "Web application",
+    "Desktop application"
   ],
   "sc:description": "ANASTASIA (Automated Nucleotide Animoacid Sequences Translational plAtform for Synthetic Interpretation and Analysis) is a metagenomics analysis platform and repository.",
   "sc:name": "ANASTASIA",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://motherbox.chemeng.ntua.gr/anastasia_dev/"

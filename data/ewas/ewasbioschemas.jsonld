@@ -12,12 +12,12 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Fanwu Kong",
-    "Liangde Xu",
-    "Yongshuai Jiang"
+    "Yongshuai Jiang",
+    "Liangde Xu"
   ],
   "sc:additionalType": [
-    "Desktop application",
-    "Command-line tool"
+    "Command-line tool",
+    "Desktop application"
   ],
   "sc:description": "Epigenome-wide association study software.",
   "sc:license": "Unlicense",

@@ -20,8 +20,8 @@
     "Linux"
   ],
   "sc:provider": [
-    "Bielefeld University",
     "CeBiTec",
+    "Bielefeld University",
     "bigi"
   ],
   "sc:url": "http://meltdb.cebitec.uni-bielefeld.de",

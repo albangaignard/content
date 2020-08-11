@@ -50,9 +50,9 @@
       },
       "sc:name": "Complete Arabidopsis transcriptome database",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": "Unité de Recherche en Génomique Végétale",
       "sc:url": "http://urgv.evry.inra.fr/CATdb"

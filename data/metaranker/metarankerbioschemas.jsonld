@@ -41,19 +41,19 @@
       "sc:description": "Prioritization of the entire protein-coding part of the human genome based on heterogeneous user-specified data sets.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_2495"
         },
         {
           "@id": "edam:operation_2423"
         },
         {
+          "@id": "edam:operation_3233"
+        },
+        {
           "@id": "edam:operation_3197"
         },
         {
-          "@id": "edam:operation_2495"
-        },
-        {
-          "@id": "edam:operation_3233"
+          "@id": "edam:operation_3501"
         },
         {
           "@id": "edam:operation_3196"
@@ -62,9 +62,9 @@
       "sc:license": "Other",
       "sc:name": "MetaRanker",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:provider": "CBS",
       "sc:url": "http://cbs.dtu.dk/services/MetaRanker/",

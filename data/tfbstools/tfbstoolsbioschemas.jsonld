@@ -49,17 +49,17 @@
           "@id": "edam:operation_0239"
         },
         {
-          "@id": "edam:operation_0445"
+          "@id": "edam:operation_0438"
         },
         {
-          "@id": "edam:operation_0438"
+          "@id": "edam:operation_0445"
         }
       ],
       "sc:license": "GPL-2.0",
       "sc:name": "TFBSTools",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/TFBSTools.html",

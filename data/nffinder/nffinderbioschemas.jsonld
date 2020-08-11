@@ -31,9 +31,9 @@
       },
       "sc:name": "NFFinder",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://nffinder.cnb.csic.es/"
     }

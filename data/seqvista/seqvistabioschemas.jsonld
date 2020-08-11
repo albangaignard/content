@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Zhenjun Hu",
+    "Tianhua Niu",
     "Martin Frith",
-    "Zhiping Weng",
-    "Tianhua Niu"
+    "Zhiping Weng"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:12513700",
@@ -22,8 +22,8 @@
   "sc:name": "SeqVISTA",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://zlab.bu.edu/SeqVISTA/"
 }

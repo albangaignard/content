@@ -13,8 +13,8 @@
   "biotools:primaryContact": "Bionode Team",
   "sc:additionalType": [
     "Workflow",
-    "Web application",
     "Command-line tool",
+    "Web application",
     "Library"
   ],
   "sc:author": "Bionode Team",

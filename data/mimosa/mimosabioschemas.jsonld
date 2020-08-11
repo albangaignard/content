@@ -30,8 +30,8 @@
         "@id": "edam:data_2884"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_3361"
@@ -56,8 +56,8 @@
       "sc:name": "MIMOSA",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/MIMOSA.html",
       "sc:version": "1.12.0"

@@ -17,8 +17,8 @@
       },
       "sc:additionalType": "Library",
       "sc:citation": [
-        "pmcid:PMC5134231",
         "pubmed:27905871",
+        "pmcid:PMC5134231",
         {
           "@id": "https://doi.org/10.1186/S12862-016-0837-3"
         }
@@ -29,8 +29,8 @@
       },
       "sc:name": "PhyInformR",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "https://carolinafishes.github.io/software/phyinformR/"

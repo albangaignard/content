@@ -44,8 +44,8 @@
       "sc:name": "CPGAVAS2",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://www.herbalgenomics.org/cpgavas2"
     }

@@ -32,13 +32,13 @@
       "sc:license": "GPL-3.0",
       "sc:name": "SIDER",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:provider": [
-        "HD-HuB",
-        "European Molecular Biology Laboratory (EMBL)"
+        "European Molecular Biology Laboratory (EMBL)",
+        "HD-HuB"
       ],
       "sc:url": "http://sideeffects.embl.de/"
     }

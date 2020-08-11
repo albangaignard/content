@@ -37,8 +37,8 @@
       "sc:name": "GobyWeb",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://campagnelab.org/software/gobyweb/"
     }

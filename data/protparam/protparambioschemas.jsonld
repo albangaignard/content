@@ -15,8 +15,8 @@
   "sc:name": "ProtParam",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://web.expasy.org/protparam"
 }
