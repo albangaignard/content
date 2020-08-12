@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Adam Hospital",
   "sc:additionalType": [
-    "Database portal",
-    "Workbench"
+    "Workbench",
+    "Database portal"
   ],
   "sc:author": [
     "Pau Andrio",
@@ -25,10 +25,10 @@
   "sc:name": "BigNASim",
   "sc:operatingSystem": "Linux",
   "sc:provider": [
-    "University of Barcelona",
     "Technic University of Catalonia",
+    "Barcelona Supercomputing Center",
     "Institute of Research In Biomedicine - Barcelona",
-    "Barcelona Supercomputing Center"
+    "University of Barcelona"
   ],
   "sc:url": "http://mmb.irbbarcelona.org/BIGNASim/"
 }

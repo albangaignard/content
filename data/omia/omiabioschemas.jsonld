@@ -31,8 +31,8 @@
       "sc:name": "OMIA",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://omia.angis.org.au/home/"
     },

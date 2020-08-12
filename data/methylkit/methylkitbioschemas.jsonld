@@ -24,8 +24,8 @@
         "@id": "http://orcid.org/0000-0002-0468-0117"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC3491415",
@@ -41,9 +41,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "methylKit",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/methylKit.html",
       "sc:version": "1.0.0"

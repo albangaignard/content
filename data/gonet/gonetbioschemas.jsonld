@@ -38,8 +38,8 @@
       "sc:name": "GOnet",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://tools.dice-database.org/GOnet/"
     }

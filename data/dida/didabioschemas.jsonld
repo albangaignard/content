@@ -33,13 +33,13 @@
       "sc:description": "Digenic Diseases Database (DiDA) provides detailed information on genes and associated genetic variants involved in digenic diseases, the simplest form of oligogenic inheritance.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3197"
+          "@id": "edam:operation_2421"
         },
         {
           "@id": "edam:operation_3661"
         },
         {
-          "@id": "edam:operation_2421"
+          "@id": "edam:operation_3197"
         }
       ],
       "sc:name": "Digenic Diseases Database (DIDA)",

@@ -16,8 +16,8 @@
         "@id": "http://orcid.org/0000-0002-2298-7593"
       },
       "sc:additionalType": [
-        "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC5081975",
@@ -33,8 +33,8 @@
       "sc:license": "Other",
       "sc:name": "AlignStat",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://alignstat.science.latrobe.edu.au/",

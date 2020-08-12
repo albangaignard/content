@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/biosigner",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Philippe Rinaudo",
-    "Etienne Thevenot"
+    "Etienne Thevenot",
+    "Philippe Rinaudo"
   ],
   "sc:additionalType": [
     "Command-line tool",

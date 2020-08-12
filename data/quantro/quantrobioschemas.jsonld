@@ -20,8 +20,8 @@
         "@id": "http://orcid.org/0000-0002-7858-0231"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:26040460",
@@ -37,8 +37,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "quantro",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/quantro.html",

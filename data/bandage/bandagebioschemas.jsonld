@@ -18,9 +18,9 @@
   "sc:author": "Ryan Wick",
   "sc:contributor": [
     "Kathryn Holt",
+    "Mark Schultz",
     "Justin Zobel",
     "Elmar Pruesse",
-    "Mark Schultz",
     "Rayan Chikhi"
   ],
   "sc:description": "GUI program that allows users to interact with the assembly graphs made by de novo assemblers such as Velvet, SPAdes, MEGAHIT and others. It visualises assembly graphs, with connections, using graph layout algorithms.",
@@ -28,8 +28,8 @@
   "sc:name": "Bandage",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "unimelb.edu.au",

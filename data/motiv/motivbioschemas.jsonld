@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/motiv",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Raphael Gottardo",
-    "Eloi Mercier"
+    "Eloi Mercier",
+    "Raphael Gottardo"
   ],
   "sc:additionalType": [
     "Library",
@@ -23,8 +23,8 @@
   "sc:name": "MotIV",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/MotIV.html",
   "sc:version": "1.30.0"

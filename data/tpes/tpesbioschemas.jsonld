@@ -21,8 +21,8 @@
   "sc:name": "TPES",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://bitbucket.org/l0ka/tpes.git"
 }

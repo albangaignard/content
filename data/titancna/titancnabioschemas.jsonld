@@ -27,8 +27,8 @@
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:25060187",
@@ -40,21 +40,21 @@
       "sc:description": "Hidden Markov model to segment and predict regions of subclonal copy number alterations (CNA) and loss of heterozygosity (LOH), and estimate cellular prevalenece of clonal clusters in tumour whole genome sequencing data.",
       "sc:featureList": [
         {
+          "@id": "edam:operation_3202"
+        },
+        {
           "@id": "edam:operation_2403"
         },
         {
           "@id": "edam:operation_3228"
-        },
-        {
-          "@id": "edam:operation_3202"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "TitanCNA",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/TitanCNA.html",
       "sc:version": "1.16.0"

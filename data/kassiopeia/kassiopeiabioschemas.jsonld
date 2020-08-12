@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Dr. Martin Kollmar",
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC3923563",
@@ -31,8 +31,8 @@
       "sc:name": "Kassiopeia",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://kassiopeia.motorprotein.de/kassiopeia"
     },
