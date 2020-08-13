@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/ggost",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jaak Vilo",
-    "Jüri Reimand"
+    "Jüri Reimand",
+    "Jaak Vilo"
   ],
   "sc:additionalType": [
     "Command-line tool",

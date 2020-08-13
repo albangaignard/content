@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/1753-6561-5-S9-S107",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/GRANVIL",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Command-line tool",
@@ -34,15 +38,11 @@
       ],
       "sc:name": "GRANVIL",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "https://www.geenivaramu.ee/en/tools/granvil"
-    },
-    {
-      "@id": "https://doi.org/10.1186/1753-6561-5-S9-S107",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

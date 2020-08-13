@@ -20,8 +20,8 @@
   "sc:name": "BioTranslator",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://mebioinfo.ekt.gr/"
 }

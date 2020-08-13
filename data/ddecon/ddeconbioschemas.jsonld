@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-3161-8802",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.1111/jmi.12456",
       "@type": "sc:CreativeWork"
     },
@@ -34,15 +38,11 @@
       "sc:license": "Other",
       "sc:name": "DDecon",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://www.scripps.edu/fowler/ddecon/"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-3161-8802",
-      "@type": "schema:Person"
     }
   ]
 }

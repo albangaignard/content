@@ -22,8 +22,8 @@
   "sc:description": "SCANMOT is a sequence similarity searching tool that adds the additional constraints of simultaneous matching of multiple motifs.",
   "sc:name": "SCANMOT",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://caps.ncbs.res.in/scanmot/scanmot.html"

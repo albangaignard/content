@@ -17,8 +17,8 @@
   "sc:name": "sgTarget",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.ysbl.york.ac.uk/sgTarget/"
 }

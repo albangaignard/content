@@ -47,9 +47,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "limma",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/limma.html",
       "sc:version": "3.30.7"

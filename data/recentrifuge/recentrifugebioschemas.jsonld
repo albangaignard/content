@@ -37,8 +37,8 @@
       "sc:name": "Recentrifuge",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://sites.google.com/view/recentrifuge",
       "sc:version": "0.28.10"

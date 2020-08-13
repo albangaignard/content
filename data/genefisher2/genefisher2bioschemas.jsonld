@@ -11,14 +11,14 @@
   "@id": "https://bio.tools/genefisher2",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
+    "Web API",
     "Command-line tool",
-    "Web application",
-    "Web API"
+    "Web application"
   ],
   "sc:author": [
+    "Chris Schleiermacher",
     "Daniel Hagemeier",
-    "Thomas Gatter",
-    "Chris Schleiermacher"
+    "Thomas Gatter"
   ],
   "sc:citation": "pubmed:8877506",
   "sc:description": "Based on the assumption that genes with related function from different organisms show high sequence similarity, degenerate primers can be designed from sequences of homologues genes. It is an interactive web-based program for designing degenerate primers.",
@@ -29,9 +29,9 @@
     "Mac"
   ],
   "sc:provider": [
-    "BiBiServ",
+    "CeBiTec",
     "Bielefeld University",
-    "CeBiTec"
+    "BiBiServ"
   ],
   "sc:url": "http://bibiserv.cebitec.uni-bielefeld.de/genefisher2",
   "sc:version": "1"

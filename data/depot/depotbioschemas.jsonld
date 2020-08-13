@@ -18,12 +18,12 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Andrei Gabrielian",
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
-        "pmcid:PMC6532897",
         "pubmed:31120982",
+        "pmcid:PMC6532897",
         {
           "@id": "https://doi.org/10.1371/JOURNAL.PONE.0217410"
         }
@@ -32,9 +32,9 @@
       "sc:license": "Unlicense",
       "sc:name": "DEPOT",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://depot.tbportals.niaid.nih.gov"
     }

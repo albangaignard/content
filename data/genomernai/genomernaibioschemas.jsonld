@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Database portal",
   "sc:author": [
-    "Oliver Pelz",
     "Esther Schmidt",
+    "Oliver Pelz",
     "Michael Boutros",
     "Benedikt Rauscher"
   ],
@@ -22,8 +22,8 @@
   "sc:name": "GenomeRNAi",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "hdhub",

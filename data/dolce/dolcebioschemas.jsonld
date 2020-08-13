@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/dolce",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Daniel Svozil",
     "Jiří Černý",
+    "Daniel Svozil",
     "Petr Cech",
     "Filip Lankaš",
     "Bohdan Schneider"

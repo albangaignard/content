@@ -18,8 +18,8 @@
   "sc:name": "3Dscript",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://imagej.net/3Dscript"
 }

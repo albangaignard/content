@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/NAR/GKX246",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/galaxyhomomer",
       "@type": "sc:SoftwareApplication",
       "edam:has_input": [
@@ -53,18 +57,14 @@
           "@id": "edam:operation_0267"
         },
         {
-          "@id": "edam:operation_0478"
+          "@id": "edam:operation_3662"
         },
         {
-          "@id": "edam:operation_3662"
+          "@id": "edam:operation_0478"
         }
       ],
       "sc:name": "GalaxyHomomer",
       "sc:url": "http://galaxy.seoklab.org/homomer"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKX246",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

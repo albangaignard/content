@@ -10,12 +10,16 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/BIOINFORMATICS/BTT276",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/tango-nuclear",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Thomas Boudier",
         "Julien Cochennec",
-        "Jean Ollion",
-        "Thomas Boudier"
+        "Jean Ollion"
       ],
       "sc:additionalType": [
         "Library",
@@ -40,10 +44,6 @@
         "Mac"
       ],
       "sc:url": "http://biophysique.mnhn.fr/tango/HomePage"
-    },
-    {
-      "@id": "https://doi.org/10.1093/BIOINFORMATICS/BTT276",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

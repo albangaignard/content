@@ -34,13 +34,13 @@
       "sc:description": "Identification of disease-gene-chemical relationships from Medline abstracts.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2422"
-        },
-        {
           "@id": "edam:operation_3280"
         },
         {
           "@id": "edam:operation_3625"
+        },
+        {
+          "@id": "edam:operation_2422"
         }
       ],
       "sc:license": "Unlicense",

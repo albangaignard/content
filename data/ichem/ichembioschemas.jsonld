@@ -31,8 +31,8 @@
       },
       "sc:name": "IChem",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioinfo-pharma.u-strasbg.fr/labwebsite/download.html",
       "sc:version": "5.2.8"

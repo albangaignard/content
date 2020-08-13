@@ -20,8 +20,8 @@
   "sc:name": "eDAL - electronic data archive library",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://edal.ipk-gatersleben.de/",
   "sc:version": "2.5.7"

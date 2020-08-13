@@ -16,8 +16,8 @@
   "sc:name": "Codon Usage Database",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.kazusa.or.jp/codon/"
 }

@@ -30,9 +30,9 @@
       },
       "sc:name": "M-GCAT 2.0 beta",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://alggen.lsi.upc.es/recerca/align/mgcat/"
     }

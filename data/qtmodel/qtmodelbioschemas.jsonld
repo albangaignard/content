@@ -16,8 +16,8 @@
   "sc:name": "QTModel",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://ibi.zju.edu.cn/software/qtmodel/index.html"
 }
