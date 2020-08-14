@@ -5,6 +5,13 @@
     "collectionID": [
         "Animal and Crop Genomics"
     ],
+    "community": {
+        "biolib": {
+            "app_name": "seqtk",
+            "author_name": "seqtk",
+            "author_username": "seqtk"
+        }
+    },
     "credit": [
         {
             "typeEntity": "Person",
@@ -17,7 +24,9 @@
     "description": "A tool for processing sequences in the FASTA or FASTQ format. It parses both FASTA and FASTQ files which can also be optionally compressed by gzip.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://github.com/lh3/seqtk/blob/master/README.md"
         }
     ],
@@ -45,7 +54,7 @@
     "language": [
         "C"
     ],
-    "lastUpdate": "2019-09-04T08:38:31Z",
+    "lastUpdate": "2020-08-12T08:14:57.408379Z",
     "license": "MIT",
     "name": "seqtk",
     "operatingSystem": [
@@ -57,7 +66,9 @@
             "doi": "10.1186/s13104-017-2616-7",
             "pmcid": "PMC5508660",
             "pmid": "28701181",
-            "type": "Benchmarking study"
+            "type": [
+                "Benchmarking study"
+            ]
         }
     ],
     "toolType": [
