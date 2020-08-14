@@ -29,9 +29,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "genomation",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/genomation.html",
       "sc:version": "1.6.0"

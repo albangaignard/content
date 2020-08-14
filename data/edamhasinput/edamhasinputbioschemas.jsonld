@@ -13,15 +13,15 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK MRC",
-    "UK BBSRC",
     "EMBOSS Contributors",
+    "UK BBSRC",
     "Wellcome Trust"
   ],
   "sc:description": "Find EDAM ontology terms by has_input relation.",
   "sc:funder": [
     "Wellcome Trust",
-    "UK BBSRC",
-    "UK MRC"
+    "UK MRC",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "edamhasinput",

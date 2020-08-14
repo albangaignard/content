@@ -20,15 +20,15 @@
         "@id": "edam:data_2884"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0080"
+          "@id": "edam:topic_3170"
         },
         {
-          "@id": "edam:topic_3170"
+          "@id": "edam:topic_0080"
         }
       ],
       "sc:citation": [

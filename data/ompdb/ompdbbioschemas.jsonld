@@ -17,8 +17,8 @@
   "sc:name": "OMPdb",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.ompdb.org/",
   "sc:version": "1.3"

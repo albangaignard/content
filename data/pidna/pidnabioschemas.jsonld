@@ -17,8 +17,8 @@
   "sc:name": "PiDNA",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://dna.bime.ntu.edu.tw/pidna"
 }

@@ -19,16 +19,16 @@
   ],
   "sc:description": "Compress an uncompressed dbx index.",
   "sc:funder": [
-    "UK BBSRC",
+    "UK MRC",
     "Wellcome Trust",
-    "UK MRC"
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "dbxcompress",
   "sc:operatingSystem": [
-    "Linux",
+    "Mac",
     "Windows",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
     "EMBL EBI",

@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/jtraml",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Command-line tool",
-    "Web application"
+    "Web application",
+    "Command-line tool"
   ],
   "sc:description": "Java implementation of the PSI-MS Transitions Markup Language (TraML) specification.",
   "sc:name": "Jtraml",

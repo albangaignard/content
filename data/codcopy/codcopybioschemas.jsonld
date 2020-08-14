@@ -26,13 +26,13 @@
   "sc:license": "GPL-3.0",
   "sc:name": "codcopy",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/codcopy.html",
   "sc:version": "r6"

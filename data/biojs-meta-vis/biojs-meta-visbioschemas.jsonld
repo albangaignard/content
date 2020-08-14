@@ -15,8 +15,8 @@
   "sc:description": "Meta packages for biojs visulizations.",
   "sc:name": "biojs-meta-vis",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "BioJS",

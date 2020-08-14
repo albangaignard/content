@@ -22,9 +22,9 @@
         "pmcid:PMC6500068"
       ],
       "sc:contributor": [
-        "Claudio Lottaz",
+        "Paula Pérez Rubio",
         "Julia Engelmann",
-        "Paula Pérez Rubio"
+        "Claudio Lottaz"
       ],
       "sc:description": "High-performance preprocessing tool for RNA-seq data.",
       "sc:featureList": [
@@ -41,8 +41,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "FastqPuri",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/jengelmann/FastqPuri"
     },

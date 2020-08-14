@@ -19,16 +19,16 @@
   ],
   "sc:description": "Plot conservation of a sequence alignment.",
   "sc:funder": [
-    "UK MRC",
     "UK BBSRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "plotcon",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "EMBOSS",

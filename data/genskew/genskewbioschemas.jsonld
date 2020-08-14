@@ -18,8 +18,8 @@
   "sc:name": "GenSkew",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "AT-CUBE",
   "sc:url": "http://genskew.csb.univie.ac.at/",

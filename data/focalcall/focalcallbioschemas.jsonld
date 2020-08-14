@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Oscar Krijgsman",
   "sc:additionalType": [
-    "Command-line tool",
-    "Library"
+    "Library",
+    "Command-line tool"
   ],
   "sc:description": "Detection of genomic focal aberrations in high-resolution DNA copy number data.",
   "sc:license": "GPL-2.0",

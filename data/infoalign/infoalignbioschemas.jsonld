@@ -13,21 +13,21 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
+    "EMBOSS Contributors",
     "UK MRC",
-    "UK BBSRC",
-    "EMBOSS Contributors"
+    "UK BBSRC"
   ],
   "sc:description": "Display basic information about a multiple sequence alignment.",
   "sc:funder": [
-    "UK BBSRC",
     "Wellcome Trust",
-    "UK MRC"
+    "UK MRC",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "infoalign",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": [

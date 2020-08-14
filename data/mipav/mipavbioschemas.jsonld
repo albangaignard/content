@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Developers",
-    "Ideas for features",
-    "Bugs"
+    "Bugs",
+    "Ideas for features"
   ],
   "sc:additionalType": "Desktop application",
   "sc:citation": "pubmed:17604116",

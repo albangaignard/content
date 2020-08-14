@@ -30,19 +30,19 @@
           "@id": "edam:operation_3436"
         },
         {
+          "@id": "edam:operation_3196"
+        },
+        {
           "@id": "edam:operation_3197"
         },
         {
           "@id": "edam:operation_3224"
-        },
-        {
-          "@id": "edam:operation_3196"
         }
       ],
       "sc:name": "HGMD",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://www.hgmd.org"
