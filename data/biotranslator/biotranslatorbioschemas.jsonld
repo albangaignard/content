@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/biotranslator",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Aristotelis Chatziioannou",
     "Theodoros Koutsandreas",
+    "Aristotelis Chatziioannou",
     "Eleftherios Pilalis"
   ],
   "sc:additionalType": "Web application",
@@ -20,8 +20,8 @@
   "sc:name": "BioTranslator",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://mebioinfo.ekt.gr/"
 }

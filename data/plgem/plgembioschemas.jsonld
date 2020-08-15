@@ -10,26 +10,18 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/1471-2105-5-203",
-      "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "http://orcid.org/0000-0003-4542-9970",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/plgem",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0003-4542-9970"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
-        "pmcid:PMC545082",
         "pubmed:15606915",
+        "pmcid:PMC545082",
         {
           "@id": "https://doi.org/10.1186/1471-2105-5-203"
         }
@@ -47,6 +39,14 @@
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/plgem.html",
       "sc:version": "1.46.0"
+    },
+    {
+      "@id": "https://doi.org/10.1186/1471-2105-5-203",
+      "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0003-4542-9970",
+      "@type": "schema:Person"
     }
   ]
 }

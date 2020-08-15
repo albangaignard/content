@@ -31,9 +31,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "visPIG",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://vispig.icr.ac.uk/"
     },

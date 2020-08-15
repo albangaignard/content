@@ -11,12 +11,12 @@
   "@id": "https://bio.tools/diseasecard",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Pedro Lopes",
-    "José Luis Oliveira"
+    "José Luis Oliveira",
+    "Pedro Lopes"
   ],
   "sc:additionalType": [
-    "Web application",
     "Web API",
+    "Web application",
     "Database portal"
   ],
   "sc:citation": "pubmed:23973272",

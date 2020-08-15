@@ -17,8 +17,8 @@
   "sc:name": "BIND: The Biomolecular Interaction Network Db",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bond.unleashedinformatics.com/Action?"
 }

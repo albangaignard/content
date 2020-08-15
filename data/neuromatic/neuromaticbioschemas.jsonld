@@ -36,9 +36,9 @@
       ],
       "sc:name": "NeuroMatic",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://www.neuromatic.thinkrandom.com/",
       "sc:version": "3.0"

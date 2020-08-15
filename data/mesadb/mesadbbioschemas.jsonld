@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Gökhan Karakülah",
-    "Aybar C. Acar",
     "Özlen Konu",
     "Koray D. Kaya",
+    "Aybar C. Acar",
     "Cengiz Yakicier"
   ],
   "sc:additionalType": "Database portal",
@@ -23,8 +23,8 @@
   "sc:name": "mESAdb",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://konulab.fen.bilkent.edu.tr/mirna/"
 }

@@ -10,12 +10,16 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1101/gr.238733.118",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/GenTree",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "ZhangLab",
       "sc:additionalType": [
-        "Web service",
-        "Web application"
+        "Web application",
+        "Web service"
       ],
       "sc:citation": [
         {
@@ -40,14 +44,10 @@
       "sc:name": "GenTree",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://gentree.ioz.ac.cn/index.php"
-    },
-    {
-      "@id": "https://doi.org/10.1101/gr.238733.118",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

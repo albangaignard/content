@@ -38,10 +38,10 @@
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_1384"
+          "@id": "edam:data_2166"
         },
         {
-          "@id": "edam:data_2166"
+          "@id": "edam:data_1384"
         },
         {
           "@id": "edam:data_2884"
@@ -51,15 +51,15 @@
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0078"
+          "@id": "edam:topic_0080"
         },
         {
-          "@id": "edam:topic_0080"
+          "@id": "edam:topic_0078"
         }
       ],
       "sc:citation": [
@@ -85,8 +85,8 @@
       "sc:name": "LowMACA",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/LowMACA.html",
       "sc:version": "1.6.0"

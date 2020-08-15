@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/OpenSegSPIM",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Laurent Gole",
     "Weimiao Yu",
+    "Laurent Gole",
     "Sohail Ahmed"
   ],
   "sc:additionalType": "Desktop application",

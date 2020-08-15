@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0001-8187-1980",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1093/nar/gkw978",
       "@type": "sc:CreativeWork"
     },
@@ -42,8 +38,8 @@
         }
       ],
       "sc:citation": [
-        "pmcid:PMC5210655",
         "pubmed:27789699",
+        "pmcid:PMC5210655",
         {
           "@id": "https://doi.org/10.1093/nar/gkw978"
         }
@@ -56,14 +52,18 @@
       "sc:license": "CC-BY-4.0",
       "sc:name": "Proteome-pI",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:softwareHelp": {
         "@id": "http://isoelectricpointdb.org/statistics.html"
       },
       "sc:url": "http://isoelectricpointdb.org/"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-8187-1980",
+      "@type": "schema:Person"
     }
   ]
 }

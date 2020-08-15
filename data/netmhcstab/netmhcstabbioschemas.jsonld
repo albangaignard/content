@@ -22,8 +22,8 @@
       "sc:name": "NetMHCstab",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": "CBS",
       "sc:url": "http://www.cbs.dtu.dk/services/NetMHCstab/",

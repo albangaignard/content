@@ -29,17 +29,17 @@
       "sc:description": "This tool archives evidence about viral interactions collected from different manually curated protein-protein interaction databases that have adhered to the IMEx consortium.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2421"
+          "@id": "edam:operation_3083"
         },
         {
-          "@id": "edam:operation_3083"
+          "@id": "edam:operation_2421"
         }
       ],
       "sc:name": "VirusMentha",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:provider": [
         "Molecular Genetic Group, University of Rome \"Tor Vergata\", Rome, Italy",

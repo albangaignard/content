@@ -16,8 +16,8 @@
   "sc:name": "REDCap",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://www.project-redcap.org/"
 }

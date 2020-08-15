@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/t346hunter",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Cayo Ramos Rodríguez",
     "Pedro M. Martínez García",
+    "Cayo Ramos Rodríguez",
     "Pablo Rodríguez-Palenzuela"
   ],
   "sc:additionalType": "Web application",
