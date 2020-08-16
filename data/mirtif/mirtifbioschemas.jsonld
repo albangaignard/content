@@ -17,8 +17,8 @@
   "sc:name": "MiRTif",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://mirtif.bii.a-star.edu.sg/"
 }

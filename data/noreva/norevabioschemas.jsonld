@@ -27,9 +27,9 @@
       },
       "sc:name": "NOREVA",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://server.idrb.cqu.edu.cn/noreva/"
     },

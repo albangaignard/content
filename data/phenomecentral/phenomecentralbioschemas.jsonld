@@ -17,8 +17,8 @@
         "Web application"
       ],
       "sc:citation": [
-        "pmcid:PMC5467641",
         "pubmed:26251998",
+        "pmcid:PMC5467641",
         {
           "@id": "https://doi.org/10.1002/humu.22851"
         }
@@ -29,10 +29,10 @@
           "@id": "edam:operation_2422"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_3436"
         },
         {
-          "@id": "edam:operation_3436"
+          "@id": "edam:operation_3431"
         },
         {
           "@id": "edam:operation_3197"
@@ -40,9 +40,9 @@
       ],
       "sc:name": "PhenomeCentral",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://phenomecentral.org",
       "sc:version": "1.1.16"

@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/mesadb",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Koray D. Kaya",
     "Gökhan Karakülah",
     "Özlen Konu",
-    "Koray D. Kaya",
     "Aybar C. Acar",
     "Cengiz Yakicier"
   ],

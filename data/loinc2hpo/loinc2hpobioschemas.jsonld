@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1038/S41746-019-0110-4",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/LOINC2HPO",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -36,10 +32,14 @@
       "sc:name": "LOINC2HPO",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://github.com/monarch-initiative/loinc2hpo"
+    },
+    {
+      "@id": "https://doi.org/10.1038/S41746-019-0110-4",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/isoem",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Alex Zelikovsky",
     "Ion Mandoiu",
     "Sahar Al Seesi",
-    "Alex Zelikovsky",
     "Igor Mandric"
   ],
   "sc:additionalType": "Command-line tool",

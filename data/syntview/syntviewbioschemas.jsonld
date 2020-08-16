@@ -18,10 +18,10 @@
       "@type": "sc:SoftwareApplication",
       "edam:has_input": [
         {
-          "@id": "edam:data_3002"
+          "@id": "edam:data_3498"
         },
         {
-          "@id": "edam:data_3498"
+          "@id": "edam:data_3002"
         },
         {
           "@id": "edam:data_0872"
@@ -31,8 +31,8 @@
         "@id": "edam:data_2884"
       },
       "sc:additionalType": [
-        "Desktop application",
-        "Web application"
+        "Web application",
+        "Desktop application"
       ],
       "sc:applicationSubCategory": [
         {
@@ -62,9 +62,9 @@
       "sc:license": "LGPL-3.0",
       "sc:name": "SynTView",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:softwareHelp": {
         "@id": "http://hub18.hosting.pasteur.fr/SynTView/documentation/"

@@ -17,8 +17,8 @@
   "sc:name": "MEDUSA",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://cbio.mskcc.org/leslielab/software/medusa"
 }

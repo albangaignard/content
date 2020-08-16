@@ -12,16 +12,16 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:author": [
-    "Vilem Sustr",
-    "Antonin Pavelka",
-    "Jiri Damborsky",
-    "Petr Benes",
-    "Jan Brezovsky",
-    "Martin Klvana",
     "Artur Gora",
-    "Lada Biedermannova",
-    "Petr Medek",
     "Eva Chovancova",
+    "Lada Biedermannova",
+    "Martin Klvana",
+    "Vilem Sustr",
+    "Petr Benes",
+    "Antonin Pavelka",
+    "Jan Brezovsky",
+    "Jiri Damborsky",
+    "Petr Medek",
     "Jiri Sochor",
     "Ondrej Strnad",
     "Barbora Kozlikova"
@@ -35,9 +35,9 @@
     "Linux"
   ],
   "sc:provider": [
+    "Masaryk University, Brno, Czech Republic",
     "International Centre for Clinical Research, Brno, Czech Republic",
-    "Loschmidt Laboratories",
-    "Masaryk University, Brno, Czech Republic"
+    "Loschmidt Laboratories"
   ],
   "sc:url": "http://www.caver.cz",
   "sc:version": "3.02"

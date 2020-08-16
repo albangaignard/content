@@ -41,8 +41,8 @@
       "sc:name": "forgi",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/ViennaRNA/forgi"
     }

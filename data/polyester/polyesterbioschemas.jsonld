@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/polyester",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jeff Leek",
-    "Jack Fu"
+    "Jack Fu",
+    "Jeff Leek"
   ],
   "sc:additionalType": [
     "Library",
@@ -23,8 +23,8 @@
   "sc:name": "polyester",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/polyester.html",
   "sc:version": "1.10.0"

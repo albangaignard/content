@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/BetaSerpentine",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Andrey V. Kajava",
-    "Stanislav A. Bondarev"
+    "Stanislav A. Bondarev",
+    "Andrey V. Kajava"
   ],
   "sc:additionalType": [
     "Web service",

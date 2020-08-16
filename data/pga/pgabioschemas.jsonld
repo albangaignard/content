@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s12859-016-1133-3",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0003-2261-3150",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s12859-016-1133-3",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/pga",
@@ -38,25 +38,25 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0219"
+          "@id": "edam:topic_3571"
         },
         {
           "@id": "edam:topic_3489"
         },
         {
-          "@id": "edam:topic_3366"
+          "@id": "edam:topic_0219"
         },
         {
-          "@id": "edam:topic_3520"
+          "@id": "edam:topic_3170"
+        },
+        {
+          "@id": "edam:topic_3366"
         },
         {
           "@id": "edam:topic_0121"
         },
         {
-          "@id": "edam:topic_3571"
-        },
-        {
-          "@id": "edam:topic_3170"
+          "@id": "edam:topic_3520"
         }
       ],
       "sc:citation": [
@@ -78,8 +78,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "PGA",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/PGA.html",

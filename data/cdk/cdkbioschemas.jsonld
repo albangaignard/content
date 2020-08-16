@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Library",
   "sc:author": [
+    "Christoph Steinbeck",
     "John May",
     "Egon Willighagen",
-    "Christoph Steinbeck",
     "Rajarshi Guha"
   ],
   "sc:description": "Open source Java library for bio- and cheminformatics.",

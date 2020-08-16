@@ -15,8 +15,8 @@
   "sc:name": "TFold",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://evryrna.ibisc.univ-evry.fr/evryrna/tfold"
 }

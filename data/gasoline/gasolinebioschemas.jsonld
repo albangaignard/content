@@ -33,8 +33,8 @@
       "sc:name": "GASOLINE",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/GMicale/GASOLINE",
       "sc:version": "2.0"

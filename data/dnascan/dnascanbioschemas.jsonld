@@ -26,16 +26,16 @@
         }
       ],
       "sc:contributor": [
-        "Dr Stephen J Newhouse",
-        "Dr Alfredo Iacoangeli"
+        "Dr Alfredo Iacoangeli",
+        "Dr Stephen J Newhouse"
       ],
       "sc:description": "Personal computer compatible NGS analysis, annotation and visualisation.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0337"
+          "@id": "edam:operation_3227"
         },
         {
-          "@id": "edam:operation_3227"
+          "@id": "edam:operation_0337"
         },
         {
           "@id": "edam:operation_3196"
@@ -44,9 +44,9 @@
       "sc:license": "MIT",
       "sc:name": "DNAscan",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://github.com/KHP-Informatics/DNAscan"
     }

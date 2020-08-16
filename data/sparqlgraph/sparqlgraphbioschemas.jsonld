@@ -16,8 +16,8 @@
   "sc:name": "SPARQLGraph",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://sparqlgraph.i-med.ac.at/"
 }

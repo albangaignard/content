@@ -20,10 +20,10 @@
           "@id": "edam:data_2775"
         },
         {
-          "@id": "edam:data_1009"
+          "@id": "edam:data_1096"
         },
         {
-          "@id": "edam:data_1096"
+          "@id": "edam:data_1009"
         }
       ],
       "edam:has_output": {
@@ -46,9 +46,9 @@
       },
       "sc:name": "PhosphoELM database",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://phospho.elm.eu.org/"
     },
