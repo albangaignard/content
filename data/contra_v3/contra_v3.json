@@ -2,6 +2,9 @@
     "additionDate": "2018-07-18T10:54:25Z",
     "biotoolsCURIE": "biotools:contra_v3",
     "biotoolsID": "contra_v3",
+    "collectionID": [
+        "VIB"
+    ],
     "credit": [
         {
             "typeEntity": "Person",
@@ -22,12 +25,17 @@
     "description": "Visualization and exploration of predicted transcription factor binding sites (TFBSs) in any genomic region surrounding coding or non-coding genes.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "http://bioit2.irc.ugent.be/contra/v3/#/help"
         }
     ],
     "editPermission": {
-        "type": "private"
+        "authors": [
+            "bits@vib.be"
+        ],
+        "type": "group"
     },
     "function": [
         {
@@ -45,7 +53,7 @@
         "JavaScript",
         "Perl"
     ],
-    "lastUpdate": "2019-01-15T01:50:25Z",
+    "lastUpdate": "2020-08-13T17:00:31.464844Z",
     "name": "ConTra v3",
     "owner": "aotamendi.1",
     "publication": [
@@ -53,7 +61,9 @@
             "doi": "10.1093/nar/gkx376",
             "pmcid": "PMC5570180",
             "pmid": "28472390",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
