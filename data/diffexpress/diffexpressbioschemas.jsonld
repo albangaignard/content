@@ -43,8 +43,8 @@
       "sc:license": "Unlicense",
       "sc:name": "DiffExpress",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://simplicity.nsilico.com/dea"

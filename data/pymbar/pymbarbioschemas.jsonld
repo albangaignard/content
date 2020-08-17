@@ -12,18 +12,18 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Levi N. Naden",
-    "Michael R. Shirts",
     "John D. Chodera",
-    "Kyle A. Beauchamp"
+    "Kyle A. Beauchamp",
+    "Michael R. Shirts"
   ],
   "sc:additionalType": "Library",
   "sc:description": "Python implementation of the multistate Bennett acceptance ratio (MBAR) method for estimating expectations and free energy differences from equilibrium samples from multiple probability densities.",
   "sc:license": "MIT",
   "sc:name": "pymbar",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:url": "https://github.com/choderalab/pymbar"
 }

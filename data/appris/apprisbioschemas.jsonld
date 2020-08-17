@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/appris",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Michael Tress",
-    "Jose Rodriguez"
+    "Jose Rodriguez",
+    "Michael Tress"
   ],
   "sc:additionalType": [
     "Database portal",
@@ -26,8 +26,8 @@
   "sc:name": "APPRIS",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "cnio.es",

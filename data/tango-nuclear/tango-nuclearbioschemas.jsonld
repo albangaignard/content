@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Thomas Boudier",
-        "Jean Ollion",
-        "Julien Cochennec"
+        "Julien Cochennec",
+        "Jean Ollion"
       ],
       "sc:additionalType": [
         "Plug-in",
@@ -36,8 +36,8 @@
       "sc:name": "TANGO",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://biophysique.mnhn.fr/tango/HomePage"
     },

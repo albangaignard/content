@@ -18,20 +18,20 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Nicolas Kersten",
-        "Nico Pfeifer",
-        "Marius Herr"
+        "Marius Herr",
+        "Nico Pfeifer"
       ],
       "sc:additionalType": [
         "Web service",
-        "Web application",
-        "Desktop application"
+        "Desktop application",
+        "Web application"
       ],
       "sc:citation": [
+        "pubmed:31114892",
+        "pmcid:PMC6602472",
         {
           "@id": "https://doi.org/10.1093/NAR/GKZ422"
-        },
-        "pubmed:31114892",
-        "pmcid:PMC6602472"
+        }
       ],
       "sc:description": "Web server for dimensionality reduction and sample clustering of multi-view data based on unsupervised multiple kernel learning.",
       "sc:featureList": [
@@ -46,8 +46,8 @@
       "sc:name": "web-rMKL",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://web-rMKL.org"
     }

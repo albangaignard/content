@@ -16,8 +16,8 @@
   "sc:name": "TCGA2STAT",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.liuzlab.org/TCGA2STAT/"
 }

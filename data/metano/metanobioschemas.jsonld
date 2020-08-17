@@ -16,8 +16,8 @@
   "sc:license": "GPL-1.0",
   "sc:name": "metano",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://metano.tu-bs.de/",

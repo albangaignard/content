@@ -35,8 +35,8 @@
       "sc:license": "Unlicense",
       "sc:name": "MRICloud",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://braingps.mricloud.org"

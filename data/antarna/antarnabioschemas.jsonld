@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/btv319",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0001-8231-3323",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/antarna",
@@ -53,12 +53,12 @@
       "sc:name": "AntaRNA",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": [
-        "University Freiburg",
-        "rnateam"
+        "rnateam",
+        "University Freiburg"
       ],
       "sc:softwareHelp": {
         "@id": "http://rna.informatik.uni-freiburg.de/AntaRNA/"
@@ -67,8 +67,8 @@
       "sc:version": "1.1.2"
     },
     {
-      "@id": "http://orcid.org/0000-0001-8231-3323",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1093/bioinformatics/btv319",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

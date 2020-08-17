@@ -31,9 +31,9 @@
       },
       "sc:name": "Iobio",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://iobio.io/"
     }

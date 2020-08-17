@@ -19,8 +19,8 @@
   "sc:name": "DynaMine",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": "vub.ac.be",
   "sc:url": "http://dynamine.ibsquare.be/",

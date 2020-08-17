@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/hana",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web application",
-    "Desktop application"
+    "Desktop application",
+    "Web application"
   ],
   "sc:author": [
     "Miloš Fetter",

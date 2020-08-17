@@ -13,8 +13,8 @@
   "biotools:primaryContact": [
     "Jean-Christophe GELLY",
     "Claude JACQ",
-    "Mickael ORGEUR",
-    "Gaelle LELANDAIS"
+    "Gaelle LELANDAIS",
+    "Mickael ORGEUR"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:20833631",
@@ -22,8 +22,8 @@
   "sc:name": "MitoGenesisDB",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.dsimb.inserm.fr/dsimb_tools/mitgene/"
 }

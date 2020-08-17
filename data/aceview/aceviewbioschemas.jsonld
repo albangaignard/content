@@ -18,22 +18,22 @@
       "@type": "sc:SoftwareApplication",
       "edam:has_input": [
         {
-          "@id": "edam:data_2704"
-        },
-        {
           "@id": "edam:data_1027"
-        },
-        {
-          "@id": "edam:data_2292"
         },
         {
           "@id": "edam:data_1045"
         },
         {
+          "@id": "edam:data_2803"
+        },
+        {
+          "@id": "edam:data_2292"
+        },
+        {
           "@id": "edam:data_1026"
         },
         {
-          "@id": "edam:data_2803"
+          "@id": "edam:data_2704"
         }
       ],
       "edam:has_output": [
@@ -70,8 +70,8 @@
       "sc:name": "AceView genes database",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": "NCBI",
       "sc:url": "http://www.ncbi.nlm.nih.gov/IEB/Research/Acembly/"

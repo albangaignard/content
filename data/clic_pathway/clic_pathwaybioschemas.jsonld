@@ -21,8 +21,8 @@
         "Command-line tool"
       ],
       "sc:citation": [
-        "pubmed:28719601",
         "pmcid:PMC5546725",
+        "pubmed:28719601",
         {
           "@id": "https://doi.org/10.1371/journal.pcbi.1005653"
         }

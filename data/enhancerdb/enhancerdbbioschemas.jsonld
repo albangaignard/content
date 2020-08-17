@@ -14,16 +14,16 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Z. Guo",
       "sc:additionalType": [
-        "Web API",
         "Web application",
+        "Web API",
         "Database portal"
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1093/database/bay141"
         },
-        "pmcid:PMC6344666",
-        "pubmed:30689845"
+        "pubmed:30689845",
+        "pmcid:PMC6344666"
       ],
       "sc:description": "Database to discover the regulate relationships in the context of enhancers.",
       "sc:featureList": [
@@ -39,8 +39,8 @@
       ],
       "sc:name": "EnhancerDB",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://lcbb.swjtu.edu.cn/EnhancerDB/"

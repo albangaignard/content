@@ -10,14 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0003-1941-5495",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://orcid.org/0000-0001-7576-5380",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1093/GIGASCIENCE/GIZ034",
       "@type": "sc:CreativeWork"
     },
@@ -25,13 +17,13 @@
       "@id": "https://bio.tools/ngsRelateV2",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Ida Moltke",
+        {
+          "@id": "https://orcid.org/0000-0001-7576-5380"
+        },
         {
           "@id": "https://orcid.org/0000-0003-1941-5495"
         },
-        {
-          "@id": "https://orcid.org/0000-0001-7576-5380"
-        }
+        "Ida Moltke"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
@@ -56,10 +48,18 @@
       "sc:license": "GPL-3.0",
       "sc:name": "ngsRelateV2",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/ANGSD/ngsRelate"
+    },
+    {
+      "@id": "https://orcid.org/0000-0001-7576-5380",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://orcid.org/0000-0003-1941-5495",
+      "@type": "schema:Person"
     }
   ]
 }

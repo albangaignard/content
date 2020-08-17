@@ -19,8 +19,8 @@
   "sc:name": "Bastion6",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bastion6.erc.monash.edu/"
 }

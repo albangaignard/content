@@ -16,8 +16,8 @@
   "sc:name": "FluxViz",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://apps.cytoscape.org/apps/fluxviz"
 }

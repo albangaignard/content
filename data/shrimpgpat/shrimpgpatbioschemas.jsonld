@@ -31,8 +31,8 @@
       },
       "sc:name": "ShrimpGPAT",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://shrimpgpat.sc.mahidol.ac.th/ShrimpGPATV2/"
