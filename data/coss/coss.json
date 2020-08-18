@@ -1,10 +1,11 @@
 {
-    "accessibility": [
-        "Open access"
-    ],
+    "accessibility": "Open access",
     "additionDate": "2019-08-09T13:05:36Z",
     "biotoolsCURIE": "biotools:COSS",
     "biotoolsID": "COSS",
+    "collectionID": [
+        "VIB"
+    ],
     "cost": "Free of charge",
     "credit": [
         {
@@ -20,7 +21,9 @@
     "description": "COSS (CompOmics Spectral Searching ) is a user-friendly spectral library search tool capable of processing large spectral libraries and supporting multiple file formats.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://github.com/compomics/COSS/blob/master/README.md"
         }
     ],
@@ -31,7 +34,10 @@
         }
     ],
     "editPermission": {
-        "type": "private"
+        "authors": [
+            "bits@vib.be"
+        ],
+        "type": "group"
     },
     "function": [
         {
@@ -55,11 +61,13 @@
     "language": [
         "Java"
     ],
-    "lastUpdate": "2019-10-31T11:49:26Z",
+    "lastUpdate": "2020-08-13T16:56:22Z",
     "license": "Unlicense",
     "link": [
         {
-            "type": "Issue tracker",
+            "type": [
+                "Issue tracker"
+            ],
             "url": "https://github.com/compomics/COSS/issues"
         }
     ],
@@ -74,7 +82,9 @@
     "publication": [
         {
             "doi": "10.1101/640458",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
