@@ -31,8 +31,8 @@
       },
       "sc:name": "SPOT-Seq-RNA",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://sparks-lab.org/server/SPOT-Seq-RNA/"

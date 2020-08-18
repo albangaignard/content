@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
     "Library",
-    "SPARQL endpoint",
     "Command-line tool",
+    "SPARQL endpoint",
     "Web API"
   ],
   "sc:description": "This node module contains methods to access the neXtProt API as well as the SPARQL endpoint.",

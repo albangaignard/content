@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "UK MRC",
     "Wellcome Trust",
     "UK BBSRC",
-    "UK MRC",
     "EMBOSS Contributors"
   ],
   "sc:description": "Get ontology term(s).",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "ontoget",
   "sc:operatingSystem": [
+    "Linux",
     "Windows",
-    "Mac",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
     "EMBOSS",

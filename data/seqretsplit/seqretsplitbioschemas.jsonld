@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "Wellcome Trust",
     "UK MRC",
     "UK BBSRC",
-    "Wellcome Trust",
     "EMBOSS Contributors"
   ],
   "sc:description": "Read sequences and write them to individual files.",
@@ -27,8 +27,8 @@
   "sc:name": "seqretsplit",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "EMBOSS",

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12864-018-4630-0",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/trawlerweb",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -17,8 +21,8 @@
         "Mirana Ramialison"
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:29621972",
@@ -34,15 +38,11 @@
       "sc:license": "GPL-3.0",
       "sc:name": "TrawlerWeb",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://trawler.erc.monash.edu.au/"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12864-018-4630-0",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

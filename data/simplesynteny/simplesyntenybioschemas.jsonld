@@ -27,8 +27,8 @@
       },
       "sc:name": "SimpleSynteny",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://www.dveltri.com/simplesynteny/"

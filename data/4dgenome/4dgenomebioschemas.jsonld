@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/4DGenome",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         {
@@ -34,9 +34,9 @@
       "sc:license": "CC-BY-NC-3.0",
       "sc:name": "4DGenome",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://4dgenome.research.chop.edu"
     }

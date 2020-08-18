@@ -10,15 +10,11 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gkv1175",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/sORFs",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC4702841",
@@ -31,10 +27,14 @@
       "sc:name": "sORFs",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://www.sorfs.org/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkv1175",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

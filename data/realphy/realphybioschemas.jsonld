@@ -18,8 +18,8 @@
   "sc:name": "REALPHY",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://realphy.unibas.ch/fcgi/realphy"
 }

@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Brylinski M.",
       "sc:additionalType": [
-        "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC4168975",
@@ -30,8 +30,8 @@
       },
       "sc:name": "eMatchSite",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://brylinski.cct.lsu.edu/ematchsite"

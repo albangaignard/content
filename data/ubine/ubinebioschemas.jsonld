@@ -27,9 +27,9 @@
       },
       "sc:name": "UbiNe",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://140.138.144.145/~ubinet/index.php"
     },

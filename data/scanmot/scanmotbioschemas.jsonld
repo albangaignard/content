@@ -11,11 +11,11 @@
   "@id": "https://bio.tools/scanmot",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Pugalenthi G.",
-    "Saikat Chakrabarti",
     "Nitin Bhardwaj",
-    "Prem Anand A.",
-    "Sowdhamini R."
+    "Sowdhamini R.",
+    "Saikat Chakrabarti",
+    "Pugalenthi G.",
+    "Prem Anand A."
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:15980468",
