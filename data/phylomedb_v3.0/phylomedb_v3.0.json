@@ -15,7 +15,9 @@
     "description": "It is a public database for genome-wide collections of gene phylogenies (phylomes). It is also a major source for phylogeny-based orthology and paralogy predictions. For each protein-coding gene in a seed genome, the database provides original and processed alignments, phylogenetic trees derived from various methods and phylogeny-based predictions of orthology and paralogy relationships.",
     "documentation": [
         {
-            "type": "API documentation",
+            "type": [
+                "API documentation"
+            ],
             "url": "http://phylomedb.org/web_api"
         }
     ],
@@ -48,14 +50,14 @@
         }
     ],
     "homepage": "http://phylomeDB.org",
-    "lastUpdate": "2020-01-24T19:08:08Z",
+    "lastUpdate": "2020-07-25T13:27:08Z",
     "name": "PhylomeDB v3.0",
     "operatingSystem": [
         "Linux",
         "Windows",
         "Mac"
     ],
-    "owner": "vsundesha",
+    "owner": "Gabaldonlab",
     "publication": [
         {
             "metadata": {
