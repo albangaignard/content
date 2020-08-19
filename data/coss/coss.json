@@ -1,10 +1,11 @@
 {
-    "accessibility": [
-        "Open access"
-    ],
+    "accessibility": "Open access",
     "additionDate": "2019-08-09T13:05:36Z",
     "biotoolsCURIE": "biotools:COSS",
     "biotoolsID": "COSS",
+    "collectionID": [
+        "VIB"
+    ],
     "cost": "Free of charge",
     "credit": [
         {
@@ -20,7 +21,9 @@
     "description": "COSS (CompOmics Spectral Searching ) is a user-friendly spectral library search tool capable of processing large spectral libraries and supporting multiple file formats.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://github.com/compomics/COSS/blob/master/README.md"
         }
     ],
@@ -31,7 +34,10 @@
         }
     ],
     "editPermission": {
-        "type": "private"
+        "authors": [
+            "bits@vib.be"
+        ],
+        "type": "group"
     },
     "function": [
         {
@@ -55,11 +61,13 @@
     "language": [
         "Java"
     ],
-    "lastUpdate": "2019-10-31T11:49:26Z",
+    "lastUpdate": "2020-08-18T19:34:48.714651Z",
     "license": "Unlicense",
     "link": [
         {
-            "type": "Issue tracker",
+            "type": [
+                "Issue tracker"
+            ],
             "url": "https://github.com/compomics/COSS/issues"
         }
     ],
@@ -74,7 +82,37 @@
     "publication": [
         {
             "doi": "10.1101/640458",
-            "type": "Primary"
+            "metadata": {
+                "abstract": "Copyright \u00a9 2020 American Chemical Society.Spectral similarity searching to identify peptide-derived MS/MS spectra is a promising technique, and different spectrum similarity search tools have therefore been developed. Each of these tools, however, comes with some limitations, mainly because of low processing speed and issues with handling large databases. Furthermore, the number of spectral data formats supported is typically limited, which also creates a threshold to adoption. We have therefore developed COSS (CompOmics Spectral Searching), a new and user-friendly spectral library search tool supporting two scoring functions. COSS also includes decoy spectra generation for result validation. We have benchmarked COSS on three different spectral libraries and compared the results with established spectral searching tools and a sequence database search tool. Our comparison showed that COSS more reliably identifies spectra, is capable of handling large data sets and libraries, and is an easy to use tool that can run on low computer specifications. COSS binaries and source code can be freely downloaded from https://github.com/compomics/COSS.",
+                "authors": [
+                    {
+                        "name": "Shiferaw G.A."
+                    },
+                    {
+                        "name": "Vandermarliere E."
+                    },
+                    {
+                        "name": "Hulstaert N."
+                    },
+                    {
+                        "name": "Gabriels R."
+                    },
+                    {
+                        "name": "Martens L."
+                    },
+                    {
+                        "name": "Volders P.-J."
+                    }
+                ],
+                "citationCount": 1,
+                "date": "2020-01-01T00:00:00Z",
+                "journal": "Journal of Proteome Research",
+                "title": "COSS: A Fast and User-Friendly Tool for Spectral Library Searching"
+            },
+            "pmid": "32384242",
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
