@@ -20,10 +20,10 @@
         "Library"
       ],
       "sc:citation": [
-        "pmcid:PMC5408810",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/btw691"
         },
+        "pmcid:PMC5408810",
         "pubmed:28035024"
       ],
       "sc:description": "Tools to analyze & visualize Illumina Infinium methylation arrays.",
@@ -38,8 +38,8 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "minfi",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/minfi.html",

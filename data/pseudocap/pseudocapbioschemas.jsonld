@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0001-6848-1638",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/pseudocap",
       "@type": "sc:SoftwareApplication",
       "edam:has_input": [
@@ -52,10 +56,6 @@
         "Linux"
       ],
       "sc:url": "http://www.pseudomonas.com/"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-6848-1638",
-      "@type": "schema:Person"
     }
   ]
 }

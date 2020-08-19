@@ -40,9 +40,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "Social Network",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://baderlab.org/Software/SocialNetworkApp",
       "sc:version": "1.3.0"

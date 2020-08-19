@@ -17,8 +17,8 @@
   "sc:name": "RAPIDO",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://webapps.embl-hamburg.de/rapido"
 }

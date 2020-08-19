@@ -17,8 +17,8 @@
   "sc:name": "CoMM-S",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://github.com/gordonliu810822/CoMM"
 }

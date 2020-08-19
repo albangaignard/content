@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0001-5146-0910",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/kit",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -39,10 +35,14 @@
       "sc:name": "KiT",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://bitbucket.org/jarmond/kit/overview"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-5146-0910",
+      "@type": "schema:Person"
     }
   ]
 }

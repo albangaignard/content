@@ -31,13 +31,13 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0622"
-        },
-        {
           "@id": "edam:topic_0080"
         },
         {
           "@id": "edam:topic_0121"
+        },
+        {
+          "@id": "edam:topic_0622"
         }
       ],
       "sc:citation": [
@@ -59,9 +59,9 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "T-Coffee (SIB)",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:softwareHelp": {
         "@id": "http://www.tcoffee.org/Projects/tcoffee/"

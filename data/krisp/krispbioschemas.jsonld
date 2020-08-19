@@ -23,10 +23,10 @@
       "sc:additionalType": "Web application",
       "sc:citation": [
         "pmcid:PMC6527240",
-        "pubmed:31067235",
         {
           "@id": "https://doi.org/10.1371/JOURNAL.PNTD.0007231"
-        }
+        },
+        "pubmed:31067235"
       ],
       "sc:description": "Bioinformatics Software Applications and Online Databases and Tools.",
       "sc:featureList": [
@@ -44,8 +44,8 @@
       "sc:name": "krisp",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://www.krisp.org.za/tools.php"
     }

@@ -19,8 +19,8 @@
       "biotools:primaryContact": "Bin Liu",
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pmcid:PMC4489303",
         "pubmed:25958395",
+        "pmcid:PMC4489303",
         {
           "@id": "https://doi.org/10.1093/NAR/GKV458"
         }
@@ -32,8 +32,8 @@
       "sc:name": "Pse-in-One",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://bioinformatics.hitsz.edu.cn/Pse-in-One/"
     }

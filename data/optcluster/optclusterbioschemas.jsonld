@@ -13,9 +13,9 @@
       "@id": "https://bio.tools/optcluster",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Somnath Datta",
         "Susmita Datta",
-        "Michael Sekula",
-        "Somnath Datta"
+        "Michael Sekula"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [

@@ -46,13 +46,13 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3518"
+          "@id": "edam:topic_3360"
         },
         {
           "@id": "edam:topic_0121"
         },
         {
-          "@id": "edam:topic_3360"
+          "@id": "edam:topic_3518"
         }
       ],
       "sc:author": {
@@ -79,10 +79,10 @@
         "Linux"
       ],
       "sc:provider": [
-        "This work was supported by P.U.R.E., a project of Nordrhein-Westfalen, a federal state of Germany.",
-        "This work is supported by de.NBI, a project of the BMBF [FKZ 031 A 534A].",
         "Ruhr-Universitaet Bochum, Medizinisches Proteom-Center (MPC)",
-        "BioInfra.Prot"
+        "BioInfra.Prot",
+        "This work was supported by P.U.R.E., a project of Nordrhein-Westfalen, a federal state of Germany.",
+        "This work is supported by de.NBI, a project of the BMBF [FKZ 031 A 534A]."
       ],
       "sc:softwareHelp": {
         "@id": "https://www.bioconductor.org/packages/release/bioc/manuals/PAA/man/PAA.pdf"

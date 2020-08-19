@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Shu-Hwa Chen",
-    "Chung-Yen Lin",
-    "Chia-Hao Chin",
+    "Chin-Wen Ho",
     "Hsin-Hung Wu",
-    "Chin-Wen Ho"
+    "Chia-Hao Chin",
+    "Chung-Yen Lin"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:18503085",
@@ -23,8 +23,8 @@
   "sc:name": "Hubba",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://hub.iis.sinica.edu.tw/Hubba"
 }
