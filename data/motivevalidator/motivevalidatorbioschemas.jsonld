@@ -11,14 +11,14 @@
   "@id": "https://bio.tools/motivevalidator",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web application",
-    "Command-line tool"
+    "Command-line tool",
+    "Web application"
   ],
   "sc:author": "David Sehnal",
   "sc:contributor": [
     "Crina-Maria Ionescu",
-    "Lukáš Pravda",
     "Deepti Jaiswal",
+    "Lukáš Pravda",
     "Radka Svobodová Vařeková"
   ],
   "sc:description": "A web application for validation of annotation of ligands and \nresidues.",

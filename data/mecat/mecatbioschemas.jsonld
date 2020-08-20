@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/mecat",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Ying Chen",
     "Chuan-Le Xiao",
+    "Ying Chen",
     "Feng Luo"
   ],
   "sc:additionalType": "Command-line tool",

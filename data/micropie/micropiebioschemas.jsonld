@@ -29,8 +29,8 @@
       "sc:name": "MicroPIE",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://github.com/biosemantics/micropie2/tree/0.1.0",
       "sc:version": "0.1.0"

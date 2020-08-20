@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1093/NAR/GKZ389",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/PubTator_Central",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -37,10 +33,10 @@
           "@id": "edam:operation_3778"
         },
         {
-          "@id": "edam:operation_2422"
+          "@id": "edam:operation_3280"
         },
         {
-          "@id": "edam:operation_3280"
+          "@id": "edam:operation_2422"
         }
       ],
       "sc:license": "Unlicense",
@@ -51,6 +47,10 @@
         "Linux"
       ],
       "sc:url": "https://www.ncbi.nlm.nih.gov/research/pubtator/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/NAR/GKZ389",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -13,16 +13,16 @@
       "@id": "https://bio.tools/N1PAS",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Alfred Grant Schissler",
-        "Yves A. Lussier"
+        "Yves A. Lussier",
+        "Alfred Grant Schissler"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
         {
           "@id": "https://doi.org/10.3389/FGENE.2019.00414"
         },
-        "pmcid:PMC6521780",
-        "pubmed:31143202"
+        "pubmed:31143202",
+        "pmcid:PMC6521780"
       ],
       "sc:description": "Single-Subject Method to Detect Pathways Enriched With Alternatively Spliced Genes.",
       "sc:featureList": [

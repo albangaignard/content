@@ -16,13 +16,13 @@
   "sc:name": "SCIPION WEB TOOLS",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
-    "cnb.csic.es",
+    "ELIXIR-ES",
     "INB",
-    "ELIXIR-ES"
+    "cnb.csic.es"
   ],
   "sc:url": "http://scipion.cnb.csic.es/m/services/",
   "sc:version": "1"

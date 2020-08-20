@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/gnomad",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         {
@@ -33,10 +33,10 @@
           "@id": "edam:operation_3197"
         },
         {
-          "@id": "edam:operation_2421"
+          "@id": "edam:operation_3436"
         },
         {
-          "@id": "edam:operation_3436"
+          "@id": "edam:operation_2421"
         },
         {
           "@id": "edam:operation_2422"
@@ -45,9 +45,9 @@
       "sc:license": "ODbL-1.0",
       "sc:name": "gnomAD",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://gnomad.broadinstitute.org/"
     }

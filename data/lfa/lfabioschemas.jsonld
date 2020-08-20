@@ -10,19 +10,15 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/btv641",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/lfa",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Wei Hao",
-        "John D. Storey"
+        "John D. Storey",
+        "Wei Hao"
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:26545820",
@@ -38,12 +34,16 @@
       "sc:license": "GPL-3.0",
       "sc:name": "lfa",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/lfa.html",
       "sc:version": "1.4.0"
+    },
+    {
+      "@id": "https://doi.org/10.1093/bioinformatics/btv641",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

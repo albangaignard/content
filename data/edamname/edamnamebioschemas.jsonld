@@ -19,9 +19,9 @@
   ],
   "sc:description": "Find EDAM ontology terms by name.",
   "sc:funder": [
-    "Wellcome Trust",
+    "UK MRC",
     "UK BBSRC",
-    "UK MRC"
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "edamname",

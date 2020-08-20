@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/SeRenDIP",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Paul de Geest",
     "Q. Hou",
+    "Paul de Geest",
     "K. Anton Feenstra"
   ],
   "sc:additionalType": "Web application",
@@ -22,8 +22,8 @@
   "sc:name": "SeRenDIP",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.ibi.vu.nl/programs/serendipwww/"
 }

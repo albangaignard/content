@@ -29,9 +29,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "FishResp",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://fishresp.org/",
       "sc:version": "1.0.3"

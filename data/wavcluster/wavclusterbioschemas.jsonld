@@ -30,8 +30,8 @@
         "@id": "edam:data_3495"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
@@ -64,8 +64,8 @@
       "sc:name": "wavClusteR",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/wavClusteR.html",
       "sc:version": "2.8.0"

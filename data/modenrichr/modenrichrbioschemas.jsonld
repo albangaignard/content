@@ -24,8 +24,8 @@
         "@id": "https://orcid.org/0000-0002-6904-1017"
       },
       "sc:additionalType": [
-        "Suite",
-        "Web application"
+        "Web application",
+        "Suite"
       ],
       "sc:citation": [
         "pmcid:PMC6602483",
@@ -37,10 +37,10 @@
       "sc:description": "Suite of gene set enrichment analysis tools for model organisms.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_2495"
         },
         {
-          "@id": "edam:operation_2495"
+          "@id": "edam:operation_3501"
         },
         {
           "@id": "edam:operation_3439"
@@ -50,8 +50,8 @@
       "sc:name": "modEnrichr",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://amp.pharm.mssm.edu/modEnrichr/"
     }

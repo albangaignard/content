@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-8799-8584",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/convert-matrix",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -22,8 +26,8 @@
         "@id": "edam:data_2070"
       },
       "sc:additionalType": [
-        "Command-line tool",
         "Web application",
+        "Command-line tool",
         "Web service"
       ],
       "sc:applicationSubCategory": {
@@ -44,8 +48,8 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "convert-matrix",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:provider": "RSAT",
@@ -54,10 +58,6 @@
       },
       "sc:url": "http://rsat.eu/",
       "sc:version": "1"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-8799-8584",
-      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1093/nar/gkn304",

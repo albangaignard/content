@@ -21,20 +21,20 @@
         "Janez Demsar"
       ],
       "sc:additionalType": [
-        "Desktop application",
-        "Command-line tool"
+        "Command-line tool",
+        "Desktop application"
       ],
       "sc:author": [
-        "Martin Stražar",
-        "Tomaž Curk",
-        "Vesna Tanko",
-        "Jernej Kernc",
-        "Lan Žagar",
-        "Anže Starič",
-        "Marko Toplak",
         "Aleš Erjavec",
+        "Martin Stražar",
+        "Marko Toplak",
         "Janez Demšar",
-        "Andrej Čopar"
+        "Anže Starič",
+        "Tomaž Curk",
+        "Jernej Kernc",
+        "Andrej Čopar",
+        "Lan Žagar",
+        "Vesna Tanko"
       ],
       "sc:citation": "pubmed:17586552",
       "sc:contributor": {
@@ -44,8 +44,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Orange",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:provider": [

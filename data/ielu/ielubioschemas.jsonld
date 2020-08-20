@@ -38,9 +38,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "ielu",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://github.com/aestrivex/ielu"
     }
