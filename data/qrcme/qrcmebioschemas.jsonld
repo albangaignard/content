@@ -20,8 +20,8 @@
   "sc:name": "QR Concordance (QRC)",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://qrcme.tech/"
 }

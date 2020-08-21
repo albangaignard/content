@@ -17,8 +17,8 @@
   "sc:name": "SeWeR",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://bioinformatics.org/sewer/"
 }

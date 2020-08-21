@@ -31,9 +31,9 @@
       "sc:license": "GPL-1.0",
       "sc:name": "SOFI",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://github.com/lob-epfl/sofitool"
     },

@@ -39,10 +39,10 @@
       "sc:description": "Annotate variants, compute amino acid coding changes, predict coding outcomes.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3202"
+          "@id": "edam:operation_3225"
         },
         {
-          "@id": "edam:operation_3225"
+          "@id": "edam:operation_3202"
         },
         {
           "@id": "edam:operation_3661"

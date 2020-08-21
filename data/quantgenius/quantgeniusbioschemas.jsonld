@@ -18,8 +18,8 @@
   "sc:additionalType": "Web application",
   "sc:author": "Miha Svalina",
   "sc:contributor": [
-    "Ana Rotter",
     "Marko Petek",
+    "Ana Rotter",
     "Maruša Pompe-Novak",
     "Katja Stare"
   ],
@@ -27,8 +27,8 @@
   "sc:name": "quantGenius",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "ELIXIR-SI-hackathon",

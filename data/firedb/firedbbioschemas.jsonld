@@ -15,8 +15,8 @@
   "sc:name": "FireDB",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://firedb.bioinfo.cnio.es/",
   "sc:version": "1"

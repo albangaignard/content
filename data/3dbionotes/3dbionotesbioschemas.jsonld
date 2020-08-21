@@ -21,8 +21,8 @@
   ],
   "sc:provider": [
     "cnb.csic.es",
-    "INB",
-    "ELIXIR-ES"
+    "ELIXIR-ES",
+    "INB"
   ],
   "sc:url": "http://3dbionotes.cnb.csic.es/ws",
   "sc:version": "v3"

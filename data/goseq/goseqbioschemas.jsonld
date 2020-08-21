@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/goseq",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Anthony Hawkins",
-        "Nadia Davidson"
+        "Nadia Davidson",
+        "Anthony Hawkins"
       ],
       "sc:additionalType": [
         "Library",
@@ -34,8 +34,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "GOseq",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/goseq.html",

@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1371/journal.pone.0160716",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/fretbursts",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -42,6 +38,10 @@
         "Windows"
       ],
       "sc:url": "http://tritemio.github.io/FRETBursts/"
+    },
+    {
+      "@id": "https://doi.org/10.1371/journal.pone.0160716",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

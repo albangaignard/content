@@ -29,8 +29,8 @@
       "sc:name": "IUTA",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://www.niehs.nih.gov/research/resources/software/biostatistics/iuta/index.cfm"
     },

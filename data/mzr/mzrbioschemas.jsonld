@@ -14,13 +14,13 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Steffen Neumann",
-        "Bernd Fischer",
         "Laurent Gatto",
-        "Qiang Kou"
+        "Qiang Kou",
+        "Bernd Fischer"
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC2732273",
@@ -37,8 +37,8 @@
       "sc:name": "mzR",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/mzR.html",
       "sc:version": "2.8.0"

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/NAR/GKZ415",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/sRNAbench",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Michael Hackenberg",
@@ -41,10 +45,6 @@
         "Windows"
       ],
       "sc:url": "https://bioinfo5.ugr.es/srnatoolbox/srnabench/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKZ415",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

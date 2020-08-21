@@ -16,8 +16,8 @@
   "sc:name": "The Ca2+ genome database",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://cagedb.uhlenlab.org/"
 }

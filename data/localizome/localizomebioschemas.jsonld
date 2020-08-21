@@ -20,8 +20,8 @@
   "sc:name": "Localizome",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://github.com/katur/localizome"
 }

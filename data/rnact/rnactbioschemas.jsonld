@@ -10,12 +10,16 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0001-6358-8380",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://orcid.org/0000-0001-7524-6310",
       "@type": "schema:Person"
     },
     {
-      "@id": "https://orcid.org/0000-0003-0607-5663",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1093/nar/gky967",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/RNAct",
@@ -31,10 +35,10 @@
           "@id": "edam:data_2725"
         },
         {
-          "@id": "edam:data_1033"
+          "@id": "edam:data_3021"
         },
         {
-          "@id": "edam:data_3021"
+          "@id": "edam:data_1033"
         }
       ],
       "edam:has_output": {
@@ -43,13 +47,13 @@
       "sc:additionalType": "Database portal",
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0128"
-        },
-        {
           "@id": "edam:topic_0602"
         },
         {
           "@id": "edam:topic_0099"
+        },
+        {
+          "@id": "edam:topic_0128"
         }
       ],
       "sc:author": {
@@ -78,12 +82,8 @@
       "sc:url": "https://rnact.crg.eu"
     },
     {
-      "@id": "http://orcid.org/0000-0001-6358-8380",
+      "@id": "https://orcid.org/0000-0003-0607-5663",
       "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gky967",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

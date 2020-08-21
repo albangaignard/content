@@ -12,31 +12,31 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Library",
   "sc:author": [
-    "Barbora Kozlikova",
+    "Jan Brezovsky",
+    "Artur Gora",
+    "Petr Medek",
     "Ondrej Strnad",
     "Jiri Damborsky",
-    "Antonin Pavelka",
-    "Lada Biedermannova",
     "Eva Chovancova",
-    "Vilem Sustr",
-    "Petr Medek",
-    "Jiri Sochor",
+    "Lada Biedermannova",
     "Petr Benes",
-    "Artur Gora",
-    "Jan Brezovsky",
+    "Barbora Kozlikova",
+    "Vilem Sustr",
+    "Antonin Pavelka",
+    "Jiri Sochor",
     "Martin Klvana"
   ],
   "sc:description": "A PyMOL plugin for identification and analysis of tunnels and channels in static protein structures.",
   "sc:license": "GPL-3.0",
   "sc:name": "CAVER PyMOL plugin",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
-    "Masaryk University, Brno, Czech Republic",
-    "Loschmidt Laboratories"
+    "Loschmidt Laboratories",
+    "Masaryk University, Brno, Czech Republic"
   ],
   "sc:url": "http://www.caver.cz",
   "sc:version": "3.01"

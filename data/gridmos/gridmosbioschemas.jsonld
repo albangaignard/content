@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/gridmos",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "AnnaTesei",
-    "WainerZoli",
     "GiuliaPaganelli",
+    "WainerZoli",
+    "AnnaTesei",
     "FilippoPiccinini",
     "AlessandroBevilacqua"
   ],
@@ -23,8 +23,8 @@
   "sc:name": "GridMos",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://sourceforge.net/projects/gridmos/"
 }

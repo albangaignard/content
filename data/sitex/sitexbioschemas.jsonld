@@ -17,8 +17,8 @@
   "sc:name": "SitEx",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www-bionet.sscc.ru/sitex/"
 }

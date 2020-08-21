@@ -26,10 +26,10 @@
           "@id": "edam:data_0872"
         },
         {
-          "@id": "edam:data_2968"
+          "@id": "edam:data_1270"
         },
         {
-          "@id": "edam:data_1270"
+          "@id": "edam:data_2968"
         }
       ],
       "sc:additionalType": "Web application",
@@ -37,17 +37,17 @@
         "@id": "edam:topic_0080"
       },
       "sc:author": [
-        "Patrick Wright",
         {
           "@id": "http://orcid.org/0000-0001-8231-3323"
-        }
+        },
+        "Patrick Wright"
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1093/nar/gku359"
         },
-        "pubmed:24838564",
-        "pmcid:PMC4086077"
+        "pmcid:PMC4086077",
+        "pubmed:24838564"
       ],
       "sc:description": "sRNA target prediction boosted by comparative information.",
       "sc:featureList": {
@@ -56,9 +56,9 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "CopraRNA web server",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:provider": [
         "University Freiburg",

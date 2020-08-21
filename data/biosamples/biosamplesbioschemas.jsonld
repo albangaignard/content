@@ -36,8 +36,8 @@
       },
       "sc:name": "BioSamples",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:provider": "Identifiers.org",

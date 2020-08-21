@@ -55,9 +55,9 @@
       "sc:license": "Apache-2.0",
       "sc:name": "ProXL",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:softwareHelp": {
         "@id": "https://proxl-web-app.readthedocs.io/en/latest/"

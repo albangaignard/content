@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Bas Stringer",
   "sc:additionalType": [
-    "Command-line tool",
     "SPARQL endpoint",
     "Web API",
-    "Workbench"
+    "Workbench",
+    "Command-line tool"
   ],
   "sc:author": "Bas Stringer",
   "sc:contributor": "Albert Meroño Peñuela",
@@ -24,8 +24,8 @@
   "sc:name": "SCRY",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "Vrije Universiteit Amsterdam",
