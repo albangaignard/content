@@ -28,13 +28,16 @@
     "description": "An algorithm to identify cross-linked peptides.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://github.com/compomics/xilmass/wiki"
         }
     ],
     "editPermission": {
         "authors": [
-            "proteomics.bio.tools"
+            "proteomics.bio.tools",
+            "bits@vib.be"
         ],
         "type": "group"
     },
@@ -71,7 +74,7 @@
         }
     ],
     "homepage": "https://github.com/compomics/xilmass",
-    "lastUpdate": "2019-03-26T08:42:46Z",
+    "lastUpdate": "2020-08-19T12:15:52Z",
     "license": "Apache-2.0",
     "name": "Xilmass",
     "operatingSystem": [
@@ -119,7 +122,9 @@
                 "journal": "Analytical Chemistry",
                 "title": "Xilmass: A New Approach toward the Identification of Cross-Linked Peptides"
             },
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [

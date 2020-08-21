@@ -1,10 +1,11 @@
 {
-    "accessibility": [
-        "Restricted access"
-    ],
+    "accessibility": "Restricted access",
     "additionDate": "2019-05-11T06:54:24Z",
     "biotoolsCURIE": "biotools:DECIPHER_rare_disease",
     "biotoolsID": "DECIPHER_rare_disease",
+    "collectionID": [
+        "Rare Disease"
+    ],
     "cost": "Free of charge (with restrictions)",
     "credit": [
         {
@@ -38,11 +39,13 @@
         }
     ],
     "homepage": "https://decipher.sanger.ac.uk/",
-    "lastUpdate": "2019-06-14T11:21:37Z",
+    "lastUpdate": "2020-08-20T08:54:15.291507Z",
     "license": "Other",
     "link": [
         {
-            "type": "Other",
+            "type": [
+                "Other"
+            ],
             "url": "https://decipher.sanger.ac.uk/browser"
         }
     ],
@@ -59,7 +62,9 @@
             "doi": "10.1002/humu.22842",
             "pmcid": "PMC4832335",
             "pmid": "26220709",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
