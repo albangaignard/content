@@ -24,10 +24,10 @@
       "sc:description": "Simplified Management and Analysis of Gene Expression and DNA Methylation Sequencing Data.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3204"
+          "@id": "edam:operation_2495"
         },
         {
-          "@id": "edam:operation_2495"
+          "@id": "edam:operation_3204"
         }
       ],
       "sc:name": "GobyWeb",

@@ -13,8 +13,8 @@
   "biotools:primaryContact": "Christian Delamarche",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Christian Delamarche",
     "Anthony Talvas",
+    "Christian Delamarche",
     "Mathieu Emily"
   ],
   "sc:description": "Prediction of amyloid fragments.",

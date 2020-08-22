@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/OCMA",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Zhi Xiong",
-        "Quan Long"
+        "Quan Long",
+        "Zhi Xiong"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
@@ -36,8 +36,8 @@
       "sc:name": "OCMA",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://github.com/precisionomics/OCMA",
       "sc:version": "gamma 0.1"

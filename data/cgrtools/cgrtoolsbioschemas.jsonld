@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Alexandre Varnek",
-    "Ramil Nugmanov",
-    "Timur Madzhidov"
+    "Timur Madzhidov",
+    "Ramil Nugmanov"
   ],
   "sc:additionalType": "Library",
   "sc:author": "Ramil Nugmanov",
@@ -23,8 +23,8 @@
   "sc:name": "CGRtools",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://github.com/cimm-kzn/CGRtools"
 }

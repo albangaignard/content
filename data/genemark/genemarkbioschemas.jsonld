@@ -18,8 +18,8 @@
   "sc:name": "GeneMark",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://exon.gatech.edu/GeneMark/"
 }

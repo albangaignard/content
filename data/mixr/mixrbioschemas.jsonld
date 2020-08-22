@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/MIXR",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "William H. Press",
-        "Sara L. Sawyer"
+        "Sara L. Sawyer",
+        "William H. Press"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -31,10 +31,10 @@
       "sc:description": "Mismatching Isoform eXon Remover.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3258"
+          "@id": "edam:operation_0544"
         },
         {
-          "@id": "edam:operation_0544"
+          "@id": "edam:operation_3258"
         },
         {
           "@id": "edam:operation_0499"
@@ -44,8 +44,8 @@
       "sc:name": "MIXR",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://github.com/hawkjo/mixr"
     }

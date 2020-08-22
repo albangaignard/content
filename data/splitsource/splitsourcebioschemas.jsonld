@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK MRC",
-    "UK BBSRC",
+    "Wellcome Trust",
     "EMBOSS Contributors",
-    "Wellcome Trust"
+    "UK BBSRC"
   ],
   "sc:description": "Split sequence(s) into original source sequences.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "splitsource",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "EMBL EBI",

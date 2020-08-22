@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK MRC",
-    "Wellcome Trust",
+    "UK BBSRC",
     "EMBOSS Contributors",
-    "UK BBSRC"
+    "Wellcome Trust"
   ],
   "sc:description": "Get ontology root terms by child identifier.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "ontogetroot",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

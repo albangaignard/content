@@ -40,8 +40,8 @@
       "sc:license": "Apache-2.0",
       "sc:name": "ADAT",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://foocheung.shinyapps.io/adat/"

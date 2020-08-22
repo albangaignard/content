@@ -28,8 +28,8 @@
       "sc:name": "Synteny Portal",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioinfo.konkuk.ac.kr/synteny_portal/"
     },

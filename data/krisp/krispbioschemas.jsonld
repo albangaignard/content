@@ -43,9 +43,9 @@
       "sc:license": "Other",
       "sc:name": "krisp",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://www.krisp.org.za/tools.php"
     }

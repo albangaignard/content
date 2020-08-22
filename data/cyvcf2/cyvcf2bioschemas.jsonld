@@ -17,12 +17,12 @@
       "@id": "https://bio.tools/cyvcf2",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Aaron R Quinlan",
-        "Brent S Pedersen"
+        "Brent S Pedersen",
+        "Aaron R Quinlan"
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:28165109",

@@ -36,8 +36,8 @@
       "sc:name": "StanEx1",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://stanex.stanford.edu/about/"
     }

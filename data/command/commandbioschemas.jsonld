@@ -31,17 +31,17 @@
           "@id": "edam:operation_2495"
         },
         {
-          "@id": "edam:operation_3800"
+          "@id": "edam:operation_3431"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_3800"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "COMMAND",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "https://github.com/marcomoretto/command"

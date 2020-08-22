@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1038/nmeth.4150",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0002-8105-4347",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1038/nmeth.4150",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/monocle",
@@ -24,8 +24,8 @@
         "@id": "http://orcid.org/0000-0002-8105-4347"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:28114287",

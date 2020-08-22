@@ -17,8 +17,8 @@
   "sc:name": "pyOpenMS",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://github.com/OpenMS/pyopenms-extra/blob/master/docs/source/index.rst"
 }
