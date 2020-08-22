@@ -23,7 +23,9 @@
     "documentation": [
         {
             "note": "This is a link to our knowledgebase which is constantly being updated.",
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://www.help.proteoworker.com"
         }
     ],
@@ -86,17 +88,21 @@
         }
     ],
     "homepage": "https://www.proteoworker.com",
-    "lastUpdate": "2019-10-03T02:01:14Z",
+    "lastUpdate": "2020-02-12T18:16:19Z",
     "license": "Proprietary",
     "link": [
         {
             "note": "This is a link to our knowledgebase",
-            "type": "Helpdesk",
+            "type": [
+                "Helpdesk"
+            ],
             "url": "https://www.help.proteoworker.com/?utm_source=elixir"
         },
         {
             "note": "Just enter your email for updates and you'll be added to our mailing list",
-            "type": "Mailing list",
+            "type": [
+                "Mailing list"
+            ],
             "url": "https://www.proteoworker.com/?utm_source=elixir"
         }
     ],
@@ -107,7 +113,7 @@
         "Windows",
         "Mac"
     ],
-    "owner": "ezmirelda85",
+    "owner": "admin",
     "toolType": [
         "Web application"
     ],
