@@ -27,13 +27,16 @@
     "description": "Straightforward filtering index for affinity purification mass spectrometry data analysis.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "http://sfinx.ugent.be/"
         }
     ],
     "editPermission": {
         "authors": [
-            "proteomics.bio.tools"
+            "proteomics.bio.tools",
+            "bits@vib.be"
         ],
         "type": "group"
     },
@@ -64,7 +67,7 @@
         }
     ],
     "homepage": "http://sfinx.ugent.be/",
-    "lastUpdate": "2019-03-26T08:38:26Z",
+    "lastUpdate": "2020-08-19T12:15:50Z",
     "name": "SFINX",
     "operatingSystem": [
         "Linux",
@@ -105,7 +108,9 @@
                 "journal": "Journal of Proteome Research",
                 "title": "SFINX: Straightforward Filtering Index for Affinity Purification-Mass Spectrometry Data Analysis"
             },
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
