@@ -17,8 +17,8 @@
   "sc:name": "MERAV",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://merav.wi.mit.edu/"
 }

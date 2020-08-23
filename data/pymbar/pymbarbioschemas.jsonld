@@ -13,8 +13,8 @@
   "biotools:primaryContact": [
     "Michael R. Shirts",
     "Levi N. Naden",
-    "John D. Chodera",
-    "Kyle A. Beauchamp"
+    "Kyle A. Beauchamp",
+    "John D. Chodera"
   ],
   "sc:additionalType": "Library",
   "sc:description": "Python implementation of the multistate Bennett acceptance ratio (MBAR) method for estimating expectations and free energy differences from equilibrium samples from multiple probability densities.",

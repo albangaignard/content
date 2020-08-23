@@ -29,12 +29,12 @@
       "sc:name": "MARNA web server",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:provider": [
-        "rnateam",
-        "University Freiburg"
+        "University Freiburg",
+        "rnateam"
       ],
       "sc:url": "http://rna.informatik.uni-freiburg.de/MARNA/",
       "sc:version": "1.0.0"

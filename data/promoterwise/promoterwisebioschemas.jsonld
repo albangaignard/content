@@ -19,8 +19,8 @@
   "sc:description": "Compare two DNA sequences allowing for inversions and translocations, ideal for promoters.",
   "sc:name": "PromoterWise",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "EMBL-EBI",

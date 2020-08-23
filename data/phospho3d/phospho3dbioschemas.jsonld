@@ -19,8 +19,8 @@
   "sc:name": "Phospho3d",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": "ELIXIR-ITA-SAPIENZA",
   "sc:url": "http://www.phospho3d.org/"

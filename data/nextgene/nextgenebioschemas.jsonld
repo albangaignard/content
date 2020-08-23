@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/nextgene",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Product Sales and Marketing",
     "Technical Service",
+    "Product Sales and Marketing",
     "Contact Form"
   ],
   "sc:additionalType": "Desktop application",

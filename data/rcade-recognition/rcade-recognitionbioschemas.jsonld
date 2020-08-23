@@ -19,8 +19,8 @@
   "sc:name": "RCADE",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://rcade.ccbr.utoronto.ca/"
 }

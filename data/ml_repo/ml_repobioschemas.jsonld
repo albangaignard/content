@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/GIGASCIENCE/GIZ042",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://orcid.org/0000-0002-8205-2511",
       "@type": "schema:Person"
     },
@@ -47,10 +43,14 @@
       "sc:name": "ML Repo",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://knights-lab.github.io/MLRepo/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/GIGASCIENCE/GIZ042",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

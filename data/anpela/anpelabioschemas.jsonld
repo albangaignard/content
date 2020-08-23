@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Yunxia Wang",
-    "Jianbo Fu",
     "Jing Tang",
+    "Jianbo Fu",
     "Feng Zhu"
   ],
   "sc:additionalType": "Web application",
@@ -21,8 +21,8 @@
   "sc:license": "Unlicense",
   "sc:name": "ANPELA",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://idrblab.cn/anpela/"

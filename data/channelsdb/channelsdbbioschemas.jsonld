@@ -13,14 +13,14 @@
   "biotools:primaryContact": "Karel Berka",
   "sc:additionalType": "Database portal",
   "sc:author": [
+    "David Sehnal",
     "Lukáš Pravda",
-    "Dominik Toušek",
-    "David Sehnal"
+    "Dominik Toušek"
   ],
   "sc:contributor": [
-    "Karel Berka",
-    "Michal Otyepka",
     "Veronika Navrátilová",
+    "Michal Otyepka",
+    "Karel Berka",
     "Jaroslav Koča",
     "Radka Svobodová Vařeková"
   ],
@@ -28,8 +28,8 @@
   "sc:name": "ChannelsDB",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://ncbr.muni.cz/ChannelsDB/",
   "sc:version": "1.0"

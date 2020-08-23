@@ -46,9 +46,9 @@
       },
       "sc:name": "EXPLoRA",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:provider": "ugent.be",
       "sc:url": "http://bioinformatics.intec.ugent.be/explora-web/",

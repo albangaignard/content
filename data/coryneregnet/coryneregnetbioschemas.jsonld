@@ -29,17 +29,17 @@
           "@id": "edam:operation_3439"
         },
         {
-          "@id": "edam:operation_2497"
+          "@id": "edam:operation_0338"
         },
         {
-          "@id": "edam:operation_0338"
+          "@id": "edam:operation_2497"
         }
       ],
       "sc:name": "CoryneRegNet",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": "bmb.sdu.dk",
       "sc:url": "http://www.coryneregnet.de"

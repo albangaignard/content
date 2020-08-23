@@ -13,14 +13,14 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "EMBOSS Contributors",
-    "Wellcome Trust",
     "UK MRC",
-    "UK BBSRC"
+    "UK BBSRC",
+    "Wellcome Trust"
   ],
   "sc:description": "Plot potential open reading frames in a nucleotide sequence.",
   "sc:funder": [
-    "UK MRC",
     "UK BBSRC",
+    "UK MRC",
     "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",

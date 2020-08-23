@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12859-018-2459-9",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/GLUE",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -39,15 +43,11 @@
       "sc:license": "AGPL-3.0",
       "sc:name": "GLUE",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://tools.glue.cvr.ac.uk/#/home"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12859-018-2459-9",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

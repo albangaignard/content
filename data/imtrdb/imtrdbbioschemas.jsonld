@@ -17,8 +17,8 @@
         "Viktor Shamansky"
       ],
       "sc:additionalType": [
-        "Database portal",
-        "Desktop application"
+        "Desktop application",
+        "Database portal"
       ],
       "sc:citation": [
         "pmcid:PMC6614062",
@@ -30,18 +30,18 @@
       "sc:description": "Database and software for mitochondrial imperfect interspersed repeats annotation.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_0237"
         },
         {
-          "@id": "edam:operation_0237"
+          "@id": "edam:operation_3431"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "ImtRDB",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://bioinfodbs.kantiana.ru/ImtRDB/"
     },

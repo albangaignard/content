@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/pathrnet",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jia Meng",
-    "Yidong Chen",
     "yufei.huang@utsa.edu",
-    "Shou-Jiang Gao"
+    "Yidong Chen",
+    "Shou-Jiang Gao",
+    "Jia Meng"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:21143778",

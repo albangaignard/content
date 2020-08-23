@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/mole",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
+    "Desktop application",
     "Command-line tool",
-    "Web application",
-    "Desktop application"
+    "Web application"
   ],
   "sc:author": "Martin Petrek",
   "sc:contributor": [
@@ -24,8 +24,8 @@
   "sc:license": "Other",
   "sc:name": "MOLE",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": [

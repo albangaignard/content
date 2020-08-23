@@ -13,15 +13,15 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
-    "UK MRC",
+    "EMBOSS Contributors",
     "UK BBSRC",
-    "EMBOSS Contributors"
+    "UK MRC"
   ],
   "sc:description": "Scan protein sequence(s) with fingerprints from the PRINTS database.",
   "sc:funder": [
-    "UK BBSRC",
     "Wellcome Trust",
-    "UK MRC"
+    "UK MRC",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "pscan",
