@@ -39,9 +39,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "scNPF",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://github.com/BMILAB/scNPF"
     },

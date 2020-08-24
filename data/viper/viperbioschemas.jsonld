@@ -30,17 +30,17 @@
           "@id": "edam:operation_3562"
         },
         {
-          "@id": "edam:operation_0314"
+          "@id": "edam:operation_3630"
         },
         {
-          "@id": "edam:operation_3630"
+          "@id": "edam:operation_0314"
         }
       ],
       "sc:name": "viper",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/viper.html",
       "sc:version": "1.12.0"

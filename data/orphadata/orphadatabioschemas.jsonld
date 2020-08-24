@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Marc Hanauer",
   "sc:additionalType": [
-    "SPARQL endpoint",
     "Database portal",
-    "Web API"
+    "Web API",
+    "SPARQL endpoint"
   ],
   "sc:contributor": [
     "Céline Rousselot",
@@ -29,8 +29,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "Inserm US14",
-    "Orphanet Inserm"
+    "Orphanet Inserm",
+    "Inserm US14"
   ],
   "sc:url": "http://www.orphadata.org/"
 }

@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0002-7496-7578",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/simap",
       "@type": "sc:SoftwareApplication",
       "edam:has_input": {
@@ -57,10 +61,6 @@
         "@id": "http://cube.univie.ac.at/resources/simap"
       },
       "sc:url": "http://cube.univie.ac.at/resources/simap"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-7496-7578",
-      "@type": "schema:Person"
     }
   ]
 }

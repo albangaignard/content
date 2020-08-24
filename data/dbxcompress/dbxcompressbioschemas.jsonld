@@ -14,8 +14,8 @@
   "sc:contributor": [
     "Wellcome Trust",
     "UK BBSRC",
-    "UK MRC",
-    "EMBOSS Contributors"
+    "EMBOSS Contributors",
+    "UK MRC"
   ],
   "sc:description": "Compress an uncompressed dbx index.",
   "sc:funder": [
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "dbxcompress",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

@@ -13,10 +13,10 @@
   "biotools:primaryContact": "Miha Moškon",
   "sc:additionalType": "Library",
   "sc:author": [
+    "Tanja Cvitanović",
     "Miha Mraz",
     "Miha Moškon",
-    "Damjana Rozman",
-    "Tanja Cvitanović"
+    "Damjana Rozman"
   ],
   "sc:contributor": [
     "Adviti Naik",
@@ -26,8 +26,8 @@
   "sc:name": "SysBio modelica library",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "ELIXIR-SI-hackathon",

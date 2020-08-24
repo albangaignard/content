@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Niko Beerenwinkel",
-    "Patrick Knupfer",
-    "Achim Tresch"
+    "Achim Tresch",
+    "Patrick Knupfer"
   ],
   "sc:additionalType": "Library",
   "sc:citation": "pubmed:21291413",

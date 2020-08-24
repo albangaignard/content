@@ -41,10 +41,10 @@
         "@id": "edam:topic_0080"
       },
       "sc:author": [
-        "Patrick Wright",
         {
           "@id": "http://orcid.org/0000-0001-8231-3323"
-        }
+        },
+        "Patrick Wright"
       ],
       "sc:citation": [
         "pubmed:24838564",
@@ -61,8 +61,8 @@
       "sc:name": "CopraRNA web server",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": [
         "rnateam",

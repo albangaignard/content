@@ -13,15 +13,15 @@
   "biotools:primaryContact": "Yoseph Barash",
   "sc:additionalType": [
     "Web API",
-    "Command-line tool",
-    "Web service"
+    "Web service",
+    "Command-line tool"
   ],
   "sc:description": "Web-tool to interrogate classical and complex splicing variations from RNA-Seq data.",
   "sc:license": "Unlicense",
   "sc:name": "MAJIQ-SPEL",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:url": "http://majiq.biociphers.org/majiq-spel",

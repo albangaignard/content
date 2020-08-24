@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
+    "UK MRC",
     "EMBOSS Contributors",
-    "Wellcome Trust",
-    "UK MRC"
+    "Wellcome Trust"
   ],
   "sc:description": "Index a GCG formatted database using b+tree indices.",
   "sc:funder": [

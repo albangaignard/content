@@ -12,22 +12,22 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
-    "Wellcome Trust",
-    "UK MRC",
-    "EMBOSS Contributors"
-  ],
-  "sc:description": "Many-to-many pairwise alignments of two sequence sets.",
-  "sc:funder": [
+    "EMBOSS Contributors",
     "Wellcome Trust",
     "UK MRC",
     "UK BBSRC"
   ],
+  "sc:description": "Many-to-many pairwise alignments of two sequence sets.",
+  "sc:funder": [
+    "UK BBSRC",
+    "Wellcome Trust",
+    "UK MRC"
+  ],
   "sc:license": "GPL-3.0",
   "sc:name": "needleall",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": [

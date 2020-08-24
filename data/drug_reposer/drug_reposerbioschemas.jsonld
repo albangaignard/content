@@ -26,20 +26,20 @@
       "sc:description": "Web server for predicting similar amino acid arrangements to known drug binding interfaces for potential drug repositioning.",
       "sc:featureList": [
         {
+          "@id": "edam:operation_0478"
+        },
+        {
           "@id": "edam:operation_0420"
         },
         {
           "@id": "edam:operation_0480"
-        },
-        {
-          "@id": "edam:operation_0478"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "Drug ReposER",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://mfrlab.org/drugreposer/"

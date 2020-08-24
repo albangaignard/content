@@ -23,8 +23,8 @@
         "@id": "edam:data_1566"
       },
       "sc:additionalType": [
-        "Command-line tool",
         "Web application",
+        "Command-line tool",
         "Library"
       ],
       "sc:applicationSubCategory": {

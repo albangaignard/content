@@ -14,21 +14,21 @@
   "sc:contributor": [
     "EMBOSS Contributors",
     "UK BBSRC",
-    "Wellcome Trust",
-    "UK MRC"
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:description": "Get common ancestor for terms.",
   "sc:funder": [
+    "UK BBSRC",
     "UK MRC",
-    "Wellcome Trust",
-    "UK BBSRC"
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "ontogetcommon",
   "sc:operatingSystem": [
-    "Linux",
+    "Mac",
     "Windows",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
     "EMBL EBI",

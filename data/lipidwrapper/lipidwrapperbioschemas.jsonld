@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Rommie E. Amaro",
       "sc:additionalType": [
-        "Library",
-        "Desktop application"
+        "Desktop application",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC4102414",
@@ -27,10 +27,10 @@
       "sc:description": "An Algorithm for Generating Large-Scale Membrane Models of Arbitrary Geometry.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0477"
+          "@id": "edam:operation_0270"
         },
         {
-          "@id": "edam:operation_0270"
+          "@id": "edam:operation_0477"
         }
       ],
       "sc:name": "LipidWrapper",

@@ -19,8 +19,8 @@
   "sc:name": "CCFold",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://pharm.kuleuven.be/apps/biocryst/ccfold.php"
 }

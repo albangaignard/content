@@ -15,9 +15,9 @@
   "sc:license": "Other",
   "sc:name": "inDelphi",
   "sc:operatingSystem": [
-    "Linux",
+    "Mac",
     "Windows",
-    "Mac"
+    "Linux"
   ],
   "sc:url": "https://indelphi.giffordlab.mit.edu"
 }
