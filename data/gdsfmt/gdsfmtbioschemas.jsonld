@@ -22,8 +22,8 @@
         "@id": "edam:data_1276"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_3071"
@@ -43,8 +43,8 @@
       "sc:name": "gdsfmt",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/gdsfmt.html",
       "sc:version": "1.10.0"

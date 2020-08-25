@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Hsien-Da Huang",
-    "Tzong-Yi Lee",
-    "Wen-Chi Chang"
+    "Wen-Chi Chang",
+    "Tzong-Yi Lee"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:21037261",

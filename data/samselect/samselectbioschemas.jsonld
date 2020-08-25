@@ -16,8 +16,8 @@
   "sc:name": "SamSelect",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/qyu071/samselect"
 }

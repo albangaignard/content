@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://orcid.org/0000-0002-2416-9842",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://doi.org/10.1093/NAR/GKZ366",
       "@type": "sc:CreativeWork"
     },
@@ -20,15 +24,15 @@
         "@id": "https://orcid.org/0000-0002-2416-9842"
       },
       "sc:additionalType": [
-        "Web application",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1093/NAR/GKZ366"
         },
-        "pubmed:31076763",
-        "pmcid:PMC6602495"
+        "pmcid:PMC6602495",
+        "pubmed:31076763"
       ],
       "sc:description": "Domain-based transcriptome and proteome quality assessment.",
       "sc:featureList": {
@@ -37,15 +41,11 @@
       "sc:license": "Unlicense",
       "sc:name": "DOGMA",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://domainworld-services.uni-muenster.de/dogma/"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-2416-9842",
-      "@type": "schema:Person"
     }
   ]
 }

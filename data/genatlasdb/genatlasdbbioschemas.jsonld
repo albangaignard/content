@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Alexandra Caude",
+    "Claude Mugnier",
     "Marie-Liesse Chauvet",
-    "Martine Lemerrer",
-    "Claude Mugnier"
+    "Martine Lemerrer"
   ],
   "sc:additionalType": [
     "Web application",

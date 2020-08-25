@@ -38,8 +38,8 @@
       ],
       "sc:name": "eTRIKS",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "https://www.etriks.org/"

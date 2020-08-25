@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/Chickspress",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Eric H Lyons",
     "Fiona M McCarthy",
+    "Eric H Lyons",
     "Shane C Burgess"
   ],
   "sc:additionalType": "Web application",

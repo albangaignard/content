@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gku1250",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/t-lex2",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Anna-Sophie Fiston-Lavier",
@@ -35,6 +31,10 @@
         "Linux"
       ],
       "sc:url": "http://petrov.stanford.edu/cgi-bin/Tlex.html"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gku1250",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

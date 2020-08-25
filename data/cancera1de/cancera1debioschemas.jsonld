@@ -28,9 +28,9 @@
       "sc:license": "Unlicense",
       "sc:name": "CancerA1DE",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://cancer.cs.cityu.edu.hk/"
     },

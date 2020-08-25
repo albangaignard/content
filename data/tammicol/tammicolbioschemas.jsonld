@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "H. Tronnolone",
       "sc:additionalType": [
-        "Desktop application",
-        "Command-line tool"
+        "Command-line tool",
+        "Desktop application"
       ],
       "sc:citation": [
         "pmcid:PMC6292648",
@@ -34,10 +34,10 @@
           "@id": "edam:operation_3443"
         },
         {
-          "@id": "edam:operation_0417"
+          "@id": "edam:operation_3799"
         },
         {
-          "@id": "edam:operation_3799"
+          "@id": "edam:operation_0417"
         }
       ],
       "sc:license": "GPL-3.0",

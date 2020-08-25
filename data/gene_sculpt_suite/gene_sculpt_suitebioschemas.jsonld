@@ -32,8 +32,8 @@
       "sc:name": "Gene Sculpt Suite",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://www.genesculpt.org"
     }

@@ -29,9 +29,9 @@
       "sc:description": "Insert SECIS-elements in coding mRNAs.",
       "sc:name": "SECISDesign web server",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:provider": [
         "rnateam",
