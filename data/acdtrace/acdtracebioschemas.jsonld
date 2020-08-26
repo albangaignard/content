@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "EMBOSS Contributors",
-    "UK BBSRC",
     "Wellcome Trust",
-    "UK MRC"
+    "EMBOSS Contributors",
+    "UK MRC",
+    "UK BBSRC"
   ],
   "sc:description": "Trace processing of an application ACD file (for testing).",
   "sc:funder": [

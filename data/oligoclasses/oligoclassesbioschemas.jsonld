@@ -15,8 +15,8 @@
     "Robert Scharpf"
   ],
   "sc:additionalType": [
-    "Command-line tool",
-    "Library"
+    "Library",
+    "Command-line tool"
   ],
   "sc:description": "This package contains class definitions, validity checks, and initialization methods for classes used by the oligo and crlmm packages.",
   "sc:license": "GPL-2.0",

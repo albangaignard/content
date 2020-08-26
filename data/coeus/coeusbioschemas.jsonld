@@ -21,8 +21,8 @@
         "Pedro Lopes"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC3554586",
@@ -46,9 +46,9 @@
       "sc:license": "CC-BY-3.0",
       "sc:name": "COEUS",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bioinformatics.ua.pt/coeus/"
     }

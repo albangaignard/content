@@ -15,8 +15,8 @@
   "sc:name": "SURFY",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://wlab.ethz.ch/surfaceome/"
 }

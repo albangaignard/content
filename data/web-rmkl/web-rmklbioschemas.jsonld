@@ -13,14 +13,14 @@
       "@id": "https://bio.tools/web-rMKL",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Nico Pfeifer",
         "Nicolas Kersten",
-        "Marius Herr"
+        "Marius Herr",
+        "Nico Pfeifer"
       ],
       "sc:additionalType": [
+        "Desktop application",
         "Web application",
-        "Web service",
-        "Desktop application"
+        "Web service"
       ],
       "sc:citation": [
         "pmcid:PMC6602472",
@@ -41,8 +41,8 @@
       "sc:license": "Unlicense",
       "sc:name": "web-rMKL",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://web-rMKL.org"

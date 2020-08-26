@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Daniel Svozil",
-    "Petr Cech",
-    "Bohdan Schneider",
     "Filip Lankaš",
+    "Bohdan Schneider",
+    "Petr Cech",
     "Jiří Černý"
   ],
   "sc:additionalType": "Database portal",

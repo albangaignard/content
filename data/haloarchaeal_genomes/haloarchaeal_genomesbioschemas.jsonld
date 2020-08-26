@@ -19,8 +19,8 @@
   "sc:license": "Unlicense",
   "sc:name": "Haloarchaeal Genomes",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:url": "https://halo.umbc.edu/"

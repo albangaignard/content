@@ -21,10 +21,10 @@
         "Command-line tool"
       ],
       "sc:citation": [
+        "pubmed:15173120",
         {
           "@id": "https://doi.org/10.1101/gr.849004"
         },
-        "pubmed:15173120",
         "pmcid:PMC419797"
       ],
       "sc:description": "Web-based application designed to make generate sequence logos.",
@@ -41,9 +41,9 @@
       ],
       "sc:name": "WebLogo 3",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://weblogo.threeplusone.com"
     }

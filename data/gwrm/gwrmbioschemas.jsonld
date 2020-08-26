@@ -41,8 +41,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "GWRM",
       "sc:operatingSystem": [
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/GWRM/",
       "sc:version": "2.1.0.3"

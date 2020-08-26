@@ -36,9 +36,9 @@
       },
       "sc:name": "GXA Expt",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:provider": "Identifiers.org",
       "sc:url": "http://www.ebi.ac.uk/gxa/"

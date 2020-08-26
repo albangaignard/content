@@ -20,9 +20,9 @@
     "Windows"
   ],
   "sc:provider": [
-    "bigi",
+    "CeBiTec",
     "Bielefeld University",
-    "CeBiTec"
+    "bigi"
   ],
   "sc:url": "https://qupe.cebitec.uni-bielefeld.de",
   "sc:version": "1.0"

@@ -14,17 +14,17 @@
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
         "Database portal",
-        "Web application",
         "Web API",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1093/bioinformatics/bts577"
         },
-        "pubmed:24753429",
         "pubmed:23023984",
-        "pmcid:PMC3516146"
+        "pmcid:PMC3516146",
+        "pubmed:24753429"
       ],
       "sc:contributor": [
         "BBSRC",

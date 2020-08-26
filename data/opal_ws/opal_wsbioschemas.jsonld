@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/opal_ws",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Wilfred Li",
     "Nadya Williams",
     "Luca Clementi",
+    "Wilfred Li",
     "Sriram Krishnan"
   ],
   "sc:additionalType": "Web application",

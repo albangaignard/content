@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Sam Ireland",
       "sc:additionalType": [
-        "Web API",
         "Database portal",
+        "Web API",
         "Web application"
       ],
       "sc:citation": [
@@ -32,10 +32,10 @@
       "sc:description": "Database of zinc binding sites.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0445"
+          "@id": "edam:operation_2575"
         },
         {
-          "@id": "edam:operation_2575"
+          "@id": "edam:operation_0445"
         },
         {
           "@id": "edam:operation_0389"

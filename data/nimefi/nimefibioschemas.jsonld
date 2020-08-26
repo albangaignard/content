@@ -14,8 +14,8 @@
   "sc:description": "Gene regulatory network inference using multiple ensemble feature importance algorithms.",
   "sc:name": "NIMEFI",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "ugent.be",

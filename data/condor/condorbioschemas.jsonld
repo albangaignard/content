@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Max F. Hantke",
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC4970500",
@@ -35,9 +35,9 @@
       "sc:license": "BSD-2-Clause",
       "sc:name": "Condor",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://github.com/FXIhub/condor",
       "sc:version": "1.0"
