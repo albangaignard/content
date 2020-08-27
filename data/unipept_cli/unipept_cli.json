@@ -25,7 +25,9 @@
     "description": "The Unipept command line interface (CLI) offers an easy way to integrate Unipept metaproteomics functionality into your data processing pipelines and scripts.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://unipept.ugent.be/clidocs"
         }
     ],
@@ -41,7 +43,8 @@
     ],
     "editPermission": {
         "authors": [
-            "proteomics.bio.tools"
+            "proteomics.bio.tools",
+            "bits@vib.be"
         ],
         "type": "group"
     },
@@ -147,7 +150,7 @@
     "language": [
         "Ruby"
     ],
-    "lastUpdate": "2019-03-26T08:41:51Z",
+    "lastUpdate": "2020-08-19T12:15:43Z",
     "license": "MIT",
     "maturity": "Mature",
     "name": "Unipept CLI",
@@ -191,7 +194,9 @@
                 "title": "High-throughput metaproteomics data analysis with Unipept: A tutorial"
             },
             "pmid": "28552653",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
