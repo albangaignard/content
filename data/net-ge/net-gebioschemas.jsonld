@@ -32,7 +32,10 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_3028"
+          "@id": "edam:data_2600"
+        },
+        {
+          "@id": "edam:data_1176"
         },
         {
           "@id": "edam:data_2343"
@@ -41,10 +44,7 @@
           "@id": "edam:data_1155"
         },
         {
-          "@id": "edam:data_2600"
-        },
-        {
-          "@id": "edam:data_1176"
+          "@id": "edam:data_3028"
         }
       ],
       "sc:additionalType": "Web application",
@@ -53,26 +53,26 @@
       },
       "sc:citation": [
         "pubmed:26110971",
+        "pmcid:PMC4480278",
         {
           "@id": "https://doi.org/10.1186/1471-2164-16-S8-S6"
-        },
-        "pmcid:PMC4480278"
+        }
       ],
       "sc:description": "Network-based enrichment analysis of gene sets.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_3083"
         },
         {
-          "@id": "edam:operation_3083"
+          "@id": "edam:operation_3501"
         }
       ],
       "sc:isAccessibleForFree": true,
       "sc:name": "NET-GE",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:provider": "ELIXIR-ITA-BOLOGNA",
       "sc:softwareHelp": {

@@ -40,9 +40,9 @@
       "sc:license": "Unlicense",
       "sc:name": "tREMAP",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/hansaimlim/REMAP/tree/master/TriFacREMAP"
     }

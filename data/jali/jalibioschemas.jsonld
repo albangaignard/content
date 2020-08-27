@@ -20,13 +20,13 @@
   "sc:name": "JAli",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
-    "Bielefeld University",
+    "BiBiServ",
     "CeBiTec",
-    "BiBiServ"
+    "Bielefeld University"
   ],
   "sc:url": "http://bibiserv.cebitec.uni-bielefeld.de/jali",
   "sc:version": "1.3"

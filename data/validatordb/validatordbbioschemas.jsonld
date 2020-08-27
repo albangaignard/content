@@ -14,9 +14,9 @@
   "sc:author": "David Sehnal",
   "sc:contributor": [
     "Radka Svobodová Vařeková",
+    "Lukáš Pravda",
     "Deepti Jaiswal",
-    "Crina-Maria Ionescu",
-    "Lukáš Pravda"
+    "Crina-Maria Ionescu"
   ],
   "sc:description": "Database of validation results for ligands and non-standard residues in the Protein Data Bank.",
   "sc:name": "ValidatorDB",

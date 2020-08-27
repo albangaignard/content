@@ -14,18 +14,14 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "https://orcid.org/0000-0002-6642-2367",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/EcRBPome",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "https://orcid.org/0000-0002-6642-2367"
       },
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:31117939",
@@ -40,20 +36,24 @@
           "@id": "edam:operation_3501"
         },
         {
-          "@id": "edam:operation_3901"
+          "@id": "edam:operation_3431"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_3901"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "EcRBPome",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://caps.ncbs.res.in/ecrbpome"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-6642-2367",
+      "@type": "schema:Person"
     }
   ]
 }

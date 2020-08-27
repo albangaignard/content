@@ -13,12 +13,12 @@
       "@id": "https://bio.tools/epga",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "George Potamias",
-        "George Patrinos"
+        "George Patrinos",
+        "George Potamias"
       ],
       "sc:additionalType": [
-        "Web application",
         "Web API",
+        "Web application",
         "Web service"
       ],
       "sc:citation": [

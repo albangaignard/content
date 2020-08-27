@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Galaxy Support Team",
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pubmed:20436464",
         "pmcid:PMC3146043",
+        "pubmed:20436464",
         {
           "@id": "https://doi.org/10.1038/nbt.1621"
         }

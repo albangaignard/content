@@ -26,13 +26,13 @@
   "sc:license": "GPL-3.0",
   "sc:name": "seqmatchall",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/seqmatchall.html",
   "sc:version": "r6"

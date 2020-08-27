@@ -45,8 +45,8 @@
       "sc:name": "NextBio gene-centric data",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://www.nextbio.com/"
     }

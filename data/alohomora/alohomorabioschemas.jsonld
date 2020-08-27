@@ -15,8 +15,8 @@
   "sc:name": "Alohomora",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://gmc.mdc-berlin.de/alohomora/",
   "sc:version": "0.33"

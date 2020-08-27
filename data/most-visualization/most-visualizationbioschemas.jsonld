@@ -17,8 +17,8 @@
   "sc:name": "MOST-visualization",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://most.ccib.rutgers.edu/"
 }

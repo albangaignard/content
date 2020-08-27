@@ -37,20 +37,20 @@
       ],
       "sc:name": "CoryneRegNet",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:provider": "bmb.sdu.dk",
       "sc:url": "http://www.coryneregnet.de"
     },
     {
-      "@id": "https://doi.org/10.1093/nar/gkr883",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0002-0282-0462",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkr883",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

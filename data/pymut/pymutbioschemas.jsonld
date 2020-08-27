@@ -38,10 +38,10 @@
       "sc:description": "PyMut is a Python3 module that fills the gap between machine learning and bioinformatics, providing methods that help in the prediction of pathology in protein mutations.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3225"
+          "@id": "edam:operation_3092"
         },
         {
-          "@id": "edam:operation_3092"
+          "@id": "edam:operation_3225"
         },
         {
           "@id": "edam:operation_3661"

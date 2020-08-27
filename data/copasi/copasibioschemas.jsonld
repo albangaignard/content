@@ -19,9 +19,9 @@
   "sc:license": "Artistic-2.0",
   "sc:name": "COPASI",
   "sc:operatingSystem": [
-    "Mac",
+    "Windows",
     "Linux",
-    "Windows"
+    "Mac"
   ],
   "sc:url": "http://copasi.org/"
 }

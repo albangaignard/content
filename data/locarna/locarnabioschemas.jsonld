@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1371/journal.pcbi.0030065",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0001-8231-3323",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/locarna",
@@ -61,8 +61,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "LocARNA",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": "University Freiburg",
       "sc:softwareHelp": {
@@ -72,8 +72,8 @@
       "sc:version": "1.8.9"
     },
     {
-      "@id": "http://orcid.org/0000-0001-8231-3323",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1371/journal.pcbi.0030065",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

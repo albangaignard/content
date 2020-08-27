@@ -11,17 +11,17 @@
   "@id": "https://bio.tools/hervd",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web application",
-    "Database portal"
+    "Database portal",
+    "Web application"
   ],
   "sc:author": [
     "Ondřej Moravčík",
     "Jan Pačes"
   ],
   "sc:contributor": [
-    "Radek Zí­ka",
     "Lucie Studená",
     "Mirka Famfulí­ková",
+    "Radek Zí­ka",
     "Adam Pavlí­ček",
     "Eva Prysiazhniuk"
   ],

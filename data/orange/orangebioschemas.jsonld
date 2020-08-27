@@ -21,16 +21,16 @@
         "Desktop application"
       ],
       "sc:author": [
-        "Anže Starič",
-        "Martin Stražar",
-        "Janez Demšar",
-        "Marko Toplak",
-        "Tomaž Curk",
         "Vesna Tanko",
+        "Marko Toplak",
         "Aleš Erjavec",
+        "Martin Stražar",
+        "Anže Starič",
+        "Tomaž Curk",
+        "Andrej Čopar",
+        "Janez Demšar",
         "Jernej Kernc",
-        "Lan Žagar",
-        "Andrej Čopar"
+        "Lan Žagar"
       ],
       "sc:citation": "pubmed:17586552",
       "sc:contributor": {
@@ -40,8 +40,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Orange",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:provider": [

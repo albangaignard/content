@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-1520-2268",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/proloc",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -33,16 +37,12 @@
       "sc:license": "GPL-2.0",
       "sc:name": "pRoloc",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/pRoloc.html",
       "sc:version": "1.20.1"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-1520-2268",
-      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1371/journal.pcbi.1004920",
