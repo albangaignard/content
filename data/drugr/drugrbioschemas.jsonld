@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/DrugR",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Massoud Amanlou",
     "Ali Masoudi-Nejad",
-    "Yadollah Omidi",
-    "Yosef Masoudi-Sobhanzadeh"
+    "Massoud Amanlou",
+    "Yosef Masoudi-Sobhanzadeh",
+    "Yadollah Omidi"
   ],
   "sc:additionalType": [
     "Web application",
@@ -25,8 +25,8 @@
   "sc:license": "MIT",
   "sc:name": "DrugR+",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "http://www.drugr.ir"

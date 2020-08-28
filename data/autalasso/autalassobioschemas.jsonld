@@ -28,19 +28,19 @@
       "sc:description": "Automatic adaptive LASSO for genome-wide prediction.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3196"
-        },
-        {
           "@id": "edam:operation_3557"
         },
         {
           "@id": "edam:operation_3659"
+        },
+        {
+          "@id": "edam:operation_3196"
         }
       ],
       "sc:name": "AUTALASSO",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/patwa67/AUTALASSO"
     }

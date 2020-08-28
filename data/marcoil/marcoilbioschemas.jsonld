@@ -17,8 +17,8 @@
   "sc:name": "MARCOIL",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://bcf.isb-sib.ch/webmarcoil/webmarcoilINFOC1.html"
 }

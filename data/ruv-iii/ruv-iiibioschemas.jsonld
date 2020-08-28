@@ -36,18 +36,18 @@
           "@id": "edam:operation_2940"
         },
         {
-          "@id": "edam:operation_2939"
+          "@id": "edam:operation_3891"
         },
         {
-          "@id": "edam:operation_3891"
+          "@id": "edam:operation_2939"
         }
       ],
       "sc:license": "GPL-2.0",
       "sc:name": "RUV-III",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://cran.r-project.org/package=ruv"
     },

@@ -17,8 +17,8 @@
         "Database portal"
       ],
       "sc:citation": [
-        "pmcid:PMC5827693",
         "pubmed:29485622",
+        "pmcid:PMC5827693",
         {
           "@id": "https://doi.org/10.1038/sdata.2018.15"
         }
@@ -35,9 +35,9 @@
       "sc:license": "Unlicense",
       "sc:name": "ImmPort",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://www.immport.org"
     },

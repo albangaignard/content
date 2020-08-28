@@ -23,9 +23,9 @@
     "Mac"
   ],
   "sc:provider": [
+    "Eberhard-Karls-Universität Tübingen",
     "Freie Universität Berlin",
-    "ETH Zürich",
-    "Eberhard-Karls-Universität Tübingen"
+    "ETH Zürich"
   ],
   "sc:url": "http://www.openms.de",
   "sc:version": "2.0.0"

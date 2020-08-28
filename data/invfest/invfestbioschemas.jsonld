@@ -26,10 +26,10 @@
       "sc:description": "Database that stores inversion predictions from healthy individuals and enables to search inversions by gene symbol, genomic position and inversion name.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_3197"
         },
         {
-          "@id": "edam:operation_3197"
+          "@id": "edam:operation_3431"
         },
         {
           "@id": "edam:operation_3436"

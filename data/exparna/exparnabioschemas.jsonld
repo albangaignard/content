@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/btp065",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0001-8231-3323",
       "@type": "schema:Person"
     },
@@ -69,6 +65,10 @@
       },
       "sc:url": "http://www.bioinf.uni-freiburg.de/Software/#ExpaRNA-download",
       "sc:version": "1.0.0"
+    },
+    {
+      "@id": "https://doi.org/10.1093/bioinformatics/btp065",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

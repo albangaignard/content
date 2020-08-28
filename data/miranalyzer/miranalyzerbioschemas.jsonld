@@ -15,8 +15,8 @@
   "sc:name": "MiRanalyzer",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bioinfo2.ugr.es/miRanalyzer/miRanalyzer.php"
 }

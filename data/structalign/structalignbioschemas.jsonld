@@ -17,8 +17,8 @@
   "sc:name": "StructAlign",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://mouse.genebee.msu.ru/tools/StructAlign.html"
 }

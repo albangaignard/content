@@ -21,16 +21,16 @@
         "Desktop application"
       ],
       "sc:author": [
-        "Vesna Tanko",
-        "Marko Toplak",
-        "Aleš Erjavec",
-        "Martin Stražar",
-        "Anže Starič",
-        "Tomaž Curk",
-        "Andrej Čopar",
         "Janez Demšar",
+        "Martin Stražar",
+        "Andrej Čopar",
         "Jernej Kernc",
-        "Lan Žagar"
+        "Lan Žagar",
+        "Anže Starič",
+        "Marko Toplak",
+        "Tomaž Curk",
+        "Aleš Erjavec",
+        "Vesna Tanko"
       ],
       "sc:citation": "pubmed:17586552",
       "sc:contributor": {

@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
-    "UK BBSRC",
     "UK MRC",
+    "UK BBSRC",
     "EMBOSS Contributors"
   ],
   "sc:description": "Get ontology term(s) original full text.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "ontotext",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "EMBL EBI",

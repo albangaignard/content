@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/scNPF",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Wenbin Ye",
-        "Xiaohui Wu"
+        "Xiaohui Wu",
+        "Wenbin Ye"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -34,18 +34,18 @@
           "@id": "edam:operation_3557"
         },
         {
-          "@id": "edam:operation_3766"
+          "@id": "edam:operation_3463"
         },
         {
-          "@id": "edam:operation_3463"
+          "@id": "edam:operation_3766"
         }
       ],
       "sc:license": "GPL-2.0",
       "sc:name": "scNPF",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://github.com/BMILAB/scNPF"
     }

@@ -19,8 +19,8 @@
   "sc:name": "Ferret",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://limousophie35.github.io/Ferret/"
 }

@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "EMBOSS Contributors",
-    "Wellcome Trust",
     "UK BBSRC",
+    "Wellcome Trust",
     "UK MRC"
   ],
   "sc:description": "Get common ancestor for terms.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "ontogetcommon",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

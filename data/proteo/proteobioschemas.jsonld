@@ -15,12 +15,12 @@
   "sc:name": "PROTEO: Peptide evidence for the human genome",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
-    "CNIO",
     "CNIC",
+    "CNIO",
     "cnio.es"
   ],
   "sc:url": "http://proteo.bioinfo.cnio.es",

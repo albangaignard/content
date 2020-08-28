@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Pau Andrio",
   "sc:additionalType": [
-    "Suite",
     "Library",
+    "Suite",
     "Command-line tool",
     "Workflow"
   ],

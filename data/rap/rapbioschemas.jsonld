@@ -16,8 +16,8 @@
   "sc:name": "RAP",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": "ELIXIR-ITA-CINECA",
   "sc:url": "https://bioinformatics.cineca.it/rap",

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1002/jcc.24715",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/delphiforce",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Emil Alexov",
@@ -37,10 +41,6 @@
         "Mac"
       ],
       "sc:url": "http://compbio.clemson.edu/delphi-force/"
-    },
-    {
-      "@id": "https://doi.org/10.1002/jcc.24715",
-      "@type": "sc:CreativeWork"
     }
   ]
 }
