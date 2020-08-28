@@ -2,6 +2,9 @@
     "additionDate": "2017-08-03T19:01:17Z",
     "biotoolsCURIE": "biotools:seq2hosts",
     "biotoolsID": "seq2hosts",
+    "collectionID": [
+        "COVID-19"
+    ],
     "credit": [
         {
             "email": "xqxia@ihb.ac.cn",
@@ -15,7 +18,9 @@
     "description": "A web server of a dual-model approach, support vector machines (SVM) and a Mahalanobis distance discriminant (MD), to infer potential hosts of coronaviruses based on mononucleotide and dinucleotide biases of spike gene of coronaviruses.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "http://bioinfo.ihb.ac.cn/seq2hosts/"
         }
     ],
@@ -37,10 +42,12 @@
         "R",
         "Python"
     ],
-    "lastUpdate": "2018-12-10T12:58:51Z",
+    "lastUpdate": "2020-03-26T14:37:04Z",
     "link": [
         {
-            "type": "Software catalogue",
+            "type": [
+                "Software catalogue"
+            ],
             "url": "http://www.mybiosoftware.com/seq2hosts-predict-hosts-of-coronaviruses.html"
         }
     ],
@@ -75,7 +82,7 @@
                         "name": "Xia X.-Q."
                     }
                 ],
-                "citationCount": 2,
+                "citationCount": 5,
                 "date": "2015-11-26T00:00:00Z",
                 "journal": "Scientific Reports",
                 "title": "Inferring the hosts of coronavirus using dual statistical models based on nucleotide composition"
