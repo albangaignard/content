@@ -22,8 +22,8 @@
   "sc:name": "ValidatorDB",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "Masaryk University, Brno, Czech Republic",
   "sc:url": "http://webchem.ncbr.muni.cz/Platform/ValidatorDB"

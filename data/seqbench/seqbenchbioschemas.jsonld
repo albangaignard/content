@@ -28,8 +28,8 @@
       "sc:name": "SeqBench",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://www.icbi.at/software/seqbench/seqbench.shtml"
     },

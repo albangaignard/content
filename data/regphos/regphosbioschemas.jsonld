@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/regphos",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Wen-Chi Chang",
     "Hsien-Da Huang",
+    "Wen-Chi Chang",
     "Tzong-Yi Lee"
   ],
   "sc:additionalType": "Database portal",
@@ -21,8 +21,8 @@
   "sc:name": "RegPhos",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://regphos.mbc.nctu.edu.tw/"
 }

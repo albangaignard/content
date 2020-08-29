@@ -10,15 +10,11 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1002/humu.23655",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/match_box",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web API",
-        "Web application"
+        "Web application",
+        "Web API"
       ],
       "sc:author": "MacArthur Lab",
       "sc:citation": [
@@ -44,10 +40,14 @@
       "sc:name": "matchbox",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://seqr.broadinstitute.org/matchmaker/matchbox"
+    },
+    {
+      "@id": "https://doi.org/10.1002/humu.23655",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

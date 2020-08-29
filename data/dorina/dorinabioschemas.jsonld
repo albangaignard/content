@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0002-0468-0117",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/dorina",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -52,13 +48,13 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "doRiNA",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": [
-        "Max Delbrück Centre for Molecular Medicine",
-        "rnateam"
+        "rnateam",
+        "Max Delbrück Centre for Molecular Medicine"
       ],
       "sc:softwareHelp": [
         {
@@ -69,6 +65,10 @@
         }
       ],
       "sc:url": "http://dorina.mdc-berlin.de/"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-0468-0117",
+      "@type": "schema:Person"
     }
   ]
 }

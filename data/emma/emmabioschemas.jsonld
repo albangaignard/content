@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
-    "Wellcome Trust",
     "UK MRC",
+    "Wellcome Trust",
     "EMBOSS Contributors"
   ],
   "sc:description": "Multiple sequence alignment (ClustalW wrapper).",
@@ -27,8 +27,8 @@
   "sc:name": "emma",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/BiAlign",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Michael T. Wolfinger",
     "Sebastian Will",
+    "Maria Waldl",
     "Ivo L. Hofacker",
-    "Maria Waldl"
+    "Michael T. Wolfinger"
   ],
   "sc:additionalType": "Script",
   "sc:description": "Bi-Alignments as Models of Incongruent Evolution of RNA Sequence and Structure.",

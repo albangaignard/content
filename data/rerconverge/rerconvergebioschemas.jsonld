@@ -19,11 +19,11 @@
   ],
   "sc:additionalType": "Library",
   "sc:author": [
+    "Wynn Meyer",
     "Maria Chikina",
     "Weiguang (Wayne) Mao",
-    "Amanda Kowalczyk",
-    "Wynn Meyer",
     "Nathan Clark",
+    "Amanda Kowalczyk",
     "Raghavendran Partha"
   ],
   "sc:citation": "pubmed:31192356",
@@ -32,8 +32,8 @@
   "sc:name": "RERconverge",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://github.com/nclark-lab/RERconverge"
 }

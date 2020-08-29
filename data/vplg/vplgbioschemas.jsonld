@@ -16,8 +16,8 @@
   "sc:name": "VPLG",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.bioinformatik.uni-frankfurt.de/tools/vplg/index.html"
 }

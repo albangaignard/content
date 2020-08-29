@@ -17,8 +17,8 @@
   "sc:name": "iMem-Seq",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.jci-bioinfo.cn/iMem-Seq"
 }

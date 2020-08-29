@@ -22,9 +22,9 @@
   "sc:description": "Text mining for melanoma.",
   "sc:name": "MelanomaMine",
   "sc:operatingSystem": [
-    "Linux",
+    "Mac",
     "Windows",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
     "cnio.es",

@@ -17,8 +17,8 @@
   "sc:name": "VARID",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://compbio.cs.utoronto.ca/varid/"
 }

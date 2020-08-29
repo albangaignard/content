@@ -22,8 +22,8 @@
   "sc:name": "NaviKey",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": "SNSB IT Center",
   "sc:url": "http://www.navikey.net/"

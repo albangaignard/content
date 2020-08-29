@@ -18,8 +18,8 @@
   "sc:name": "DstarM",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://cran.r-project.org/package=DstarM"
 }

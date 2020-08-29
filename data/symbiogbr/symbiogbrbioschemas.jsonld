@@ -30,9 +30,9 @@
       },
       "sc:name": "SymbioGBR",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://www.symbiogbr.org"
     },

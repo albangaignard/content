@@ -13,8 +13,8 @@
   "biotools:primaryContact": [
     "Ludovic Cottret",
     "Sébastien Carrere",
-    "Erika Sallet",
-    "Jérôme Gouzy"
+    "Jérôme Gouzy",
+    "Erika Sallet"
   ],
   "sc:additionalType": "Web application",
   "sc:description": "Sensitive peptide detection on noisy matured sequences. A self-training integrative pipeline for predicting CDS in transcripts which can adapt itself to different levels of sequence qualities.",

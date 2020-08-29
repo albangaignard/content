@@ -28,10 +28,10 @@
       "sc:description": "Proteome-wide structure-based prediction of protein-protein interactions in Arabidopsis.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2497"
+          "@id": "edam:operation_2949"
         },
         {
-          "@id": "edam:operation_2949"
+          "@id": "edam:operation_2497"
         },
         {
           "@id": "edam:operation_0478"
@@ -39,9 +39,9 @@
       ],
       "sc:name": "Arabidopsis Interactions Viewer",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://bar.utoronto.ca/interactions2/"
     }

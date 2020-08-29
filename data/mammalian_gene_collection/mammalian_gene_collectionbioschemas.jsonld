@@ -17,8 +17,8 @@
   "sc:license": "Unlicense",
   "sc:name": "Mammalian Gene Collection",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://mgc.nci.nih.gov/"

@@ -16,8 +16,8 @@
   "sc:name": "QUALITY",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://indra.mullins.microbiol.washington.edu/quality/"
 }

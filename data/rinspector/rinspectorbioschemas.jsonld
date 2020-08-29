@@ -31,8 +31,8 @@
       },
       "sc:name": "RINspector",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://apps.cytoscape.org/apps/rinspector",
