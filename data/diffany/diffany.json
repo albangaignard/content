@@ -27,12 +27,17 @@
     "description": "Open-source toolbox for calculating and visualizing differential networks.",
     "documentation": [
         {
-            "type": "User manual",
+            "type": [
+                "User manual"
+            ],
             "url": "http://bioinformatics.psb.ugent.be/supplementary_data/solan/diffany/manual-cytoscape.md"
         }
     ],
     "editPermission": {
-        "type": "private"
+        "authors": [
+            "bits@vib.be"
+        ],
+        "type": "group"
     },
     "function": [
         {
@@ -76,7 +81,7 @@
     "language": [
         "Java"
     ],
-    "lastUpdate": "2018-12-10T12:58:52Z",
+    "lastUpdate": "2020-08-22T06:38:53.263904Z",
     "name": "Diffany",
     "operatingSystem": [
         "Linux",
@@ -106,12 +111,15 @@
                         "name": "De Peer Y.V."
                     }
                 ],
-                "citationCount": 14,
+                "citationCount": 17,
                 "date": "2016-01-05T00:00:00Z",
                 "journal": "BMC Bioinformatics",
                 "title": "Diffany: An ontology-driven framework to infer, visualise and analyse differential molecular networks"
             },
-            "type": "Primary"
+            "pmid": "26729218",
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
