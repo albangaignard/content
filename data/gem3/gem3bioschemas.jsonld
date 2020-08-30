@@ -14,8 +14,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:author": [
     "Alejandro Chacon",
-    "Santiago Marco-Sola",
-    "Simon Heath"
+    "Simon Heath",
+    "Santiago Marco-Sola"
   ],
   "sc:citation": "pubmed:23103880",
   "sc:contributor": "Paolo Ribeca",

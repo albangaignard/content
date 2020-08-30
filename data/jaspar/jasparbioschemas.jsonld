@@ -21,17 +21,17 @@
         }
       ],
       "sc:additionalType": [
+        "Web application",
         "Web API",
-        "Database portal",
-        "Web application"
+        "Database portal"
       ],
       "sc:description": "The high-quality transcription factor binding profile database.",
       "sc:license": "CC-BY-NC-4.0",
       "sc:name": "JASPAR",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://jaspar.genereg.net/"
     },

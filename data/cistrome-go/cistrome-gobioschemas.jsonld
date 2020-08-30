@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/NAR/GKZ332",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/Cistrome-GO",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -17,9 +21,9 @@
         "Clifford A Meyer"
       ],
       "sc:additionalType": [
+        "Web application",
         "Web service",
-        "Command-line tool",
-        "Web application"
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC6602521",
@@ -43,15 +47,11 @@
       "sc:license": "Other",
       "sc:name": "Cistrome-GO",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://go.cistrome.org/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKZ332",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

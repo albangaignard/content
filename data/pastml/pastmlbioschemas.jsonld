@@ -21,8 +21,8 @@
   "sc:name": "PastML",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://pastml.pasteur.fr/"
 }

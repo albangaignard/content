@@ -24,8 +24,8 @@
       "sc:name": "iHyd-PseAAC",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://app.aporc.org/iHyd-PseAAC/"
     },

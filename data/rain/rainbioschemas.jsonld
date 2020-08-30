@@ -38,9 +38,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "rain",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/rain.html",
       "sc:version": "1.8.0"

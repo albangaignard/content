@@ -13,10 +13,10 @@
   "sc:additionalType": "Database portal",
   "sc:author": "Živa Ramšak",
   "sc:contributor": [
-    "Ana Rotter",
-    "Kristina Gruden",
     "Špela Baebler",
+    "Kristina Gruden",
     "Matej Korbar",
+    "Ana Rotter",
     "Björn Usadel",
     "Igor Mozetič"
   ],
@@ -29,8 +29,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "National Institute of Biology, Slovenia",
-    "Jožef Stefan Institute, Slovenia"
+    "Jožef Stefan Institute, Slovenia",
+    "National Institute of Biology, Slovenia"
   ],
   "sc:url": "http://www.gomapman.org/"
 }

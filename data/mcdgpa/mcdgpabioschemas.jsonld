@@ -17,8 +17,8 @@
   "sc:name": "MCDGPA",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://doc.aporc.org/wiki/MCDGPA"
 }

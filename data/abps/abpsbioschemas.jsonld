@@ -30,8 +30,8 @@
       "sc:name": "ABPS",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://cran.r-project.org/package=ABPS"
     }

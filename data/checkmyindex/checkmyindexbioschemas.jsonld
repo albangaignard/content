@@ -21,8 +21,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "checkMyIndex",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "https://checkmyindex.pasteur.fr",

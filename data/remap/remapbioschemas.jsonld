@@ -14,20 +14,20 @@
   "sc:contributor": [
     "UK MRC",
     "Wellcome Trust",
-    "UK BBSRC",
-    "EMBOSS Contributors"
+    "EMBOSS Contributors",
+    "UK BBSRC"
   ],
   "sc:description": "Display restriction enzyme binding sites in a nucleotide sequence.",
   "sc:funder": [
     "Wellcome Trust",
-    "UK MRC",
-    "UK BBSRC"
+    "UK BBSRC",
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "remap",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": [

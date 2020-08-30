@@ -28,8 +28,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "LMAP",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://lmapaml.sourceforge.net/"
     },

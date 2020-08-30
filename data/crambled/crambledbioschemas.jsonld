@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-7876-7338",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.12688/F1000RESEARCH.7453.1",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/crambled",
@@ -20,8 +20,8 @@
         "@id": "http://orcid.org/0000-0002-7876-7338"
       },
       "sc:additionalType": [
-        "Desktop application",
-        "Web application"
+        "Web application",
+        "Desktop application"
       ],
       "sc:citation": [
         "pmcid:PMC4765721",
@@ -39,8 +39,8 @@
       "sc:url": "https://github.com/dralynch/crambled"
     },
     {
-      "@id": "https://doi.org/10.12688/F1000RESEARCH.7453.1",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0002-7876-7338",
+      "@type": "schema:Person"
     }
   ]
 }

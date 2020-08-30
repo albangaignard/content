@@ -13,8 +13,8 @@
   "biotools:primaryContact": "Francesca Buffa",
   "sc:additionalType": "Library",
   "sc:author": [
-    "Francesca Buffa",
     "Wei-Chen Cheng",
+    "Francesca Buffa",
     "Andrew Dhawan",
     "Alessandro Barberis"
   ],
@@ -23,8 +23,8 @@
   "sc:name": "sigQC",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://cran.r-project.org/package=sigQC",
   "sc:version": "0.1.21"

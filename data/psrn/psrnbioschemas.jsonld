@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Systems Biology Lab, National Chung Hsing University",
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pmcid:PMC6307140",
@@ -27,21 +27,21 @@
       "sc:description": "Plant stress RNA-Seq nexus (PSRN) - stress-specific transcriptome database in plant cells.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3223"
-        },
-        {
           "@id": "edam:operation_3680"
         },
         {
           "@id": "edam:operation_3800"
+        },
+        {
+          "@id": "edam:operation_3223"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "PSRN",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://syslab5.nchu.edu.tw/"
     },

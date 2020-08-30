@@ -19,16 +19,16 @@
   ],
   "sc:description": "Merge two large overlapping DNA sequences.",
   "sc:funder": [
-    "UK MRC",
     "Wellcome Trust",
+    "UK MRC",
     "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "megamerger",
   "sc:operatingSystem": [
-    "Linux",
+    "Mac",
     "Windows",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
     "EMBL EBI",

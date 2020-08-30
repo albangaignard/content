@@ -29,8 +29,8 @@
       "sc:name": "dbNSFP",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://sites.google.com/site/jpopgen/dbNSFP",
       "sc:version": "3.0"

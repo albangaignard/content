@@ -30,8 +30,8 @@
       },
       "sc:name": "TOMOJ",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "https://sourceforge.net/projects/tomoj/",

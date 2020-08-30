@@ -25,13 +25,13 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_0863"
+          "@id": "edam:data_2968"
         },
         {
           "@id": "edam:data_2969"
         },
         {
-          "@id": "edam:data_2968"
+          "@id": "edam:data_0863"
         }
       ],
       "sc:additionalType": "Workbench",
@@ -55,10 +55,10 @@
           "@id": "edam:operation_2495"
         },
         {
-          "@id": "edam:operation_2928"
+          "@id": "edam:operation_0314"
         },
         {
-          "@id": "edam:operation_0314"
+          "@id": "edam:operation_2928"
         },
         {
           "@id": "edam:operation_0337"

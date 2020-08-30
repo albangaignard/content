@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0003-4942-8131",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/rtn",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -24,8 +28,8 @@
         "Command-line tool"
       ],
       "sc:citation": [
-        "pmcid:PMC3778544",
         "pubmed:24043118",
+        "pmcid:PMC3778544",
         {
           "@id": "https://doi.org/10.1038/ncomms3464"
         }
@@ -38,15 +42,11 @@
       "sc:name": "RTN",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/RTN.html",
       "sc:version": "1.12.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0003-4942-8131",
-      "@type": "schema:Person"
     }
   ]
 }

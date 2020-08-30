@@ -43,8 +43,8 @@
       "sc:name": "InvFEST",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://invfestdb.uab.cat/"
     }
