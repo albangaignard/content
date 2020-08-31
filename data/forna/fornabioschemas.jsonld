@@ -50,9 +50,9 @@
       },
       "sc:name": "Forna",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:provider": "bioinf.uni-leipzig.de",
       "sc:url": "http://rna.tbi.univie.ac.at/forna/",

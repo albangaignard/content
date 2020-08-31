@@ -32,8 +32,8 @@
       "sc:name": "COMAN",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://147.8.185.62/COMAN/"
     }

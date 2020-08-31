@@ -18,8 +18,8 @@
   "sc:license": "Not licensed",
   "sc:name": "PolyMarker",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://polymarker.tgac.ac.uk/"

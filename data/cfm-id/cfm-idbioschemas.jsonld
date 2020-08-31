@@ -16,8 +16,8 @@
   "sc:name": "CFM-ID",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://cfmid.wishartlab.com"
 }

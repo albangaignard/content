@@ -16,8 +16,8 @@
         "@id": "https://orcid.org/0000-0003-4525-7793"
       },
       "sc:additionalType": [
-        "Web API",
         "Database portal",
+        "Web API",
         "Web application"
       ],
       "sc:description": "Database of protein disorder and mobility annotations.",
@@ -25,8 +25,8 @@
       "sc:name": "MobiDB",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": "University of Padua, Department of Biomedical Sciences, BioComputing UP lab",
       "sc:url": "http://mobidb.bio.unipd.it",

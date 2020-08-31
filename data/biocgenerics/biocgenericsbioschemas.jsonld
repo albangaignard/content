@@ -18,15 +18,15 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "BioConductor Package Maintainer",
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1038/nmeth.3252"
         },
-        "pmcid:PMC4509590",
-        "pubmed:25633503"
+        "pubmed:25633503",
+        "pmcid:PMC4509590"
       ],
       "sc:contributor": {
         "@id": "http://orcid.org/0000-0002-0474-2218"
@@ -34,10 +34,10 @@
       "sc:description": "S4 generic functions needed by many BioConductor packages.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_2495"
         },
         {
-          "@id": "edam:operation_2495"
+          "@id": "edam:operation_3196"
         }
       ],
       "sc:license": "Artistic-2.0",

@@ -24,8 +24,8 @@
         "@id": "edam:data_2536"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Desktop application"
+        "Desktop application",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
@@ -36,8 +36,8 @@
         }
       ],
       "sc:citation": [
-        "pmcid:PMC3471674",
         "pubmed:23051804",
+        "pmcid:PMC3471674",
         {
           "@id": "https://doi.org/10.1038/nbt.2377"
         }

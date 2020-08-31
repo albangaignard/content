@@ -32,9 +32,9 @@
       ],
       "sc:name": "Kiwi",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://pythonhosted.org/KiwiDist/index.html"
     },

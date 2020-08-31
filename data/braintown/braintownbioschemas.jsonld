@@ -27,8 +27,8 @@
       },
       "sc:name": "Braintown",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://github.com/mikeusru/Braintown"
