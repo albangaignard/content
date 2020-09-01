@@ -17,8 +17,8 @@
   "sc:name": "SCOR",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://scor.berkeley.edu/"
 }

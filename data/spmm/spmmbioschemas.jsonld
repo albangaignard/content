@@ -16,8 +16,8 @@
   "sc:name": "SPMM",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://p512.usc.edu/"
 }

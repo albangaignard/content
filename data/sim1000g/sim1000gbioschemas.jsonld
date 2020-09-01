@@ -36,9 +36,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "sim1000G",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://cran.r-project.org/package=sim1000G",
       "sc:version": "1.39"

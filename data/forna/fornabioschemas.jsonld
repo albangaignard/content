@@ -50,8 +50,8 @@
       },
       "sc:name": "Forna",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:provider": "bioinf.uni-leipzig.de",

@@ -16,8 +16,8 @@
   "sc:name": "PSI",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://tcoffee.crg.cat/apps/tcoffee/do:tmcoffee"
 }

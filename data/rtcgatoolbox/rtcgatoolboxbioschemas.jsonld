@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Mehmet Kemal Samur",
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:25181531",
@@ -35,9 +35,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "RTCGAToolbox",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/RTCGAToolbox.html",
       "sc:version": "2.4.0"

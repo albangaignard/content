@@ -19,9 +19,9 @@
   ],
   "sc:description": "Alter the name or description of a sequence.",
   "sc:funder": [
+    "Wellcome Trust",
     "UK MRC",
-    "UK BBSRC",
-    "Wellcome Trust"
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "descseq",

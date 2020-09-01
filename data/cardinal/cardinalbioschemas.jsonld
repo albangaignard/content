@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/bioinformatics/btv146",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/cardinal",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Kylie A. Bemis",
@@ -25,10 +29,10 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0092"
+          "@id": "edam:topic_0121"
         },
         {
-          "@id": "edam:topic_0121"
+          "@id": "edam:topic_0092"
         }
       ],
       "sc:citation": [
@@ -46,15 +50,11 @@
       "sc:name": "Cardinal",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/Cardinal.html",
       "sc:version": "1.6.0"
-    },
-    {
-      "@id": "https://doi.org/10.1093/bioinformatics/btv146",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

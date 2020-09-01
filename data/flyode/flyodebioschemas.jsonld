@@ -18,10 +18,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0001-6785-3719",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/flyode",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -52,6 +48,10 @@
       "sc:license": "MIT",
       "sc:name": "FLyOde",
       "sc:url": "http://flyode.boun.edu.tr"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-6785-3719",
+      "@type": "schema:Person"
     }
   ]
 }

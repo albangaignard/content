@@ -30,25 +30,25 @@
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_2872"
         },
         {
-          "@id": "edam:data_2872"
+          "@id": "edam:data_2884"
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
-        {
-          "@id": "edam:topic_3360"
-        },
         {
           "@id": "edam:topic_3518"
         },
         {
           "@id": "edam:topic_0121"
+        },
+        {
+          "@id": "edam:topic_3360"
         }
       ],
       "sc:author": {
@@ -70,15 +70,15 @@
       "sc:license": "BSD-3-Clause",
       "sc:name": "PAA - Protein Array Analyzer",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": [
-        "Ruhr-Universitaet Bochum, Medizinisches Proteom-Center (MPC)",
-        "This work is supported by de.NBI, a project of the BMBF [FKZ 031 A 534A].",
         "This work was supported by P.U.R.E., a project of Nordrhein-Westfalen, a federal state of Germany.",
-        "BioInfra.Prot"
+        "This work is supported by de.NBI, a project of the BMBF [FKZ 031 A 534A].",
+        "BioInfra.Prot",
+        "Ruhr-Universitaet Bochum, Medizinisches Proteom-Center (MPC)"
       ],
       "sc:softwareHelp": {
         "@id": "https://www.bioconductor.org/packages/release/bioc/manuals/PAA/man/PAA.pdf"

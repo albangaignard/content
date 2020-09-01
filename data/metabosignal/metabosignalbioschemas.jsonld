@@ -10,19 +10,15 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/btw697",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/metabosignal",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Rafael Ayala",
-        "Andrea Rodriguez-Martinez"
+        "Andrea Rodriguez-Martinez",
+        "Rafael Ayala"
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC5408820",
@@ -44,6 +40,10 @@
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/MetaboSignal.html",
       "sc:version": "1.4.0"
+    },
+    {
+      "@id": "https://doi.org/10.1093/bioinformatics/btw697",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

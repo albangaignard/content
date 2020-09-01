@@ -10,11 +10,15 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkr930",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/mint",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Daniele Peluso",
         "Alberto Calderone",
+        "Daniele Peluso",
         "Luana Licata"
       ],
       "edam:has_input": {
@@ -36,18 +40,18 @@
         }
       ],
       "sc:contributor": [
+        "Marta Iannuccelli",
         "Livia Perfetto",
         "Gianni Cesareni",
-        "Luana Licata",
-        "Marta Iannuccelli"
+        "Luana Licata"
       ],
       "sc:description": "Molecular interaction Database (MINT) - public repository for protein-protein interactions (PPI) reported in peer-reviewed journals. The web interface allows the users to search, visualize and download interactions data",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2422"
+          "@id": "edam:operation_2497"
         },
         {
-          "@id": "edam:operation_2497"
+          "@id": "edam:operation_2422"
         },
         {
           "@id": "edam:operation_3431"
@@ -55,8 +59,8 @@
       ],
       "sc:name": "MINT",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:provider": [
@@ -64,10 +68,6 @@
         "Dept. of Molecular Biology, University of Rome Tor Vergata, Via della Ricerca Scientifica, Rome"
       ],
       "sc:url": "https://mint.bio.uniroma2.it/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkr930",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

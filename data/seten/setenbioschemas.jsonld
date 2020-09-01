@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1261/RNA.059089.116",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/seten",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -22,8 +18,8 @@
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pubmed:28336542",
         "pmcid:PMC5435856",
+        "pubmed:28336542",
         {
           "@id": "https://doi.org/10.1261/RNA.059089.116"
         }
@@ -35,10 +31,14 @@
       "sc:name": "Seten",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://www.iupui.edu/~sysbio/seten/"
+    },
+    {
+      "@id": "https://doi.org/10.1261/RNA.059089.116",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

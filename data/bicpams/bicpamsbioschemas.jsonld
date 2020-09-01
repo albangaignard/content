@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Rui Henriques",
       "sc:additionalType": [
-        "Desktop application",
-        "Web API"
+        "Web API",
+        "Desktop application"
       ],
       "sc:citation": [
         "pubmed:28153040",
@@ -30,8 +30,8 @@
       },
       "sc:name": "BicPAMS",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://web.ist.utl.pt/rmch/bicpams/"
     },

@@ -23,13 +23,13 @@
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_1017"
+          "@id": "edam:data_2884"
         },
         {
           "@id": "edam:data_2955"
         },
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_1017"
         }
       ],
       "sc:additionalType": [
@@ -54,8 +54,8 @@
       "sc:name": "FourCSeq",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/FourCSeq.html",
       "sc:version": "1.8.0"

@@ -21,8 +21,8 @@
   "sc:name": "MiCroKit",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://microkit.biocuckoo.org/"
 }

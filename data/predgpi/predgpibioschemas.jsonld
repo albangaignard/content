@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/predgpi",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Rita Casadio",
     "Pier Luigi Martelli",
+    "Rita Casadio",
     "Andrea Pierleoni"
   ],
   "sc:additionalType": "Web application",
@@ -20,8 +20,8 @@
   "sc:name": "PredGPI",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": "ELIXIR-ITA-BOLOGNA",
   "sc:url": "http://gpcr2.biocomp.unibo.it/gpipe/index.htm",

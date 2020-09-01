@@ -15,12 +15,12 @@
   "sc:name": "CorNet Arabidopsis",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
-    "PSB",
     "VIB",
+    "PSB",
     "UGent"
   ],
   "sc:url": "https://cornet.psb.ugent.be",

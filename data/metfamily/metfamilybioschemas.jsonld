@@ -17,8 +17,8 @@
   "sc:license": "Freeware",
   "sc:name": "MetFamily",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://msbi.ipb-halle.de/MetFamily/",

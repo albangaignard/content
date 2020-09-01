@@ -34,10 +34,10 @@
           "@id": "edam:data_1916"
         },
         {
-          "@id": "edam:data_0872"
+          "@id": "edam:data_2044"
         },
         {
-          "@id": "edam:data_2044"
+          "@id": "edam:data_0872"
         },
         {
           "@id": "edam:data_2968"
@@ -46,10 +46,10 @@
       "sc:additionalType": "Web application",
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0097"
+          "@id": "edam:topic_0080"
         },
         {
-          "@id": "edam:topic_0080"
+          "@id": "edam:topic_0097"
         }
       ],
       "sc:author": [
@@ -59,10 +59,10 @@
         "Sebastian Will"
       ],
       "sc:citation": [
-        "pubmed:22689637",
         {
           "@id": "https://doi.org/10.1093/nar/gks491"
         },
+        "pubmed:22689637",
         "pmcid:PMC3394245"
       ],
       "sc:description": "Alignment of RNA structure ensembles.",
@@ -72,13 +72,13 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "CARNA web server",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:provider": [
-        "rnateam",
-        "University Freiburg"
+        "University Freiburg",
+        "rnateam"
       ],
       "sc:softwareHelp": {
         "@id": "http://rna.informatik.uni-freiburg.de/Help.jsp"

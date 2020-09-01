@@ -31,9 +31,9 @@
       },
       "sc:name": "HypoxiaDB",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://www.hypoxiadb.com/hypoxiadb.html"
     }

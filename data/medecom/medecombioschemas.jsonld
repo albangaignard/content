@@ -25,18 +25,18 @@
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
-        {
-          "@id": "edam:topic_3295"
-        },
         {
           "@id": "edam:topic_3518"
         },
         {
           "@id": "edam:topic_0080"
+        },
+        {
+          "@id": "edam:topic_3295"
         }
       ],
       "sc:author": [
@@ -57,8 +57,8 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "MeDeCom",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": [
         "Walter lab",
