@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pubmed:30935364",
         "pmcid:PMC6444691",
+        "pubmed:30935364",
         {
           "@id": "https://doi.org/10.1186/s12859-019-2748-yb"
         }
@@ -38,9 +38,9 @@
       ],
       "sc:name": "eTRIKS",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://www.etriks.org/"
     }

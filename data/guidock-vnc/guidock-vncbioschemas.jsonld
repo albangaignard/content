@@ -17,8 +17,8 @@
   "sc:name": "GUIdock-VNC",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://github.com/BioDepot/GUIdock-VNC"
 }

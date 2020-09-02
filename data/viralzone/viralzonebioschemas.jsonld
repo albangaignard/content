@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Database portal",
       "sc:citation": [
-        "pubmed:20947564",
         "pmcid:PMC3013774",
+        "pubmed:20947564",
         {
           "@id": "https://doi.org/10.1093/nar/gkq901"
         }

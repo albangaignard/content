@@ -30,9 +30,9 @@
       "sc:license": "MIT",
       "sc:name": "GUIdock",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://github.com/WebDataScience/GUIdock"
     },

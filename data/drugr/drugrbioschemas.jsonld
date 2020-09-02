@@ -12,13 +12,13 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Massoud Amanlou",
-    "Ali Masoudi-Nejad",
     "Yadollah Omidi",
+    "Ali Masoudi-Nejad",
     "Yosef Masoudi-Sobhanzadeh"
   ],
   "sc:additionalType": [
-    "Database portal",
-    "Web application"
+    "Web application",
+    "Database portal"
   ],
   "sc:citation": "pubmed:31096089",
   "sc:description": "Database for drug repurposing, combination therapy, and replacement therapy.",

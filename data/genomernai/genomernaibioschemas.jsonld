@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Database portal",
   "sc:author": [
-    "Michael Boutros",
     "Benedikt Rauscher",
     "Esther Schmidt",
+    "Michael Boutros",
     "Oliver Pelz"
   ],
   "sc:citation": "pubmed:23193271",

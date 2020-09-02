@@ -13,8 +13,8 @@
   "biotools:primaryContact": "Contact Form",
   "sc:additionalType": [
     "Script",
-    "Web service",
     "Command-line tool",
+    "Web service",
     "Web application"
   ],
   "sc:author": "Ensembl",
@@ -22,9 +22,9 @@
   "sc:license": "Apache-2.0",
   "sc:name": "Variant Effect Predictor (VEP)",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.ensembl.org/vep"
 }

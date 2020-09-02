@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/X2H",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jian Liu",
-    "Qiuru Liu",
     "Yongzhuang Liu",
+    "Qiuru Liu",
+    "Jian Liu",
     "Lei Zhang",
     "Shuhui Su"
   ],

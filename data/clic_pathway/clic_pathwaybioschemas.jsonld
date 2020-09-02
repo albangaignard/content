@@ -37,8 +37,8 @@
       },
       "sc:name": "CLIC",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "https://www.gene-clic.org/"
