@@ -25,9 +25,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "R-QTL",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://www.rqtl.org/"
     }

@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/qgrs_mapper",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Paramjeet Bagga",
-    "Oleg Kikin",
     "Lawrence D'Antonio",
+    "Oleg Kikin",
+    "Paramjeet Bagga",
     "Manuel Viotti"
   ],
   "sc:additionalType": "Web application",

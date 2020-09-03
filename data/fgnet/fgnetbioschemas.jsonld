@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/btu864",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/fgnet",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -30,8 +26,8 @@
         "@id": "edam:data_2048"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_0602"
@@ -51,11 +47,15 @@
       "sc:name": "FGNet",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/FGNet.html",
       "sc:version": "3.8.0"
+    },
+    {
+      "@id": "https://doi.org/10.1093/bioinformatics/btu864",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

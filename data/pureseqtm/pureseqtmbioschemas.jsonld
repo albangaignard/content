@@ -16,8 +16,8 @@
   "sc:name": "PureseqTM",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://pureseqtm.predmp.com/"
 }

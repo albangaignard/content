@@ -32,8 +32,8 @@
       "sc:license": "Unlicense",
       "sc:name": "CFQuant-automatic",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://www.energylabtau.com/cfquant"

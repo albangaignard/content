@@ -15,8 +15,8 @@
     "José Luis Oliveira"
   ],
   "sc:additionalType": [
-    "Database portal",
     "Web application",
+    "Database portal",
     "Web API"
   ],
   "sc:citation": "pubmed:23973272",
@@ -24,8 +24,8 @@
   "sc:name": "Diseasecard",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bioinformatics.ua.pt/diseasecard/"
 }

@@ -16,8 +16,8 @@
   "sc:name": "OMERO",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.openmicroscopy.org/omero/"
 }

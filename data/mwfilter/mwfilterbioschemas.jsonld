@@ -19,8 +19,8 @@
   ],
   "sc:description": "Filter noisy data from molecular weights file.",
   "sc:funder": [
-    "UK MRC",
     "UK BBSRC",
+    "UK MRC",
     "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",

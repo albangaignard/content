@@ -20,8 +20,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "bigi",
     "Bielefeld University",
+    "bigi",
     "CeBiTec"
   ],
   "sc:url": "http://meltdb.cebitec.uni-bielefeld.de",

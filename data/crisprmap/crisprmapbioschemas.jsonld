@@ -45,8 +45,8 @@
         "Linux"
       ],
       "sc:provider": [
-        "rnateam",
-        "University Freiburg"
+        "University Freiburg",
+        "rnateam"
       ],
       "sc:url": "http://rna.informatik.uni-freiburg.de/CRISPRmap/",
       "sc:version": "2.1.3"

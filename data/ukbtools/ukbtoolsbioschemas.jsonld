@@ -28,10 +28,10 @@
       "sc:description": "R package to manage and query UK Biobank data.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_2422"
         },
         {
-          "@id": "edam:operation_2422"
+          "@id": "edam:operation_3196"
         },
         {
           "@id": "edam:operation_2428"

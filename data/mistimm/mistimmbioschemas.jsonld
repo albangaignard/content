@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1186/S12976-019-0105-5",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/MiStImm",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -47,6 +43,10 @@
         "Linux"
       ],
       "sc:url": "https://github.com/kerepesi/mistimm"
+    },
+    {
+      "@id": "https://doi.org/10.1186/S12976-019-0105-5",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

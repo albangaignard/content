@@ -21,8 +21,8 @@
         }
       ],
       "sc:additionalType": [
-        "Web service",
-        "Command-line tool"
+        "Command-line tool",
+        "Web service"
       ],
       "sc:author": [
         {

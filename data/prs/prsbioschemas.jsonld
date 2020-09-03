@@ -42,9 +42,9 @@
       "sc:license": "Unlicense",
       "sc:name": "PRS",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://mrcieu.mrsoftware.org/PRS_atlas"
     },

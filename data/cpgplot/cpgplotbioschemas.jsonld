@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
+    "UK MRC",
     "Wellcome Trust",
     "EMBOSS Contributors",
-    "UK MRC"
+    "UK BBSRC"
   ],
   "sc:description": "Identify and plot CpG islands in nucleotide sequence(s).",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "cpgplot",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

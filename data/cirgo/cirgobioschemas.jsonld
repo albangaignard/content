@@ -17,15 +17,15 @@
         "Irina Kuznetsova"
       ],
       "sc:additionalType": [
-        "Desktop application",
-        "Command-line tool"
+        "Command-line tool",
+        "Desktop application"
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1186/s12859-019-2671-2"
         },
-        "pubmed:30777018",
-        "pmcid:PMC6380029"
+        "pmcid:PMC6380029",
+        "pubmed:30777018"
       ],
       "sc:description": "Visualises non-redundant two-level hierarchically structured ontology terms from gene expression data in a 2D space.",
       "sc:featureList": [
@@ -42,9 +42,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Circular Gene Ontology (CirGO)",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://github.com/IrinaVKuznetsova/CirGO.git"
     },
