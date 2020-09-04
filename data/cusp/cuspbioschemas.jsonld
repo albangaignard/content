@@ -19,8 +19,8 @@
   ],
   "sc:description": "Create a codon usage table from nucleotide sequence(s).",
   "sc:funder": [
-    "Wellcome Trust",
     "UK BBSRC",
+    "Wellcome Trust",
     "UK MRC"
   ],
   "sc:license": "GPL-3.0",

@@ -17,8 +17,8 @@
   "sc:name": "PyLDM",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/gadorlhiac/PyLDM"
 }

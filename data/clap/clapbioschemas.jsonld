@@ -31,9 +31,9 @@
       },
       "sc:name": "CLAP",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://nslab.mbu.iisc.ernet.in/clap/"
     }

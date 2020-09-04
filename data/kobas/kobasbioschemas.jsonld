@@ -17,8 +17,8 @@
   "sc:name": "KOBAS",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://kobas.cbi.pku.edu.cn"
 }

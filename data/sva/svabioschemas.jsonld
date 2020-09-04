@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "John D. Storey",
-    "W. Evan Johnson",
-    "Jeffrey T. Leek"
+    "Jeffrey T. Leek",
+    "W. Evan Johnson"
   ],
   "sc:additionalType": [
     "Library",

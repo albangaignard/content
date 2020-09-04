@@ -18,9 +18,9 @@
   "sc:license": "CC-BY-4.0",
   "sc:name": "cropPAL",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "The University of Western Australia",

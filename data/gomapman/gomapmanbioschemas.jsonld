@@ -13,9 +13,9 @@
   "sc:additionalType": "Database portal",
   "sc:author": "Živa Ramšak",
   "sc:contributor": [
-    "Igor Mozetič",
     "Kristina Gruden",
     "Špela Baebler",
+    "Igor Mozetič",
     "Matej Korbar",
     "Ana Rotter",
     "Björn Usadel"
@@ -24,13 +24,13 @@
   "sc:license": "CC-BY-NC-SA-3.0",
   "sc:name": "GoMapMan",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
-    "Jožef Stefan Institute, Slovenia",
-    "National Institute of Biology, Slovenia"
+    "National Institute of Biology, Slovenia",
+    "Jožef Stefan Institute, Slovenia"
   ],
   "sc:url": "http://www.gomapman.org/"
 }

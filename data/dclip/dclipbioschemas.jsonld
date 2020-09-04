@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/dclip",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Bo Yao",
     "Contact Address",
     "Yang Xie",
-    "Guanghua Xiao"
+    "Guanghua Xiao",
+    "Bo Yao"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:24398258",

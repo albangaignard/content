@@ -19,8 +19,8 @@
   "sc:name": "Mendel",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://software.genetics.ucla.edu/mendel"
 }

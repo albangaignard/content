@@ -10,6 +10,14 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0001-7885-4311",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1007/s00251-010-0441-4",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/netctlpan",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -45,9 +53,9 @@
       "sc:license": "Other",
       "sc:name": "NetCTLpan",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": "CBS",
       "sc:softwareHelp": {
@@ -55,14 +63,6 @@
       },
       "sc:url": "http://www.cbs.dtu.dk/services/NetCTLpan/",
       "sc:version": "1.1"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-7885-4311",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1007/s00251-010-0441-4",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

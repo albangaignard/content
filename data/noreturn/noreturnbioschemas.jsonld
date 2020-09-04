@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "EMBOSS Contributors",
-    "UK BBSRC",
     "Wellcome Trust",
+    "UK BBSRC",
     "UK MRC"
   ],
   "sc:description": "Remove carriage return from ASCII files.",
@@ -26,8 +26,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "noreturn",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": [

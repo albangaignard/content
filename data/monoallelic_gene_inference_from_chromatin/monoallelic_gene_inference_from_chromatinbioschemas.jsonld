@@ -18,14 +18,14 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Svetlana Vinogradova",
-        "Sébastien Vigneau",
-        "Henry Ward",
         "Alexander Gimelbrant",
+        "Henry Ward",
+        "Sébastien Vigneau",
         "Sachit Saksena"
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC6394031",
@@ -46,9 +46,9 @@
       "sc:license": "MIT",
       "sc:name": "MaGIC",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/gimelbrantlab/magic"
     }

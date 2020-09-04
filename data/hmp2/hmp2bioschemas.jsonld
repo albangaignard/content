@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1038/S41586-019-1237-9",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/HMP2",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -43,11 +39,15 @@
       "sc:license": "Unlicense",
       "sc:name": "HMP2",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://bitbucket.org/biobakery/hmp2_workflows"
+    },
+    {
+      "@id": "https://doi.org/10.1038/S41586-019-1237-9",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

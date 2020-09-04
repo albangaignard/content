@@ -17,8 +17,8 @@
   "sc:name": "MMseqs2",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://mmseqs.com"
 }

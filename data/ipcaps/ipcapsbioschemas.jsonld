@@ -20,10 +20,10 @@
       "sc:additionalType": "Library",
       "sc:citation": [
         "pubmed:30936940",
+        "pmcid:PMC6427891",
         {
           "@id": "https://doi.org/10.1186/s13029-019-0072-6"
-        },
-        "pmcid:PMC6427891"
+        }
       ],
       "sc:description": "R package for iterative pruning to capture population structure.",
       "sc:featureList": [
@@ -31,18 +31,18 @@
           "@id": "edam:operation_0484"
         },
         {
-          "@id": "edam:operation_0487"
+          "@id": "edam:operation_3196"
         },
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_0487"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "IPCAPS",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://cran.r-project.org/package=IPCAPS",
       "sc:version": "1.1.5"

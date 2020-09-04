@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gkm1042",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/genolist",
       "@type": "sc:SoftwareApplication",
       "edam:has_input": [
@@ -38,18 +34,18 @@
       "sc:additionalType": "Database portal",
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0621"
+          "@id": "edam:topic_0797"
         },
         {
-          "@id": "edam:topic_0797"
+          "@id": "edam:topic_0621"
         }
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1093/nar/gkm1042"
         },
-        "pubmed:18032431",
-        "pmcid:PMC2238853"
+        "pmcid:PMC2238853",
+        "pubmed:18032431"
       ],
       "sc:description": "An integrated environment for the analysis of microbial genomes.",
       "sc:featureList": {
@@ -58,10 +54,14 @@
       "sc:name": "GenoList comparative analysis of microbial genomes",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://genolist.pasteur.fr/GenoList"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkm1042",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

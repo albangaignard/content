@@ -10,6 +10,14 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1261/rna.049346.114",
+      "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-0527-1171",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "http://orcid.org/0000-0002-6816-5931",
       "@type": "schema:Person"
     },
@@ -20,20 +28,20 @@
       "sc:additionalType": "Database portal",
       "sc:author": [
         {
+          "@id": "http://orcid.org/0000-0002-6816-5931"
+        },
+        "Hallier M.",
+        {
           "@id": "http://orcid.org/0000-0002-0527-1171"
         },
         "Ivain L.",
-        "Hallier M.",
-        "Mauro T.",
-        "Felden B.",
         "Chabelskaya S.",
-        {
-          "@id": "http://orcid.org/0000-0002-6816-5931"
-        }
+        "Felden B.",
+        "Mauro T."
       ],
       "sc:citation": [
-        "pmcid:PMC4408781",
         "pubmed:25805861",
+        "pmcid:PMC4408781",
         {
           "@id": "https://doi.org/10.1261/rna.049346.114"
         }
@@ -45,22 +53,14 @@
       "sc:name": "Staphylococcus regulatory RNA database (SRD)",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": [
-        "Université Rennes 1",
-        "irisa.fr"
+        "irisa.fr",
+        "Université Rennes 1"
       ],
       "sc:url": "http://srd.genouest.org/"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-0527-1171",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1261/rna.049346.114",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

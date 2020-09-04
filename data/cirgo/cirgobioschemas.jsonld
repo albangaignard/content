@@ -13,12 +13,12 @@
       "@id": "https://bio.tools/CirGO",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Artur Lugmayr",
-        "Irina Kuznetsova"
+        "Irina Kuznetsova",
+        "Artur Lugmayr"
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Desktop application"
+        "Desktop application",
+        "Command-line tool"
       ],
       "sc:citation": [
         {
@@ -30,13 +30,13 @@
       "sc:description": "Visualises non-redundant two-level hierarchically structured ontology terms from gene expression data in a 2D space.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2942"
-        },
-        {
           "@id": "edam:operation_0570"
         },
         {
           "@id": "edam:operation_3559"
+        },
+        {
+          "@id": "edam:operation_2942"
         }
       ],
       "sc:license": "GPL-3.0",

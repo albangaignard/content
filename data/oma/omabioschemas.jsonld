@@ -15,13 +15,13 @@
       "biotools:primaryContact": "Christophe Dessimoz",
       "edam:has_input": [
         {
+          "@id": "edam:data_0842"
+        },
+        {
           "@id": "edam:data_3671"
         },
         {
           "@id": "edam:data_2974"
-        },
-        {
-          "@id": "edam:data_0842"
         },
         {
           "@id": "edam:data_3021"
@@ -45,8 +45,8 @@
       },
       "sc:name": "OMA",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:provider": "SIB",

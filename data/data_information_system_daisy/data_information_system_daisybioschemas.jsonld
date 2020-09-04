@@ -17,29 +17,29 @@
       "@id": "https://bio.tools/Data_Information_System_DAISY",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Regina Becker",
         {
           "@id": "https://orcid.org/0000-0002-2224-0780"
-        }
+        },
+        "Regina Becker"
       ],
       "sc:additionalType": "Web application",
       "sc:author": [
+        "Yohan Jarosz",
         {
           "@id": "https://orcid.org/0000-0001-6501-0806"
         },
-        "Jacek Lebioda",
-        "Yohan Jarosz",
-        "Kavita Rege"
+        "Kavita Rege",
+        "Jacek Lebioda"
       ],
       "sc:contributor": [
+        "Vilem Ded",
+        {
+          "@id": "https://orcid.org/0000-0002-6532-5880"
+        },
         "Sandrine Munoz",
         {
           "@id": "https://orcid.org/0000-0002-8278-1618"
         },
-        {
-          "@id": "https://orcid.org/0000-0002-6532-5880"
-        },
-        "Vilem Ded",
         "Christophe Trefois"
       ],
       "sc:description": "DAISY is an open-source  web application that allows biomedical research institutions to map their data and data flows in accordance with GDPR's accountability requirement.",

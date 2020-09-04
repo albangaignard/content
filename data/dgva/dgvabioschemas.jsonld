@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gks1213",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/dgva",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "DGVa Helpdesk",
@@ -38,15 +42,11 @@
       ],
       "sc:name": "DGVa",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://www.ebi.ac.uk/dgva"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gks1213",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

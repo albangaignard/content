@@ -17,8 +17,8 @@
         "Suite"
       ],
       "sc:citation": [
-        "pubmed:25188327",
         "pmcid:PMC4154637",
+        "pubmed:25188327",
         {
           "@id": "https://doi.org/10.1371/journal.pcbi.1003822"
         }
@@ -30,9 +30,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Pep2Path",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://pep2path.sourceforge.net",
       "sc:version": "1.1.0"

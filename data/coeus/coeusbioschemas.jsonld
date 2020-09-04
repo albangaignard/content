@@ -21,8 +21,8 @@
         "Pedro Sernadela"
       ],
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pubmed:23244467",
@@ -47,8 +47,8 @@
       "sc:name": "COEUS",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioinformatics.ua.pt/coeus/"
     }

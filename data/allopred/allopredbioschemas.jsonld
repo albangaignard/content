@@ -34,8 +34,8 @@
       "sc:name": "AlloPred",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": "hotmail.co.uk",
       "sc:url": "http://www.sbg.bio.ic.ac.uk/allopred/home",

@@ -13,8 +13,8 @@
   "biotools:primaryContact": "SUPPA Users group",
   "sc:additionalType": "Command-line tool",
   "sc:author": [
-    "Miha Skalic",
     "Gael P. Alamancos",
+    "Miha Skalic",
     "Amadí­s Pagès",
     "JC Entizne"
   ],
@@ -23,12 +23,12 @@
   "sc:name": "SUPPA",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
-    "Pompeu Fabra University",
-    "upf.edu"
+    "upf.edu",
+    "Pompeu Fabra University"
   ],
   "sc:url": "https://bitbucket.org/regulatorygenomicsupf/suppa/",
   "sc:version": "1"

@@ -41,8 +41,8 @@
       "sc:name": "GenDBE",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": "bigi",
       "sc:softwareHelp": {

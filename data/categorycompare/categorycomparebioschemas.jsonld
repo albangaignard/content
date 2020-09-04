@@ -20,10 +20,10 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_1669"
+          "@id": "edam:data_2600"
         },
         {
-          "@id": "edam:data_2600"
+          "@id": "edam:data_1669"
         }
       ],
       "sc:additionalType": [
