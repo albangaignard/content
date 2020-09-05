@@ -14,21 +14,21 @@
   "sc:contributor": [
     "Wellcome Trust",
     "UK BBSRC",
-    "EMBOSS Contributors",
-    "UK MRC"
+    "UK MRC",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Calculate the twisting in a B-DNA sequence.",
   "sc:funder": [
     "UK BBSRC",
-    "Wellcome Trust",
-    "UK MRC"
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "btwisted",
   "sc:operatingSystem": [
-    "Mac",
+    "Linux",
     "Windows",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
     "EMBOSS",

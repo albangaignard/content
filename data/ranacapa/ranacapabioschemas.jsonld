@@ -17,9 +17,9 @@
       "@id": "https://bio.tools/ranacapa",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Gaurav Kandlikar",
-        "Mahendra Mariadassou",
         "Martinez Arbizu",
+        "Mahendra Mariadassou",
+        "Gaurav Kandlikar",
         "Madeline Cowen"
       ],
       "sc:additionalType": "Library",
@@ -36,18 +36,18 @@
           "@id": "edam:operation_3501"
         },
         {
-          "@id": "edam:operation_3359"
+          "@id": "edam:operation_3797"
         },
         {
-          "@id": "edam:operation_3797"
+          "@id": "edam:operation_3359"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "ranacapa",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://github.com/gauravsk/ranacapa"
     }

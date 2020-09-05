@@ -31,8 +31,8 @@
       },
       "sc:name": "LincSNP",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://210.46.80.146/lincsnp/"

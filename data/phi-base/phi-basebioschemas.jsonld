@@ -31,8 +31,8 @@
       },
       "sc:name": "PHI-base",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://www.phi-base.org/"

@@ -42,9 +42,9 @@
       "sc:license": "Unlicense",
       "sc:name": "Muscle Gene Sets",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://www.sys-myo.com/muscle_gene_sets"
     },

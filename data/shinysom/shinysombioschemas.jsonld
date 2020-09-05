@@ -27,9 +27,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "ShinySOM",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://gitlab.com/exaexa/ShinySOM"
     }

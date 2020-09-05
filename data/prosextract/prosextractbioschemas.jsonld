@@ -14,20 +14,20 @@
   "sc:contributor": [
     "Wellcome Trust",
     "EMBOSS Contributors",
-    "UK MRC",
-    "UK BBSRC"
+    "UK BBSRC",
+    "UK MRC"
   ],
   "sc:description": "Process the PROSITE motif database for use by patmatmotifs.",
   "sc:funder": [
-    "UK BBSRC",
+    "UK MRC",
     "Wellcome Trust",
-    "UK MRC"
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "prosextract",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": [

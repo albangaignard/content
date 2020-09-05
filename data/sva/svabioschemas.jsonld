@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "John D. Storey",
-    "Jeffrey T. Leek",
-    "W. Evan Johnson"
+    "W. Evan Johnson",
+    "Jeffrey T. Leek"
   ],
   "sc:additionalType": [
     "Library",
@@ -23,9 +23,9 @@
   "sc:license": "Artistic-2.0",
   "sc:name": "sva",
   "sc:operatingSystem": [
-    "Linux",
+    "Mac",
     "Windows",
-    "Mac"
+    "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/sva.html",
   "sc:version": "3.22.0"

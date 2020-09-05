@@ -16,16 +16,16 @@
   ],
   "sc:additionalType": [
     "Web application",
-    "Web service",
-    "Script"
+    "Script",
+    "Web service"
   ],
   "sc:description": "Python tool for integration of protein structure and sequence-based features.",
   "sc:license": "MIT",
   "sc:name": "BioStructMap",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:url": "https://biostructmap.burnet.edu.au"
 }

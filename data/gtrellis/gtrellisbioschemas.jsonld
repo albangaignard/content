@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s12859-016-1051-4",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/gtrellis",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -62,8 +58,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "gtrellis",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/gtrellis.html",
@@ -72,6 +68,10 @@
     {
       "@id": "http://orcid.org/0000-0002-7395-8709",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s12859-016-1051-4",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

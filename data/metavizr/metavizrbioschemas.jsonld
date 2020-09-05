@@ -28,8 +28,8 @@
       "sc:license": "MIT",
       "sc:name": "metavizr",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/metavizr.html",

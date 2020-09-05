@@ -14,9 +14,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:author": [
     "Gael P. Alamancos",
-    "Miha Skalic",
+    "JC Entizne",
     "Amadí­s Pagès",
-    "JC Entizne"
+    "Miha Skalic"
   ],
   "sc:description": "This tool generates Alternative Splicing (AS) events from an annotation and calculates the PSI (\"Percentage Spliced In\") value for each event exploiting fast quantification of transcript abundances from multiple samples.",
   "sc:license": "MIT",

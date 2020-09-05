@@ -11,15 +11,15 @@
   "@id": "https://bio.tools/loctree3",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Command-line tool",
-    "Web application"
+    "Web application",
+    "Command-line tool"
   ],
   "sc:author": [
-    "Guy Yachdav",
-    "Tobias Hamp",
-    "Timothy Karl",
     "Tatyana Goldberg",
-    "Maximilian Hecht"
+    "Maximilian Hecht",
+    "Tobias Hamp",
+    "Guy Yachdav",
+    "Timothy Karl"
   ],
   "sc:contributor": [
     "Burkhard Rost",
@@ -36,8 +36,8 @@
   "sc:name": "LocTree3",
   "sc:operatingSystem": "Linux",
   "sc:provider": [
-    "RostLab",
-    "Technische Universität München"
+    "Technische Universität München",
+    "RostLab"
   ],
   "sc:url": "https://rostlab.org/services/loctree3/",
   "sc:version": "1.0.8"

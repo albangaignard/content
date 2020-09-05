@@ -17,8 +17,8 @@
   "sc:name": "HLungDB",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.megabionet.org/bio/hlung/"
 }

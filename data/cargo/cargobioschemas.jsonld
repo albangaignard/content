@@ -17,8 +17,8 @@
   "sc:name": "CARGO",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://cargo2.bioinfo.cnio.es/docs/aboutCargo.html"
 }

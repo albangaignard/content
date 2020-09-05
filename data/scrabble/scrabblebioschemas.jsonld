@@ -34,8 +34,8 @@
       "sc:name": "SCRABBLE",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://rdrr.io/cran/SCRABBLE/"
     },

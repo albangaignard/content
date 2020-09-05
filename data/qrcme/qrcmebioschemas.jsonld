@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/qrcme",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jie Huang",
     "Yun Li",
+    "Jie Huang",
     "Yun Li Statistical Genetics Group"
   ],
   "sc:additionalType": "Web application",
@@ -20,8 +20,8 @@
   "sc:name": "QR Concordance (QRC)",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://qrcme.tech/"
 }

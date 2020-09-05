@@ -35,8 +35,8 @@
       },
       "sc:name": "ConTrav2",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:provider": "ugent.be",

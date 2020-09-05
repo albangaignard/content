@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "EMBOSS Contributors",
-    "UK MRC",
     "UK BBSRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK MRC",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Needleman-Wunsch rapid global alignment of two sequences.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "stretcher",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "EMBL EBI",

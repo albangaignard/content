@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Juan R Gonzalez",
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC3849762",
@@ -34,21 +34,21 @@
           "@id": "edam:operation_3223"
         },
         {
+          "@id": "edam:operation_3763"
+        },
+        {
           "@id": "edam:operation_2238"
         },
         {
           "@id": "edam:operation_3680"
-        },
-        {
-          "@id": "edam:operation_3763"
         }
       ],
       "sc:license": "GPL-2.0",
       "sc:name": "tweeDEseq",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/tweeDEseq.html",
       "sc:version": "1.24.0"

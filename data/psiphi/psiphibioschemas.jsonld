@@ -14,8 +14,8 @@
   "sc:contributor": [
     "EMBOSS Contributors",
     "UK MRC",
-    "UK BBSRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:description": "Calculates phi and psi torsion angles from protein coordinates.",
   "sc:funder": [
@@ -26,8 +26,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "psiphi",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": [

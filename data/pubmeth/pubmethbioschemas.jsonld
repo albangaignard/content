@@ -16,8 +16,8 @@
   "sc:name": "PubMeth reviewed methylation database in cancer",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.pubmeth.org"
 }

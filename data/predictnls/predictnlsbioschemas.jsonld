@@ -39,8 +39,8 @@
         "pmcid:PMC1083765"
       ],
       "sc:contributor": [
-        "Rajesh Nair",
-        "Burkhard Rost"
+        "Burkhard Rost",
+        "Rajesh Nair"
       ],
       "sc:description": "Prediction and analysis of nuclear localization signals.",
       "sc:featureList": [
@@ -56,8 +56,8 @@
       "sc:name": "PredictNLS",
       "sc:operatingSystem": "Linux",
       "sc:provider": [
-        "Columbia University",
-        "RostLab"
+        "RostLab",
+        "Columbia University"
       ],
       "sc:softwareHelp": {
         "@id": "https://rostlab.org/owiki/index.php/PredictNLS"

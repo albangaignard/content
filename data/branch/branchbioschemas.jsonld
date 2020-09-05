@@ -20,8 +20,8 @@
   "sc:name": "Branch",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://bitbucket.org/sulab/biobranch/src/default/"
 }

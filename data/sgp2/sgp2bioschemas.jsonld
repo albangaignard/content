@@ -25,8 +25,8 @@
   "sc:name": "SGP2",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "crg.eu",
