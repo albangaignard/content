@@ -21,14 +21,17 @@
     "documentation": [
         {
             "note": "Documentation is now available at the GATK website.",
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://software.broadinstitute.org/gatk/documentation/tooldocs/current/"
         }
     ],
     "editPermission": {
         "authors": [
             "shlee",
-            "animalandcropgenomics"
+            "animalandcropgenomics",
+            "alice"
         ],
         "type": "group"
     },
@@ -46,7 +49,7 @@
     "language": [
         "Java"
     ],
-    "lastUpdate": "2019-03-14T13:54:57Z",
+    "lastUpdate": "2020-08-16T18:32:43Z",
     "license": "MIT",
     "name": "Picard",
     "operatingSystem": [
