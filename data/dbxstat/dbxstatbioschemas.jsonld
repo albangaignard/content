@@ -20,15 +20,15 @@
   "sc:description": "Dump statistics for dbx databases.",
   "sc:funder": [
     "UK BBSRC",
-    "UK MRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "dbxstat",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

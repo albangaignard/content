@@ -13,8 +13,8 @@
   "biotools:primaryContact": [
     "Huabin Hou",
     "Qi Liu",
-    "Linglin Zhou",
-    "SplicingViewer team"
+    "SplicingViewer team",
+    "Linglin Zhou"
   ],
   "sc:additionalType": "Desktop application",
   "sc:description": "SplicingViewer is an integrated tool developed to enable users to detect the splice junctions, annotate alternative splicing events, and visualization of the patterns of alternative splicing events.",
@@ -22,8 +22,8 @@
   "sc:name": "SplicingViewer",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bioinformatics.zj.cn/splicingviewer/"
 }

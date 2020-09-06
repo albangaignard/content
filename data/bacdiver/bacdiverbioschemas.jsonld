@@ -10,18 +10,14 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0001-5135-5758",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/bacdiver",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "https://orcid.org/0000-0001-5135-5758"
       },
       "sc:additionalType": [
-        "Script",
         "Plug-in",
+        "Script",
         "Library",
         "Command-line tool",
         "Web service"
@@ -31,11 +27,15 @@
       "sc:name": "BacDiveR: A Programmatic Interface For BacDive",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://tibhannover.github.io/BacDiveR/",
       "sc:version": "0.7.0"
+    },
+    {
+      "@id": "https://orcid.org/0000-0001-5135-5758",
+      "@type": "schema:Person"
     }
   ]
 }

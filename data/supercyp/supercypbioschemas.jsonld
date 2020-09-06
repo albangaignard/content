@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/supercyp",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Mathias Dunkel",
-    "Saskia Preissner",
-    "Daniel Kuzmann",
     "Stefan Guenther",
+    "Mathias Dunkel",
+    "Daniel Kuzmann",
+    "Saskia Preissner",
     "Katharina Kroll"
   ],
   "sc:additionalType": "Database portal",

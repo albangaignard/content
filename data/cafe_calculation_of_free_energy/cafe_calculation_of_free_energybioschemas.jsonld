@@ -17,8 +17,8 @@
   "sc:name": "CaFE",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://github.com/huiliucode/cafe_plugin"
 }

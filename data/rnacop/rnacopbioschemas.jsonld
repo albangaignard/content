@@ -16,8 +16,8 @@
   "sc:name": "RNAcop",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://rth.dk/resources/rnacop"
 }

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1371/JOURNAL.PONE.0152964",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/psionplus",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Lukasz Kurgan",
@@ -28,14 +32,10 @@
       "sc:name": "PSIONplus",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://sourceforge.net/projects/psion/"
-    },
-    {
-      "@id": "https://doi.org/10.1371/JOURNAL.PONE.0152964",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

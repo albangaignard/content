@@ -25,10 +25,10 @@
           "@id": "edam:data_1669"
         },
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_1772"
         },
         {
-          "@id": "edam:data_1772"
+          "@id": "edam:data_2884"
         }
       ],
       "sc:additionalType": [
@@ -37,10 +37,10 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0622"
+          "@id": "edam:topic_3518"
         },
         {
-          "@id": "edam:topic_3518"
+          "@id": "edam:topic_0203"
         },
         {
           "@id": "edam:topic_0659"
@@ -49,7 +49,7 @@
           "@id": "edam:topic_2640"
         },
         {
-          "@id": "edam:topic_0203"
+          "@id": "edam:topic_0622"
         }
       ],
       "sc:citation": [
@@ -62,17 +62,17 @@
       "sc:description": "Functions to preform a Gene Set Analysis in several genomic dimensions. Including methods for miRNAs.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3224"
+          "@id": "edam:operation_3659"
         },
         {
-          "@id": "edam:operation_3659"
+          "@id": "edam:operation_3224"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "mdgsa",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/mdgsa.html",

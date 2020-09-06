@@ -10,17 +10,13 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/database/baz006",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/ZincBind",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Sam Ireland",
       "sc:additionalType": [
         "Web application",
-        "Database portal",
-        "Web API"
+        "Web API",
+        "Database portal"
       ],
       "sc:citation": [
         "pubmed:30722040",
@@ -35,10 +31,10 @@
           "@id": "edam:operation_0389"
         },
         {
-          "@id": "edam:operation_2575"
+          "@id": "edam:operation_0445"
         },
         {
-          "@id": "edam:operation_0445"
+          "@id": "edam:operation_2575"
         }
       ],
       "sc:name": "ZincBind",
@@ -48,6 +44,10 @@
         "Linux"
       ],
       "sc:url": "https://zincbind.bioinf.org.uk/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/database/baz006",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

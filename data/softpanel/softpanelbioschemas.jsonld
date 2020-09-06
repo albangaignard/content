@@ -28,9 +28,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "SoftPanel",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://www.isb.pku.edu.cn/SoftPanel/"
     },

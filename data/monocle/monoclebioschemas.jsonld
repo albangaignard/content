@@ -20,12 +20,12 @@
         "@id": "http://orcid.org/0000-0002-8105-4347"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
-        "pubmed:28114287",
         "pmcid:PMC5330805",
+        "pubmed:28114287",
         {
           "@id": "https://doi.org/10.1038/nmeth.4150"
         }
@@ -35,8 +35,8 @@
       "sc:name": "monocle",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/monocle.html",
       "sc:version": "2.2.0"

@@ -32,9 +32,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "ClinicalLaboratory",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://github.com/ClinicalLaboratory/Clinical-Laboratory"
     }

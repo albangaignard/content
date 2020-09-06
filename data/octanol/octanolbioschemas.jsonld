@@ -14,20 +14,20 @@
   "sc:contributor": [
     "EMBOSS Contributors",
     "UK BBSRC",
-    "Wellcome Trust",
-    "UK MRC"
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:description": "Draw a White-Wimley protein hydropathy plot.",
   "sc:funder": [
-    "UK BBSRC",
+    "UK MRC",
     "Wellcome Trust",
-    "UK MRC"
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "octanol",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": [

@@ -17,8 +17,8 @@
   "sc:name": "VarScan",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://dkoboldt.github.io/varscan/"
 }

@@ -20,8 +20,8 @@
         "Command-line tool"
       ],
       "sc:citation": [
-        "pubmed:26163694",
         "pmcid:PMC4817139",
+        "pubmed:26163694",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/btv408"
         }
@@ -41,12 +41,12 @@
       "sc:version": "2.10.0"
     },
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/btv408",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0003-0070-4975",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/bioinformatics/btv408",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

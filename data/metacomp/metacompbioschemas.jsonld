@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/metacomp",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Peng Zhai",
     "Longshu Yang",
+    "Peng Zhai",
     "Huaiqiu Zhu"
   ],
   "sc:additionalType": "Desktop application",
@@ -20,8 +20,8 @@
   "sc:name": "MetaComp",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://cqb.pku.edu.cn/ZhuLab/MetaComp/"
 }
