@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/splicingviewer",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Huabin Hou",
     "Qi Liu",
+    "Huabin Hou",
     "SplicingViewer team",
     "Linglin Zhou"
   ],
@@ -22,8 +22,8 @@
   "sc:name": "SplicingViewer",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bioinformatics.zj.cn/splicingviewer/"
 }

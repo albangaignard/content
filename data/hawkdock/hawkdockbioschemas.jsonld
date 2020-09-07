@@ -21,12 +21,12 @@
         "Gaoqi Weng"
       ],
       "sc:additionalType": [
-        "Web service",
-        "Web application"
+        "Web application",
+        "Web service"
       ],
       "sc:citation": [
-        "pmcid:PMC6602443",
         "pubmed:31106357",
+        "pmcid:PMC6602443",
         {
           "@id": "https://doi.org/10.1093/NAR/GKZ397"
         }
@@ -47,8 +47,8 @@
       "sc:name": "HawkDock",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://cadd.zju.edu.cn/hawkdock/"
     }

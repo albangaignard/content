@@ -22,8 +22,8 @@
   "sc:name": "Dolbico",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "ELIXIR-CZ",
   "sc:url": "http://dolbico.org/",

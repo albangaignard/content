@@ -18,8 +18,8 @@
         "Web application"
       ],
       "sc:citation": [
-        "pmcid:PMC3742411",
         "pubmed:23920006",
+        "pmcid:PMC3742411",
         {
           "@id": "https://doi.org/10.2196/resprot.2675"
         }
@@ -30,8 +30,8 @@
       },
       "sc:name": "PFOND",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://pfond.cmmt.ubc.ca/index.html"

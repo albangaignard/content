@@ -10,15 +10,11 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1016/j.celrep.2016.12.063",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/trinotate",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Suite",
-        "Desktop application"
+        "Desktop application",
+        "Suite"
       ],
       "sc:citation": [
         "pubmed:28099853",
@@ -33,6 +29,10 @@
       },
       "sc:name": "Trinotate",
       "sc:url": "https://github.com/Trinotate/Trinotate.github.io"
+    },
+    {
+      "@id": "https://doi.org/10.1016/j.celrep.2016.12.063",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

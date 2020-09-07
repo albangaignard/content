@@ -15,8 +15,8 @@
   "sc:description": "Web server to detect and visualise flexible regions in NMR solved structures.",
   "sc:name": "Mobi",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": "ELIXIR-ITA-PADOVA",

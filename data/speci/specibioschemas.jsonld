@@ -24,9 +24,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "SpecI",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": [
         "HD-HuB",

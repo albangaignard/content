@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/StatAlign",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Joe Herman",
-        "Adam Novak"
+        "Adam Novak",
+        "Joe Herman"
       ],
       "sc:additionalType": "Desktop application",
       "sc:citation": [
@@ -33,8 +33,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "StatAlign",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://statalign.github.io/"

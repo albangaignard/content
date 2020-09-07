@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0001-8401-0545",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1038/nbt.3682",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-8401-0545",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/alpine",
@@ -42,8 +42,8 @@
       "sc:name": "alpine",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/alpine.html",
       "sc:version": "1.0.0"

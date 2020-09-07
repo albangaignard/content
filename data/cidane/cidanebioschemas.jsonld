@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Gunnar W. Klau",
-        "Knut Reinert",
-        "David Weese"
+        "David Weese",
+        "Knut Reinert"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [

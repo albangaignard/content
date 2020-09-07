@@ -17,8 +17,8 @@
   "sc:name": "CARRIE",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://zlab.bu.edu/CARRIE-web"
 }

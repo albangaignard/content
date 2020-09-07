@@ -30,8 +30,8 @@
       "sc:name": "SST",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://lcb.infotech.monash.edu.au/sstweb/Submission_page.html"
     },

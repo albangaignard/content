@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/sa-mot",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Julien Maupetit",
     "Leslie Regad",
-    "Adrien Saladin"
+    "Adrien Saladin",
+    "Julien Maupetit"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:21665924",

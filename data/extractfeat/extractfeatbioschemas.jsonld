@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
-    "Wellcome Trust",
     "EMBOSS Contributors",
-    "UK MRC"
+    "UK MRC",
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:description": "Extract some features from sequence(s).",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "extractfeat",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "EMBOSS",

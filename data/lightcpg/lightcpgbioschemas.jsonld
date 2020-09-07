@@ -31,8 +31,8 @@
       "sc:license": "Unlicense",
       "sc:name": "LightCpG",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "https://github.com/guofei-tju/LightCpG"

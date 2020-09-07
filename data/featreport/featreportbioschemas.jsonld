@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
     "Wellcome Trust",
+    "UK BBSRC",
     "EMBOSS Contributors",
-    "UK BBSRC"
+    "UK MRC"
   ],
   "sc:description": "Read and write a feature table.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "featreport",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

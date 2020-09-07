@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
-    "EMBOSS Contributors",
     "UK MRC",
+    "EMBOSS Contributors",
+    "Wellcome Trust",
     "UK BBSRC"
   ],
   "sc:description": "Remove non-alphabetic (e.g. gap) characters from sequences.",
