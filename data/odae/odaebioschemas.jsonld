@@ -40,9 +40,9 @@
       "sc:license": "Unlicense",
       "sc:name": "ODAE",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/ODAE-ontology/ODAE"
     }

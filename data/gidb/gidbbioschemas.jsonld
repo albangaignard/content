@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/GIDB",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Ying Wang",
-        "Xiaoyan Zhang"
+        "Xiaoyan Zhang",
+        "Ying Wang"
       ],
       "sc:additionalType": [
         "Database portal",
@@ -39,8 +39,8 @@
       "sc:name": "GIDB",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bmtongji.cn/GIDB/index.html"
     }

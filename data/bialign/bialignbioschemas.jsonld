@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/BiAlign",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Sebastian Will",
     "Ivo L. Hofacker",
+    "Sebastian Will",
     "Maria Waldl",
     "Michael T. Wolfinger"
   ],
@@ -22,8 +22,8 @@
   "sc:name": "BiAlign",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://github.com/s-will/BiAlign"
 }

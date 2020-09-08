@@ -32,8 +32,8 @@
       "sc:name": "SymbioGenomesDB",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://symbiogenomesdb.uv.es/"
     }

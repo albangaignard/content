@@ -17,8 +17,8 @@
   "sc:name": "Scoria",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://durrantlab.com/scoria/"
 }

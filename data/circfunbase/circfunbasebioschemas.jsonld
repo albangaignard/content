@@ -18,13 +18,13 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Ming Chen",
       "sc:additionalType": [
-        "Web application",
         "Database portal",
-        "Web API"
+        "Web API",
+        "Web application"
       ],
       "sc:author": [
-        "Dahui Hu",
         "Ming Chen",
+        "Dahui Hu",
         "Xianwen Meng"
       ],
       "sc:citation": [

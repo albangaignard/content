@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Felipe Albrecht",
   "sc:additionalType": [
-    "Database portal",
     "Web API",
-    "Web application"
+    "Web application",
+    "Database portal"
   ],
   "sc:author": "Felipe Albrecht",
   "sc:contributor": [
@@ -29,9 +29,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "DeepBlue Epigenomic Data Server",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "Max Planck Institute for Informatics",

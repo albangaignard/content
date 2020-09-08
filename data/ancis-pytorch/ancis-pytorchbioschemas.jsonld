@@ -12,11 +12,11 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Daniel J. Hoeppner",
-    "Jingru Yi",
     "Pengxiang Wu",
+    "Dimitris N. Metaxas",
     "Qiaoying Huang",
     "Menglin Jiang",
-    "Dimitris N. Metaxas"
+    "Jingru Yi"
   ],
   "sc:additionalType": "Script",
   "sc:citation": "pubmed:31103790",

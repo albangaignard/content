@@ -29,8 +29,8 @@
       "sc:name": "FastProject",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/YosefLab/FastProject"
     },

@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0002-0540-9353",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/bianca",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -37,15 +41,11 @@
       "sc:license": "Proprietary",
       "sc:name": "BIANCA",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BIANCA"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-0540-9353",
-      "@type": "schema:Person"
     }
   ]
 }

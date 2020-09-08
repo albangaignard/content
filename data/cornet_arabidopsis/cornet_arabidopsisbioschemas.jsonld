@@ -19,8 +19,8 @@
     "Linux"
   ],
   "sc:provider": [
-    "PSB",
     "VIB",
+    "PSB",
     "UGent"
   ],
   "sc:url": "https://cornet.psb.ugent.be",

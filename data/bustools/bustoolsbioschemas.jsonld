@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Vasilis Ntranos",
-    "Lior Pachter",
-    "Páll Melsted"
+    "Páll Melsted",
+    "Lior Pachter"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:31073610",
@@ -22,8 +22,8 @@
   "sc:name": "BUStools",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://BUStools.github.io/"
 }
