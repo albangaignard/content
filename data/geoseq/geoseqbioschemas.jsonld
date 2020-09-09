@@ -17,8 +17,8 @@
   "sc:name": "Geoseq",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://katahdin.mssm.edu/web_tools/geoseq/"
 }

@@ -21,9 +21,9 @@
     "Mac"
   ],
   "sc:provider": [
-    "CeBiTec",
     "Bielefeld University",
-    "BiBiServ"
+    "BiBiServ",
+    "CeBiTec"
   ],
   "sc:url": "http://bibiserv.cebitec.uni-bielefeld.de/cgcat",
   "sc:version": "1"

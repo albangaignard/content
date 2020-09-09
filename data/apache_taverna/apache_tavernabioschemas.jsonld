@@ -15,11 +15,11 @@
     "Apache Taverna mailing lists"
   ],
   "sc:additionalType": [
-    "Web application",
     "Command-line tool",
-    "Web API",
-    "Web service",
     "Desktop application",
+    "Web application",
+    "Web service",
+    "Web API",
     "Workbench"
   ],
   "sc:author": "Apache Taverna community",
@@ -27,13 +27,13 @@
   "sc:license": "Apache-2.0",
   "sc:name": "Apache Taverna",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": [
-    "Apache Software Foundation",
-    "cs.manchester.ac.uk"
+    "cs.manchester.ac.uk",
+    "Apache Software Foundation"
   ],
   "sc:url": "http://taverna.incubator.apache.org/",
   "sc:version": "3"

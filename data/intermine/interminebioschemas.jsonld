@@ -13,10 +13,10 @@
       "@id": "https://bio.tools/intermine",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Database portal",
+        "Command-line tool",
         "Web API",
         "Web application",
-        "Command-line tool"
+        "Database portal"
       ],
       "sc:citation": [
         "pubmed:24753429",
@@ -27,9 +27,9 @@
         }
       ],
       "sc:contributor": [
-        "BBSRC",
+        "NIH",
         "Wellcome Trust",
-        "NIH"
+        "BBSRC"
       ],
       "sc:description": "Open source data warehouse built specifically for the integration and analysis of complex biological data. It enables the creation of biological databases accessed by sophisticated web query tools. Parsers are provided for integrating data from many common biological data sources and formats, and there is a framework for adding your own data.",
       "sc:funder": [
@@ -40,8 +40,8 @@
       "sc:license": "LGPL-2.1",
       "sc:name": "InterMine",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": [
         "gen.cam.ac.uk",

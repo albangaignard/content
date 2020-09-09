@@ -17,12 +17,12 @@
   "sc:name": "PSI-BLAST (EBI)",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
-    "EMBL-EBI",
-    "NCBI"
+    "NCBI",
+    "EMBL-EBI"
   ],
   "sc:url": "http://www.ebi.ac.uk/Tools/sss/psiblast/",
   "sc:version": "1"

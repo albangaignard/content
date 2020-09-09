@@ -17,8 +17,8 @@
   "sc:name": "REPK",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://rocaplab.ocean.washington.edu/tools/repk"
 }

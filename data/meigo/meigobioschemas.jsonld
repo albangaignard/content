@@ -34,9 +34,9 @@
       },
       "sc:name": "MEIGO",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://nautilus.iim.csic.es/~gingproc/meigo.html"
     }

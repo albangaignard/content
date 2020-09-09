@@ -37,8 +37,8 @@
       "sc:license": "MIT",
       "sc:name": "rstoolbox",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "https://github.com/jaumebonet/RosettaSilentToolbox"

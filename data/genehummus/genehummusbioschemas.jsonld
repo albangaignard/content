@@ -28,10 +28,10 @@
       "sc:description": "R package to define gene families and their expression in legumes and beyond.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0553"
+          "@id": "edam:operation_0552"
         },
         {
-          "@id": "edam:operation_0552"
+          "@id": "edam:operation_0553"
         },
         {
           "@id": "edam:operation_3478"
@@ -40,8 +40,8 @@
       "sc:license": "MIT",
       "sc:name": "geneHummus",
       "sc:operatingSystem": [
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://cran.r-project.org/package=geneHummus",
       "sc:version": "1.0.11"

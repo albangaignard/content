@@ -19,16 +19,16 @@
   ],
   "sc:description": "Search a DNA database for matches with a set of STS primers.",
   "sc:funder": [
-    "Wellcome Trust",
     "UK BBSRC",
-    "UK MRC"
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "stssearch",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "EMBOSS",

@@ -17,12 +17,12 @@
       "@id": "https://bio.tools/clic_pathway",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Jun S. Liu",
-        "Sarah E. Calvo"
+        "Sarah E. Calvo",
+        "Jun S. Liu"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:citation": [
         {

@@ -23,10 +23,10 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_2968"
+          "@id": "edam:data_1270"
         },
         {
-          "@id": "edam:data_1270"
+          "@id": "edam:data_2968"
         }
       ],
       "sc:additionalType": "Web application",
@@ -48,13 +48,13 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "IntaRNA - RNA-RNA interaction",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": [
-        "rnateam",
-        "University Freiburg"
+        "University Freiburg",
+        "rnateam"
       ],
       "sc:softwareHelp": {
         "@id": "http://rna.informatik.uni-freiburg.de/Help.jsp"

@@ -12,23 +12,23 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
-    "UK MRC",
+    "UK BBSRC",
     "EMBOSS Contributors",
-    "UK BBSRC"
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:description": "Write a nucleotide sequence and its translation to file.",
   "sc:funder": [
-    "UK BBSRC",
+    "UK MRC",
     "Wellcome Trust",
-    "UK MRC"
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "prettyseq",
   "sc:operatingSystem": [
-    "Windows",
+    "Mac",
     "Linux",
-    "Mac"
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",
