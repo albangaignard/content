@@ -14,13 +14,17 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0002-0941-4168",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/deepbluer",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Felipe Albrecht",
         {
           "@id": "http://orcid.org/0000-0002-0941-4168"
-        }
+        },
+        "Felipe Albrecht"
       ],
       "sc:additionalType": [
         "Command-line tool",
@@ -40,16 +44,12 @@
       "sc:license": "GPL-2.0",
       "sc:name": "DeepBlueR",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/DeepBlueR.html",
       "sc:version": "1.0.5"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-0941-4168",
-      "@type": "schema:Person"
     }
   ]
 }

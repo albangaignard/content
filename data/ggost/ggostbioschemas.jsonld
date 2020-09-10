@@ -22,8 +22,8 @@
   "sc:license": "Freeware",
   "sc:name": "gGost",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "ELIXIR-EE",

@@ -20,8 +20,8 @@
   "sc:name": "PBIL",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://prabi.ibcp.fr/htm/site/web/home"
 }

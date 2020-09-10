@@ -23,8 +23,8 @@
         "@id": "edam:data_2884"
       },
       "sc:additionalType": [
-        "Desktop application",
-        "Web application"
+        "Web application",
+        "Desktop application"
       ],
       "sc:applicationSubCategory": [
         {

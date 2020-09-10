@@ -20,8 +20,8 @@
   ],
   "sc:provider": [
     "PSB",
-    "UGent",
-    "VIB"
+    "VIB",
+    "UGent"
   ],
   "sc:url": "https://cornet.psb.ugent.be",
   "sc:version": "3.0"

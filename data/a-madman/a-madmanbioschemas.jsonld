@@ -22,8 +22,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "A-MADMAN",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "ELIXIR-ITA-PADOVA",

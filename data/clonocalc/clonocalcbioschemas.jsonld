@@ -32,9 +32,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "ClonoCalc",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://bitbucket.org/ClonoSuite/clonocalc-plot"
     }

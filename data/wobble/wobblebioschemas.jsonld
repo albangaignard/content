@@ -19,9 +19,9 @@
   ],
   "sc:description": "Plot third base position variability in a nucleotide sequence.",
   "sc:funder": [
-    "Wellcome Trust",
+    "UK BBSRC",
     "UK MRC",
-    "UK BBSRC"
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "wobble",

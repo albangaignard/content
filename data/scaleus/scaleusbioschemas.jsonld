@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/scaleus",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web API",
     "Web application",
+    "Web API",
     "Workbench",
     "SPARQL endpoint"
   ],
@@ -21,9 +21,9 @@
   "sc:license": "MIT",
   "sc:name": "Scaleus",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bioinformatics-ua.github.io/scaleus/"
 }

@@ -17,19 +17,19 @@
       "@id": "https://bio.tools/patient_archive",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web application",
-        "Workbench"
+        "Workbench",
+        "Web application"
       ],
       "sc:citation": [
-        "pubmed:26119816",
-        "pubmed:25725061",
-        "pmcid:PMC4572507",
-        "pmcid:PMC4343077",
-        {
-          "@id": "https://doi.org/10.1093/database/bav005"
-        },
         {
           "@id": "https://doi.org/10.1016/j.ajhg.2015.05.020"
+        },
+        "pmcid:PMC4343077",
+        "pmcid:PMC4572507",
+        "pubmed:26119816",
+        "pubmed:25725061",
+        {
+          "@id": "https://doi.org/10.1093/database/bav005"
         }
       ],
       "sc:description": "A platform developed by Kinghorn Center of Clinical Genomics (KCCG) for managing, sharing and discussing patient cases (clinical and genomic information).",
@@ -46,8 +46,8 @@
       ],
       "sc:name": "KCCG Patient Archive",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://patientarchive.org/#/home",

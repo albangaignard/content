@@ -37,13 +37,13 @@
       "sc:description": "Using polynomial uncertainty modelling for differential gene expression estimation from RNA sequencing data.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3800"
+          "@id": "edam:operation_3223"
         },
         {
           "@id": "edam:operation_3680"
         },
         {
-          "@id": "edam:operation_3223"
+          "@id": "edam:operation_3800"
         }
       ],
       "sc:license": "GPL-3.0",

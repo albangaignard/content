@@ -10,40 +10,44 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkm795",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/stitch",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Michael Kuhn",
       "sc:additionalType": [
-        "Command-line tool",
+        "Web application",
         "Database portal",
-        "Web application"
+        "Command-line tool"
       ],
       "sc:author": "Michael Kuhn",
       "sc:citation": [
-        "pubmed:18084021",
-        "pmcid:PMC2238848",
         "pubmed:19897548",
         {
           "@id": "https://doi.org/10.1093/nar/gkm795"
-        }
+        },
+        "pmcid:PMC2238848",
+        "pubmed:18084021"
       ],
       "sc:contributor": [
-        "EMBL",
-        "BMBF",
-        "EC FP6",
+        "EMBO",
         "CPR",
+        "EMBL",
+        "EC FP6",
         "TUD",
-        "SUND-KU",
-        "EMBO"
+        "BMBF",
+        "SUND-KU"
       ],
       "sc:description": "Resource to explore known and predicted interactions of chemicals and proteins. Chemicals are linked to other chemicals and proteins by evidence derived from experiments, databases and the literature.",
       "sc:funder": [
+        "BMBF",
+        "TUD",
+        "EMBL",
         "EC FP6",
         "EMBO",
-        "EMBL",
-        "BMBF",
         "CPR",
-        "TUD",
         "SUND-KU"
       ],
       "sc:name": "STITCH",
@@ -54,10 +58,6 @@
       ],
       "sc:provider": "HD-HuB",
       "sc:url": "http://stitch.embl.de/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkm795",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -21,8 +21,8 @@
         "Aaron R Quinlan"
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:28165109",

@@ -10,7 +10,7 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-3877-4170",
+      "@id": "http://orcid.org/0000-0002-6904-2319",
       "@type": "schema:Person"
     },
     {
@@ -18,7 +18,7 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0002-6904-2319",
+      "@id": "http://orcid.org/0000-0002-3877-4170",
       "@type": "schema:Person"
     },
     {
@@ -50,9 +50,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "dupRadar",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/dupRadar.html"
     }

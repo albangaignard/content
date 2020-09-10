@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Lingfeng Gou",
+    "Ming Chen",
     "Dijun Chen",
-    "Yijun Meng",
-    "Ming Chen"
+    "Yijun Meng"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:20719744",
@@ -22,8 +22,8 @@
   "sc:name": "PmiRKB",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bis.zju.edu.cn/pmirkb/"
 }

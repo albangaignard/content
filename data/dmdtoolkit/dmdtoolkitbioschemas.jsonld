@@ -29,8 +29,8 @@
       "sc:name": "DMDtoolkit",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/zhoujp111/DMDtoolkit"
     },

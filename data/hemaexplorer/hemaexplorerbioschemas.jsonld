@@ -16,8 +16,8 @@
   "sc:name": "HemaExplorer",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "binf.ku.dk",
   "sc:url": "http://servers.binf.ku.dk/hemaexplorer/",

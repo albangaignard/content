@@ -31,8 +31,8 @@
       "sc:license": "AGPL-3.0",
       "sc:name": "SeqBench",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://www.icbi.at/software/seqbench/seqbench.shtml"

@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/mkt",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Sonia Casillas",
     "Antonio Barbadilla",
+    "Sonia Casillas",
     "Raquel Egea"
   ],
   "sc:additionalType": "Web application",

@@ -35,8 +35,8 @@
       "sc:name": "ISOexpresso",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://wiki.tgilab.org/ISOexpresso/"
     }
