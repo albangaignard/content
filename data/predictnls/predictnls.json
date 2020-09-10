@@ -59,7 +59,9 @@
     "description": "Prediction and analysis of nuclear localization signals.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://rostlab.org/owiki/index.php/PredictNLS"
         }
     ],
@@ -74,7 +76,10 @@
         }
     ],
     "editPermission": {
-        "type": "private"
+        "authors": [
+            "Yohan"
+        ],
+        "type": "group"
     },
     "function": [
         {
@@ -120,11 +125,13 @@
         }
     ],
     "homepage": "https://www.rostlab.org/owiki/index.php/PredictNLS",
-    "lastUpdate": "2019-03-14T13:56:56Z",
+    "lastUpdate": "2020-03-27T09:24:25Z",
     "license": "GPL-2.0",
     "link": [
         {
-            "type": "Repository",
+            "type": [
+                "Repository"
+            ],
             "url": "https://rostlab.org/owiki/index.php/Packages"
         }
     ],
@@ -139,7 +146,9 @@
             "doi": "10.1093/embo-reports/kvd092",
             "pmcid": "PMC1083765",
             "pmid": "11258480",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
