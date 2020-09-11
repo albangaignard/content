@@ -45,8 +45,8 @@
       "sc:license": "Unlicense",
       "sc:name": "DrugComb",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://drugcomb.fimm.fi"

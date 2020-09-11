@@ -18,22 +18,22 @@
     "Leonardo Briganti"
   ],
   "sc:contributor": [
-    "Marta Iannuccelli",
     "Gianni Cesareni",
-    "Elena Santonico",
-    "Livia Perfetto"
+    "Livia Perfetto",
+    "Marta Iannuccelli",
+    "Elena Santonico"
   ],
   "sc:description": "A tool collects manually-annotated logic relationships between molecules that participate in signal transduction.",
   "sc:license": "CC-BY-SA-4.0",
   "sc:name": "SIGNOR",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": [
-    "ELIXIR-ITA-TORVERGATA",
-    "Molecular Genetic Group, University of Rome \"Tor Vergata\", Rome, Italy"
+    "Molecular Genetic Group, University of Rome \"Tor Vergata\", Rome, Italy",
+    "ELIXIR-ITA-TORVERGATA"
   ],
   "sc:url": "http://signor.uniroma2.it/"
 }

@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/S13395-019-0196-Z",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/Muscle_Gene_Sets",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -21,8 +17,8 @@
       },
       "sc:additionalType": "Ontology",
       "sc:citation": [
-        "pubmed:31053169",
         "pmcid:PMC6498474",
+        "pubmed:31053169",
         {
           "@id": "https://doi.org/10.1186/S13395-019-0196-Z"
         }
@@ -42,11 +38,15 @@
       "sc:license": "Unlicense",
       "sc:name": "Muscle Gene Sets",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://www.sys-myo.com/muscle_gene_sets"
+    },
+    {
+      "@id": "https://doi.org/10.1186/S13395-019-0196-Z",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://orcid.org/0000-0003-2239-9094",

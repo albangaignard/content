@@ -22,8 +22,8 @@
         "Jia Meng"
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:24979058",
@@ -39,9 +39,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "exomePeak",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/exomePeak.html",
       "sc:version": "2.8.0"

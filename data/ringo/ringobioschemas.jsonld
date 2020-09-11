@@ -10,14 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0003-1471-1295",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1186/1471-2105-8-221",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/ringo",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -42,11 +34,19 @@
       "sc:name": "Ringo",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/Ringo.html",
       "sc:version": "1.38.0"
+    },
+    {
+      "@id": "http://orcid.org/0000-0003-1471-1295",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1186/1471-2105-8-221",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

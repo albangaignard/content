@@ -40,9 +40,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "DiVenn",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://divenn.noble.org/"
     },

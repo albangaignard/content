@@ -46,8 +46,8 @@
       },
       "sc:name": "Compomics-utilities",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:provider": "ugent.be",

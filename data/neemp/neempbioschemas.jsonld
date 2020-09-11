@@ -30,13 +30,13 @@
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_2048"
-        },
-        {
           "@id": "edam:data_1917"
         },
         {
           "@id": "edam:data_2526"
+        },
+        {
+          "@id": "edam:data_2048"
         }
       ],
       "sc:additionalType": "Command-line tool",
@@ -59,14 +59,14 @@
       "sc:license": "GPL-3.0",
       "sc:name": "NEEMP",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:provider": [
-        "ELIXIR-CZ",
-        "National Centre for Biomolecular Research, Masaryk University, Brno",
         "Central European Institute of Technology, Brno",
+        "National Centre for Biomolecular Research, Masaryk University, Brno",
+        "ELIXIR-CZ",
         "mail.muni.cz"
       ],
       "sc:softwareHelp": {

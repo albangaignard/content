@@ -17,8 +17,8 @@
   "sc:name": "MiGMAP",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://github.com/mikessh/migmap"
 }

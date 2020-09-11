@@ -15,8 +15,8 @@
   "sc:name": "GEM-TREND",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://cgs.pharm.kyoto-u.ac.jp/network/"
 }

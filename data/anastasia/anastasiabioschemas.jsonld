@@ -16,14 +16,14 @@
     "Eleftherios Pilalis"
   ],
   "sc:additionalType": [
-    "Desktop application",
-    "Web application"
+    "Web application",
+    "Desktop application"
   ],
   "sc:description": "ANASTASIA (Automated Nucleotide Animoacid Sequences Translational plAtform for Synthetic Interpretation and Analysis) is a metagenomics analysis platform and repository.",
   "sc:name": "ANASTASIA",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:url": "http://motherbox.chemeng.ntua.gr/anastasia_dev/"

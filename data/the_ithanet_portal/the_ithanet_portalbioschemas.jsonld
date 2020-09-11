@@ -21,8 +21,8 @@
       "@id": "https://bio.tools/the_ithanet_portal",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         {
@@ -38,8 +38,8 @@
       "sc:description": "The portal integrates information on news, events, clinical trials and thalassaemia-related organisations, research projects and other scientific networks, wiki-based content of protocols, clinical guidelines and educational articles. Most importantly, disease-specific databases are developed and maintained on the portal, such as databases of haemoglobin variations (IthaGenes), epidemiology (IthaMaps) and HbF inducers (IthaDrugs).",
       "sc:name": "ITHANET",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:provider": "cing.ac.cy",

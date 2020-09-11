@@ -24,16 +24,16 @@
       "sc:description": "An Integrated Open-Source Software Toolkit for Acquisition, Analysis and Simulation of Electrophysiological Data.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2422"
+          "@id": "edam:operation_2426"
         },
         {
-          "@id": "edam:operation_2426"
+          "@id": "edam:operation_2422"
         }
       ],
       "sc:name": "NeuroMatic",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://www.neuromatic.thinkrandom.com/",
