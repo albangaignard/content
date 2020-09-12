@@ -10,15 +10,11 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1107/S1600576715009607",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/binoculars",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Desktop application",
-        "Command-line tool"
+        "Command-line tool",
+        "Desktop application"
       ],
       "sc:citation": [
         "pubmed:26306093",
@@ -35,10 +31,14 @@
       "sc:name": "BINoculars",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://github.com/id03/binoculars"
+    },
+    {
+      "@id": "https://doi.org/10.1107/S1600576715009607",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

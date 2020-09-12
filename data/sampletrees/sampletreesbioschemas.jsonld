@@ -34,8 +34,8 @@
       "sc:name": "sampletrees",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://stat.sfu.ca/statgen/research/sampletrees.html"
     },

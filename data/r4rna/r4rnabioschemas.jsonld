@@ -39,8 +39,8 @@
       "sc:name": "R4RNA",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/R4RNA.html",
       "sc:version": "1.2.0"

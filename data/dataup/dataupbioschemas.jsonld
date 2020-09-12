@@ -14,11 +14,15 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.12688/F1000RESEARCH.3-6.V2",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/dataup",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web application",
-        "Plug-in"
+        "Plug-in",
+        "Web application"
       ],
       "sc:citation": [
         {
@@ -46,10 +50,6 @@
       "sc:name": "DataUp",
       "sc:operatingSystem": "Windows",
       "sc:url": "https://zenodo.org/record/7639#.W45ZrC0rzfZ"
-    },
-    {
-      "@id": "https://doi.org/10.12688/F1000RESEARCH.3-6.V2",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

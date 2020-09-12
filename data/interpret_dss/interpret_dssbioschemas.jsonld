@@ -16,8 +16,8 @@
   "sc:license": "Unlicense",
   "sc:name": "INTERPRET DSS",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:url": "http://gabrmn.uab.es/dss",

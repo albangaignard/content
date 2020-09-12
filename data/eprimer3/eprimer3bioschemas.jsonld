@@ -26,13 +26,13 @@
   "sc:license": "GPL-3.0",
   "sc:name": "eprimer3",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/eprimer3.html",
   "sc:version": "r6"

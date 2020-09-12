@@ -15,8 +15,8 @@
   "sc:license": "Unlicense",
   "sc:name": "GePhEx",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "https://gephex.ega-archive.org/"

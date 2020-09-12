@@ -10,12 +10,16 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/molbev/msy226",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/ORTHOSCOPE",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Jun Inoue",
       "sc:additionalType": [
-        "Desktop application",
-        "Web service"
+        "Web service",
+        "Desktop application"
       ],
       "sc:citation": [
         {
@@ -39,15 +43,11 @@
       "sc:license": "Unlicense",
       "sc:name": "ORTHOSCOPE",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://www.orthoscope.jp"
-    },
-    {
-      "@id": "https://doi.org/10.1093/molbev/msy226",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

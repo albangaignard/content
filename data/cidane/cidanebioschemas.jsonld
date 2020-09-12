@@ -13,9 +13,9 @@
       "@id": "https://bio.tools/cidane",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "David Weese",
         "Knut Reinert",
-        "Gunnar W. Klau"
+        "Gunnar W. Klau",
+        "David Weese"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [

@@ -44,8 +44,8 @@
       "sc:name": "AlloDriver",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://mdl.shsmu.edu.cn/ALD"
     }

@@ -29,8 +29,8 @@
       "sc:name": "Plastid Genome Annotator",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/quxiaojian/PGA"
     },

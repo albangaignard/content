@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Jeongsu Oh",
-        "Kyung Mo Kim",
-        "Kyuin Hwang"
+        "Kyuin Hwang",
+        "Kyung Mo Kim"
       ],
       "sc:additionalType": "Desktop application",
       "sc:citation": [

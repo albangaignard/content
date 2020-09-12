@@ -17,8 +17,8 @@
   "sc:name": "ePMV",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://epmv.scripps.edu/"
 }

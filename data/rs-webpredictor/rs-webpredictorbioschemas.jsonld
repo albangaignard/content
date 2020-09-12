@@ -36,9 +36,9 @@
       ],
       "sc:name": "RS-WebPredictor",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://reccr.chem.rpi.edu/Software/RS-WebPredictor/"
     }

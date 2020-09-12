@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/priam_search",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web application",
     "Database portal",
+    "Web application",
     "Command-line tool"
   ],
   "sc:author": "Thomas Bernard",
@@ -21,14 +21,14 @@
   "sc:name": "PRIAM search",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
-    "Pole Rhone-Alpin de Bioinformatique",
-    "Lyon 1 University",
     "univ-lyon1.fr",
-    "INRA"
+    "INRA",
+    "Pole Rhone-Alpin de Bioinformatique",
+    "Lyon 1 University"
   ],
   "sc:url": "http://priam.prabi.fr/REL_MAR15/index_mar15.html"
 }

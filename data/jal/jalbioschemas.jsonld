@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/JAL",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Minh N. Nguyen",
-    "Chandra S. Verma"
+    "Chandra S. Verma",
+    "Minh N. Nguyen"
   ],
   "sc:additionalType": [
     "Command-line tool",

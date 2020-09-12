@@ -39,8 +39,8 @@
       "sc:name": "RRMdb",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://iimcb.genesilico.pl/rrm/"
     },

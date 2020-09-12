@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1038/S41586-019-1237-9",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/HMP2",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -30,24 +34,20 @@
           "@id": "edam:operation_3891"
         },
         {
-          "@id": "edam:operation_3629"
+          "@id": "edam:operation_3192"
         },
         {
-          "@id": "edam:operation_3192"
+          "@id": "edam:operation_3629"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "HMP2",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://bitbucket.org/biobakery/hmp2_workflows"
-    },
-    {
-      "@id": "https://doi.org/10.1038/S41586-019-1237-9",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

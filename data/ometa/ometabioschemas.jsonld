@@ -17,8 +17,8 @@
   "sc:name": "OMeta",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://github.com/JCVenterInstitute/OMeta-Public"
 }

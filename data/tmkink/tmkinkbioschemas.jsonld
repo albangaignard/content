@@ -16,8 +16,8 @@
   "sc:name": "TMKink",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://tmkinkpredictor.mbi.ucla.edu/"
 }

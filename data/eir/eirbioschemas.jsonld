@@ -19,10 +19,10 @@
       "biotools:primaryContact": "Thomas Girke",
       "edam:has_input": [
         {
-          "@id": "edam:data_0990"
+          "@id": "edam:data_1463"
         },
         {
-          "@id": "edam:data_1463"
+          "@id": "edam:data_0990"
         },
         {
           "@id": "edam:data_1086"
@@ -37,15 +37,15 @@
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0154"
+          "@id": "edam:topic_0081"
         },
         {
-          "@id": "edam:topic_0081"
+          "@id": "edam:topic_0154"
         }
       ],
       "sc:citation": [
@@ -62,9 +62,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "eiR",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/eiR.html",
       "sc:version": "1.14.1"
