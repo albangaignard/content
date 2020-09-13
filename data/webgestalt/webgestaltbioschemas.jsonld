@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/webgestalt",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Zhiao Shi",
     "Suhas Vasaikar",
+    "Zhiao Shi",
     "Bing Zhang"
   ],
   "sc:additionalType": "Web application",

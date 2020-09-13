@@ -15,8 +15,8 @@
   "sc:description": "Remove filtered lines from vcf files.",
   "sc:name": "vcf_remove_filtered",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "https://bio.tools/vcftools",

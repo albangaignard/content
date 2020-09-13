@@ -22,8 +22,8 @@
   ],
   "sc:name": "SILVAngs",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "silva",

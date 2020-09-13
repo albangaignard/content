@@ -32,9 +32,9 @@
       ],
       "sc:name": "INDIGO",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://www.cbrc.kaust.edu.sa/indigo/begin.do"
     },

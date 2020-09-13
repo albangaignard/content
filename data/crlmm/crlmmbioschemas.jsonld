@@ -17,11 +17,11 @@
       "@id": "https://bio.tools/crlmm",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Benilton S Carvalho",
         "Robert Scharpf",
         {
           "@id": "http://orcid.org/0000-0002-7383-0609"
-        },
-        "Benilton S Carvalho"
+        }
       ],
       "sc:additionalType": [
         "Library",

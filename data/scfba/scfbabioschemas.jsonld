@@ -31,17 +31,17 @@
           "@id": "edam:operation_2495"
         },
         {
-          "@id": "edam:operation_3803"
+          "@id": "edam:operation_3660"
         },
         {
-          "@id": "edam:operation_3660"
+          "@id": "edam:operation_3803"
         }
       ],
       "sc:name": "scFBA",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://github.com/BIMIB-DISCo/scFBA"
     }

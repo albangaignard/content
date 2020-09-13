@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/pvac",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Pierre R. Bushel",
-    "Jun Lu"
+    "Jun Lu",
+    "Pierre R. Bushel"
   ],
   "sc:additionalType": [
     "Library",
@@ -23,8 +23,8 @@
   "sc:name": "pvac",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/pvac.html",
   "sc:version": "1.22.0"

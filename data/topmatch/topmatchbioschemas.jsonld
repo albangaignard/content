@@ -17,8 +17,8 @@
   "sc:name": "TopMatch",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://topmatch.services.came.sbg.ac.at/"
 }

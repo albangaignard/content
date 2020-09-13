@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0002-1491-1839",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/wasp",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -33,15 +37,11 @@
       },
       "sc:name": "WASP",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://www4a.biotec.or.th/GI/tools/wasp"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-1491-1839",
-      "@type": "schema:Person"
     }
   ]
 }

@@ -17,8 +17,8 @@
   "sc:name": "PolymiRTS",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://compbio.uthsc.edu/miRSNP/"
 }

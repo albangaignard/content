@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "EMBOSS Contributors",
     "UK MRC",
     "Wellcome Trust",
+    "EMBOSS Contributors",
     "UK BBSRC"
   ],
   "sc:description": "Create a codon usage table from nucleotide sequence(s).",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "cusp",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

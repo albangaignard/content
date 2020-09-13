@@ -21,8 +21,8 @@
         "Robert W. Janes"
       ],
       "sc:additionalType": [
-        "Web service",
-        "Web application"
+        "Web application",
+        "Web service"
       ],
       "sc:citation": [
         "pmcid:PMC6602421",
@@ -47,8 +47,8 @@
       "sc:name": "2StrucCompare",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://2struccompare.cryst.bbk.ac.uk/index.php"
     }

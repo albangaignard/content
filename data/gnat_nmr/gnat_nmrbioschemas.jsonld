@@ -33,8 +33,8 @@
       "sc:name": "GNAT",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://www.nmr.chemistry.manchester.ac.uk/?q=node/430"
     }

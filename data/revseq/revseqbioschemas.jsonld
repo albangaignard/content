@@ -12,15 +12,15 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
     "Wellcome Trust",
     "EMBOSS Contributors",
-    "UK BBSRC"
+    "UK BBSRC",
+    "UK MRC"
   ],
   "sc:description": "Reverse and complement a nucleotide sequence.",
   "sc:funder": [
-    "UK MRC",
     "UK BBSRC",
+    "UK MRC",
     "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
@@ -31,8 +31,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/revseq.html",
   "sc:version": "r6"

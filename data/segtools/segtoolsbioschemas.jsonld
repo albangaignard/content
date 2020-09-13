@@ -15,8 +15,8 @@
   "sc:name": "Segtools",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://www.pmgenomics.ca/hoffmanlab/proj/segtools/"
 }

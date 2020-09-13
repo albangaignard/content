@@ -19,15 +19,15 @@
   ],
   "sc:description": "Match large sequences against one or more other sequences.",
   "sc:funder": [
-    "UK BBSRC",
     "UK MRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "wordfinder",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": [

@@ -14,12 +14,12 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Support",
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
-        "pubmed:16381945",
         "pmcid:PMC1347446",
+        "pubmed:16381945",
         {
           "@id": "https://doi.org/10.1093/nar/gkj083"
         }
@@ -30,9 +30,9 @@
       },
       "sc:name": "dbPTM",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://dbptm.mbc.nctu.edu.tw",
       "sc:version": "3.0"

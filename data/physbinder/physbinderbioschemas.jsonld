@@ -40,8 +40,8 @@
       "sc:name": "PhysBinder",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": "ugent.be",
       "sc:url": "http://bioit.dmbr.ugent.be/physbinder/",

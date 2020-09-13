@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Maria I Klapa",
   "sc:additionalType": [
-    "Suite",
     "Workflow",
+    "Suite",
     "Desktop application",
     "Database portal"
   ],

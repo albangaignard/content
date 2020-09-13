@@ -17,8 +17,8 @@
   "sc:name": "CorreLogo",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://correlogo.abcc.ncifcrf.gov/"
 }

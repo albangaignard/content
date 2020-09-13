@@ -38,8 +38,8 @@
       "sc:name": "GOPHER",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://github.com/TheJacksonLaboratory/Gopher"
     }

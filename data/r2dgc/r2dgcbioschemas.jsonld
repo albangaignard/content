@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/r2dgc",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Emily Gordon",
     "Ryne Ramaker",
+    "Emily Gordon",
     "Sara Cooper"
   ],
   "sc:additionalType": "Library",

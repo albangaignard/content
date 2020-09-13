@@ -14,8 +14,8 @@
   "sc:additionalType": [
     "Web application",
     "Workflow",
-    "Library",
-    "Command-line tool"
+    "Command-line tool",
+    "Library"
   ],
   "sc:author": "Bionode Team",
   "sc:description": "Highly reusable code and tools for bioinformatics by leveraging the Node.JS ecosystem.",
