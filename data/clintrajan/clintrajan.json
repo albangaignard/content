@@ -1,0 +1,13 @@
+{
+    "additionDate": "2020-09-09T09:37:13.711822",
+    "biotoolsCURIE": "biotools:clintrajan",
+    "biotoolsID": "clintrajan",
+    "description": "Python package for the analysis of trajectories in clinical data",
+    "editPermission": {
+        "type": "private"
+    },
+    "homepage": "https://github.com/auranic/ClinTrajan",
+    "lastUpdate": "2020-09-09T09:37:13.714806Z",
+    "name": "ClinTrajAn",
+    "owner": "j-bac"
+}
