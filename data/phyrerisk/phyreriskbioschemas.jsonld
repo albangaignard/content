@@ -41,8 +41,8 @@
       "sc:name": "PhyreRisk",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://phyrerisk.bc.ic.ac.uk"
     }

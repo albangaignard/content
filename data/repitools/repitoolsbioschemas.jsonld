@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-3048-5518",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1186/gb-2014-15-2-r35",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-3048-5518",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/repitools",
@@ -24,8 +24,8 @@
         "@id": "http://orcid.org/0000-0002-3048-5518"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC4053803",
@@ -46,8 +46,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "Repitools",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/Repitools.html",

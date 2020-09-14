@@ -19,8 +19,8 @@
   "sc:name": "archiDART",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://archidart.github.io",
   "sc:version": "3.3"

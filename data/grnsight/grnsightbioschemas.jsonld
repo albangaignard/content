@@ -16,14 +16,14 @@
   ],
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Britain J. Southwick",
-    "Eileen Choe",
     "John David N. Dionisio",
-    "Anindita Varshneya",
-    "Nicole A. Anguiano",
+    "Britain J. Southwick",
     "Jen Shin",
     "Mihir Samdarshi",
+    "Eileen Choe",
+    "Anindita Varshneya",
     "Ben G. Fitzpatrick",
+    "Nicole A. Anguiano",
     "Kam D. Dahlquist"
   ],
   "sc:contributor": "NSF award 0921038; LMU Rains Research Assistant Program; LMU Summer Undergraduate Research Program",
@@ -32,13 +32,13 @@
   "sc:license": "BSD-3-Clause",
   "sc:name": "GRNsight",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": [
-    "Loyola Marymount University",
-    "lmu.edu"
+    "lmu.edu",
+    "Loyola Marymount University"
   ],
   "sc:url": "http://dondi.github.io/GRNsight/",
   "sc:version": "4.0.0"

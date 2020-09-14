@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/seten",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Gungor Budak",
-        "Sarath Chandra Janga"
+        "Sarath Chandra Janga",
+        "Gungor Budak"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -31,8 +31,8 @@
       "sc:name": "Seten",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://www.iupui.edu/~sysbio/seten/"
     },

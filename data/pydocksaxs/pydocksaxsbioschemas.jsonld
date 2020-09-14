@@ -44,9 +44,9 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "pyDockSAXS",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:provider": [
         "Barcelona Supercomputing Center",
@@ -54,10 +54,10 @@
       ],
       "sc:softwareHelp": [
         {
-          "@id": "https://life.bsc.es/pid/pydocksaxs/info/faq_and_help"
+          "@id": "https://life.bsc.es/pid/pydocksaxs/info/faq_and_help#reference"
         },
         {
-          "@id": "https://life.bsc.es/pid/pydocksaxs/info/faq_and_help#reference"
+          "@id": "https://life.bsc.es/pid/pydocksaxs/info/faq_and_help"
         }
       ],
       "sc:termsOfService": {
@@ -67,12 +67,12 @@
       "sc:version": "1"
     },
     {
-      "@id": "https://doi.org/10.1093/nar/gkv368",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0001-7786-2109",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkv368",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

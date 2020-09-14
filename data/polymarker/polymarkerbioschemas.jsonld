@@ -19,8 +19,8 @@
   "sc:name": "PolyMarker",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://polymarker.tgac.ac.uk/"
 }

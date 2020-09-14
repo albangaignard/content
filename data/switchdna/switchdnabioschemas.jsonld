@@ -16,8 +16,8 @@
   "sc:name": "SWITCHdna",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://genome.unc.edu/pubsup/SWITCHdna/"
 }

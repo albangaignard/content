@@ -17,18 +17,18 @@
   "sc:additionalType": "Desktop application",
   "sc:author": "Ryan Wick",
   "sc:contributor": [
-    "Kathryn Holt",
-    "Rayan Chikhi",
-    "Justin Zobel",
     "Elmar Pruesse",
-    "Mark Schultz"
+    "Kathryn Holt",
+    "Mark Schultz",
+    "Rayan Chikhi",
+    "Justin Zobel"
   ],
   "sc:description": "GUI program that allows users to interact with the assembly graphs made by de novo assemblers such as Velvet, SPAdes, MEGAHIT and others. It visualises assembly graphs, with connections, using graph layout algorithms.",
   "sc:license": "GPL-3.0",
   "sc:name": "Bandage",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": [

@@ -29,9 +29,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "DeepBlue Epigenomic Data Server",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "mpi-inf.mpg.de",

@@ -20,8 +20,8 @@
   "sc:name": "GSE",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://groups.csail.mit.edu/cgs/gse.html"
 }

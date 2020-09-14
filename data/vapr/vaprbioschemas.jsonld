@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Amanda Birmingham",
-    "Kathleen Fisch",
-    "Adam Mark"
+    "Adam Mark",
+    "Kathleen Fisch"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:description": "Efficient population-scale variant analysis and prioritization.",

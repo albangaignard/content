@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/weighbor",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "N. D. Socci",
     "A. Halpern",
+    "N. D. Socci",
     "W. Bruno"
   ],
   "sc:additionalType": [

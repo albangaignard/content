@@ -37,8 +37,8 @@
       "sc:name": "RCytoscape",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/RCytoscape.html",
       "sc:version": "1.24.1"

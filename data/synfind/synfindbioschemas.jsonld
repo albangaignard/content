@@ -31,9 +31,9 @@
       },
       "sc:name": "SynFind",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://genomevolution.org/CoGe/SynFind.pl"
     }

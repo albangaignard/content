@@ -50,16 +50,16 @@
         "pmcid:PMC2686526"
       ],
       "sc:contributor": [
-        "Paola Visconti",
-        "Ottavia Aresu"
+        "Ottavia Aresu",
+        "Paola Visconti"
       ],
       "sc:description": "Cell Line Integrated Molecular Authentication database and Identification tool. It represents a reference for validated molecular authentication of human cell lines independently from the platforms used.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2421"
+          "@id": "edam:operation_3431"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_2421"
         }
       ],
       "sc:name": "CLIMA 2",

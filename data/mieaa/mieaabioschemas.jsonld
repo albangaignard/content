@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/NAR/GKW345",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/mieaa",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Backes C",
@@ -37,10 +41,6 @@
         "Linux"
       ],
       "sc:url": "https://ccb-compute2.cs.uni-saarland.de/mieaa_tool/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKW345",
-      "@type": "sc:CreativeWork"
     }
   ]
 }
