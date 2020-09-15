@@ -29,13 +29,13 @@
       "sc:description": "The package makes it convenient to use data quality metrics and normalization methods for Illumina 450 methylation array. The functions also use minfi, methylumi and IMA packages.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3435"
-        },
-        {
           "@id": "edam:operation_3204"
         },
         {
           "@id": "edam:operation_3763"
+        },
+        {
+          "@id": "edam:operation_3435"
         }
       ],
       "sc:license": "GPL-3.0",

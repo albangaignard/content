@@ -26,8 +26,8 @@
       },
       "sc:name": "Composition Profiler",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://www.cprofiler.org/",

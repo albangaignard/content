@@ -10,6 +10,14 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkv523",
+      "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0003-4525-7793",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/inga",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -27,17 +35,17 @@
         "@id": "edam:data_2858"
       },
       "sc:additionalType": [
-        "Web API",
-        "Web application"
+        "Web application",
+        "Web API"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_1775"
       },
       "sc:citation": [
+        "pmcid:PMC4489281",
         {
           "@id": "https://doi.org/10.1093/nar/gkv523"
         },
-        "pmcid:PMC4489281",
         "pubmed:26019177"
       ],
       "sc:description": "Interaction Network GO Annotator protein function predictor.",
@@ -46,24 +54,16 @@
       },
       "sc:name": "INGA",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:provider": [
-        "University of Padua, Department of Biomedical Sciences, BioComputing UP lab",
-        "ELIXIR-ITA-PADOVA"
+        "ELIXIR-ITA-PADOVA",
+        "University of Padua, Department of Biomedical Sciences, BioComputing UP lab"
       ],
       "sc:url": "http://protein.bio.unipd.it/inga",
       "sc:version": "1.1"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkv523",
-      "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "http://orcid.org/0000-0003-4525-7793",
-      "@type": "schema:Person"
     }
   ]
 }

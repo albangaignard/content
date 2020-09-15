@@ -51,16 +51,16 @@
       "sc:license": "Unlicense",
       "sc:name": "Pindel",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:softwareHelp": [
         {
-          "@id": "http://gmt.genome.wustl.edu/packages/pindel/"
+          "@id": "http://gmt.genome.wustl.edu/packages/pindel/user-manual.html"
         },
         {
-          "@id": "http://gmt.genome.wustl.edu/packages/pindel/user-manual.html"
+          "@id": "http://gmt.genome.wustl.edu/packages/pindel/"
         }
       ],
       "sc:url": "http://gmt.genome.wustl.edu/packages/pindel/"

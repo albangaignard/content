@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Shweta Bansal",
       "sc:additionalType": "Database portal",
       "sc:citation": [
-        "pmcid:PMC6488576",
         "pubmed:31036810",
+        "pmcid:PMC6488576",
         {
           "@id": "https://doi.org/10.1038/S41597-019-0056-Z"
         }
@@ -34,8 +34,8 @@
       "sc:name": "ASNR",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://bansallab.github.io/asnr/"
     },

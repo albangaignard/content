@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Catherine Sargent",
+    "Paul Thaben",
     "Jessica Ahmed",
-    "Robert Preissner",
-    "Paul Thaben"
+    "Robert Preissner"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:20965964",

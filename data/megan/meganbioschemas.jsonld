@@ -17,8 +17,8 @@
   "sc:name": "MEGAN",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://ab.inf.uni-tuebingen.de/software/megan6/"
 }

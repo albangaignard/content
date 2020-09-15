@@ -29,10 +29,10 @@
       "sc:description": "Efficient Estimation of Grouped Survival Models Using the Exact Likelihood Function.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_3557"
         },
         {
-          "@id": "edam:operation_3557"
+          "@id": "edam:operation_3196"
         },
         {
           "@id": "edam:operation_3659"
@@ -42,8 +42,8 @@
       "sc:name": "groupedSurv",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://CRAN.R-project.org/package=groupedSurv"
     },

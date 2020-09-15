@@ -24,8 +24,8 @@
         "@id": "http://orcid.org/0000-0003-3659-2709"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:26017500",

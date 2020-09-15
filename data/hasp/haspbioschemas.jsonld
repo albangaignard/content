@@ -17,8 +17,8 @@
   "sc:name": "HASP",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://exon.niaid.nih.gov/HASP.html"
 }

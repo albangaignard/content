@@ -10,7 +10,7 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0001-5444-9282",
+      "@id": "https://orcid.org/0000-0003-1073-6719",
       "@type": "schema:Person"
     },
     {
@@ -25,8 +25,8 @@
         }
       ],
       "sc:additionalType": [
-        "Web service",
-        "Command-line tool"
+        "Command-line tool",
+        "Web service"
       ],
       "sc:author": [
         {
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "@id": "https://orcid.org/0000-0003-1073-6719",
+      "@id": "https://orcid.org/0000-0001-5444-9282",
       "@type": "schema:Person"
     }
   ]

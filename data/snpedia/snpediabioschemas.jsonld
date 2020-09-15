@@ -17,8 +17,8 @@
   "sc:name": "SNPedia",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.snpedia.com/index.php/SNPedia"
 }

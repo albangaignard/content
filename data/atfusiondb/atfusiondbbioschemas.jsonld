@@ -10,12 +10,16 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/database/bay135",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/AtFusionDB",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Dr. Shailesh Kumar",
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         {
@@ -39,14 +43,10 @@
       "sc:name": "AtFusionDB",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://www.nipgr.ac.in/AtFusionDB/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/database/bay135",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-3798-2058",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/stampy",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -21,10 +17,10 @@
       },
       "sc:additionalType": "Script",
       "sc:citation": [
-        "pmcid:PMC3106326",
         {
           "@id": "https://doi.org/10.1101/gr.111120.110"
         },
+        "pmcid:PMC3106326",
         "pubmed:20980556",
         "pubmed:28286147"
       ],
@@ -36,6 +32,10 @@
     {
       "@id": "https://doi.org/10.1101/gr.111120.110",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-3798-2058",
+      "@type": "schema:Person"
     }
   ]
 }

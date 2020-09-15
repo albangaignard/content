@@ -15,8 +15,8 @@
   "sc:name": "Mrbws",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bioit.fleming.gr/mrb/data.jsp",
   "sc:version": "1"

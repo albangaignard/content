@@ -33,9 +33,6 @@
       "sc:additionalType": "Web application",
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_2275"
-        },
-        {
           "@id": "edam:topic_3306"
         },
         {
@@ -43,6 +40,9 @@
         },
         {
           "@id": "edam:topic_0081"
+        },
+        {
+          "@id": "edam:topic_2275"
         }
       ],
       "sc:citation": [
@@ -58,9 +58,9 @@
       },
       "sc:name": "SWISS-MODEL Workspace",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:provider": "SIB Swiss Institute of Bioinformatics",
       "sc:url": "https://swissmodel.expasy.org/",

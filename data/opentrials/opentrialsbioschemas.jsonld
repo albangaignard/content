@@ -19,8 +19,8 @@
   "sc:name": "OpenTrials API",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://opentrials.net/"
 }

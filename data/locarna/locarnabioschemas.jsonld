@@ -31,13 +31,13 @@
       },
       "edam:has_output": [
         {
+          "@id": "edam:data_0872"
+        },
+        {
           "@id": "edam:data_1916"
         },
         {
           "@id": "edam:data_1465"
-        },
-        {
-          "@id": "edam:data_0872"
         }
       ],
       "sc:additionalType": "Command-line tool",
@@ -65,8 +65,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "LocARNA",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": "University Freiburg",
       "sc:softwareHelp": {

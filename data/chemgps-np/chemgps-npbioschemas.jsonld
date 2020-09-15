@@ -19,8 +19,8 @@
   "sc:name": "ChemGPS-NP",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": "bils.se",
   "sc:url": "http://chemgps.bmc.uu.se/",
