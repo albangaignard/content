@@ -15,8 +15,8 @@
   "sc:name": "XPN",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://genome.unc.edu/xpn/"
 }

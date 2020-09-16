@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/1756-0500-7-43",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/seqbench",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Web application",
@@ -32,10 +36,6 @@
         "Linux"
       ],
       "sc:url": "http://www.icbi.at/software/seqbench/seqbench.shtml"
-    },
-    {
-      "@id": "https://doi.org/10.1186/1756-0500-7-43",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

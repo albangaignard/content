@@ -20,8 +20,8 @@
       "sc:additionalType": [
         "Web application",
         "Library",
-        "Suite",
-        "Workflow"
+        "Workflow",
+        "Suite"
       ],
       "sc:citation": [
         "pubmed:27612452",

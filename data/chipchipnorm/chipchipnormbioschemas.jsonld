@@ -15,8 +15,8 @@
   "sc:name": "chipchipnorm",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://compbio.med.harvard.edu/software.html",
   "sc:version": "1.0.1"

@@ -14,21 +14,21 @@
   "sc:author": "Fredrik Ronquist",
   "sc:citation": "pubmed:11524383",
   "sc:contributor": [
-    "John Huelsenbeck",
-    "Vetenskapsrådet",
-    "NSF",
-    "Donald Simon",
-    "Chi Zhang",
-    "Maxim Teslenko",
-    "Paul van der Mark",
     "NIH",
-    "Bret Larget"
+    "Paul van der Mark",
+    "Maxim Teslenko",
+    "Bret Larget",
+    "Chi Zhang",
+    "Vetenskapsrådet",
+    "Donald Simon",
+    "NSF",
+    "John Huelsenbeck"
   ],
   "sc:description": "Program for Bayesian inference and model choice across a wide range of phylogenetic and evolutionary models. It uses Markov chain Monte Carlo (MCMC) methods to estimate the posterior distribution of model parameters.",
   "sc:funder": [
     "Vetenskapsrådet",
-    "NSF",
-    "NIH"
+    "NIH",
+    "NSF"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "MrBayes",

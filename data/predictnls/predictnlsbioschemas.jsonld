@@ -24,10 +24,10 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0080"
+          "@id": "edam:topic_3510"
         },
         {
-          "@id": "edam:topic_3510"
+          "@id": "edam:topic_0080"
         }
       ],
       "sc:author": "Murat Cokol",
@@ -39,8 +39,8 @@
         }
       ],
       "sc:contributor": [
-        "Rajesh Nair",
-        "Burkhard Rost"
+        "Burkhard Rost",
+        "Rajesh Nair"
       ],
       "sc:description": "Prediction and analysis of nuclear localization signals.",
       "sc:featureList": [

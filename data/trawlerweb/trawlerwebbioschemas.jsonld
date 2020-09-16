@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/trawlerweb",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Mirana Ramialison",
-        "Louis Dang"
+        "Louis Dang",
+        "Mirana Ramialison"
       ],
       "sc:additionalType": [
         "Command-line tool",
@@ -38,8 +38,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "TrawlerWeb",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://trawler.erc.monash.edu.au/"

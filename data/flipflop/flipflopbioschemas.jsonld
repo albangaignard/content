@@ -43,8 +43,8 @@
       "sc:name": "flipflop",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/flipflop.html",
       "sc:version": "1.12.0"

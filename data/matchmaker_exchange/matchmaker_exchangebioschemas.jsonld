@@ -10,15 +10,11 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1002/humu.22858",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/matchmaker_exchange",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web API",
-        "Web application"
+        "Web application",
+        "Web API"
       ],
       "sc:citation": [
         "pubmed:26295439",
@@ -33,23 +29,27 @@
           "@id": "edam:operation_2421"
         },
         {
+          "@id": "edam:operation_3197"
+        },
+        {
           "@id": "edam:operation_3431"
         },
         {
           "@id": "edam:operation_3760"
-        },
-        {
-          "@id": "edam:operation_3197"
         }
       ],
       "sc:license": "Other",
       "sc:name": "Matchmaker exchange",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://www.matchmakerexchange.org"
+    },
+    {
+      "@id": "https://doi.org/10.1002/humu.22858",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

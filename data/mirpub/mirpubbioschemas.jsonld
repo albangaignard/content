@@ -34,8 +34,8 @@
       "sc:name": "mirPub",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://diana.imis.athena-innovation.gr/DianaTools/index.php?r=mirpub/index"
     }

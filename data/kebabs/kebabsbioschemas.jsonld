@@ -25,8 +25,8 @@
       "sc:name": "KeBABS",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://www.bioinf.jku.at/software/kebabs/",
       "sc:version": "1.8.0"

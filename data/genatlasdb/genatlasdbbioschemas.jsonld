@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Martine Lemerrer",
-    "Marie-Liesse Chauvet",
     "Claude Mugnier",
-    "Alexandra Caude"
+    "Alexandra Caude",
+    "Marie-Liesse Chauvet"
   ],
   "sc:additionalType": [
     "Database portal",
@@ -25,9 +25,9 @@
   "sc:license": "Apache-2.0",
   "sc:name": "Genatlas",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.genatlas.org"
 }

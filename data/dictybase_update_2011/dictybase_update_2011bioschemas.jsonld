@@ -28,8 +28,8 @@
       "sc:name": "dictyBase update 2011",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": "Center for Genetic Medicine, Northwestern University",
       "sc:url": "http://www.dictybase.org"

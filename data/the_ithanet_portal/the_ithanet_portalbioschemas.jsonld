@@ -10,15 +10,11 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0003-2681-4355",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/the_ithanet_portal",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         {
@@ -35,11 +31,15 @@
       "sc:name": "ITHANET",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": "cing.ac.cy",
       "sc:url": "http://www.ithanet.eu"
+    },
+    {
+      "@id": "http://orcid.org/0000-0003-2681-4355",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1371/journal.pone.0103020",
