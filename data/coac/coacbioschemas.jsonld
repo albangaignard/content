@@ -15,8 +15,8 @@
       "biotools:primaryContact": "ChengF-Lab",
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
-        "pubmed:30779739",
         "pmcid:PMC6396937",
+        "pubmed:30779739",
         {
           "@id": "https://doi.org/10.1371/journal.pcbi.1006772"
         }
@@ -37,8 +37,8 @@
       "sc:name": "COAC",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/ChengF-Lab/COAC"
     },

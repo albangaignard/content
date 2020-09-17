@@ -23,9 +23,9 @@
   "sc:license": "MIT",
   "sc:name": "relna",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "RostLab",

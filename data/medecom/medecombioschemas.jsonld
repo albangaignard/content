@@ -30,18 +30,18 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3518"
+          "@id": "edam:topic_3295"
         },
         {
-          "@id": "edam:topic_3295"
+          "@id": "edam:topic_3518"
         },
         {
           "@id": "edam:topic_0080"
         }
       ],
       "sc:author": [
-        "Pavlo Lutsik",
-        "Martin Slawski"
+        "Martin Slawski",
+        "Pavlo Lutsik"
       ],
       "sc:citation": [
         {
@@ -57,13 +57,13 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "MeDeCom",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": [
         "hdhub",
-        "Walter lab",
-        "Hein Lab"
+        "Hein Lab",
+        "Walter lab"
       ],
       "sc:softwareHelp": {
         "@id": "https://github.com/lutsik/MeDeCom/blob/master/README"

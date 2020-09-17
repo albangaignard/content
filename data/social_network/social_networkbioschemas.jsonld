@@ -41,8 +41,8 @@
       "sc:name": "Social Network",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://baderlab.org/Software/SocialNetworkApp",
       "sc:version": "1.3.0"

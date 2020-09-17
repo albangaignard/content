@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.1186/1471-2164-14-S3-S2",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/meta-snp",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -33,10 +37,10 @@
       "sc:additionalType": "Web service",
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0123"
+          "@id": "edam:topic_0634"
         },
         {
-          "@id": "edam:topic_0634"
+          "@id": "edam:topic_0123"
         }
       ],
       "sc:author": {
@@ -57,17 +61,13 @@
       "sc:name": "Meta-SNP",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:softwareHelp": {
         "@id": "http://snps.biofold.org/meta-snp/pages/help.html"
       },
       "sc:url": "http://snps.biofold.org/meta-snp"
-    },
-    {
-      "@id": "https://doi.org/10.1186/1471-2164-14-S3-S2",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

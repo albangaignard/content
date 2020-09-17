@@ -18,8 +18,8 @@
   "sc:name": "Cram-JS",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/GMOD/cram-js"
 }

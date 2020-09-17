@@ -33,9 +33,9 @@
       },
       "sc:name": "Grape Database",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:provider": "ELIXIR-ITA-PADOVA",
       "sc:url": "http://genomes.cribi.unipd.it/grape/"

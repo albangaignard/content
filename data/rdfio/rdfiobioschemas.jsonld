@@ -35,9 +35,9 @@
       ],
       "sc:name": "RDFIO",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "https://pharmb.io/project/rdfio/"
     }

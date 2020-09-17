@@ -13,13 +13,13 @@
   "biotools:primaryContact": "Luana Licata",
   "sc:additionalType": "Database portal",
   "sc:author": [
-    "Prisca Lo Surdo",
+    "Alberto Calderone",
     "Leonardo Briganti",
-    "Alberto Calderone"
+    "Prisca Lo Surdo"
   ],
   "sc:contributor": [
-    "Elena Santonico",
     "Gianni Cesareni",
+    "Elena Santonico",
     "Marta Iannuccelli",
     "Livia Perfetto"
   ],
@@ -32,8 +32,8 @@
     "Linux"
   ],
   "sc:provider": [
-    "ELIXIR-ITA-TORVERGATA",
-    "Molecular Genetic Group, University of Rome \"Tor Vergata\", Rome, Italy"
+    "Molecular Genetic Group, University of Rome \"Tor Vergata\", Rome, Italy",
+    "ELIXIR-ITA-TORVERGATA"
   ],
   "sc:url": "http://signor.uniroma2.it/"
 }

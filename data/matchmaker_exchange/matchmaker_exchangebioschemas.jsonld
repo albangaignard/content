@@ -29,20 +29,20 @@
           "@id": "edam:operation_2421"
         },
         {
-          "@id": "edam:operation_3197"
-        },
-        {
           "@id": "edam:operation_3431"
         },
         {
           "@id": "edam:operation_3760"
+        },
+        {
+          "@id": "edam:operation_3197"
         }
       ],
       "sc:license": "Other",
       "sc:name": "Matchmaker exchange",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://www.matchmakerexchange.org"

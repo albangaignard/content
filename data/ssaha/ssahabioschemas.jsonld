@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Zemin Ning",
-    "Adam Spargo",
-    "Hannes Ponstingl"
+    "Hannes Ponstingl",
+    "Adam Spargo"
   ],
   "sc:additionalType": "Suite",
   "sc:citation": "pubmed:11591649",

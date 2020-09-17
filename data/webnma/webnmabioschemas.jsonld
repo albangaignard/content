@@ -15,27 +15,27 @@
     "Web application"
   ],
   "sc:author": [
-    "Gisle Salensminde",
-    "Edvin Fuglebakk",
-    "Sandhya P Tiwari",
-    "Kidane M Tekle",
-    "Svenn H Grindhaug",
-    "Siv M Hollup",
-    "Lars Skjærven",
     "Nathalie Reuter",
-    "Tristan Cragnolini"
+    "Siv M Hollup",
+    "Svenn H Grindhaug",
+    "Edvin Fuglebakk",
+    "Kidane M Tekle",
+    "Lars Skjærven",
+    "Tristan Cragnolini",
+    "Gisle Salensminde",
+    "Sandhya P Tiwari"
   ],
   "sc:description": "Quick, automated computation and analysis of low-frequency normal modes for protein structures.",
   "sc:name": "WEBnma",
   "sc:operatingSystem": [
-    "Linux",
+    "Windows",
     "Mac",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
-    "Department of Molecular Biology, University of Bergen, Norway",
     "Computational Biology Unit, Department of Informatics, University of Bergen, Norway",
-    "UiB"
+    "UiB",
+    "Department of Molecular Biology, University of Bergen, Norway"
   ],
   "sc:url": "http://apps.cbu.uib.no/webnma",
   "sc:version": "2.0"

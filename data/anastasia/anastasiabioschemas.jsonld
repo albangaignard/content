@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Aristotelis Chatziioannou",
-    "Eleftherios Pilalis",
-    "Theodoros Koutsandreas"
+    "Theodoros Koutsandreas",
+    "Eleftherios Pilalis"
   ],
   "sc:additionalType": [
     "Web application",

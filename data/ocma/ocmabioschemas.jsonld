@@ -35,8 +35,8 @@
       "sc:license": "MIT",
       "sc:name": "OCMA",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "https://github.com/precisionomics/OCMA",
