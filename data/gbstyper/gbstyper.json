@@ -1,0 +1,104 @@
+{
+    "additionDate": "2020-01-14T19:56:03Z",
+    "biotoolsCURIE": "biotools:GBSTyper",
+    "biotoolsID": "GBSTyper",
+    "confidence_flag": "high",
+    "credit": [
+        {
+            "email": "hsujanfu@cgmh.org.tw",
+            "name": "Jen-Fu Hsu",
+            "typeEntity": "Person"
+        },
+        {
+            "email": "janglu45@gmail.com",
+            "name": "Jang-Jih Lu",
+            "typeEntity": "Person"
+        },
+        {
+            "email": "leetzongyi@cuhk.edu.cn",
+            "name": "Tzong-Yi Lee",
+            "orcidid": "https://orcid.org/0000-0001-8475-7868",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "Rapid classification of group B Streptococcus serotypes based on matrix-assisted laser desorption ionization-time of flight mass spectrometry and machine learning techniques.\n\nFree HTML5 Website Template by GetTemplates.co.\n\nA web server for identifying Group B streptococcus Serotypes.\n\nTo enhance application of the ML models to clinical practice, we constructed a web tool named GBSTyper.\n\nGroup B Streptococcus Serotypes identification based on MALDI-TOF mass spectra.\n\n||| CORRECT NAME OF TOOL COULD ALSO BE 'GBS serotypes either'",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Peak detection",
+                    "uri": "http://edamontology.org/operation_3215"
+                },
+                {
+                    "term": "Spectrum calculation",
+                    "uri": "http://edamontology.org/operation_3860"
+                },
+                {
+                    "term": "Mass spectrum visualisation",
+                    "uri": "http://edamontology.org/operation_3694"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://csb.cse.yzu.edu.tw/GBSTyper/",
+    "lastUpdate": "2020-01-14T19:56:03Z",
+    "name": "GBSTyper",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1186/S12859-019-3282-7",
+            "metadata": {
+                "abstract": "\u00a9 2019 The Author(s).Background: Group B streptococcus (GBS) is an important pathogen that is responsible for invasive infections, including sepsis and meningitis. GBS serotyping is an essential means for the investigation of possible infection outbreaks and can identify possible sources of infection. Although it is possible to determine GBS serotypes by either immuno-serotyping or geno-serotyping, both traditional methods are time-consuming and labor-intensive. In recent years, the matrix-assisted laser desorption ionization-time of flight mass spectrometry (MALDI-TOF MS) has been reported as an effective tool for the determination of GBS serotypes in a more rapid and accurate manner. Thus, this work aims to investigate GBS serotypes by incorporating machine learning techniques with MALDI-TOF MS to carry out the identification. Results: In this study, a total of 787 GBS isolates, obtained from three research and teaching hospitals, were analyzed by MALDI-TOF MS, and the serotype of the GBS was determined by a geno-serotyping experiment. The peaks of mass-to-charge ratios were regarded as the attributes to characterize the various serotypes of GBS. Machine learning algorithms, such as support vector machine (SVM) and random forest (RF), were then used to construct predictive models for the five different serotypes (Types Ia, Ib, III, V, and VI). After optimization of feature selection and model generation based on training datasets, the accuracies of the selected models attained 54.9-87.1% for various serotypes based on independent testing data. Specifically, for the major serotypes, namely type III and type VI, the accuracies were 73.9 and 70.4%, respectively. Conclusion: The proposed models have been adopted to implement a web-based tool (GBSTyper), which is now freely accessible at http://csb.cse.yzu.edu.tw/GBSTyper/, for providing efficient and effective detection of GBS serotypes based on a MALDI-TOF MS spectrum. Overall, this work has demonstrated that the combination of MALDI-TOF MS and machine intelligence could provide a practical means of clinical pathogen testing.",
+                "authors": [
+                    {
+                        "name": "Wang H.-Y."
+                    },
+                    {
+                        "name": "Li W.-C."
+                    },
+                    {
+                        "name": "Huang K.-Y."
+                    },
+                    {
+                        "name": "Chung C.-R."
+                    },
+                    {
+                        "name": "Horng J.-T."
+                    },
+                    {
+                        "name": "Hsu J.-F."
+                    },
+                    {
+                        "name": "Lu J.-J."
+                    },
+                    {
+                        "name": "Lee T.-Y."
+                    }
+                ],
+                "citationCount": 2,
+                "date": "2019-12-24T00:00:00Z",
+                "journal": "BMC Bioinformatics",
+                "title": "Rapid classification of group B Streptococcus serotypes based on matrix-assisted laser desorption ionization-time of flight mass spectrometry and machine learning techniques"
+            },
+            "pmcid": "PMC6929280",
+            "pmid": "31870283"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Machine learning",
+            "uri": "http://edamontology.org/topic_3474"
+        },
+        {
+            "term": "Proteomics experiment",
+            "uri": "http://edamontology.org/topic_3520"
+        },
+        {
+            "term": "Statistics and probability",
+            "uri": "http://edamontology.org/topic_2269"
+        }
+    ]
+}

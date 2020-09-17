@@ -36,7 +36,9 @@
     "description": "Enterotypes are densely populated regions in a high-dimensional space of microbiome community composition, by which human individuals can be stratified (Arumugam, Raes et al. Nature 2011). Computational methods to detect and characterise enterotypes in any dataset, either to reproduce previous reports or determine enterotypes in new studies, are provided and explained.",
     "documentation": [
         {
-            "type": "User manual",
+            "type": [
+                "User manual"
+            ],
             "url": "http://enterotype.embl.de/enterotypes.html"
         }
     ],
@@ -97,9 +99,146 @@
     "publication": [
         {
             "doi": "10.1038/nature09944",
+            "metadata": {
+                "abstract": "Our knowledge of species and functional composition of the human gut microbiome is rapidly increasing, but it is still based on very few cohorts and little is known about variation across the world. By combining 22 newly sequenced faecal metagenomes of individuals from four countries with previously published data sets, here we identify three robust clusters (referred to as enterotypes hereafter) that are not nation or continent specific. We also confirmed the enterotypes in two published, larger cohorts, indicating that intestinal microbiota variation is generally stratified, not continuous. This indicates further the existence of a limited number of well-balanced host-microbial symbiotic states that might respond differently to diet and drug intake. The enterotypes are mostly driven by species composition, but abundant molecular functions are not necessarily provided by abundant species, highlighting the importance of a functional analysis to understand microbial communities. Although individual host properties such as body mass index, age, or gender cannot explain the observed enterotypes, data-driven marker genes or functional modules can be identified for each of these host properties. For example, twelve genes significantly correlate with age and three functional modules with the body mass index, hinting at a diagnostic potential of microbial markers. \u00a9 2011 Macmillan Publishers Limited. All rights reserved.",
+                "authors": [
+                    {
+                        "name": "Arumugam M."
+                    },
+                    {
+                        "name": "Raes J."
+                    },
+                    {
+                        "name": "Pelletier E."
+                    },
+                    {
+                        "name": "Le Paslier D."
+                    },
+                    {
+                        "name": "Yamada T."
+                    },
+                    {
+                        "name": "Mende D.R."
+                    },
+                    {
+                        "name": "Fernandes G.R."
+                    },
+                    {
+                        "name": "Tap J."
+                    },
+                    {
+                        "name": "Bruls T."
+                    },
+                    {
+                        "name": "Batto J.-M."
+                    },
+                    {
+                        "name": "Bertalan M."
+                    },
+                    {
+                        "name": "Borruel N."
+                    },
+                    {
+                        "name": "Casellas F."
+                    },
+                    {
+                        "name": "Fernandez L."
+                    },
+                    {
+                        "name": "Gautier L."
+                    },
+                    {
+                        "name": "Hansen T."
+                    },
+                    {
+                        "name": "Hattori M."
+                    },
+                    {
+                        "name": "Hayashi T."
+                    },
+                    {
+                        "name": "Kleerebezem M."
+                    },
+                    {
+                        "name": "Kurokawa K."
+                    },
+                    {
+                        "name": "Leclerc M."
+                    },
+                    {
+                        "name": "Levenez F."
+                    },
+                    {
+                        "name": "Manichanh C."
+                    },
+                    {
+                        "name": "Nielsen H.B."
+                    },
+                    {
+                        "name": "Nielsen T."
+                    },
+                    {
+                        "name": "Pons N."
+                    },
+                    {
+                        "name": "Poulain J."
+                    },
+                    {
+                        "name": "Qin J."
+                    },
+                    {
+                        "name": "Sicheritz-Ponten T."
+                    },
+                    {
+                        "name": "Tims S."
+                    },
+                    {
+                        "name": "Torrents D."
+                    },
+                    {
+                        "name": "Ugarte E."
+                    },
+                    {
+                        "name": "Zoetendal E.G."
+                    },
+                    {
+                        "name": "Wang J."
+                    },
+                    {
+                        "name": "Guarner F."
+                    },
+                    {
+                        "name": "Pedersen O."
+                    },
+                    {
+                        "name": "De Vos W.M."
+                    },
+                    {
+                        "name": "Brunak S."
+                    },
+                    {
+                        "name": "Dore J."
+                    },
+                    {
+                        "name": "Weissenbach J."
+                    },
+                    {
+                        "name": "Ehrlich S.D."
+                    },
+                    {
+                        "name": "Bork P."
+                    }
+                ],
+                "citationCount": 3155,
+                "date": "2011-05-12T00:00:00Z",
+                "journal": "Nature",
+                "title": "Enterotypes of the human gut microbiome"
+            },
             "pmcid": "PMC3728647",
             "pmid": "21508958",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
