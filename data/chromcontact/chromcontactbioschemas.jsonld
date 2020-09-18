@@ -32,8 +32,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "ChromContact",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://bioinfo.sls.kyushu-u.ac.jp/chromcontact/"

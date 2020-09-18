@@ -35,8 +35,8 @@
       "sc:license": "Unlicense",
       "sc:name": "SleepEEGNet",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://github.com/SajadMo/SleepEEGNet"

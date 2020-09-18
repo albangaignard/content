@@ -15,8 +15,8 @@
   "sc:description": "Shows the information of Annotation file: Number of genes, rRNA, tRNA.",
   "sc:name": "listannotation",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "https://urgi.versailles.inra.fr/Tools/REPET",

@@ -16,8 +16,8 @@
   "sc:name": "GeneMatcher",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://www.genematcher.org/"
 }

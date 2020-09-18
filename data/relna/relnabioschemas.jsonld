@@ -24,8 +24,8 @@
   "sc:name": "relna",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "RostLab",

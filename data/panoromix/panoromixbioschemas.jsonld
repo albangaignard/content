@@ -16,8 +16,8 @@
   "sc:name": "PanoromiX",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://bioinfo-abcc.ncifcrf.gov/panoromics/"
 }

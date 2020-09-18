@@ -17,10 +17,10 @@
   ],
   "sc:additionalType": "Database portal",
   "sc:contributor": [
-    "Sandra Tanz",
-    "Cornelia Hooper",
     "Ian Castleden",
-    "Harvey Millar"
+    "Harvey Millar",
+    "Cornelia Hooper",
+    "Sandra Tanz"
   ],
   "sc:description": "A subcellular localisation database for Arabidopsis proteins, with online search interface.",
   "sc:name": "SUBA3",
@@ -30,8 +30,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "ARC Centre of Excellence in Plant Energy Biology",
     "unimelb.edu.au",
+    "ARC Centre of Excellence in Plant Energy Biology",
     "University of Western Australia"
   ],
   "sc:url": "http://suba3.plantenergy.uwa.edu.au/"

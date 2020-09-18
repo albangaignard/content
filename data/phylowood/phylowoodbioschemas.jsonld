@@ -31,9 +31,9 @@
       },
       "sc:name": "Phylowood",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://mlandis.github.io/phylowood/"
     }

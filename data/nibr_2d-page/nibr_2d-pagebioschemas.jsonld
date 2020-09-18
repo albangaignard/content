@@ -21,8 +21,8 @@
       "sc:name": "NIBR 2D-PAGE",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://www.expasy.org/world-2dpage/"
     },

@@ -40,8 +40,8 @@
       "sc:name": "CentrosomeDB",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": "cnb.csic.es",
       "sc:url": "http://centrosome.cnb.csic.es/human/centrosome"

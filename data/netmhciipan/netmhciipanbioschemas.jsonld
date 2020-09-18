@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0001-7885-4311",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/netmhciipan",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -30,8 +26,8 @@
         "@id": "edam:data_1277"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_3534"
@@ -66,6 +62,10 @@
       },
       "sc:url": "http://www.cbs.dtu.dk/services/NetMHCIIpan/",
       "sc:version": "3.0"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-7885-4311",
+      "@type": "schema:Person"
     }
   ]
 }

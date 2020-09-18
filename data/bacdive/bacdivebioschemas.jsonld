@@ -15,8 +15,8 @@
   "sc:name": "BacDive",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "bacdive",

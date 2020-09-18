@@ -42,18 +42,18 @@
           "@id": "edam:operation_3629"
         },
         {
-          "@id": "edam:operation_2495"
+          "@id": "edam:operation_3192"
         },
         {
-          "@id": "edam:operation_3192"
+          "@id": "edam:operation_2495"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "FARDEEP",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://github.com/YuningHao/FARDEEP.git"
     },

@@ -17,9 +17,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:author": "Torsten Seemann",
   "sc:contributor": [
-    "JC Kwong",
-    "BP Howden",
     "MB Schultz",
+    "BP Howden",
+    "JC Kwong",
     "A Goncalves da Silva",
     "DM Bulach"
   ],

@@ -11,14 +11,14 @@
   "@id": "https://bio.tools/precog",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web application",
+    "Desktop application",
     "Command-line tool",
-    "Desktop application"
+    "Web application"
   ],
   "sc:author": "Luciano Fernandez",
   "sc:contributor": [
-    "Jonas Warringer",
     "Olga Kourtchenko",
+    "Jonas Warringer",
     "Martin Zackrisson",
     "Anders Blomberg"
   ],

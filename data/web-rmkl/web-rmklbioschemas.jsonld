@@ -13,13 +13,13 @@
       "@id": "https://bio.tools/web-rMKL",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Nicolas Kersten",
         "Marius Herr",
-        "Nico Pfeifer",
-        "Nicolas Kersten"
+        "Nico Pfeifer"
       ],
       "sc:additionalType": [
-        "Web application",
         "Desktop application",
+        "Web application",
         "Web service"
       ],
       "sc:citation": [
@@ -32,17 +32,17 @@
       "sc:description": "Web server for dimensionality reduction and sample clustering of multi-view data based on unsupervised multiple kernel learning.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_3891"
         },
         {
-          "@id": "edam:operation_3891"
+          "@id": "edam:operation_3501"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "web-rMKL",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://web-rMKL.org"

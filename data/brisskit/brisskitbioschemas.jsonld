@@ -11,14 +11,14 @@
   "@id": "https://bio.tools/brisskit",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Dr Jonathan Tedds",
-    "Shajid Issa"
+    "Shajid Issa",
+    "Dr Jonathan Tedds"
   ],
   "sc:additionalType": [
-    "Web application",
     "Database portal",
-    "Workbench",
     "Web API",
+    "Web application",
+    "Workbench",
     "Command-line tool"
   ],
   "sc:author": [
@@ -38,12 +38,12 @@
   "sc:name": "BRISSKit",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
-    "University of Leicester",
-    "University of Bristol"
+    "University of Bristol",
+    "University of Leicester"
   ],
   "sc:url": "http://www.brisskit.le.ac.uk"
 }

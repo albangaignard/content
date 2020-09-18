@@ -32,8 +32,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "HEAT Plus",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "https://github.com/WHOequity/HEATPlus-1.0",
