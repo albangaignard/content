@@ -1,0 +1,58 @@
+{
+    "additionDate": "2019-11-14T20:09:55Z",
+    "biotoolsCURIE": "biotools:publication-search",
+    "biotoolsID": "publication-search",
+    "confidence_flag": "very low",
+    "credit": [
+        {
+            "email": "stevan.bruijns@uct.ac.za",
+            "name": "Stevan R. Bruijns",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "> VERY_LOW CONFIDENCE! | > CORRECT NAME OF TOOL COULD ALSO BE 'RoMEO', 'Citescore', 'emergency', 'Introduction:Finding' | A cross-sectional description of open access publication costs, policies and impact in emergency medicine and critical care journals | Emergency Medicine Cape Town",
+    "editPermission": {
+        "type": "public"
+    },
+    "homepage": "http://www.emct.info/publication-search.html",
+    "lastUpdate": "2019-11-14T20:09:55Z",
+    "name": "publication-search",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1016/J.AFJEM.2019.01.015",
+            "metadata": {
+                "abstract": "\u00a9 2019Introduction: Finding journal open access information alongside its global impact requires access to multiple databases. We describe a single, searchable database of all emergency medicine and critical care journals that include their open access policies, publication costs, and impact metrics. Methods: A list of emergency medicine and critical care journals (including citation metrics) was created using Scopus (Citescore) and the Web of Science (Impact Factor). Cost of gold/hybrid open access and article process charges (open access fees) were collected from journal websites. Self-archiving policies were collected from the Sherpa/RoMEO database. Relative cost of access in different regions were calculated using the World Bank Purchasing Power Parity index for authors from the United States, Germany, Turkey, China, Brazil, South Africa and Australia. Results: We identified 78 emergency medicine and 82 critical care journals. Median Citescore for emergency medicine was 0.73 (interquartile range, IQR 0.32\u20131.27). Median impact factor was 1.68 (IQR 1.00\u20132.39). Median Citescore for critical care was 0.95 (IQR 0.25\u20132.06). Median impact factor was 2.18 (IQR 1.73\u20133.50). Mean article process charge for emergency medicine was $2243.04, SD = $1136.16 and for critical care $2201.64, SD = $1174.38. Article process charges were 2.24, 1.75, 2.28 and 1.56 times more expensive for South African, Chinese, Turkish and Brazilian authors respectively than United States authors, but neutral for German and Australian authors (1.02 and 0.81 respectively). The database can be accessed here: http://www.emct.info/publication-search.html. Conclusions: We present a single database that captures emergency medicine and critical care journal impact rankings alongside its respective open access cost and green open access policies.",
+                "authors": [
+                    {
+                        "name": "Dove C."
+                    },
+                    {
+                        "name": "Chan T.M."
+                    },
+                    {
+                        "name": "Thoma B."
+                    },
+                    {
+                        "name": "Roland D."
+                    },
+                    {
+                        "name": "Bruijns S.R."
+                    }
+                ],
+                "citationCount": 3,
+                "date": "2019-09-01T00:00:00Z",
+                "journal": "African Journal of Emergency Medicine",
+                "title": "A cross-sectional description of open access publication costs, policies and impact in emergency medicine and critical care journals"
+            },
+            "pmcid": "PMC6742597",
+            "pmid": "31528534"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Critical care medicine",
+            "uri": "http://edamontology.org/topic_3403"
+        }
+    ]
+}
