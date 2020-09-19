@@ -1,0 +1,93 @@
+{
+    "additionDate": "2020-01-14T20:06:45Z",
+    "biotoolsCURIE": "biotools:GRSMF",
+    "biotoolsID": "GRSMF",
+    "confidence_flag": "medium",
+    "credit": [
+        {
+            "email": "leouyang@szu.edu.cn",
+            "name": "Le Ou-Yang",
+            "orcidid": "https://orcid.org/0000-0003-4007-4568",
+            "typeEntity": "Person"
+        },
+        {
+            "email": "zhuzx@szu.edu.cn",
+            "name": "Zexuan Zhu",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "Predicting synthetic lethal interactions in human cancers using graph regularized self-representative matrix factorization.\n\nThe prediction results of GRSMF",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Expression analysis",
+                    "uri": "http://edamontology.org/operation_2495"
+                },
+                {
+                    "term": "Protein interaction prediction",
+                    "uri": "http://edamontology.org/operation_2492"
+                },
+                {
+                    "term": "Promoter prediction",
+                    "uri": "http://edamontology.org/operation_0440"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/Oyl-CityU/GRSMF",
+    "lastUpdate": "2020-01-14T20:06:45Z",
+    "name": "GRSMF",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1186/S12859-019-3197-3",
+            "metadata": {
+                "abstract": "\u00a9 2019 The Author(s).Background: Synthetic lethality has attracted a lot of attentions in cancer therapeutics due to its utility in identifying new anticancer drug targets. Identifying synthetic lethal (SL) interactions is the key step towards the exploration of synthetic lethality in cancer treatment. However, biological experiments are faced with many challenges when identifying synthetic lethal interactions. Thus, it is necessary to develop computational methods which could serve as useful complements to biological experiments. Results: In this paper, we propose a novel graph regularized self-representative matrix factorization (GRSMF) algorithm for synthetic lethal interaction prediction. GRSMF first learns the self-representations from the known SL interactions and further integrates the functional similarities among genes derived from Gene Ontology (GO). It can then effectively predict potential SL interactions by leveraging the information provided by known SL interactions and functional annotations of genes. Extensive experiments on the synthetic lethal interaction data downloaded from SynLethDB database demonstrate the superiority of our GRSMF in predicting potential synthetic lethal interactions, compared with other competing methods. Moreover, case studies of novel interactions are conducted in this paper for further evaluating the effectiveness of GRSMF in synthetic lethal interaction prediction. Conclusions: In this paper, we demonstrate that by adaptively exploiting the self-representation of original SL interaction data, and utilizing functional similarities among genes to enhance the learning of self-representation matrix, our GRSMF could predict potential SL interactions more accurately than other state-of-the-art SL interaction prediction methods.",
+                "authors": [
+                    {
+                        "name": "Huang J."
+                    },
+                    {
+                        "name": "Wu M."
+                    },
+                    {
+                        "name": "Lu F."
+                    },
+                    {
+                        "name": "Ou-Yang L."
+                    },
+                    {
+                        "name": "Zhu Z."
+                    }
+                ],
+                "date": "2019-12-24T00:00:00Z",
+                "journal": "BMC Bioinformatics",
+                "title": "Predicting synthetic lethal interactions in human cancers using graph regularized self-representative matrix factorization"
+            },
+            "pmcid": "PMC6929405",
+            "pmid": "31870274"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Oncology",
+            "uri": "http://edamontology.org/topic_2640"
+        },
+        {
+            "term": "Small molecules",
+            "uri": "http://edamontology.org/topic_0154"
+        },
+        {
+            "term": "Protein interactions",
+            "uri": "http://edamontology.org/topic_0128"
+        },
+        {
+            "term": "Machine learning",
+            "uri": "http://edamontology.org/topic_3474"
+        }
+    ]
+}

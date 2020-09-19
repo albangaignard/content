@@ -1,0 +1,66 @@
+{
+    "additionDate": "2020-01-14T19:51:23Z",
+    "biotoolsCURIE": "biotools:BPRF",
+    "biotoolsID": "BPRF",
+    "confidence_flag": "high",
+    "credit": [
+        {
+            "email": "wonsuk85.choi@gmail.com",
+            "name": "Wonsuk Choi",
+            "orcidid": "https://orcid.org/0000-0003-3253-4827",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "Blockchain-based privacy-preserving reputation framework for participatory sensing systems.\n\nBasic operations of BPRF have been tested and evaluated using the Java Pairing Based Cryptography Library (JPBC, http://gas.dia.unisa.it/projects/jpbc/index.html#.XXePsygzaUk)",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Anonymisation",
+                    "uri": "http://edamontology.org/operation_3283"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/emsecurity/BPRF",
+    "language": [
+        "Java"
+    ],
+    "lastUpdate": "2020-01-14T19:51:23Z",
+    "name": "BPRF",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1371/JOURNAL.PONE.0225688",
+            "metadata": {
+                "abstract": "\u00a9 2019 Jo, Choi. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.Participatory sensing is gaining popularity as a method for collecting and sharing information from distributed local environments using sensor-rich mobile devices. There are a number of participatory sensing applications currently in wide use, such as location-based service applications (e.g., Waze navigation). Usually, these participatory applications collect tremendous amounts of sensing data containing personal information, including user identity and current location. Due to the high sensitivity of this information, participatory sensing applications need a privacy-preserving mechanism, such as anonymity, to secure and protect personal user data. However, using anonymous identifiers for sensing sources proves difficult when evaluating sensing data trustworthiness. From this perspective, a successful participatory sensing application must be designed to consider two challenges: (1) user privacy and (2) data trustworthiness. To date, a number of privacy-preserving reputation techniques have been proposed to satisfy both of these issues, but the protocols contain several critical drawbacks or are impractical in terms of implementation. In particular, there is no work that can transparently manage user reputation values while also tracing anonymous identities. In this work, we present a blockchain-based privacy-preserving reputation framework called BPRF to transparently manage user reputation values and provide a transparent tracing process for anonymous identities. The performance evaluation and security analysis show that our solution is both practical and able to satisfy the two requirements for user privacy and data trustworthiness.",
+                "authors": [
+                    {
+                        "name": "Jo H.J."
+                    },
+                    {
+                        "name": "Choi W."
+                    }
+                ],
+                "date": "2019-12-01T00:00:00Z",
+                "journal": "PLoS ONE",
+                "title": "BPRF: Blockchain-based privacy-preserving reputation framework for participatory sensing systems"
+            },
+            "pmcid": "PMC6894850",
+            "pmid": "31805089"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Data security",
+            "uri": "http://edamontology.org/topic_3263"
+        },
+        {
+            "term": "Mapping",
+            "uri": "http://edamontology.org/topic_0102"
+        }
+    ]
+}
