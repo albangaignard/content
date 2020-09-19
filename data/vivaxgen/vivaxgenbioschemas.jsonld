@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1371/JOURNAL.PNTD.0005465",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/vivaxgen",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Sarah Auburn",
@@ -36,11 +32,15 @@
       ],
       "sc:name": "VivaxGEN",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://vivaxgen.menzies.edu.au/"
+    },
+    {
+      "@id": "https://doi.org/10.1371/JOURNAL.PNTD.0005465",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

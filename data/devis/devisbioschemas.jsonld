@@ -28,21 +28,21 @@
       "sc:description": "R package for aggregation and visualization of differential expression data.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3741"
+          "@id": "edam:operation_2495"
         },
         {
           "@id": "edam:operation_3436"
         },
         {
-          "@id": "edam:operation_2495"
+          "@id": "edam:operation_3741"
         }
       ],
       "sc:license": "LGPL-2.0",
       "sc:name": "DEvis",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://cran.r-project.org/package=DEVis"
     }

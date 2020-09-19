@@ -29,9 +29,9 @@
       },
       "sc:name": "PhenoMiner",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://phenominer.mml.cam.ac.uk/"
     },

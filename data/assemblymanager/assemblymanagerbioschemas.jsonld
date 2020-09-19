@@ -16,8 +16,8 @@
   "sc:name": "assemblyManager",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://andersonlab.qb3.berkeley.edu/#/software"
 }

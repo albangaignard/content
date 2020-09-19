@@ -37,9 +37,9 @@
       "sc:license": "Apache-2.0",
       "sc:name": "flexgsea",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://github.com/NKI-CCB/flexgsea-r"
     },

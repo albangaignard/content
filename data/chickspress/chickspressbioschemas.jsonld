@@ -21,8 +21,8 @@
   "sc:name": "Chickspress",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://geneatlas.arl.arizona.edu/"
 }

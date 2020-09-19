@@ -17,8 +17,8 @@
   "sc:name": "SOSUI",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://harrier.nagahama-i-bio.ac.jp/sosui"
 }

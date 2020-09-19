@@ -21,10 +21,10 @@
       "@id": "https://bio.tools/hh-motif",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Michael Volkmer",
         {
           "@id": "http://orcid.org/0000-0002-2457-7504"
         },
-        "Michael Volkmer",
         "Roman Prytuliak"
       ],
       "sc:additionalType": "Web application",
@@ -41,9 +41,9 @@
       },
       "sc:name": "HH-MOTiF",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://hh-motif.ibdm.univ-mrs.fr/"
     }

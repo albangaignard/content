@@ -36,9 +36,9 @@
       "sc:license": "Not licensed",
       "sc:name": "UNCcombo",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://yunliweb.its.unc.edu/UNCcombo/"
     }

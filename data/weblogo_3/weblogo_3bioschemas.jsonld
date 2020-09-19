@@ -37,9 +37,9 @@
       ],
       "sc:name": "WebLogo 3",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://weblogo.threeplusone.com"
     },

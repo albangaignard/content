@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
     "Web service",
-    "Web API",
-    "Web application"
+    "Web application",
+    "Web API"
   ],
   "sc:description": "A tool tuned for navigation in biologically relevant chemical space.",
   "sc:name": "ChemGPS-NP",

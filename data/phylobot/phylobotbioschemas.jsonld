@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/phylobot",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Analysis Support",
-        "General Support"
+        "General Support",
+        "Analysis Support"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -31,17 +31,17 @@
       "sc:description": "A Web Portal for Automated Phylogenetics, Ancestral Sequence Reconstruction, and Exploration of Mutational Trajectories.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0324"
+          "@id": "edam:operation_3745"
         },
         {
-          "@id": "edam:operation_3745"
+          "@id": "edam:operation_0324"
         }
       ],
       "sc:name": "PhyloBot",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://www.phylobot.com/"
     }

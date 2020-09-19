@@ -36,8 +36,8 @@
       "sc:license": "Unlicense",
       "sc:name": "CADD",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://cadd.gs.washington.edu/"

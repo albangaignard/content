@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/tm-aligner",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Garima Singh",
     "Ashutosh Singh",
+    "Garima Singh",
     "Basharat Ahmad Bhat"
   ],
   "sc:additionalType": "Web application",

@@ -16,8 +16,8 @@
   "sc:name": "Kotai Antibody Builder",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://kotaiab.org/"
 }

@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.3390/MOLECULES24102002",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/DIA-DB",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -33,10 +37,10 @@
       "sc:description": "Web server for the prediction of diabetes drugs that uses two different approaches.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0482"
+          "@id": "edam:operation_3216"
         },
         {
-          "@id": "edam:operation_3216"
+          "@id": "edam:operation_0482"
         },
         {
           "@id": "edam:operation_0394"
@@ -46,14 +50,10 @@
       "sc:name": "DIA-DB",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://bio-hpc.ucam.edu/dia-db/"
-    },
-    {
-      "@id": "https://doi.org/10.3390/MOLECULES24102002",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -37,6 +37,12 @@
       ],
       "sc:applicationSubCategory": [
         {
+          "@id": "edam:topic_0622"
+        },
+        {
+          "@id": "edam:topic_2640"
+        },
+        {
           "@id": "edam:topic_3518"
         },
         {
@@ -44,12 +50,6 @@
         },
         {
           "@id": "edam:topic_0203"
-        },
-        {
-          "@id": "edam:topic_0622"
-        },
-        {
-          "@id": "edam:topic_2640"
         }
       ],
       "sc:citation": [
@@ -71,9 +71,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "mdgsa",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/mdgsa.html",
       "sc:version": "1.6.0"

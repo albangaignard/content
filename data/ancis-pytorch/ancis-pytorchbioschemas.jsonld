@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Dimitris N. Metaxas",
-    "Daniel J. Hoeppner",
     "Qiaoying Huang",
-    "Pengxiang Wu",
+    "Daniel J. Hoeppner",
     "Menglin Jiang",
+    "Pengxiang Wu",
     "Jingru Yi"
   ],
   "sc:additionalType": "Script",

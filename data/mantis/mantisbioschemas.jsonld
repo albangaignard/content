@@ -29,8 +29,8 @@
       "sc:name": "MANTIS",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://www.eeid.ox.ac.uk/mantis"
     },

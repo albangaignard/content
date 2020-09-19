@@ -39,8 +39,8 @@
       "sc:license": "Unlicense",
       "sc:name": "EAT-Rice",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://predictor.nchu.edu.tw/EAT-Rice"

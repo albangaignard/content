@@ -36,11 +36,11 @@
       ],
       "sc:author": "Murat Cokol",
       "sc:citation": [
-        "pmcid:PMC1083765",
-        "pubmed:11258480",
         {
           "@id": "https://doi.org/10.1093/embo-reports/kvd092"
-        }
+        },
+        "pmcid:PMC1083765",
+        "pubmed:11258480"
       ],
       "sc:contributor": [
         "Rajesh Nair",
@@ -60,8 +60,8 @@
       "sc:name": "PredictNLS",
       "sc:operatingSystem": "Linux",
       "sc:provider": [
-        "RostLab",
-        "Columbia University"
+        "Columbia University",
+        "RostLab"
       ],
       "sc:softwareHelp": {
         "@id": "https://rostlab.org/owiki/index.php/PredictNLS"

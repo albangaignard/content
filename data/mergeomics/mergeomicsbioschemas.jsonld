@@ -15,9 +15,9 @@
       "biotools:primaryContact": "Douglas Arneson",
       "sc:additionalType": [
         "Workflow",
+        "Web application",
         "Library",
-        "Suite",
-        "Web application"
+        "Suite"
       ],
       "sc:citation": [
         {
@@ -33,9 +33,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "Mergeomics",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://mergeomics.research.idre.ucla.edu/home.php"
     },

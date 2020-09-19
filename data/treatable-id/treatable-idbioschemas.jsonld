@@ -24,9 +24,9 @@
       "sc:license": "Other",
       "sc:name": "treatable-id",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://treatable-id.org"
     },

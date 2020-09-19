@@ -15,8 +15,8 @@
   "sc:name": "nontarget",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://cran.r-project.org/web/packages/nontarget/index.html"
 }
