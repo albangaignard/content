@@ -1,0 +1,105 @@
+{
+    "additionDate": "2019-11-14T18:24:26Z",
+    "biotoolsCURIE": "biotools:ADNI-3",
+    "biotoolsID": "ADNI-3",
+    "confidence_flag": "high",
+    "credit": [
+        {
+            "email": "leon.stefanovski@charite.de",
+            "name": "Leon Stefanovski",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "> CORRECT NAME OF TOOL COULD ALSO BE 'AD N', 'associated dementia', 'thevirtualbrain.org neuroinformatics', 'Virtual Brain' | Linking Molecular Pathways and Large-Scale Computational Modeling to Assess Candidate Disease Mechanisms and Pharmacodynamics in Alzheimer's Disease | Alzheimer's Disease Neuroimaging Initiative | Alzheimer\u2019s Disease Neuroimaging Initiative | ADNI3 began in 2016 and includes scientists at 59 research centers in the United States and Canada. Between 1070-2000 participants will be enrolled: approximately 700-800 rollover participants from ADNI2 and 370-1200 newly enrolled subjects. Clinical, cognitive, imaging, biomarker and genetic characteristics will be assessed across three cohorts: Cognitively normal, MCI and mild AD dementia | The Alzheimer\u2019s Disease Neuroimaging Initiative (ADNI) unites researchers with study data as they work to define the progression of Alzheimer\u2019s disease (AD)",
+    "documentation": [
+        {
+            "type": [
+                "User manual"
+            ],
+            "url": "http://adni.loni.usc.edu/wp-content/themes/freshnews-dev-v2/documents/clinical/ADNI3_Protocol.pdf"
+        }
+    ],
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Essential dynamics",
+                    "uri": "http://edamontology.org/operation_3891"
+                },
+                {
+                    "term": "Deisotoping",
+                    "uri": "http://edamontology.org/operation_3629"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://adni.loni.usc.edu",
+    "lastUpdate": "2019-11-14T18:24:26Z",
+    "link": [
+        {
+            "type": [
+                "Other"
+            ],
+            "url": "http://adni.loni.usc.edu/adni-3/"
+        }
+    ],
+    "name": "ADNI-3",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.3389/FNCOM.2019.00054",
+            "metadata": {
+                "abstract": "\u00a9 Copyright \u00a9 2019 Stefanovski, Triebkorn, Spiegler, Diaz-Cortes, Solodkin, Jirsa, McIntosh and Ritter.Introduction: While the prevalence of neurodegenerative diseases associated with dementia such as Alzheimer's disease (AD) increases, our knowledge on the underlying mechanisms, outcome predictors, or therapeutic targets is limited. In this work, we demonstrate how computational multi-scale brain modeling links phenomena of different scales and therefore identifies potential disease mechanisms leading the way to improved diagnostics and treatment. Methods: The Virtual Brain (TVB; thevirtualbrain.org) neuroinformatics platform allows standardized large-scale structural connectivity-based simulations of whole brain dynamics. We provide proof of concept for a novel approach that quantitatively links the effects of altered molecular pathways onto neuronal population dynamics. As a novelty, we connect chemical compounds measured with positron emission tomography (PET) with neural function in TVB addressing the phenomenon of hyperexcitability in AD related to the protein amyloid beta (Abeta). We construct personalized virtual brains based on an averaged healthy connectome and individual PET derived distributions of Abeta in patients with mild cognitive impairment (MCI, N = 8) and Alzheimer's Disease (AD, N = 10) and in age-matched healthy controls (HC, N = 15) using data from ADNI-3 data base (http://adni.loni.usc.edu). In the personalized virtual brains, individual Abeta burden modulates regional Excitation-Inhibition balance, leading to local hyperexcitation with high Abeta loads. We analyze simulated regional neural activity and electroencephalograms (EEG). Results: Known empirical alterations of EEG in patients with AD compared to HCs were reproduced by simulations. The virtual AD group showed slower frequencies in simulated local field potentials and EEG compared to MCI and HC groups. The heterogeneity of the Abeta load is crucial for the virtual EEG slowing which is absent for control models with homogeneous Abeta distributions. Slowing phenomena primarily affect the network hubs, independent of the spatial distribution of Abeta. Modeling the N-methyl-D-aspartate (NMDA) receptor antagonism of memantine in local population models, reveals potential functional reversibility of the observed large-scale alterations (reflected by EEG slowing) in virtual AD brains. Discussion: We demonstrate how TVB enables the simulation of systems effects caused by pathogenetic molecular candidate mechanisms in human virtual brains.",
+                "authors": [
+                    {
+                        "name": "Stefanovski L."
+                    },
+                    {
+                        "name": "Triebkorn P."
+                    },
+                    {
+                        "name": "Spiegler A."
+                    },
+                    {
+                        "name": "Diaz-Cortes M.-A."
+                    },
+                    {
+                        "name": "Solodkin A."
+                    },
+                    {
+                        "name": "Jirsa V."
+                    },
+                    {
+                        "name": "McIntosh A.R."
+                    },
+                    {
+                        "name": "Ritter P."
+                    }
+                ],
+                "citationCount": 2,
+                "date": "2019-08-13T00:00:00Z",
+                "journal": "Frontiers in Computational Neuroscience",
+                "title": "Linking Molecular Pathways and Large-Scale Computational Modeling to Assess Candidate Disease Mechanisms and Pharmacodynamics in Alzheimer's Disease"
+            },
+            "pmcid": "PMC6700386",
+            "pmid": "31456676"
+        }
+    ],
+    "topic": [
+        {
+            "term": "MRI",
+            "uri": "http://edamontology.org/topic_3444"
+        },
+        {
+            "term": "Medical imaging",
+            "uri": "http://edamontology.org/topic_3384"
+        },
+        {
+            "term": "Pathology",
+            "uri": "http://edamontology.org/topic_0634"
+        }
+    ]
+}
