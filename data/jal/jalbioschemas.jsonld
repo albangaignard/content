@@ -15,8 +15,8 @@
     "Chandra S. Verma"
   ],
   "sc:additionalType": [
-    "Web service",
     "Command-line tool",
+    "Web service",
     "Web application"
   ],
   "sc:citation": "pubmed:31140800",

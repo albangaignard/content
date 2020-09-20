@@ -19,16 +19,16 @@
   ],
   "sc:description": "Calculates phi and psi torsion angles from protein coordinates.",
   "sc:funder": [
-    "UK MRC",
     "UK BBSRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "psiphi",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "EMBOSS",

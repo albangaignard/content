@@ -11,15 +11,15 @@
   "@id": "https://bio.tools/apache_taverna",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Apache Taverna mailing lists",
-    "Apache Taverna community"
+    "Apache Taverna community",
+    "Apache Taverna mailing lists"
   ],
   "sc:additionalType": [
+    "Web application",
     "Web API",
     "Web service",
     "Workbench",
     "Command-line tool",
-    "Web application",
     "Desktop application"
   ],
   "sc:author": "Apache Taverna community",
@@ -32,8 +32,8 @@
     "Linux"
   ],
   "sc:provider": [
-    "cs.manchester.ac.uk",
-    "Apache Software Foundation"
+    "Apache Software Foundation",
+    "cs.manchester.ac.uk"
   ],
   "sc:url": "http://taverna.incubator.apache.org/",
   "sc:version": "3"

@@ -17,8 +17,8 @@
   "sc:name": "PCSF",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/IOR-Bioinformatics/PCSF"
 }

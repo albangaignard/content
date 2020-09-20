@@ -27,25 +27,25 @@
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_0951"
         },
         {
-          "@id": "edam:data_0951"
+          "@id": "edam:data_2884"
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3308"
+          "@id": "edam:topic_0602"
         },
         {
           "@id": "edam:topic_3170"
         },
         {
-          "@id": "edam:topic_0602"
+          "@id": "edam:topic_3308"
         }
       ],
       "sc:citation": [
@@ -62,9 +62,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "ToPASeq",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/ToPASeq.html",
       "sc:version": "1.8.0"

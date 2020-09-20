@@ -16,8 +16,8 @@
   "sc:name": "d-Omix",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.biotec.or.th/isl/Domix"
 }

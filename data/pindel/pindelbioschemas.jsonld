@@ -53,10 +53,10 @@
       ],
       "sc:softwareHelp": [
         {
-          "@id": "http://gmt.genome.wustl.edu/packages/pindel/user-manual.html"
+          "@id": "http://gmt.genome.wustl.edu/packages/pindel/"
         },
         {
-          "@id": "http://gmt.genome.wustl.edu/packages/pindel/"
+          "@id": "http://gmt.genome.wustl.edu/packages/pindel/user-manual.html"
         }
       ],
       "sc:url": "http://gmt.genome.wustl.edu/packages/pindel/"

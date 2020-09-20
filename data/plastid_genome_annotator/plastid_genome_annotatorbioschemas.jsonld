@@ -28,9 +28,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Plastid Genome Annotator",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://github.com/quxiaojian/PGA"
     },

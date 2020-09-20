@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Pablo Cordero (Site admin)",
-    "Site admins: Hanjoo Kim (Site admin)",
     "Rhiju Das (PI)",
+    "Site admins: Hanjoo Kim (Site admin)",
     "Sungroh Yoon (PI)"
   ],
   "sc:additionalType": "Web application",
@@ -22,8 +22,8 @@
   "sc:name": "HiTRACE-Web",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://hitrace.org"
 }

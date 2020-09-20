@@ -21,8 +21,8 @@
   "sc:name": "SPRING",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://algorithm.cs.nthu.edu.tw/tools/SPRING"
 }

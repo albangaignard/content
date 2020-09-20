@@ -13,8 +13,8 @@
   "biotools:primaryContact": "Marc Hanauer",
   "sc:additionalType": [
     "SPARQL endpoint",
-    "Web API",
-    "Database portal"
+    "Database portal",
+    "Web API"
   ],
   "sc:contributor": [
     "Céline Rousselot",

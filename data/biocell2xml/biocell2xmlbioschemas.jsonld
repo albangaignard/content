@@ -21,8 +21,8 @@
   "sc:name": "BioCell2XML",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://github.com/guleom/BioCell2XML"
 }

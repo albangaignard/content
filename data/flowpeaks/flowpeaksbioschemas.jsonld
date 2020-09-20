@@ -10,16 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/bts300",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/flowpeaks",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Yongchao Ge",
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC3400953",
@@ -40,12 +36,16 @@
       "sc:license": "Artistic-1.0",
       "sc:name": "flowPeaks",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/flowPeaks.html",
       "sc:version": "1.18.0"
+    },
+    {
+      "@id": "https://doi.org/10.1093/bioinformatics/bts300",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

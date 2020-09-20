@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Bas Stringer",
   "sc:additionalType": [
-    "Command-line tool",
-    "SPARQL endpoint",
     "Web API",
-    "Workbench"
+    "Command-line tool",
+    "Workbench",
+    "SPARQL endpoint"
   ],
   "sc:author": "Bas Stringer",
   "sc:contributor": "Albert Meroño Peñuela",
@@ -24,8 +24,8 @@
   "sc:name": "SCRY",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "Centre for Integrative Bioinformatics",

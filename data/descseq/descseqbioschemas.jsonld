@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK MRC",
-    "EMBOSS Contributors",
     "Wellcome Trust",
+    "EMBOSS Contributors",
     "UK BBSRC"
   ],
   "sc:description": "Alter the name or description of a sequence.",

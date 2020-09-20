@@ -14,8 +14,8 @@
   "sc:contributor": [
     "EMBOSS Contributors",
     "UK MRC",
-    "UK BBSRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:description": "Display sequences with features in pretty format.",
   "sc:funder": [
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "showseq",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "EMBOSS",

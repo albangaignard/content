@@ -15,11 +15,11 @@
       "biotools:primaryContact": "C. Peng",
       "sc:additionalType": "Script",
       "sc:citation": [
+        "pmcid:PMC6429152",
+        "pubmed:30832218",
         {
           "@id": "https://doi.org/10.3390/ijms20051070"
-        },
-        "pubmed:30832218",
-        "pmcid:PMC6429152"
+        }
       ],
       "sc:description": "Hierarchical deep learning model for predicting ncRNA-protein interaction.",
       "sc:featureList": [
@@ -36,8 +36,8 @@
       "sc:license": "MIT",
       "sc:name": "RPITER",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/Pengeace/RPITER"
     },

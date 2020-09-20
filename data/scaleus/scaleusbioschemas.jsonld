@@ -13,8 +13,8 @@
   "sc:additionalType": [
     "Web API",
     "Workbench",
-    "Web application",
-    "SPARQL endpoint"
+    "SPARQL endpoint",
+    "Web application"
   ],
   "sc:citation": "pubmed:28214993",
   "sc:description": "A semantic web migration tool that is targeted on biomedical domain and can be deployed on top of traditional systems in order to bring knowledge, inference rules, and query federation to the existent data.",

@@ -20,8 +20,8 @@
         "@id": "edam:data_1772"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
@@ -32,8 +32,8 @@
         }
       ],
       "sc:citation": [
-        "pmcid:PMC3180392",
         "pubmed:21923903",
+        "pmcid:PMC3180392",
         {
           "@id": "https://doi.org/10.1186/1471-2105-12-369"
         }
@@ -45,9 +45,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "frmaTools",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/frmaTools.html",
       "sc:version": "1.26.0"

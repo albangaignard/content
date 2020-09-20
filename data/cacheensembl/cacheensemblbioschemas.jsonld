@@ -14,21 +14,21 @@
   "sc:contributor": [
     "UK BBSRC",
     "UK MRC",
-    "Wellcome Trust",
-    "EMBOSS Contributors"
+    "EMBOSS Contributors",
+    "Wellcome Trust"
   ],
   "sc:description": "Generate server cache file for an Ensembl server.",
   "sc:funder": [
-    "Wellcome Trust",
     "UK MRC",
+    "Wellcome Trust",
     "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "cacheensembl",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "EMBL EBI",

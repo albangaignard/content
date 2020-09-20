@@ -13,22 +13,22 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
-    "Wellcome Trust",
+    "EMBOSS Contributors",
     "UK MRC",
-    "EMBOSS Contributors"
+    "Wellcome Trust"
   ],
   "sc:description": "Mask all ambiguity characters in nucleotide sequences with N.",
   "sc:funder": [
-    "UK BBSRC",
     "Wellcome Trust",
-    "UK MRC"
+    "UK MRC",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "maskambignuc",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "EMBOSS",

@@ -12,17 +12,17 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:author": [
-    "Tobias Müller",
     "Marcus Dittrich",
-    "Mohammed El-Kebir",
     "Thomas Hume",
-    "Hayssam Soueidan",
-    "Daniela Beisser"
+    "Mohammed El-Kebir",
+    "Daniela Beisser",
+    "Tobias Müller",
+    "Hayssam Soueidan"
   ],
   "sc:contributor": [
+    "Jaap Heringa",
     "Guillaume Blin",
     "Lodewyk F. A. Wessels",
-    "Jaap Heringa",
     "Gunnar W. Klau",
     "Macha Nikolski"
   ],
@@ -34,13 +34,13 @@
     "Mac"
   ],
   "sc:provider": [
+    "The Netherlands",
+    "The Netherlands Cancer Institute, Amsterdam",
     "University Duisburg-Essen",
+    "u-bordeaux.fr",
     "Univ. Bordeaux, CNRS/LaBRI, 33405 Talence, France,",
     "Würzburg University, Germany",
-    "u-bordeaux.fr",
-    "Bordeaux University, CBiB, France",
-    "The Netherlands",
-    "The Netherlands Cancer Institute, Amsterdam"
+    "Bordeaux University, CBiB, France"
   ],
   "sc:url": "https://github.com/ls-cwi/xheinz",
   "sc:version": "1.0"

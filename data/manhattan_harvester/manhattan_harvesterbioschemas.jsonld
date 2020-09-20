@@ -36,8 +36,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Manhattan Harvester",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "https://www.geenivaramu.ee/en/tools/manhattan-harvester"

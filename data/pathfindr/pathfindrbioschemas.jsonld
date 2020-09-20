@@ -10,11 +10,11 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0001-5980-8002",
+      "@id": "https://orcid.org/0000-0003-2090-3621",
       "@type": "schema:Person"
     },
     {
-      "@id": "https://orcid.org/0000-0003-2090-3621",
+      "@id": "https://orcid.org/0000-0001-5980-8002",
       "@type": "schema:Person"
     },
     {

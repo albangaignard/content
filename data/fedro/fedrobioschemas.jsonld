@@ -39,9 +39,9 @@
       ],
       "sc:name": "FEDRO",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://math.unipa.it/rombo/FEDRO"
     }

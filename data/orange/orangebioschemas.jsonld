@@ -25,16 +25,16 @@
         "Desktop application"
       ],
       "sc:author": [
-        "Aleš Erjavec",
-        "Tomaž Curk",
-        "Jernej Kernc",
-        "Martin Stražar",
-        "Janez Demšar",
         "Andrej Čopar",
+        "Martin Stražar",
         "Anže Starič",
-        "Vesna Tanko",
+        "Tomaž Curk",
         "Marko Toplak",
-        "Lan Žagar"
+        "Jernej Kernc",
+        "Lan Žagar",
+        "Janez Demšar",
+        "Aleš Erjavec",
+        "Vesna Tanko"
       ],
       "sc:citation": "pubmed:17586552",
       "sc:contributor": {
@@ -44,9 +44,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Orange",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:provider": [
         "ELIXIR-SI-hackathon",

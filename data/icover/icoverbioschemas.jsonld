@@ -31,9 +31,9 @@
       },
       "sc:name": "ICoVeR",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://git.list.lu/eScience/ICoVeR"
     }
