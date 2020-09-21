@@ -1,0 +1,13 @@
+{
+    "additionDate": "2020-09-20T22:47:20.102175",
+    "biotoolsCURIE": "biotools:minirmd",
+    "biotoolsID": "minirmd",
+    "description": "Minirmd is a tool to fast remove duplicate reads.",
+    "editPermission": {
+        "type": "private"
+    },
+    "homepage": "https://github.com/yuansliu/minirmd",
+    "lastUpdate": "2020-09-20T22:47:20.103894Z",
+    "name": "Minirmd",
+    "owner": "YuanshengLiu"
+}
