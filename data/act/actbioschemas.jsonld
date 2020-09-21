@@ -10,7 +10,7 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0002-0519-3820",
+      "@id": "https://orcid.org/0000-0001-8991-8712",
       "@type": "schema:Person"
     },
     {
@@ -18,7 +18,7 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "https://orcid.org/0000-0001-8991-8712",
+      "@id": "https://orcid.org/0000-0002-0519-3820",
       "@type": "schema:Person"
     },
     {
@@ -26,10 +26,10 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         {
-          "@id": "https://orcid.org/0000-0001-8991-8712"
+          "@id": "https://orcid.org/0000-0002-0519-3820"
         },
         {
-          "@id": "https://orcid.org/0000-0002-0519-3820"
+          "@id": "https://orcid.org/0000-0001-8991-8712"
         }
       ],
       "sc:additionalType": "Web application",
@@ -45,8 +45,8 @@
       "sc:name": "Arabidopsis Co-expression Tool (ACT)",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://www.michalopoulos.net/act/",
       "sc:version": "II"

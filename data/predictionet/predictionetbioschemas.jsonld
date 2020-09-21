@@ -10,13 +10,21 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkr1050",
+      "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-7684-0079",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/predictionet",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Catharina Olsen",
         {
           "@id": "http://orcid.org/0000-0002-7684-0079"
-        }
+        },
+        "Catharina Olsen"
       ],
       "sc:additionalType": [
         "Command-line tool",
@@ -33,20 +41,12 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "predictionet",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/predictionet.html",
       "sc:version": "1.20.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-7684-0079",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkr1050",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

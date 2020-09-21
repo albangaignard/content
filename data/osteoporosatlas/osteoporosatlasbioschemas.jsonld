@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/OsteoporosAtlas",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Yang Li",
-        "Dong Li"
+        "Dong Li",
+        "Yang Li"
       ],
       "sc:additionalType": [
         "Database portal",
@@ -39,9 +39,9 @@
       "sc:license": "Unlicense",
       "sc:name": "OsteoporosAtlas",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://biokb.ncpsb.org/osteoporosis/"
     },

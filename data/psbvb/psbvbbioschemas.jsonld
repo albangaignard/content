@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/pSBVB",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Laura Zingaretti",
-        "M Pérez-Enciso"
+        "M Pérez-Enciso",
+        "Laura Zingaretti"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
@@ -42,8 +42,8 @@
       ],
       "sc:name": "pSBVB",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/lauzingaretti/pSBVB"
     }

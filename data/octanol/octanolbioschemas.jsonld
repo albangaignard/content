@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "UK BBSRC",
     "EMBOSS Contributors",
     "Wellcome Trust",
-    "UK BBSRC",
     "UK MRC"
   ],
   "sc:description": "Draw a White-Wimley protein hydropathy plot.",
@@ -27,8 +27,8 @@
   "sc:name": "octanol",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "EMBOSS",

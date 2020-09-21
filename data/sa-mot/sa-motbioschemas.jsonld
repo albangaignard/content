@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/sa-mot",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Adrien Saladin",
     "Julien Maupetit",
+    "Adrien Saladin",
     "Leslie Regad"
   ],
   "sc:additionalType": "Web application",
@@ -21,8 +21,8 @@
   "sc:name": "SA-Mot",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://sa-mot.mti.univ-paris-diderot.fr"
 }

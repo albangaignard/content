@@ -19,8 +19,8 @@
         "Liza F Felicori"
       ],
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pubmed:31106372",
@@ -32,18 +32,18 @@
       "sc:description": "Antibody high-density alignment visualization and analysis platform with an integrated database.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3695"
+          "@id": "edam:operation_3431"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_3695"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "Yvis",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bioinfo.icb.ufmg.br/yvis/"
     },

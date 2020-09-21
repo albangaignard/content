@@ -17,8 +17,8 @@
   "sc:name": "dammit",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/dib-lab/dammit/"
 }

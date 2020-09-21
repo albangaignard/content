@@ -37,8 +37,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "SeqFeatR",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "https://seqfeatr.zmb.uni-due.de/",

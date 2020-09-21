@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/zorro",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Ramon Vidal",
     "Gustavo Lacerda",
+    "Ramon Vidal",
     "Marcelo Carazzole"
   ],
   "sc:additionalType": "Script",

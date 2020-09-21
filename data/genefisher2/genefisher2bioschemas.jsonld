@@ -12,12 +12,12 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
     "Command-line tool",
-    "Web API",
-    "Web application"
+    "Web application",
+    "Web API"
   ],
   "sc:author": [
-    "Chris Schleiermacher",
     "Thomas Gatter",
+    "Chris Schleiermacher",
     "Daniel Hagemeier"
   ],
   "sc:citation": "pubmed:8877506",
@@ -25,12 +25,12 @@
   "sc:name": "genefisher2",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
-    "Bielefeld University",
     "CeBiTec",
+    "Bielefeld University",
     "BiBiServ"
   ],
   "sc:url": "http://bibiserv.cebitec.uni-bielefeld.de/genefisher2",

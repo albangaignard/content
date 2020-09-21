@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Guanghua Xiao",
-    "Yang Xie",
     "Bo Yao",
-    "Contact Address"
+    "Contact Address",
+    "Yang Xie"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:24398258",

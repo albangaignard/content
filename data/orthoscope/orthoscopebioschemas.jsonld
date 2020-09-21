@@ -43,8 +43,8 @@
       "sc:license": "Unlicense",
       "sc:name": "ORTHOSCOPE",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "https://www.orthoscope.jp"
