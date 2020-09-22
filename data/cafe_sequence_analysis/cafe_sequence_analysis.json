@@ -23,7 +23,9 @@
     "description": "aCcelerated Alignment-FrEe sequence analysis. Compute overall 28 distance/dissimilarity measures including (1) conventional measures based on k-mer counts, (2) newly developed measures based on background adjusted k-mer counts, and (3) measures based on presence/absence of k-mers.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://github.com/younglululu/CAFE/blob/master/README.md"
         }
     ],
@@ -68,9 +70,38 @@
     "publication": [
         {
             "doi": "10.1093/nar/gkx351",
+            "metadata": {
+                "abstract": "\u00a9The Author(s) 2017. Published by Oxford University Press on behalf of Nucleic Acids Research.Alignment-free genome and metagenome comparisons are increasingly important with the development of next generation sequencing (NGS) technologies. Recently developed state-of-the-art k-mer based alignment-free dissimilarity measures including CVTree, d2\u2217 and d2S are more computationally expensive than measures based solely on the k-mer frequencies. Here, we report a standalone software, aCcelerated Alignment-FrEe sequence analysis (CAFE), for efficient calculation of 28 alignment-free dissimilarity measures. CAFE allows for both assembled genome sequences and unassembled NGS shotgun reads as input, and wraps the output in a standard PHYLIP format. In downstream analyses, CAFE can also be used to visualize the pairwise dissimilarity measures, including dendrograms, heatmap, principal coordinate analysis and network display.",
+                "authors": [
+                    {
+                        "name": "Lu Y.Y."
+                    },
+                    {
+                        "name": "Tang K."
+                    },
+                    {
+                        "name": "Ren J."
+                    },
+                    {
+                        "name": "Fuhrman J.A."
+                    },
+                    {
+                        "name": "Waterman M.S."
+                    },
+                    {
+                        "name": "Sun F."
+                    }
+                ],
+                "citationCount": 20,
+                "date": "2017-07-03T00:00:00Z",
+                "journal": "Nucleic Acids Research",
+                "title": "CAFE: A C celerated A lignment- F r E e sequence analysis"
+            },
             "pmcid": "PMC5793812",
             "pmid": "28472388",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
