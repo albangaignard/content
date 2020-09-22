@@ -1,0 +1,73 @@
+{
+    "additionDate": "2020-01-14T20:06:31Z",
+    "biotoolsCURIE": "biotools:Phthiraptera.info",
+    "biotoolsID": "Phthiraptera.info",
+    "confidence_flag": "medium",
+    "credit": [
+        {
+            "email": "edwbaker@gmail.com",
+            "name": "Edward Baker",
+            "orcidid": "https://orcid.org/0000-0002-5887-9543",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "Ecological interactions in the Scratchpads virtual research environment.\n\nLice ( Insecta : Phthiraptera ) are permanent, obligate ectoparasites of birds and mammals. Three of the suborders ( Amblycera , Ischnocera and Rhynchophthirina ) are known as chewing or biting lice, and the fourth ( Anoplura ) form the sucking lice. There are about 5,000 known species, present on roughly 4,000 species of bird and 800 mammal. Most are highly host specific, and consequently lice are present in every continent and virtually every habitat occupied by birds and mammals.\n\nThis website is a collection or digital resources on parasitic lice.\n\n||| CORRECT NAME OF TOOL COULD ALSO BE 'Phthiraptera.info Scratchpad', 'Scratchpads', 'Scratchpads VRE'",
+    "editPermission": {
+        "type": "public"
+    },
+    "homepage": "http://Phthiraptera.info",
+    "lastUpdate": "2020-01-14T20:06:31Z",
+    "link": [
+        {
+            "type": [
+                "Other"
+            ],
+            "url": "http://phthiraptera.info/interactions.txt"
+        }
+    ],
+    "name": "Phthiraptera.info",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.3897/BDJ.7.E47043",
+            "metadata": {
+                "abstract": "\u00a9 Baker E et al.Background The Natural History Museum, London has a number of online databases that describe interactions between species, including the HOSTS database of lepidopteran host plants (Robinson et al. 2010) and a database of Dipterocarp Seed Predators. These databases were generally bespoke software, which has increased the technical work necessary to sustain these resources. The decision was taken to migrate these to either the Scratchpads Virtual Research Environment (VRE) (Smith et al. 2011) or to the museum's Data Portal (Scott et al. 2019), depending on the complexity of the existing resource, as both are being sustained by the Informatics Group at the Natural History Museum, London. Resources that can be best represented as a single table were moved to the Data Portal, while those best represented in a relational model were transferred to Scratchpads. In addition, the Phthiraptera.info Scratchpad (Smith and Broom 2019), which already contained ecological interaction data, was migrated to the new system. New information This paper describes the implementation within the Scratchpads VRE of a new ecological interactions module that is capable of handling the needs of these projects, while at the same time is flexible to handle the needs of future projects with different data sources.",
+                "authors": [
+                    {
+                        "name": "Baker E."
+                    },
+                    {
+                        "name": "Dupont S."
+                    },
+                    {
+                        "name": "Smith V.S."
+                    }
+                ],
+                "citationCount": 1,
+                "date": "2019-01-01T00:00:00Z",
+                "journal": "Biodiversity Data Journal",
+                "title": "Ecological interactions in the scratchpads virtual research environment"
+            },
+            "pmcid": "PMC6892960",
+            "pmid": "31824210"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Ecology",
+            "uri": "http://edamontology.org/topic_0610"
+        },
+        {
+            "term": "Model organisms",
+            "uri": "http://edamontology.org/topic_0621"
+        },
+        {
+            "term": "Informatics",
+            "uri": "http://edamontology.org/topic_0605"
+        },
+        {
+            "term": "Plant biology",
+            "uri": "http://edamontology.org/topic_0780"
+        }
+    ]
+}
