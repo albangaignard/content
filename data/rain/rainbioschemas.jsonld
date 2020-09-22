@@ -22,8 +22,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Paul F. Thaben",
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC4266694",
@@ -42,8 +42,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "rain",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/rain.html",

@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/btv386",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/damidseq_pipeline",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Owen Marshall",
@@ -29,13 +25,13 @@
       ],
       "sc:applicationSubCategory": [
         {
+          "@id": "edam:topic_0769"
+        },
+        {
           "@id": "edam:topic_3518"
         },
         {
           "@id": "edam:topic_3169"
-        },
-        {
-          "@id": "edam:topic_0769"
         }
       ],
       "sc:citation": [
@@ -64,6 +60,10 @@
         "Linux"
       ],
       "sc:url": "http://owenjm.github.io/damidseq_pipeline/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/bioinformatics/btv386",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

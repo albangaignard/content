@@ -18,8 +18,8 @@
   "sc:name": "Genonets",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://ieu-genonets.uzh.ch"
 }

@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Amine Ghozlane",
     "Hugo Varet",
+    "Amine Ghozlane",
     "Pierre Lechat",
     "Stevenn Volant"
   ],
@@ -22,8 +22,8 @@
   "sc:name": "SHAMAN",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": "Institut Pasteur",
   "sc:url": "http://shaman.c3bi.pasteur.fr/"

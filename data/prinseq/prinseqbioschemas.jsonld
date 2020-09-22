@@ -17,8 +17,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "PRINSEQ",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://edwards.sdsu.edu/prinseq"

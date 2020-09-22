@@ -35,8 +35,8 @@
       },
       "sc:name": "MBBC",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://eecs.ucf.edu/~xiaoman/MBBC/MBBC.html"
     }

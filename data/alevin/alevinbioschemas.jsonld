@@ -43,8 +43,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Alevin",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://salmon.readthedocs.io/en/latest/alevin.html#references"
     }

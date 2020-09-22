@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/fragmentstore",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Catherine Sargent",
-    "Jessica Ahmed",
     "Robert Preissner",
-    "Paul Thaben"
+    "Jessica Ahmed",
+    "Paul Thaben",
+    "Catherine Sargent"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:20965964",

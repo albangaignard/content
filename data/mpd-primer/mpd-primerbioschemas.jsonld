@@ -10,17 +10,13 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s12859-016-1453-3",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/mpd-primer",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Support",
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pubmed:28056760",
         "pmcid:PMC5217220",
+        "pubmed:28056760",
         {
           "@id": "https://doi.org/10.1186/s12859-016-1453-3"
         }
@@ -36,6 +32,10 @@
         "Mac"
       ],
       "sc:url": "https://wingolab-org.github.io/mpd-c/"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s12859-016-1453-3",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

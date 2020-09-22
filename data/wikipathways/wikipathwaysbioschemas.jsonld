@@ -15,9 +15,9 @@
     "Alexander R. Pico"
   ],
   "sc:additionalType": [
+    "Web application",
     "Web API",
     "Web service",
-    "Web application",
     "Database portal"
   ],
   "sc:description": "WikiPathways is a database of biological pathways maintained by and for the scientific community.",

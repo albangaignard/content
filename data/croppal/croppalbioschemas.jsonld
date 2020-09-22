@@ -19,12 +19,12 @@
   "sc:name": "cropPAL",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
-    "ARC Centre of Excellence in Plant Energy Biology",
     "unimelb.edu.au",
+    "ARC Centre of Excellence in Plant Energy Biology",
     "The University of Western Australia"
   ],
   "sc:url": "http://crop-pal.org/"

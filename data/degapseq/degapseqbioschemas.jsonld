@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "degapseq",
   "sc:operatingSystem": [
-    "Mac",
+    "Linux",
     "Windows",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
     "EMBOSS",

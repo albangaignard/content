@@ -18,8 +18,8 @@
   "sc:name": "rNMR",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://rnmr.nmrfam.wisc.edu/"
 }

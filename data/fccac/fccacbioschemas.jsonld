@@ -20,8 +20,8 @@
         "@id": "http://orcid.org/0000-0003-1959-8199"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         {
@@ -38,8 +38,8 @@
       "sc:name": "fCCAC",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/fCCAC.html",
       "sc:version": "1.0.0"

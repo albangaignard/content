@@ -15,8 +15,8 @@
   "sc:description": "Search the PDB.",
   "sc:name": "Advanced PDB search",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": "EMBL-EBI",

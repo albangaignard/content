@@ -59,8 +59,8 @@
       "sc:name": "TFBSTools",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/TFBSTools.html",
       "sc:version": "1.12.1"
