@@ -17,7 +17,9 @@
     "description": "NCBI's database of genomic structural variation \u2013 it contains insertions, deletions, duplications, inversions, multinucleotide substitutions, mobile element insertions, translocations, and complex chromosomal rearrangements",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://www.ncbi.nlm.nih.gov/dbvar"
         }
     ],
@@ -38,7 +40,7 @@
         }
     ],
     "homepage": "https://www.ncbi.nlm.nih.gov/dbvar",
-    "lastUpdate": "2019-09-04T08:38:00Z",
+    "lastUpdate": "2020-02-04T06:13:03Z",
     "license": "Other",
     "name": "dbVAR",
     "operatingSystem": [
@@ -46,7 +48,7 @@
         "Windows",
         "Mac"
     ],
-    "owner": "admin",
+    "owner": "lonphan",
     "toolType": [
         "Database portal"
     ],

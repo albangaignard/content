@@ -19,7 +19,9 @@
     "description": "Compare a protein sequences or protein HMMs to a genomic DNA sequence, allowing for introns and frameshifting errors.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://www.ebi.ac.uk/seqdb/confluence/display/THD/GeneWise"
         }
     ],
@@ -57,7 +59,9 @@
     "lastUpdate": "2018-12-14T09:37:52Z",
     "link": [
         {
-            "type": "Software catalogue",
+            "type": [
+                "Software catalogue"
+            ],
             "url": "http://www.mybiosoftware.com/wise-2-2-0-compare-protein-sequence-genomic-dna-sequence.html"
         }
     ],
@@ -69,9 +73,26 @@
     "publication": [
         {
             "doi": "10.1101/gr.10.4.547",
+            "metadata": {
+                "abstract": "The GeneWise method for combining gene prediction and homology searches was applied to the 2.9-Mb region from Drosophila melanogaster. The results from the Genome Annotation Assessment Project (GASP) showed that GeneWise provided reasonably accurate gene predictions. Further investigation indicates that many of the incorrect gene predictions from GeneWise were due to transposons with valid protein-coding genes and the remaining cases are pseudogenes or possible annotation oversights.",
+                "authors": [
+                    {
+                        "name": "Birney E."
+                    },
+                    {
+                        "name": "Durbin R."
+                    }
+                ],
+                "citationCount": 215,
+                "date": "2000-04-01T00:00:00Z",
+                "journal": "Genome Research",
+                "title": "Using GeneWise in the Drosophila annotation experiment"
+            },
             "pmcid": "PMC310858",
             "pmid": "10779496",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         },
         {
             "metadata": {
@@ -93,7 +114,9 @@
                 "title": "GeneWise and Genomewise"
             },
             "pmid": "15123596",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [

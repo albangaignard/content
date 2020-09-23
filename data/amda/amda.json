@@ -1,7 +1,5 @@
 {
-    "accessibility": [
-        "Open access"
-    ],
+    "accessibility": "Open access",
     "additionDate": "2019-08-09T13:18:09Z",
     "biotoolsCURIE": "biotools:AMDA",
     "biotoolsID": "AMDA",
@@ -19,7 +17,9 @@
     "description": "Adaptive Multivariate Two-Sample Test With Application to Microbiome Differential Abundance Analysis.",
     "documentation": [
         {
-            "type": "User manual",
+            "type": [
+                "User manual"
+            ],
             "url": "https://github.com/xyz5074/AMDA/blob/master/AMDA-manual.pdf"
         }
     ],
@@ -50,11 +50,13 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2019-10-31T11:42:56Z",
+    "lastUpdate": "2020-06-16T10:55:25Z",
     "license": "GPL-3.0",
     "link": [
         {
-            "type": "Issue tracker",
+            "type": [
+                "Issue tracker"
+            ],
             "url": "https://github.com/xyz5074/AMDA/issues"
         }
     ],
@@ -69,9 +71,44 @@
     "publication": [
         {
             "doi": "10.3389/FGENE.2019.00350",
+            "metadata": {
+                "abstract": "Copyright \u00a9 2019 Banerjee, Zhao, Srinivasan, Xue, Hicks, Middleton, Wu and Zhan.Differential abundance analysis is a crucial task in many microbiome studies, where the central goal is to identify microbiome taxa associated with certain biological or clinical conditions. There are two different modes of microbiome differential abundance analysis: the individual-based univariate differential abundance analysis and the group-based multivariate differential abundance analysis. The univariate analysis identifies differentially abundant microbiome taxa subject to multiple correction under certain statistical error measurements such as false discovery rate, which is typically complicated by the high-dimensionality of taxa and complex correlation structure among taxa. The multivariate analysis evaluates the overall shift in the abundance of microbiome composition between two conditions, which provides useful preliminary differential information for the necessity of followup validation studies. In this paper, we present a novel Adaptive multivariate two-sample test for Microbiome Differential Analysis (AMDA) to examine whether the composition of a taxa-set are different between two conditions. Our simulation studies and real data applications demonstrated that the AMDA test was often more powerful than several competing methods while preserving the correct type I error rate. A free implementation of our AMDA method in R software is available at https://github.com/xyz5074/AMDA.",
+                "authors": [
+                    {
+                        "name": "Banerjee K."
+                    },
+                    {
+                        "name": "Zhao N."
+                    },
+                    {
+                        "name": "Srinivasan A."
+                    },
+                    {
+                        "name": "Xue L."
+                    },
+                    {
+                        "name": "Hicks S.D."
+                    },
+                    {
+                        "name": "Middleton F.A."
+                    },
+                    {
+                        "name": "Wu R."
+                    },
+                    {
+                        "name": "Zhan X."
+                    }
+                ],
+                "citationCount": 2,
+                "date": "2019-01-01T00:00:00Z",
+                "journal": "Frontiers in Genetics",
+                "title": "An adaptive multivariate two-sample test with application to microbiome differential abundance analysis"
+            },
             "pmcid": "PMC6491633",
             "pmid": "31068967",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [

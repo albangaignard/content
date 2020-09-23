@@ -1,0 +1,87 @@
+{
+    "additionDate": "2019-11-14T18:25:20Z",
+    "biotoolsCURIE": "biotools:HEAT-SHIELD",
+    "biotoolsID": "HEAT-SHIELD",
+    "confidence_flag": "medium",
+    "credit": [
+        {
+            "email": "marco.morabito@cnr.it",
+            "name": "Marco Morabito",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "> MEDIUM CONFIDENCE! | > CORRECT NAME OF TOOL COULD ALSO BE 'HEAT-SHIELD Platform' | An Occupational Heat-Health Warning System for Europe | Use the advanced Heat-Shield alert system and get scenario specific and personalized forecasts, advice on hydration, how to minimize heat load, solutions for specific industries.. | Heat stress depends on the weather as well as your individual physiology and working conditions",
+    "editPermission": {
+        "type": "public"
+    },
+    "homepage": "https://heatshield.zonalab.it/",
+    "lastUpdate": "2019-11-14T18:25:20Z",
+    "name": "HEAT-SHIELD",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.3390/IJERPH16162890",
+            "metadata": {
+                "abstract": "\u00a9 2019 by the authors. Licensee MDPI, Basel, Switzerland.Existing heat\u2013health warning systems focus on warning vulnerable groups in order to reduce mortality. However, human health and performance are affected at much lower environmental heat strain levels than those directly associated with higher mortality. Moreover, workers are at elevated health risks when exposed to prolonged heat. This study describes the multilingual \u201cHEAT-SHIELD occupational warning system\u201d platform (https://heatshield.zonalab.it/) operating for Europe and developed within the framework of the HEAT-SHIELD project. This system is based on probabilistic medium-range forecasts calibrated on approximately 1800 meteorological stations in Europe and provides the ensemble forecast of the daily maximum heat stress. The platform provides a non-customized output represented by a map showing the weekly maximum probability of exceeding a specific heat stress condition, for each of the four upcoming weeks. Customized output allows the forecast of the personalized local heat-stress-risk based on workers\u2019 physical, clothing and behavioral characteristics and the work environment (outdoors in the sun or shade), also taking into account heat acclimatization. Personal daily heat stress risk levels and behavioral suggestions (hydration and work breaks recommended) to be taken into consideration in the short term (5 days) are provided together with long-term heat risk forecasts (up to 46 days), all which are useful for planning work activities. The HEAT-SHIELD platform provides adaptation strategies for \u201cmanaging\u201d the impact of global warming.",
+                "authors": [
+                    {
+                        "name": "Morabito M."
+                    },
+                    {
+                        "name": "Messeri A."
+                    },
+                    {
+                        "name": "Noti P."
+                    },
+                    {
+                        "name": "Casanueva A."
+                    },
+                    {
+                        "name": "Crisci A."
+                    },
+                    {
+                        "name": "Kotlarski S."
+                    },
+                    {
+                        "name": "Orlandini S."
+                    },
+                    {
+                        "name": "Schwierz C."
+                    },
+                    {
+                        "name": "Spirig C."
+                    },
+                    {
+                        "name": "Kingma B.R.M."
+                    },
+                    {
+                        "name": "Flouris A.D."
+                    },
+                    {
+                        "name": "Nybo L."
+                    }
+                ],
+                "citationCount": 8,
+                "date": "2019-08-02T00:00:00Z",
+                "journal": "International Journal of Environmental Research and Public Health",
+                "title": "An occupational heat\u2013health warning system for Europe: The HEAT-SHIELD platform"
+            },
+            "pmcid": "PMC6718993",
+            "pmid": "31412559"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Physiology",
+            "uri": "http://edamontology.org/topic_3300"
+        },
+        {
+            "term": "Environmental science",
+            "uri": "http://edamontology.org/topic_3855"
+        },
+        {
+            "term": "Nutritional science",
+            "uri": "http://edamontology.org/topic_3390"
+        }
+    ]
+}

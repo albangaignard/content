@@ -1,0 +1,54 @@
+{
+    "additionDate": "2019-11-14T20:05:40Z",
+    "biotoolsCURIE": "biotools:ATLAS.ti_ATLAS.ti",
+    "biotoolsID": "ATLAS.ti_ATLAS.ti",
+    "confidence_flag": "low",
+    "credit": [
+        {
+            "email": "dupreezv@cput.ac.za",
+            "name": "Vikki Du Preez",
+            "orcidid": "https://orcid.org/0000-0002-4169-6847",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "> LOW CONFIDENCE! | > HOMEPAGE BROKEN! | > CORRECT NAME OF TOOL COULD ALSO BE 'ATLAS.ti Scientific', 'ATLAS.ti Scientific Software Development GmbH', 'ATLAS.ti Scientific Software', 'ATLAS.ti ATLAS.ti Scientific' | Engaging Aging Individuals in the Design of Technologies and Services to Support Health and Well-Being | BACKGROUND:Changes noted within the aging population are physical, cognitive, as well as emotional. Social isolation and loneliness are also serious problems that the aging population may encounter. As technology and apps become more accessible, many basic services, such as those offered by social services, well-being organizations, and health care institutions, have invested in the development of supportive devices, services, and Web-based interactions. Despite the perceived benefits that these devices and services offer, many aging individuals choose not to engage, or engage in a limited manner",
+    "editPermission": {
+        "type": "public"
+    },
+    "homepage": "http://ATLAS.ti",
+    "lastUpdate": "2019-11-14T20:05:40Z",
+    "name": "ATLAS.ti ATLAS.ti",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.2196/12393",
+            "metadata": {
+                "abstract": "\u00a9 2019 Journal of Medical Internet Research. All rights reserved.Background: Changes noted within the aging population are physical, cognitive, as well as emotional. Social isolation and loneliness are also serious problems that the aging population may encounter. As technology and apps become more accessible, many basic services, such as those offered by social services, well-being organizations, and health care institutions, have invested in the development of supportive devices, services, and Web-based interactions. Despite the perceived benefits that these devices and services offer, many aging individuals choose not to engage, or engage in a limited manner. To explore this phenomenon, we developed a theory to describe the condition for engagement. Objective: The main objective of this study was to understand the perceptions of an aging South African population regarding Web-based services and technologies that could support aging in place (AiP). Although the concept of AiP speaks to a great number of everyday activities, this paper explores aspects of health and well-being as being central to AiP. Methods: The study used a grounded theory (GT) methodology, relying on an iterative and simultaneous process of data collection, coding, category development, and data comparisons. Data were collected through qualitative methods, including interviews (13 participants aged between 64 and 85 years), 2 participatory workshops (15 participants), and observations. The study focused on Charmaz's approach to constructivist GT, which puts forward the premise that theory or knowledge cannot take shape in a purely objective manner. Instead, theory is constructed through the interaction of the researcher and research participant. Coding and data analysis were supported with ATLAS.ti (ATLAS.ti Scientific Software Development GmbH). Results: The study resulted in a substantive theory exploring the process of interaction and engaging factors through user insights and experiences. The emerging design theory, Ageing User Decision-Driven Engagement (AUDDE), explored the elements that support engagement with technology and supportive apps, which could offer access to required health and wellness services. Conclusions: In AUDDE, the perceived value of the interaction is a crucial catalyst for engagement. Aging users continuously make meaning of their experiences, which affects their current and future actions.",
+                "authors": [
+                    {
+                        "name": "Preez V.D."
+                    },
+                    {
+                        "name": "Harpe R.D.L."
+                    }
+                ],
+                "citationCount": 1,
+                "date": "2019-03-01T00:00:00Z",
+                "journal": "Journal of Medical Internet Research",
+                "title": "Engaging aging individuals in the design of technologies and services to support health and well-being: Constructivist grounded theory study"
+            },
+            "pmcid": "PMC6716485",
+            "pmid": "31518258"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Geriatric medicine",
+            "uri": "http://edamontology.org/topic_3399"
+        },
+        {
+            "term": "Physics",
+            "uri": "http://edamontology.org/topic_3318"
+        }
+    ]
+}
