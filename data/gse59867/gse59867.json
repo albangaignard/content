@@ -1,0 +1,95 @@
+{
+    "additionDate": "2020-01-09T18:15:18Z",
+    "biotoolsCURIE": "biotools:GSE59867",
+    "biotoolsID": "GSE59867",
+    "confidence_flag": "medium",
+    "credit": [
+        {
+            "email": "yinruixing@163.com",
+            "name": "Rui-Xing Yin",
+            "orcidid": "https://orcid.org/0000-0001-7883-4310",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "Potential molecular mechanism of ACE gene at different time points in STEMI patients based on genome-wide microarray dataset.\n\nNCBI's Gene Expression Omnibus (GEO) is a public archive and resource for gene expression data.\n\nGEO help: Mouse over screen elements for information.\n\nScope: Self Platform Samples Series Family Format: HTML SOFT MINiML Amount: Brief Quick GEO accession:.\n\n||| NAME (GSE59867) SIMILAR TO (PUB. DIFFERENT) bio.tools/GSE33335 (GSE33335), bio.tools/GSE56348 (GSE56348), bio.tools/GSE117578 (GSE117578), bio.tools/gse (GSE).\n\n||| CORRECT NAME OF TOOL COULD ALSO BE 'STEMI', 'admission', 'ACE' (bio.tools/ace_insect; bio.tools/ace), 'discharge'",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Expression correlation analysis",
+                    "uri": "http://edamontology.org/operation_3463"
+                },
+                {
+                    "term": "Pathway or network analysis",
+                    "uri": "http://edamontology.org/operation_2497"
+                },
+                {
+                    "term": "Gene-set enrichment analysis",
+                    "uri": "http://edamontology.org/operation_2436"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE59867",
+    "lastUpdate": "2020-01-09T18:15:18Z",
+    "name": "GSE59867",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1186/S12944-019-1131-3",
+            "metadata": {
+                "abstract": "\u00a9 2019 The Author(s).Background: This study aimed to investigate the angiotensin converting enzyme (ACE) co-expression genes and their pathways involved in ST-segment elevation myocardial infarction (STEMI) at different time points. Methods: The array data set of GSE59867 was examined for the ACE co-expression genes in peripheral blood samples from 111 patients with STEMI at four time points (admission, discharge, and 1 and 6 months after MI). Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment, Gene Ontology (GO) annotation and protein-protein interaction (PPI) of the co-expression genes were determined using online analytical tools. The Cytoscape software was used to create modules and hub genes. Results: The number of biological processes (BP), cellular components (CC) and molecular functions (MF) was 43, 22 and 24 at admission; 18, 19 and 11 at discharge; 30, 37 and 21 at 1 month after MI; and 12, 19 and 14 at 6 months after MI; respectively. There were 6 BP, 8 CC and 4 MF enriched at every time point. The co-expression genes were substantially enriched in 12, 5, 6 and 14 KEGG pathways at the four time points, respectively, but no KEGG pathway was found to be common in all time points. We identified 132 intersectional co-expression genes (90 positive and 42 negative) from the four time points and 17 BP, 13 CC, 11 MF and 7 KEGG pathways were enriched. In addition, the PPI network contained 129 nodes and 570 edges, and only 1 module was identified to be significantly enriched in just 1 BP (chromatin-mediated maintenance of transcription). Conclusions: The results of the present study showed that the ACE co-expression genes and their pathways involved in STEMI were significantly different at four different time points. These findings may be helpful for further understanding the functions and roles of ACE in different stages of STEMI, and providing reference for the treatment of STEMI.",
+                "authors": [
+                    {
+                        "name": "Guan Y.-Z."
+                    },
+                    {
+                        "name": "Yin R.-X."
+                    },
+                    {
+                        "name": "Zheng P.-F."
+                    },
+                    {
+                        "name": "Deng G.-X."
+                    },
+                    {
+                        "name": "Liu C.-X."
+                    },
+                    {
+                        "name": "Wei B.-L."
+                    }
+                ],
+                "date": "2019-10-23T00:00:00Z",
+                "journal": "Lipids in Health and Disease",
+                "title": "Potential molecular mechanism of ACE gene at different time points in STEMI patients based on genome-wide microarray dataset"
+            },
+            "pmcid": "PMC6813054",
+            "pmid": "31647035"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Microarray experiment",
+            "uri": "http://edamontology.org/topic_3518"
+        },
+        {
+            "term": "Gene expression",
+            "uri": "http://edamontology.org/topic_0203"
+        },
+        {
+            "term": "Molecular interactions, pathways and networks",
+            "uri": "http://edamontology.org/topic_0602"
+        },
+        {
+            "term": "Gene transcripts",
+            "uri": "http://edamontology.org/topic_3512"
+        },
+        {
+            "term": "Pathology",
+            "uri": "http://edamontology.org/topic_0634"
+        }
+    ]
+}
