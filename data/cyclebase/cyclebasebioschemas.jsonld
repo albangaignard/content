@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/cyclebase",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Rasmus Wernersson",
     "Lars Juhl Jensen",
+    "Rasmus Wernersson",
     "Alberto Santos"
   ],
   "sc:additionalType": "Database portal",

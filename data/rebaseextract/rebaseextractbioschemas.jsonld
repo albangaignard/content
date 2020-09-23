@@ -14,8 +14,8 @@
   "sc:contributor": [
     "Wellcome Trust",
     "UK MRC",
-    "EMBOSS Contributors",
-    "UK BBSRC"
+    "UK BBSRC",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Process the REBASE database for use by restriction enzyme applications.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "rebaseextract",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

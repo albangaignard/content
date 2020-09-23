@@ -17,8 +17,8 @@
         "Viktor Shamansky"
       ],
       "sc:additionalType": [
-        "Desktop application",
-        "Database portal"
+        "Database portal",
+        "Desktop application"
       ],
       "sc:citation": [
         "pubmed:31284879",
@@ -39,9 +39,9 @@
       "sc:license": "Unlicense",
       "sc:name": "ImtRDB",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioinfodbs.kantiana.ru/ImtRDB/"
     },

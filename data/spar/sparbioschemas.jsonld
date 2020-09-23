@@ -15,8 +15,8 @@
   "sc:name": "SPAR",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://www.lisanwanglab.org/SPAR/"
 }

@@ -10,20 +10,16 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gks1213",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/dgva",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "DGVa Helpdesk",
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
-        "pmcid:PMC3531204",
         "pubmed:23193291",
+        "pmcid:PMC3531204",
         {
           "@id": "https://doi.org/10.1093/nar/gks1213"
         }
@@ -42,11 +38,15 @@
       ],
       "sc:name": "DGVa",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://www.ebi.ac.uk/dgva"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gks1213",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

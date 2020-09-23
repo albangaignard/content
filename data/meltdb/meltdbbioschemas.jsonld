@@ -16,12 +16,12 @@
   "sc:name": "MeltDB",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
-    "bigi",
     "CeBiTec",
+    "bigi",
     "Bielefeld University"
   ],
   "sc:url": "http://meltdb.cebitec.uni-bielefeld.de",

@@ -14,25 +14,25 @@
   "sc:contributor": [
     "Wellcome Trust",
     "UK MRC",
-    "EMBOSS Contributors",
-    "UK BBSRC"
+    "UK BBSRC",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Sort sequences by size.",
   "sc:funder": [
+    "Wellcome Trust",
     "UK MRC",
-    "UK BBSRC",
-    "Wellcome Trust"
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "sizeseq",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/sizeseq.html",
   "sc:version": "r6"

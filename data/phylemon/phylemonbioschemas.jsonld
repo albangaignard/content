@@ -16,12 +16,12 @@
   "sc:name": "Phylemon",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
-    "cipf.es",
     "Computational Genomics Department. Prince Felipe Research Center (CIPF)",
+    "cipf.es",
     "http://bioinfo.cipf.es"
   ],
   "sc:url": "http://phylemon.bioinfo.cipf.es/",

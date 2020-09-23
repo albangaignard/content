@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0001-5930-4111",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/Gene_Sculpt_Suite",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -24,18 +20,22 @@
         }
       ],
       "sc:additionalType": [
-        "Suite",
-        "Web application"
+        "Web application",
+        "Suite"
       ],
       "sc:description": "Set of tools for assisting in highly precise genome editing and engineering.",
       "sc:license": "GPL-3.0",
       "sc:name": "Gene Sculpt Suite",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://www.genesculpt.org"
+    },
+    {
+      "@id": "https://orcid.org/0000-0001-5930-4111",
+      "@type": "schema:Person"
     }
   ]
 }

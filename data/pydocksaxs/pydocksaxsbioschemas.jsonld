@@ -53,8 +53,8 @@
       "sc:name": "pyDockSAXS",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": [
         "bsc.es",
@@ -62,10 +62,10 @@
       ],
       "sc:softwareHelp": [
         {
-          "@id": "https://life.bsc.es/pid/pydocksaxs/info/faq_and_help#reference"
+          "@id": "https://life.bsc.es/pid/pydocksaxs/info/faq_and_help"
         },
         {
-          "@id": "https://life.bsc.es/pid/pydocksaxs/info/faq_and_help"
+          "@id": "https://life.bsc.es/pid/pydocksaxs/info/faq_and_help#reference"
         }
       ],
       "sc:termsOfService": {

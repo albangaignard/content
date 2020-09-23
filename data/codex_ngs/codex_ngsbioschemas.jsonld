@@ -27,8 +27,8 @@
       },
       "sc:name": "CODEX",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://codex.stemcells.cam.ac.uk/"

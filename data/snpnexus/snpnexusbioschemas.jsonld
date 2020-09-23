@@ -17,8 +17,8 @@
   "sc:name": "SNPnexus",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.snp-nexus.org"
 }

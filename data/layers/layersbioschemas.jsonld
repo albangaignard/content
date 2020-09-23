@@ -16,8 +16,8 @@
   "sc:name": "Layers",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.csb.iitkgp.ernet.in/applications/mol_layers/main"
 }

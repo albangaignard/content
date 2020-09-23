@@ -18,8 +18,8 @@
   "sc:license": "Unlicense",
   "sc:name": "GLOSSary",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://bioinfo.szn.it/glossary/"

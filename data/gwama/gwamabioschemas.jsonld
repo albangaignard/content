@@ -34,8 +34,8 @@
       "sc:license": "BSD-3-Clause",
       "sc:name": "GWAMA",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://www.geenivaramu.ee/en/tools/gwama",
       "sc:version": "2.2.2"

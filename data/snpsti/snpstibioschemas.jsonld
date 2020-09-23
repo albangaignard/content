@@ -15,8 +15,8 @@
   "sc:name": "SNPSTI",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://github.com/ubccr/SNPSTI"
 }

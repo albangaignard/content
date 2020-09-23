@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK MRC",
-    "UK BBSRC",
+    "EMBOSS Contributors",
     "Wellcome Trust",
-    "EMBOSS Contributors"
+    "UK BBSRC"
   ],
   "sc:description": "Extract regions from a sequence alignment.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "extractalign",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

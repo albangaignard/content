@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gks553",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0001-9539-2606",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gks553",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/bips",
@@ -47,8 +47,8 @@
       "sc:name": "BIPS",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": "upf.edu",
       "sc:url": "http://sbi.imim.es/BIPS.php",

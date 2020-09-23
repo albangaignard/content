@@ -14,9 +14,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:author": "Sébastien Boisvert",
   "sc:contributor": [
-    "Canadian Institutes of Health Research (CIHR), and other",
-    "Jacques Corbeil",
     "François Laviolette",
+    "Jacques Corbeil",
+    "Canadian Institutes of Health Research (CIHR), and other",
     "Élénie Godzaridis",
     "Frédéric Raymond"
   ],
@@ -25,13 +25,13 @@
   "sc:license": "GPL-3.0",
   "sc:name": "Ray",
   "sc:operatingSystem": [
+    "Linux",
     "Mac",
-    "Windows",
-    "Linux"
+    "Windows"
   ],
   "sc:provider": [
-    "NTNU",
     "Faculty of Medicine, Laval University, 1050, av. de la Médecine, Québec (Québec), G1V 0A6, Canada",
+    "NTNU",
     "1065, av. de la Médecine, Québec (Québec), G1V 0A6, Canada",
     "Infectious Diseases Research Center, CHUQ Research Center",
     "Department of Molecular Medicine, Faculty of Medicine, Laval University"

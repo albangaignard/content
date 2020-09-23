@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/promateus",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jaimie Prilusky",
-    "Asaf Carmi",
+    "Dana Reichmann",
     "Mati Cohen",
-    "Dana Reichmann"
+    "Jaimie Prilusky",
+    "Asaf Carmi"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:15050833",

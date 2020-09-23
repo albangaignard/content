@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Esteban Pérez-Wohlfeil",
       "sc:additionalType": [
-        "Web application",
-        "Desktop application"
+        "Desktop application",
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:19832968",
@@ -33,20 +33,20 @@
           "@id": "edam:operation_3695"
         },
         {
+          "@id": "edam:operation_0224"
+        },
+        {
           "@id": "edam:operation_3761"
         },
         {
           "@id": "edam:operation_3763"
-        },
-        {
-          "@id": "edam:operation_0224"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "Magallanes",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:provider": "uma.es",

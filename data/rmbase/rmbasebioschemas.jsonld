@@ -10,13 +10,17 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkx934",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/RMBase",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Jian-Hua Yang",
       "sc:additionalType": [
         "Web service",
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pubmed:29040692",
@@ -31,10 +35,10 @@
           "@id": "edam:operation_2495"
         },
         {
-          "@id": "edam:operation_0417"
+          "@id": "edam:operation_3196"
         },
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_0417"
         }
       ],
       "sc:license": "GPL-3.0",
@@ -46,10 +50,6 @@
       ],
       "sc:url": "http://rna.sysu.edu.cn/rmbase/index.php",
       "sc:version": "2.0"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkx934",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

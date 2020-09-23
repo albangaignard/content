@@ -14,21 +14,21 @@
   "sc:contributor": [
     "UK BBSRC",
     "EMBOSS Contributors",
-    "Wellcome Trust",
-    "UK MRC"
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:description": "Scan DNA sequences for transcription factors.",
   "sc:funder": [
-    "UK MRC",
     "UK BBSRC",
+    "UK MRC",
     "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "jaspscan",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "EMBOSS",

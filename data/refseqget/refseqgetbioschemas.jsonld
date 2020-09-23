@@ -27,12 +27,12 @@
   "sc:name": "refseqget",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://www.bioinformatics.nl/cgi-bin/emboss/refseqget",
   "sc:version": "r6"
