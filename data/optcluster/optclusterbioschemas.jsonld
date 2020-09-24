@@ -17,14 +17,14 @@
       "@id": "https://bio.tools/optcluster",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Susmita Datta",
         "Michael Sekula",
+        "Susmita Datta",
         "Somnath Datta"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
-        "pubmed:28584451",
         "pmcid:PMC5450252",
+        "pubmed:28584451",
         {
           "@id": "https://doi.org/10.6026/97320630013101"
         }

@@ -32,8 +32,8 @@
       ],
       "sc:name": "JOA",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://joa.readthedocs.org"
     },

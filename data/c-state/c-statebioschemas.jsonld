@@ -21,8 +21,8 @@
   "sc:name": "C-state",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.ccmb.res.in/rakeshmishra/c-state/"
 }

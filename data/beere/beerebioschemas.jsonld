@@ -27,17 +27,17 @@
           "@id": "edam:operation_2421"
         },
         {
-          "@id": "edam:operation_3280"
+          "@id": "edam:operation_2422"
         },
         {
-          "@id": "edam:operation_2422"
+          "@id": "edam:operation_3280"
         }
       ],
       "sc:license": "CC-BY-NC-4.0",
       "sc:name": "BEERE",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://discovery.informatics.uab.edu/beere/"

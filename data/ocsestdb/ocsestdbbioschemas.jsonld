@@ -40,8 +40,8 @@
       "sc:name": "ocsESTdb",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://ocri-genomics.org/ocsESTdb/"
     }

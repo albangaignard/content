@@ -23,8 +23,8 @@
   "sc:name": "subSeq",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/subSeq.html",
   "sc:version": "1.4.0"

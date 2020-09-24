@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Entrez contact form",
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pubmed:12519940",
@@ -31,10 +31,7 @@
       "sc:description": "NCBI information retrieval system, including GenBank, MMDB (structures), genomes, population sets, OMIM, taxonomy and PubMed.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2403"
-        },
-        {
-          "@id": "edam:operation_2429"
+          "@id": "edam:operation_0346"
         },
         {
           "@id": "edam:operation_3431"
@@ -43,7 +40,10 @@
           "@id": "edam:operation_0224"
         },
         {
-          "@id": "edam:operation_0346"
+          "@id": "edam:operation_2429"
+        },
+        {
+          "@id": "edam:operation_2403"
         },
         {
           "@id": "edam:operation_3763"

@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/isoem",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Alex Zelikovsky",
     "Ion Mandoiu",
     "Igor Mandric",
+    "Alex Zelikovsky",
     "Sahar Al Seesi"
   ],
   "sc:additionalType": "Command-line tool",
@@ -21,9 +21,9 @@
   "sc:description": "Expectation maximization algorithm for estimating alternative splicing isoform frequencies",
   "sc:name": "IsoEM",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://dna.engr.uconn.edu/?page_id=105"
 }

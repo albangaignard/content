@@ -44,8 +44,8 @@
         {
           "@id": "https://doi.org/10.1186/s13321-016-0171-1"
         },
-        "pmcid:PMC5067907",
-        "pubmed:27803746"
+        "pubmed:27803746",
+        "pmcid:PMC5067907"
       ],
       "sc:description": "Main function is to perform EEM parameterization. Can be used to efficiently compute EEM charges, validate them against QM ones and to compute the parameter coverage.",
       "sc:featureList": {
@@ -56,14 +56,14 @@
       "sc:name": "NEEMP",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:provider": [
-        "mail.muni.cz",
+        "National Centre for Biomolecular Research, Masaryk University, Brno",
         "ELIXIR-CZ",
-        "Central European Institute of Technology, Brno",
-        "National Centre for Biomolecular Research, Masaryk University, Brno"
+        "mail.muni.cz",
+        "Central European Institute of Technology, Brno"
       ],
       "sc:softwareHelp": {
         "@id": "http://webchem.ncbr.muni.cz/Wiki/NEEMP:UserManual"

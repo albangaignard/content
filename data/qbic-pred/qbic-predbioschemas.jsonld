@@ -24,10 +24,10 @@
       "sc:description": "Quantitative predictions of transcription factor binding changes due to sequence variants.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0445"
+          "@id": "edam:operation_3799"
         },
         {
-          "@id": "edam:operation_3799"
+          "@id": "edam:operation_0445"
         },
         {
           "@id": "edam:operation_0331"
@@ -36,9 +36,9 @@
       "sc:license": "MIT",
       "sc:name": "QBiC-Pred",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://qbic.genome.duke.edu"
     },

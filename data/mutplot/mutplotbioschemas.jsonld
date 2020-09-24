@@ -39,8 +39,8 @@
       "sc:license": "Unlicense",
       "sc:name": "Mutplot",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://bioinformaticstools.shinyapps.io/lollipop/"

@@ -16,8 +16,8 @@
   "sc:license": "Unlicense",
   "sc:name": "Epithelial Modelling Platform",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:url": "http://epithelial-modelling-platform.nectar.auckland.ac.nz/"

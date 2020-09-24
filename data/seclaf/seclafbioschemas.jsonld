@@ -16,8 +16,8 @@
   ],
   "sc:additionalType": [
     "Web service",
-    "Command-line tool",
-    "Web application"
+    "Web application",
+    "Command-line tool"
   ],
   "sc:description": "Webserver and deep neural network design tool for hierarchical biological sequence classification.",
   "sc:license": "Unlicense",

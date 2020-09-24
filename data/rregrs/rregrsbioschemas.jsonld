@@ -38,8 +38,8 @@
       "sc:license": "BSD-2-Clause",
       "sc:name": "RRegrs",
       "sc:operatingSystem": [
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://github.com/enanomapper/RRegrs",
       "sc:version": "0.0.5"

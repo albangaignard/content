@@ -20,8 +20,8 @@
   "sc:name": "SLIDE",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/soumitag/SLIDE"
 }

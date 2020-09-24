@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12859-017-1540-0",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/vacsol",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Muhammad Rizwan",
@@ -30,15 +34,11 @@
       },
       "sc:name": "VacSol",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://sourceforge.net/projects/vacsol/"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12859-017-1540-0",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

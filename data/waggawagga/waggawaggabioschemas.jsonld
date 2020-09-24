@@ -20,8 +20,8 @@
   "sc:name": "Waggawagga",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://waggawagga.motorprotein.de/"
 }

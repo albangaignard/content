@@ -26,18 +26,18 @@
         "@id": "edam:data_2085"
       },
       "sc:additionalType": [
-        "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:applicationSubCategory": [
         {
           "@id": "edam:topic_0654"
         },
         {
-          "@id": "edam:topic_0219"
+          "@id": "edam:topic_0080"
         },
         {
-          "@id": "edam:topic_0080"
+          "@id": "edam:topic_0219"
         }
       ],
       "sc:author": "WurmLab",
@@ -57,18 +57,18 @@
       "sc:name": "GeneValidator",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:softwareHelp": [
+        {
+          "@id": "https://github.com/wurmlab/genevalidator/blob/master/README.md#introduction"
+        },
         {
           "@id": "https://wurmlab.github.io/tools/genevalidator/"
         },
         {
           "@id": "https://github.com/wurmlab/genevalidator/blob/master/README.md"
-        },
-        {
-          "@id": "https://github.com/wurmlab/genevalidator/blob/master/README.md#introduction"
         }
       ],
       "sc:url": "https://wurmlab.github.io/tools/genevalidator/",

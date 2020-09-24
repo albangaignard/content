@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/matrix-clustering",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jacques van Helden",
+    "Jaime Castro-Mondragon",
     "Morgane Thomas-Chollier",
-    "Jaime Castro-Mondragon"
+    "Jacques van Helden"
   ],
   "sc:additionalType": [
     "Web application",

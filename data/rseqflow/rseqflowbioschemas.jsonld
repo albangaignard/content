@@ -15,8 +15,8 @@
   "sc:name": "RseqFlow",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://genomics.isi.edu/rnaseq"
 }

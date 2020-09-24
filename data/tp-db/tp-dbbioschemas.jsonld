@@ -20,8 +20,8 @@
   "sc:license": "Unlicense",
   "sc:name": "TP-DB",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:url": "https://dyn.life.nthu.edu.tw/design"
