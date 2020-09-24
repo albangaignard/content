@@ -1,0 +1,91 @@
+{
+    "additionDate": "2019-11-14T18:45:10Z",
+    "biotoolsCURIE": "biotools:ANK3",
+    "biotoolsID": "ANK3",
+    "confidence_flag": "very low",
+    "credit": [
+        {
+            "email": "oystein.haaland@uib.no",
+            "name": "\u00d8ystein Ariansen Haaland",
+            "orcidid": "https://orcid.org/0000-0001-5288-7879",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "> VERY_LOW CONFIDENCE! | > HOMEPAGE BROKEN! | > CORRECT NAME OF TOOL COULD ALSO BE 'PoO', 'PoOxE', 'triads', 'lip' | A genome-wide scan of cleft lip triads identifies parent-of-origin interaction effects between ANK3 and maternal smoking, and between ARHGEF10 and alcohol consumption | Background: Although both genetic and environmental factors have been reported to influence the risk of isolated cleft lip with or without cleft palate (CL P), the exact mechanisms behind CL P are still largely unaccounted for. We recently developed new methods to identify parent-of-origin (PoO) interactions with environmental exposures (PoOxE) and applied them to families with children born with isolated cleft palate only. Here, we used the same genome-wide association study (GWAS) dataset and methodology to screen for PoOxE effects in the larger sample of CL P triads",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Haplotype mapping",
+                    "uri": "http://edamontology.org/operation_0487"
+                },
+                {
+                    "term": "Genotyping",
+                    "uri": "http://edamontology.org/operation_3196"
+                },
+                {
+                    "term": "Linkage disequilibrium calculation",
+                    "uri": "http://edamontology.org/operation_0488"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/oeh041/A-genome-wide-scan-of-cleft-lip-triads-identifies-parent-of-origin-interaction-effects-between-ANK3",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-11-14T18:45:10Z",
+    "name": "ANK3",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.12688/F1000RESEARCH.19571.2",
+            "metadata": {
+                "abstract": "\u00a9 2019 Haaland \u00d8A et al.Background: Although both genetic and environmental factors have been reported to influence the risk of isolated cleft lip with or without cleft palate (CL/P), the exact mechanisms behind CL/P are still largely unaccounted for. We recently developed new methods to identify parent-of-origin (PoO) interactions with environmental exposures (PoOxE) and now apply them to data from a genome-wide association study (GWAS) of families with children born with isolated CL/P. Methods: Genotypes from 1594 complete triads and 314 dyads (1908 nuclear families in total) with CL/P were available for the current analyses. Of these families, 1024 were Asian, 825 were European and 59 had other ancestries. After quality control, 341,191 SNPs remained from the original 569,244. The exposures were maternal cigarette smoking, use of alcohol, and use of vitamin supplements in the periconceptional period. Our new methodology detects if PoO effects are different across environmental strata and is implemented in the R-package Haplin. Results: Among Europeans, there was evidence of a PoOxSmoke effect for ANK3 with three SNPs (rs3793861, q=0.20, p=2.6e-6; rs7087489, q=0.20, p=3.1e-6; rs4310561, q=0.67, p=4.0e-5) and a PoOxAlcohol effect for ARHGEF10 with two SNPs (rs2294035, q=0.32, p=2.9e-6; rs4876274, q=0.76, p=1.3e-5). Conclusion: Our results indicate that the detected PoOxE effects have a plausible biological basis, and thus warrant replication in other independent cleft samples. Our demonstration of the feasibility of identifying complex interactions between relevant environmental exposures and PoO effects offers new avenues for future research aimed at unravelling the complex etiology of cleft lip defects.",
+                "authors": [
+                    {
+                        "name": "Haaland O.A."
+                    },
+                    {
+                        "name": "Romanowska J."
+                    },
+                    {
+                        "name": "Gjerdevik M."
+                    },
+                    {
+                        "name": "Lie R.T."
+                    },
+                    {
+                        "name": "Gjessing H.K."
+                    },
+                    {
+                        "name": "Jugessur A."
+                    }
+                ],
+                "citationCount": 1,
+                "date": "2019-01-01T00:00:00Z",
+                "journal": "F1000Research",
+                "title": "A genome-wide scan of cleft lip triads identifies parent-of-origin interaction effects between ANK3 and maternal smoking, and between ARHGEF10 and alcohol consumption"
+            },
+            "pmcid": "PMC6662680",
+            "pmid": "31372216"
+        }
+    ],
+    "topic": [
+        {
+            "term": "GWAS study",
+            "uri": "http://edamontology.org/topic_3517"
+        },
+        {
+            "term": "DNA polymorphism",
+            "uri": "http://edamontology.org/topic_2885"
+        },
+        {
+            "term": "Molecular interactions, pathways and networks",
+            "uri": "http://edamontology.org/topic_0602"
+        }
+    ]
+}
