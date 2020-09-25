@@ -21,15 +21,15 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_2600"
+          "@id": "edam:data_2526"
         },
         {
-          "@id": "edam:data_2526"
+          "@id": "edam:data_2600"
         }
       ],
       "sc:additionalType": [
-        "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:applicationSubCategory": [
         {
@@ -43,8 +43,8 @@
         }
       ],
       "sc:citation": [
-        "pubmed:25750651",
         "pmcid:PMC4335276",
+        "pubmed:25750651",
         {
           "@id": "https://doi.org/10.3389/fgene.2015.00043"
         }
@@ -55,10 +55,10 @@
           "@id": "edam:operation_0337"
         },
         {
-          "@id": "edam:operation_3432"
+          "@id": "edam:operation_3436"
         },
         {
-          "@id": "edam:operation_3436"
+          "@id": "edam:operation_3432"
         }
       ],
       "sc:isAccessibleForFree": true,

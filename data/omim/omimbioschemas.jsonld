@@ -10,13 +10,17 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gki033",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/omim",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Ada Hamosh",
       "sc:additionalType": [
-        "Web application",
         "Web API",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         {
@@ -31,30 +35,26 @@
           "@id": "edam:operation_0224"
         },
         {
-          "@id": "edam:operation_3197"
-        },
-        {
-          "@id": "edam:operation_3763"
+          "@id": "edam:operation_0282"
         },
         {
           "@id": "edam:operation_3436"
         },
         {
-          "@id": "edam:operation_0282"
+          "@id": "edam:operation_3197"
+        },
+        {
+          "@id": "edam:operation_3763"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "OMIM",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=OMIM"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gki033",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1007/s12021-016-9297-6",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/niftyfit",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -39,10 +35,14 @@
       "sc:name": "NiftyFit",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://github.com/KCL-BMEIS/niftyreg"
+    },
+    {
+      "@id": "https://doi.org/10.1007/s12021-016-9297-6",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

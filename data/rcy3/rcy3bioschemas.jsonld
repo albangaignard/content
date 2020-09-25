@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Tanja Muetze",
-    "Paul Shannon",
-    "Alexander Pico"
+    "Alexander Pico",
+    "Paul Shannon"
   ],
   "sc:additionalType": "Library",
   "sc:description": "Vizualize, analyze and explore networks using Cytoscape via R.",

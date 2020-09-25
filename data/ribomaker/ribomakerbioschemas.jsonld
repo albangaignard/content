@@ -16,8 +16,8 @@
   "sc:name": "Ribomaker",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://absynth.issb.genopole.fr/Bioinformatics/tools/Ribomaker/"
 }

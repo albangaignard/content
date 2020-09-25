@@ -16,8 +16,8 @@
   ],
   "sc:additionalType": [
     "Web API",
-    "Workbench",
-    "Command-line tool"
+    "Command-line tool",
+    "Workbench"
   ],
   "sc:author": [
     "Solomon Shorser",

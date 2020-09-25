@@ -40,8 +40,8 @@
       "sc:license": "AGPL-3.0",
       "sc:name": "EPA-ng",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/Pbdas/epa-ng"
     }

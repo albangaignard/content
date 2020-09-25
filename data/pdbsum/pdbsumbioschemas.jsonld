@@ -42,9 +42,9 @@
       },
       "sc:name": "PDBsum overview of macromolecular structures",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://www.ebi.ac.uk/pdbsum/"
     },

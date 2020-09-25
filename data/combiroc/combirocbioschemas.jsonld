@@ -16,8 +16,8 @@
   "sc:name": "CombiROC",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://combiroc.eu/"
 }

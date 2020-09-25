@@ -15,8 +15,8 @@
     "Pedro Lopes"
   ],
   "sc:additionalType": [
-    "Web API",
     "Database portal",
+    "Web API",
     "Web application"
   ],
   "sc:citation": "pubmed:23973272",
@@ -24,8 +24,8 @@
   "sc:name": "Diseasecard",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://bioinformatics.ua.pt/diseasecard/"
 }

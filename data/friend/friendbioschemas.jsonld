@@ -17,8 +17,8 @@
   "sc:name": "Friend",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://ilyinlab.org/friend/"
 }

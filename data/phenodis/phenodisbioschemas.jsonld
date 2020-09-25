@@ -39,8 +39,8 @@
       ],
       "sc:name": "PhenoDis",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://mips.helmholtz-muenchen.de/phenodis/"

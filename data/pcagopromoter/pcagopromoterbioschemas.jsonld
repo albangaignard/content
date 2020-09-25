@@ -14,12 +14,12 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Morten Hansen",
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
-        "pmcid:PMC3288097",
         "pubmed:22384239",
+        "pmcid:PMC3288097",
         {
           "@id": "https://doi.org/10.1371/journal.pone.0032394"
         }
@@ -31,9 +31,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "pcaGoPromoter",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/pcaGoPromoter.html",
       "sc:version": "1.18.0"

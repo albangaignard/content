@@ -21,8 +21,8 @@
   "sc:name": "MetAmyl",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": "GenOuest",
   "sc:url": "http://metamyl.genouest.org"

@@ -12,22 +12,22 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
-    "Wellcome Trust",
     "UK BBSRC",
-    "EMBOSS Contributors"
+    "EMBOSS Contributors",
+    "Wellcome Trust",
+    "UK MRC"
   ],
   "sc:description": "Predict protein secondary structure using GOR method.",
   "sc:funder": [
-    "UK BBSRC",
+    "Wellcome Trust",
     "UK MRC",
-    "Wellcome Trust"
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "garnier",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": [

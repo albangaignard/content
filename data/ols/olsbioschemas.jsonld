@@ -22,8 +22,8 @@
   "sc:license": "Apache-2.0",
   "sc:name": "Ontology Lookup Service",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": "EMBL-EBI",

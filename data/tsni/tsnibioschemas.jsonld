@@ -16,8 +16,8 @@
   "sc:name": "TSNI",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://dibernardo.tigem.it/softwares/time-series-network-identification-tsni"
 }
