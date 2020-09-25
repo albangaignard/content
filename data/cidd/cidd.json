@@ -1,7 +1,5 @@
 {
-    "accessibility": [
-        "Open access"
-    ],
+    "accessibility": "Open access",
     "additionDate": "2019-05-28T08:24:21Z",
     "biotoolsCURIE": "biotools:CiDD",
     "biotoolsID": "CiDD",
@@ -19,7 +17,9 @@
     "description": "Cancer in silico Drug Discovery (CIDD) is a platform to integrate data from the TCGA, Connectivity Map (CMap) and Cancer Cell Line Encyclopedia to facilitate and automate discovery of candidate drug compounds with the ultimate goal for treatment or chemo-prevention of cancer.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://sites.google.com/site/integrativecancergenomics/software/cidd"
         }
     ],
@@ -49,7 +49,7 @@
         "R",
         "Python"
     ],
-    "lastUpdate": "2019-05-28T09:11:13Z",
+    "lastUpdate": "2020-06-16T10:55:22Z",
     "license": "GPL-3.0",
     "maturity": "Mature",
     "name": "CiDD",
@@ -61,9 +61,38 @@
     "publication": [
         {
             "doi": "10.1158/1535-7163.MCT-14-0260",
+            "metadata": {
+                "abstract": "\u00a92014 AACR.Large-scale cancer datasets such as The Cancer Genome Atlas (TCGA) allow researchers to profile tumors based on a wide range of clinical and molecular characteristics. Subsequently, TCGA-derived gene expression profiles can be analyzed with the Connectivity Map (CMap) to find candidate drugs to target tumors with specific clinical phenotypes or molecular characteristics. This represents a powerful computational approach for candidate drug identification, but due to the complexity of TCGA and technology differences between CMap and TCGA experiments, such analyses are challenging to conduct and reproduce. We present Cancer in silico Drug Discovery (CiDD; scheet.org/software), a computational drug discovery platform that addresses these challenges. CiDD integrates data from TCGA, CMap, and Cancer Cell Line Encyclopedia (CCLE) to perform computational drug discovery experiments, generating hypotheses for the following three general problems: (i) determining whether specific clinical phenotypes or molecular characteristics are associated with unique gene expression signatures; (ii) finding candidate drugs to repress these expression signatures; and (iii) identifying cell lines that resemble the tumors being studied for subsequent in vitro experiments. The primary input to CiDD is a clinical or molecular characteristic. The output is a biologically annotated list of candidate drugs and a list of cell lines for in vitro experimentation. We applied CiDD to identify candidate drugs to treat colorectal cancers harboring mutations in BRAF. CiDD identified EGFR and proteasome inhibitors, while proposing five cell lines for in vitro testing. CiDD facilitates phenotype-driven, systematic drug discovery based on clinical and molecular data from TCGA.",
+                "authors": [
+                    {
+                        "name": "San Lucas F.A."
+                    },
+                    {
+                        "name": "Fowler J."
+                    },
+                    {
+                        "name": "Chang K."
+                    },
+                    {
+                        "name": "Kopetz S."
+                    },
+                    {
+                        "name": "Vilar E."
+                    },
+                    {
+                        "name": "Scheet P."
+                    }
+                ],
+                "citationCount": 9,
+                "date": "2014-12-01T00:00:00Z",
+                "journal": "Molecular Cancer Therapeutics",
+                "title": "Cancer In Silico drug discovery: A systems biology tool for identifying candidate drugs to target specific molecular tumor subtypes"
+            },
             "pmcid": "PMC4341901",
             "pmid": "25349306",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [

@@ -1,0 +1,79 @@
+{
+    "additionDate": "2019-11-14T19:56:57Z",
+    "biotoolsCURIE": "biotools:3f83gxmv57",
+    "biotoolsID": "3f83gxmv57",
+    "confidence_flag": "medium",
+    "credit": [
+        {
+            "email": "bukharis@stjohns.edu",
+            "name": "Syed Ahmad Chan Bukhari",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "> MEDIUM CONFIDENCE! | > CORRECT NAME OF TOOL COULD ALSO BE 'Gujrat Citrus', 'citrus', 'citrus fruits', 'Gujrat' | A citrus fruits and leaves dataset for detection and classification of citrus diseases through machine learning | (1) In agriculture, plant diseases are primarily responsible for the reduction in production which causes economic losses | Published: 28 May 2019 : Version 2 : DOI: 10.17632/3f83gxmv57.2 | Rauf, Hafiz Tayyab; Saleem, Basharat ALi ; Lali, M",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Essential dynamics",
+                    "uri": "http://edamontology.org/operation_3891"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://data.mendeley.com/datasets/3f83gxmv57/2",
+    "lastUpdate": "2019-11-14T19:56:57Z",
+    "name": "3f83gxmv57",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1016/J.DIB.2019.104340",
+            "metadata": {
+                "abstract": "\u00a9 2019 The AuthorsPlants are as vulnerable by diseases as animals. Citrus is a major plant grown mainly in the tropical areas of the world due to its richness in vitamin C and other important nutrients. The production of the citrus fruit has been widely affected by citrus diseases which ultimately degrades the fruit quality and causes financial loss to the growers. During the past decade, image processing and computer vision methods have been broadly adopted for the detection and classification of plant diseases. Early detection of diseases in citrus plants helps in preventing them to spread in the orchards which minimize the financial loss to the farmers. In this article, an image dataset citrus fruits, leaves, and stem is presented. The dataset holds citrus fruits and leaves images of healthy and infected plants with diseases such as Black spot, Canker, Scab, Greening, and Melanose. Most of the images were captured in December from the Orchards in Sargodha region of Pakistan when the fruit was about to ripen and maximum diseases were found on citrus plants. The dataset is hosted by the Department of Computer Science, University of Gujrat and acquired under the mutual cooperation of the University of Gujrat and the Citrus Research Center, Government of Punjab, Pakistan. The dataset would potentially be helpful to researchers who use machine learning and computer vision algorithms to develop computer applications to help farmers in early detection of plant diseases. The dataset is freely available at https://data.mendeley.com/datasets/3f83gxmv57/2.",
+                "authors": [
+                    {
+                        "name": "Rauf H.T."
+                    },
+                    {
+                        "name": "Saleem B.A."
+                    },
+                    {
+                        "name": "Lali M.I.U."
+                    },
+                    {
+                        "name": "Khan M.A."
+                    },
+                    {
+                        "name": "Sharif M."
+                    },
+                    {
+                        "name": "Bukhari S.A.C."
+                    }
+                ],
+                "citationCount": 2,
+                "date": "2019-10-01T00:00:00Z",
+                "journal": "Data in Brief",
+                "title": "A citrus fruits and leaves dataset for detection and classification of citrus diseases through machine learning"
+            },
+            "pmcid": "PMC6731382",
+            "pmid": "31516936"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Agricultural science",
+            "uri": "http://edamontology.org/topic_3810"
+        },
+        {
+            "term": "Plant biology",
+            "uri": "http://edamontology.org/topic_0780"
+        },
+        {
+            "term": "Imaging",
+            "uri": "http://edamontology.org/topic_3382"
+        }
+    ]
+}

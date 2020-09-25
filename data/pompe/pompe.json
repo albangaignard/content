@@ -1,0 +1,93 @@
+{
+    "additionDate": "2019-11-14T20:05:48Z",
+    "biotoolsCURIE": "biotools:Pompe",
+    "biotoolsID": "Pompe",
+    "confidence_flag": "low",
+    "credit": [
+        {
+            "email": "duangrurdee.wat@mahidol.ac.th",
+            "name": "Duangrurdee Wattanasirichaigoon",
+            "orcidid": "https://orcid.org/0000-0003-2329-2176",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "> LOW CONFIDENCE! | > CORRECT NAME OF TOOL COULD ALSO BE 'infantile-onset Pompe', 'infantile-onset', 'IOPD', 'Asp513Gly' | Clinical course, mutations and its functional characteristics of infantile-onset Pompe disease in Thailand | Informatie voor patienten, collega wetenschappers/ - artsen, genetic counsellors en anderen met een speciale interesse voor de ziekte van Pompe",
+    "editPermission": {
+        "type": "public"
+    },
+    "homepage": "http://www.pompecenter.nl",
+    "language": [
+        "PyMOL"
+    ],
+    "lastUpdate": "2019-11-14T20:05:48Z",
+    "name": "Pompe",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1186/S12881-019-0878-8",
+            "metadata": {
+                "abstract": "\u00a9 2019 The Author(s).Background: Pompe disease is a lysosomal storage disorder caused by the deficiency of acid alpha-glucosidase (EC. 3.2.1.20) due to mutations in human GAA gene. The objective of the present study was to examine clinical and molecular characteristics of infantile-onset Pompe disease (IOPD) in Thailand. Methods: Twelve patients with infantile-onset Pompe disease (IOPD) including 10 Thai and two other Asian ethnicities were enrolled. To examine the molecular characteristics of Pompe patients, GAA gene was analyzed by PCR amplification and direct Sanger-sequencing of 20 exons coding region. The novel mutations were transiently transfected in COS-7 cells for functional verification. The severity of the mutation was rated by study of the GAA enzyme activity detected in transfected cells and culture media, as well as the quantity and quality of the proper sized GAA protein demonstrated by western blot analysis. The GAA three dimensional structures were visualized by PyMol software tool. Results: All patients had hypertrophic cardiomyopathy, generalized muscle weakness, and undetectable or < 1% of GAA normal activity. Three patients received enzyme replacement therapy with variable outcome depending on the age of the start of enzyme replacement therapy (ERT). Seventeen pathogenic mutations including four novel variants: c.876C > G (p.Tyr292X), c.1226insG (p.Asp409GlyfsX95), c.1538G > A (p.Asp513Gly), c.1895 T > G (p.Leu632Arg), and a previously reported rare allele of unknown significance: c.781G > A (p.Ala261Thr) were identified. The rating system ranked p.Tyr292X, p. Asp513Gly and p. Leu632Arg as class \"B\" and p. Ala261Thr as class \"D\" or \"E\". These novel mutations were located in the N-terminal beta-sheet domain and the catalytic domain. Conclusions: The present study provides useful information on the mutations of GAA gene in the underrepresented population of Asia which are more diverse than previously described and showing the hotspots in exons 14 and 5, accounting for 62% of mutant alleles. Almost all mutations identified are in class A/B. These data can benefit rapid molecular diagnosis of IOPD and severity rating of the mutations can serve as a partial substitute for cross reactive immunological material (CRIM) study.",
+                "authors": [
+                    {
+                        "name": "Ngiwsara L."
+                    },
+                    {
+                        "name": "Wattanasirichaigoon D."
+                    },
+                    {
+                        "name": "Tim-Aroon T."
+                    },
+                    {
+                        "name": "Rojnueangnit K."
+                    },
+                    {
+                        "name": "Noojaroen S."
+                    },
+                    {
+                        "name": "Khongkraparn A."
+                    },
+                    {
+                        "name": "Sawangareetrakul P."
+                    },
+                    {
+                        "name": "Ketudat-Cairns J.R."
+                    },
+                    {
+                        "name": "Charoenwattanasatien R."
+                    },
+                    {
+                        "name": "Champattanachai V."
+                    },
+                    {
+                        "name": "Kuptanon C."
+                    },
+                    {
+                        "name": "Pangkanon S."
+                    },
+                    {
+                        "name": "Svasti J."
+                    }
+                ],
+                "date": "2019-09-11T00:00:00Z",
+                "journal": "BMC Medical Genetics",
+                "title": "Clinical course, mutations and its functional characteristics of infantile-onset Pompe disease in Thailand"
+            },
+            "pmcid": "PMC6737665",
+            "pmid": "31510962"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Genetic variation",
+            "uri": "http://edamontology.org/topic_0199"
+        },
+        {
+            "term": "Allergy, clinical immunology and immunotherapeutics",
+            "uri": "http://edamontology.org/topic_3400"
+        },
+        {
+            "term": "Pathology",
+            "uri": "http://edamontology.org/topic_0634"
+        }
+    ]
+}
