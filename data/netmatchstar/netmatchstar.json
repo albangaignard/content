@@ -16,7 +16,9 @@
     "description": "Find all the occurrences of a query graph in a network and check for its significance as a motif with respect to seven different random models.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://alpha.dmi.unict.it/netmatchstar/netmatchstar.html#introduction"
         }
     ],
@@ -45,11 +47,15 @@
     "license": "CC-BY-NC-SA-3.0",
     "link": [
         {
-            "type": "Repository",
+            "type": [
+                "Repository"
+            ],
             "url": "https://github.com/fabiorinnone/NetMatchStar/tree/v3.1"
         },
         {
-            "type": "Repository",
+            "type": [
+                "Repository"
+            ],
             "url": "http://apps.cytoscape.org/apps/netmatchstar"
         }
     ],
@@ -63,9 +69,44 @@
     "publication": [
         {
             "doi": "10.12688/F1000RESEARCH.6656.2",
+            "metadata": {
+                "abstract": "\u00a9 2015 Rinnone F et al.We present NetMatchStar, a Cytoscape app to find all the occurrences of a query graph in a network and check for its significance as a motif with respect to seven different random models. The query can be uploaded or built from scratch using Cytoscape facilities. The app significantly enhances the previous NetMatch in style, performance and functionality. Notably NetMatchStar allows queries with wildcards.",
+                "authors": [
+                    {
+                        "name": "Rinnone F."
+                    },
+                    {
+                        "name": "Micale G."
+                    },
+                    {
+                        "name": "Bonnici V."
+                    },
+                    {
+                        "name": "Bader G.D."
+                    },
+                    {
+                        "name": "Shasha D."
+                    },
+                    {
+                        "name": "Ferro A."
+                    },
+                    {
+                        "name": "Pulvirenti A."
+                    },
+                    {
+                        "name": "Giugno R."
+                    }
+                ],
+                "citationCount": 5,
+                "date": "2015-01-01T00:00:00Z",
+                "journal": "F1000Research",
+                "title": "Netmatchstar: An enhanced Cytoscape network querying app [version 2; referees: 2 approved]"
+            },
             "pmcid": "PMC4642848",
             "pmid": "26594341",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
