@@ -31,9 +31,9 @@
       },
       "sc:name": "shinyheatmap",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://shinyheatmap.com/"
     }

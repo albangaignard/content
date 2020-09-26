@@ -40,8 +40,8 @@
       "sc:name": "AFnetwork",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:softwareHelp": {
         "@id": "http://bioinformatics.org.au/tools/AFnetwork/READ_ME.txt"

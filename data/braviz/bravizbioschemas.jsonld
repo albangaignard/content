@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Diego A. Angulo",
       "sc:additionalType": "Desktop application",
       "sc:citation": [
-        "pubmed:27601990",
         "pmcid:PMC4993811",
+        "pubmed:27601990",
         {
           "@id": "https://doi.org/10.3389/fninf.2016.00036"
         }

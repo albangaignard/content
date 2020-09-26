@@ -13,42 +13,42 @@
   "sc:additionalType": "Web application",
   "sc:author": [
     "Jan Stourac",
-    "Jan Brezovsky",
     "Jiri Damborsky",
+    "Jan Brezovsky",
     "Jaroslav Bendl"
   ],
   "sc:contributor": [
-    "Ondrej Vavra",
-    "European Commission REGPOT [316345]",
-    "Grant Agency of the Czech Republic [GA16-06096S]",
-    "Horizon 2020 Research Infrastructure ELIXIR-EXCELERATE [676559]",
-    "Eva Sebestova",
-    "Antonin Pavelka",
-    "CESNET and the CERIT Scientific Cloud [LM2015042 and LM2015085]",
     "Milos Musil",
+    "Ondrej Vavra",
+    "Grant Agency of the Czech Republic [GA16-06096S]",
+    "Eva Sebestova",
+    "Horizon 2020 Research Infrastructure ELIXIR-EXCELERATE [676559]",
     "Brno University of Technology [FIT-S-14-2299 to M.M.]",
+    "CESNET and the CERIT Scientific Cloud [LM2015042 and LM2015085]",
+    "European Commission REGPOT [316345]",
+    "Antonin Pavelka",
     "Ministry of Education of the Czech Republic [LO1214, LQ1605, LM2015055 and LM2015047]"
   ],
   "sc:description": "An automated design of mutations and smart libraries for engineering of protein function and stability and annotation of protein structures.",
   "sc:funder": [
-    "CESNET and the CERIT Scientific Cloud [LM2015042 and LM2015085]",
     "Brno University of Technology [FIT-S-14-2299 to M.M.]",
-    "Ministry of Education of the Czech Republic [LO1214, LQ1605, LM2015055 and LM2015047]",
     "Grant Agency of the Czech Republic [GA16-06096S]",
+    "Horizon 2020 Research Infrastructure ELIXIR-EXCELERATE [676559]",
+    "CESNET and the CERIT Scientific Cloud [LM2015042 and LM2015085]",
     "European Commission REGPOT [316345]",
-    "Horizon 2020 Research Infrastructure ELIXIR-EXCELERATE [676559]"
+    "Ministry of Education of the Czech Republic [LO1214, LQ1605, LM2015055 and LM2015047]"
   ],
   "sc:name": "HotSpot Wizard",
   "sc:operatingSystem": [
+    "Mac",
     "Windows",
-    "Linux",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
-    "Loschmidt Laboratories",
     "International Centre for Clinical Research, Brno, Czech Republic",
-    "Brno University of Technology, Brno, Czech Republic",
-    "Masaryk University, Brno, Czech Republic"
+    "Masaryk University, Brno, Czech Republic",
+    "Loschmidt Laboratories",
+    "Brno University of Technology, Brno, Czech Republic"
   ],
   "sc:url": "http://loschmidt.chemi.muni.cz/hotspotwizard",
   "sc:version": "2.0"

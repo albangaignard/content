@@ -38,9 +38,9 @@
       ],
       "sc:name": "XSuLT",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://structure.bioc.cam.ac.uk/xsult/"
     }

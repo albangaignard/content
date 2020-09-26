@@ -21,8 +21,8 @@
   "sc:license": "Unlicense",
   "sc:name": "AIVAR",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "https://github.com/TopGene/AIvar"

@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/dclip",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Contact Address",
     "Yang Xie",
+    "Contact Address",
     "Guanghua Xiao",
     "Bo Yao"
   ],

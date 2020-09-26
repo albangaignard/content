@@ -24,8 +24,8 @@
       "sc:name": "GreenPhylDB",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://www.greenphyl.org/",
       "sc:version": "v4"

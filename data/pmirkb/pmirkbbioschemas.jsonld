@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/pmirkb",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Lingfeng Gou",
     "Ming Chen",
+    "Lingfeng Gou",
     "Yijun Meng",
     "Dijun Chen"
   ],

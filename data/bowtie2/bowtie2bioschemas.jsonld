@@ -14,24 +14,20 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "https://doi.org/10.1038/nmeth.1923",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/bowtie2",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Ben Langmead",
       "sc:additionalType": "Command-line tool",
       "sc:author": "Ben Langmead",
       "sc:citation": [
-        "pubmed:23758764",
-        "pubmed:22388286",
-        "pmcid:PMC3322381",
-        "pubmed:28286147",
+        "pmcid:PMC3694458",
         {
           "@id": "https://doi.org/10.1186/1471-2105-14-184"
         },
-        "pmcid:PMC3694458",
+        "pubmed:28286147",
+        "pubmed:22388286",
+        "pubmed:23758764",
+        "pmcid:PMC3322381",
         {
           "@id": "https://doi.org/10.1038/nmeth.1923"
         }
@@ -42,6 +38,10 @@
       "sc:operatingSystem": "Linux",
       "sc:provider": "Institut Français de Bioinformatique",
       "sc:url": "http://bowtie-bio.sourceforge.net/bowtie2/index.shtml"
+    },
+    {
+      "@id": "https://doi.org/10.1038/nmeth.1923",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

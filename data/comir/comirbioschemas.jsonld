@@ -17,8 +17,8 @@
   "sc:name": "ComiR",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.benoslab.pitt.edu/comir/"
 }

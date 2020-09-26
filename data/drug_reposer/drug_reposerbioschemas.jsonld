@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0003-4275-4663",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/Drug_ReposER",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -42,11 +38,15 @@
       "sc:license": "Unlicense",
       "sc:name": "Drug ReposER",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://mfrlab.org/drugreposer/"
+    },
+    {
+      "@id": "https://orcid.org/0000-0003-4275-4663",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1093/NAR/GKZ391",

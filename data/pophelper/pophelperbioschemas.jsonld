@@ -20,8 +20,8 @@
   "sc:name": "pophelper",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://pophelper.com/"
 }

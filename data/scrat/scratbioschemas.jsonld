@@ -19,8 +19,8 @@
   "sc:name": "SCRAT",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://zhiji.shinyapps.io/scrat/"
 }

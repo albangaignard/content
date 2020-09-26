@@ -20,8 +20,8 @@
   "sc:name": "TetraMito",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://lin.uestc.edu.cn/server/TetraMito"
 }

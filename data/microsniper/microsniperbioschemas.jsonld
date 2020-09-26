@@ -16,8 +16,8 @@
   "sc:name": "MicroSNiPer",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://epicenter.ie-freiburg.mpg.de/services/microsniper/"
 }

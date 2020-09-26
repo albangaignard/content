@@ -16,8 +16,8 @@
   "sc:name": "GenoCrypt beta",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://genetics.cs.ucla.edu/crypto/"
 }

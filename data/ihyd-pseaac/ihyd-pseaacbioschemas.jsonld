@@ -27,8 +27,8 @@
       "sc:description": "New predictor which was proposed by incorporating the dipeptide position-specific propensity into the general form of pseudo amino acid composition.",
       "sc:name": "iHyd-PseAAC",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://app.aporc.org/iHyd-PseAAC/"

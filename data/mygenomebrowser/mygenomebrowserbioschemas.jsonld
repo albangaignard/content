@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0002-2348-0778",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/mygenomebrowser",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -42,10 +38,14 @@
       "sc:name": "myGenomeBrowser",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://bbric-pipelines.toulouse.inra.fr/myGenomeBrowser"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-2348-0778",
+      "@type": "schema:Person"
     }
   ]
 }

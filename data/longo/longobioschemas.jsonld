@@ -31,9 +31,9 @@
       },
       "sc:name": "LONGO",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://github.com/biohpc/longo"
     }
