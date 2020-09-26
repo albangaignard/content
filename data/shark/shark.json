@@ -1,0 +1,128 @@
+{
+    "additionDate": "2020-01-14T08:57:26Z",
+    "biotoolsCURIE": "biotools:Shark",
+    "biotoolsID": "Shark",
+    "confidence_flag": "tool",
+    "cost": "Free of charge",
+    "credit": [
+        {
+            "email": "yuri.pirola@unimib.it",
+            "name": "Yuri Pirola",
+            "orcidid": "https://orcid.org/0000-0002-8479-7592",
+            "typeEntity": "Person",
+            "url": "https://algolab.eu/pirola"
+        }
+    ],
+    "description": "Fast tool for mapping-free gene separation of reads, using Bloom filter.",
+    "download": [
+        {
+            "type": "Downloads page",
+            "url": "https://github.com/AlgoLab/shark/releases"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "input": [
+                {
+                    "data": {
+                        "term": "DNA sequence",
+                        "uri": "http://edamontology.org/data_3494"
+                    },
+                    "format": [
+                        {
+                            "term": "FASTA",
+                            "uri": "http://edamontology.org/format_1929"
+                        }
+                    ]
+                },
+                {
+                    "data": {
+                        "term": "RNA sequence",
+                        "uri": "http://edamontology.org/data_3495"
+                    },
+                    "format": [
+                        {
+                            "term": "FASTQ",
+                            "uri": "http://edamontology.org/format_1930"
+                        }
+                    ]
+                }
+            ],
+            "operation": [
+                {
+                    "term": "Filtering",
+                    "uri": "http://edamontology.org/operation_3695"
+                }
+            ],
+            "output": [
+                {
+                    "data": {
+                        "term": "RNA sequence",
+                        "uri": "http://edamontology.org/data_3495"
+                    },
+                    "format": [
+                        {
+                            "term": "FASTQ",
+                            "uri": "http://edamontology.org/format_1930"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/AlgoLab/shark",
+    "language": [
+        "C++"
+    ],
+    "lastUpdate": "2020-09-16T22:41:10.950175Z",
+    "license": "GPL-3.0",
+    "link": [
+        {
+            "type": [
+                "Repository"
+            ],
+            "url": "https://github.com/AlgoLab/shark"
+        },
+        {
+            "type": [
+                "Issue tracker"
+            ],
+            "url": "https://github.com/AlgoLab/shark/issues"
+        }
+    ],
+    "maturity": "Emerging",
+    "name": "Shark",
+    "operatingSystem": [
+        "Linux"
+    ],
+    "owner": "yp",
+    "publication": [
+        {
+            "doi": "10.1093/bioinformatics/btaa779",
+            "type": [
+                "Primary"
+            ]
+        },
+        {
+            "doi": "10.1101/836130",
+            "type": [
+                "Other"
+            ]
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "RNA-Seq",
+            "uri": "http://edamontology.org/topic_3170"
+        }
+    ],
+    "version": [
+        "1.2.0"
+    ]
+}
