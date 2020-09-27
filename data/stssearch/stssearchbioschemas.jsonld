@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "EMBOSS Contributors",
     "UK MRC",
     "UK BBSRC",
-    "EMBOSS Contributors",
     "Wellcome Trust"
   ],
   "sc:description": "Search a DNA database for matches with a set of STS primers.",
@@ -26,13 +26,13 @@
   "sc:license": "GPL-3.0",
   "sc:name": "stssearch",
   "sc:operatingSystem": [
+    "Linux",
     "Windows",
-    "Mac",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/stssearch.html",
   "sc:version": "r6"

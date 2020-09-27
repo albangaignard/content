@@ -12,22 +12,22 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
-    "UK MRC",
-    "Wellcome Trust",
-    "EMBOSS Contributors"
-  ],
-  "sc:description": "Remove poly-A tails from nucleotide sequences.",
-  "sc:funder": [
+    "EMBOSS Contributors",
     "Wellcome Trust",
     "UK MRC",
     "UK BBSRC"
   ],
+  "sc:description": "Remove poly-A tails from nucleotide sequences.",
+  "sc:funder": [
+    "UK MRC",
+    "UK BBSRC",
+    "Wellcome Trust"
+  ],
   "sc:license": "GPL-3.0",
   "sc:name": "trimest",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": [

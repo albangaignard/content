@@ -28,13 +28,13 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0797"
+          "@id": "edam:topic_0080"
         },
         {
           "@id": "edam:topic_3174"
         },
         {
-          "@id": "edam:topic_0080"
+          "@id": "edam:topic_0797"
         },
         {
           "@id": "edam:topic_3510"
@@ -50,10 +50,10 @@
       "sc:description": "Prediction of intact bacterial protein secretion systems and putative secreted proteins.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3461"
+          "@id": "edam:operation_3092"
         },
         {
-          "@id": "edam:operation_3092"
+          "@id": "edam:operation_3461"
         }
       ],
       "sc:isAccessibleForFree": true,
@@ -64,8 +64,8 @@
         "Linux"
       ],
       "sc:provider": [
-        "AT-CUBE",
-        "CUBE - Computational Systems Biology"
+        "CUBE - Computational Systems Biology",
+        "AT-CUBE"
       ],
       "sc:softwareHelp": {
         "@id": "http://www.effectivedb.org/"

@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s40168-018-0517-1",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/massmap",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Jiyuan Hu",
@@ -33,10 +29,14 @@
       "sc:name": "massMap",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://github.com/JiyuanHu/massMap"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s40168-018-0517-1",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

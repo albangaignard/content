@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/mole",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Command-line tool",
     "Desktop application",
-    "Web application"
+    "Web application",
+    "Command-line tool"
   ],
   "sc:author": "Martin Petrek",
   "sc:contributor": [
@@ -24,9 +24,9 @@
   "sc:license": "Other",
   "sc:name": "MOLE",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "Palacký University, Olomouc, Czech Republic",

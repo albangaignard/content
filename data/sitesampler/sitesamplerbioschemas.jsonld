@@ -16,8 +16,8 @@
   "sc:name": "SiteSampler",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://github.com/simon-ho/sitesampler/"
 }

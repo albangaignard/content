@@ -27,8 +27,8 @@
       },
       "sc:name": "MITOBREAK",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://mitobreak.portugene.com/"

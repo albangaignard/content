@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "EMBOSS Contributors",
     "UK BBSRC",
     "UK MRC",
-    "EMBOSS Contributors",
     "Wellcome Trust"
   ],
   "sc:description": "Reverse and complement a nucleotide sequence.",
@@ -27,8 +27,8 @@
   "sc:name": "revseq",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "EMBOSS",

@@ -19,15 +19,15 @@
   ],
   "sc:description": "Generate an alignment of nucleic coding regions from aligned proteins.",
   "sc:funder": [
-    "Wellcome Trust",
     "UK MRC",
-    "UK BBSRC"
+    "UK BBSRC",
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "tranalign",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": [

@@ -17,8 +17,8 @@
   "sc:name": "Path2Models",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.ebi.ac.uk/biomodels-main/path2models"
 }

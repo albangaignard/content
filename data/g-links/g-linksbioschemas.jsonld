@@ -36,9 +36,9 @@
       "sc:license": "MIT",
       "sc:name": "G-Links",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://www.g-language.org/wiki/glinks"
     },

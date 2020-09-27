@@ -16,8 +16,8 @@
   "sc:name": "MaggotTracker",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://wormloco.org/mag/doc/"
 }

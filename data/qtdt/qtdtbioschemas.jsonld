@@ -16,8 +16,8 @@
   "sc:name": "QTDT",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://csg.sph.umich.edu/abecasis/qtdt/"
 }

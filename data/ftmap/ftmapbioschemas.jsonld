@@ -17,8 +17,8 @@
   "sc:name": "FTMAP",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://ftmap.bu.edu/param"
 }

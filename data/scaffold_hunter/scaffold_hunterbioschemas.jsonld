@@ -16,8 +16,8 @@
   "sc:name": "Scaffold Hunter",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://scaffoldhunter.sourceforge.net/index.html"
 }

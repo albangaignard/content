@@ -43,8 +43,8 @@
       "sc:name": "ORGANISMS",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://organisms.jensenlab.org/"
     }

@@ -11,14 +11,14 @@
   "@id": "https://bio.tools/pgp",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Matthias Lange",
-    "Daniel Arend"
+    "Daniel Arend",
+    "Matthias Lange"
   ],
   "sc:additionalType": "Library",
   "sc:contributor": [
-    "Astrid Junker",
     "Uwe Scholz",
     "German Federal Ministry of Education and Research within the German-Plant-Phenotyping Network",
+    "Astrid Junker",
     "Leibniz Institute of Plant Genetics and Crop Plant Research as infrastructural service",
     "European Commission within the transPlant project"
   ],
@@ -32,12 +32,12 @@
   "sc:name": "Plant Genomics and Phenomics Research Data Repository (PGP)",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
-    "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK) Gatersleben",
-    "ipk"
+    "ipk",
+    "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK) Gatersleben"
   ],
   "sc:url": "http://edal-pgp.ipk-gatersleben.de/"
 }

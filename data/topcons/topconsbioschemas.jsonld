@@ -15,8 +15,8 @@
   "sc:name": "TOPCONS",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "bils.se",
   "sc:url": "http://topcons.cbr.su.se/",

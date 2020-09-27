@@ -13,10 +13,10 @@
       "@id": "https://bio.tools/crlmm",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Benilton S Carvalho",
         {
           "@id": "http://orcid.org/0000-0002-7383-0609"
         },
-        "Benilton S Carvalho",
         "Robert Scharpf"
       ],
       "sc:additionalType": [
@@ -31,8 +31,8 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "crlmm",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/crlmm.html",
