@@ -1,7 +1,5 @@
 {
-    "accessibility": [
-        "Open access"
-    ],
+    "accessibility": "Open access",
     "additionDate": "2019-08-09T13:10:41Z",
     "biotoolsCURIE": "biotools:MAFFT-DASH",
     "biotoolsID": "MAFFT-DASH",
@@ -28,7 +26,9 @@
     "description": "Multiple alignment program for amino acid or nucleotide sequences.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://mafft.cbrc.jp/alignment/software/tips0.html"
         }
     ],
@@ -60,7 +60,7 @@
         }
     ],
     "homepage": "https://mafft.cbrc.jp/alignment/server/",
-    "lastUpdate": "2019-10-31T12:03:10Z",
+    "lastUpdate": "2020-06-16T10:55:25Z",
     "license": "GPL-1.0",
     "maturity": "Mature",
     "name": "MAFFT-DASH",
@@ -73,9 +73,35 @@
     "publication": [
         {
             "doi": "10.1093/NAR/GKZ342",
+            "metadata": {
+                "abstract": "\u00a9 2019 The Author(s) 2019. Published by Oxford University Press on behalf of Nucleic Acids Research.Here, we describe a web server that integrates structural alignments with the MAFFT multiple sequence alignment (MSA) tool. For this purpose, we have prepared a web-based Database of Aligned Structural Homologs (DASH), which provides structural alignments at the domain and chain levels for all proteins in the Protein Data Bank (PDB), and can be queried interactively or by a simple REST-like API. MAFFT-DASH integration can be invoked with a single flag on either the web (https://mafft.cbrc.jp/alignment/server/) or command-line versions of MAFFT. In our benchmarks using 878 cases from the BAliBase, HomFam, OXFam, Mattbench and SISYPHUS datasets, MAFFT-DASH showed 10-20% improvement over standard MAFFT for MSA problems with weak similarity, in terms of Sum-of-Pairs (SP), a measure of how well a program succeeds at aligning input sequences in comparison to a reference alignment. When MAFFT alignments were supplemented with homologous sequences, further improvement was observed. Potential applications of DASH beyond MSA enrichment include functional annotation through detection of remote homology and assembly of template libraries for homology modeling.",
+                "authors": [
+                    {
+                        "name": "Rozewicki J."
+                    },
+                    {
+                        "name": "Li S."
+                    },
+                    {
+                        "name": "Amada K.M."
+                    },
+                    {
+                        "name": "Standley D.M."
+                    },
+                    {
+                        "name": "Katoh K."
+                    }
+                ],
+                "citationCount": 32,
+                "date": "2019-07-01T00:00:00Z",
+                "journal": "Nucleic Acids Research",
+                "title": "MAFFT-DASH: Integrated protein sequence and structural alignment"
+            },
             "pmcid": "PMC6602451",
             "pmid": "31062021",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
