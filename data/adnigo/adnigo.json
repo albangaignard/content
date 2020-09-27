@@ -1,0 +1,145 @@
+{
+    "additionDate": "2020-01-09T18:23:15Z",
+    "biotoolsCURIE": "biotools:ADNIGO",
+    "biotoolsID": "ADNIGO",
+    "confidence_flag": "low",
+    "credit": [
+        {
+            "email": "kaddu001@mc.duke.edu",
+            "name": "Rima Kaddurah-Daouk",
+            "orcidid": "https://orcid.org/0000-0003-1858-5732",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "Bile acids targeted metabolomics and medication classification data in the ADNI1 and ADNIGO/2 cohorts.\n\nAlzheimer's Disease Neuroimaging Initiative.\n\nAlzheimer\u2019s Disease Neuroimaging Initiative.\n\nThe Alzheimer\u2019s Disease Neuroimaging Initiative (ADNI) unites researchers with study data as they work to define the progression of Alzheimer\u2019s disease (AD). ADNI researchers collect, validate and utilize data, including MRI and PET images, genetics, cognitive tests, CSF and blood biomarkers as predictors of the disease. Study resources and data from the North American ADNI study are available through this website, including Alzheimer\u2019s disease patients, mild cognitive impairment subjects, and elderly controls.\n\nClick below to learn more or to join the ADNI study as a participant.\n\n||| COMMON LINK WITH (PUB. & NAME DIFFERENT) bio.tools/LONI-QC (LONI.USC.EDU), bio.tools/ADNI-3 (ADNI.LONI.USC.EDU ; LONI.USC.EDU).\n\n||| CORRECT NAME OF TOOL COULD ALSO BE 'ADNI1', 'ADNI'",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Quantification",
+                    "uri": "http://edamontology.org/operation_3799"
+                },
+                {
+                    "term": "Validation",
+                    "uri": "http://edamontology.org/operation_2428"
+                },
+                {
+                    "term": "Standardisation and normalisation",
+                    "uri": "http://edamontology.org/operation_3435"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://adni.loni.ucla.edu/",
+    "lastUpdate": "2020-01-09T18:23:15Z",
+    "link": [
+        {
+            "type": [
+                "Other"
+            ],
+            "url": "http://adni.loni.usc.edu"
+        }
+    ],
+    "name": "ADNIGO",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1038/S41597-019-0181-8",
+            "metadata": {
+                "abstract": "Alzheimer's disease (AD) is the most common cause of dementia. The mechanism of disease development and progression is not well understood, but increasing evidence suggests multifactorial etiology, with a number of genetic, environmental, and aging-related factors. There is a growing body of evidence that metabolic defects may contribute to this complex disease. To interrogate the relationship between system level metabolites and disease susceptibility and progression, the AD Metabolomics Consortium (ADMC) in partnership with AD Neuroimaging Initiative (ADNI) is creating a comprehensive biochemical database for patients in the ADNI1 cohort. We used the Biocrates Bile Acids platform to evaluate the association of metabolic levels with disease risk and progression. We detail the quantitative metabolomics data generated on the baseline samples from ADNI1 and ADNIGO/2 (370 cognitively normal, 887 mild cognitive impairment, and 305 AD). Similar to our previous reports on ADNI1, we present the tools for data quality control and initial analysis. This data descriptor represents the third in a series of comprehensive metabolomics datasets from the ADMC on the ADNI.",
+                "authors": [
+                    {
+                        "name": "St John-Williams L."
+                    },
+                    {
+                        "name": "Mahmoudiandehkordi S."
+                    },
+                    {
+                        "name": "Arnold M."
+                    },
+                    {
+                        "name": "Massaro T."
+                    },
+                    {
+                        "name": "Blach C."
+                    },
+                    {
+                        "name": "Kastenmuller G."
+                    },
+                    {
+                        "name": "Louie G."
+                    },
+                    {
+                        "name": "Kueider-Paisley A."
+                    },
+                    {
+                        "name": "Han X."
+                    },
+                    {
+                        "name": "Baillie R."
+                    },
+                    {
+                        "name": "Motsinger-Reif A.A."
+                    },
+                    {
+                        "name": "Rotroff D."
+                    },
+                    {
+                        "name": "Nho K."
+                    },
+                    {
+                        "name": "Saykin A.J."
+                    },
+                    {
+                        "name": "Risacher S.L."
+                    },
+                    {
+                        "name": "Koal T."
+                    },
+                    {
+                        "name": "Moseley M.A."
+                    },
+                    {
+                        "name": "Tenenbaum J.D."
+                    },
+                    {
+                        "name": "Thompson J.W."
+                    },
+                    {
+                        "name": "Kaddurah-Daouk R."
+                    }
+                ],
+                "date": "2019-10-17T00:00:00Z",
+                "journal": "Scientific data",
+                "title": "Bile acids targeted metabolomics and medication classification data in the ADNI1 and ADNIGO/2 cohorts"
+            },
+            "pmcid": "PMC6797798",
+            "pmid": "31624257"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Medical imaging",
+            "uri": "http://edamontology.org/topic_3384"
+        },
+        {
+            "term": "Metabolomics",
+            "uri": "http://edamontology.org/topic_3172"
+        },
+        {
+            "term": "Pathology",
+            "uri": "http://edamontology.org/topic_0634"
+        },
+        {
+            "term": "MRI",
+            "uri": "http://edamontology.org/topic_3444"
+        },
+        {
+            "term": "Endocrinology and metabolism",
+            "uri": "http://edamontology.org/topic_3407"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "additionDate": "2019-11-14T18:19:09Z",
+    "biotoolsCURIE": "biotools:Agaricus_bisporus_var_bisporus_ARP23",
+    "biotoolsID": "Agaricus_bisporus_var_bisporus_ARP23",
+    "confidence_flag": "high",
+    "credit": [
+        {
+            "email": "david.fitzpatrick@mu.ie",
+            "name": "David A. Fitzpatrick",
+            "orcidid": "https://orcid.org/0000-0001-7345-6998",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "> HOMEPAGE MISSING! | > CORRECT NAME OF TOOL COULD ALSO BE 'Agaricus bisporus var bisporus', 'bisporus var bisporus ARP23', 'Agaricus bisporus' | Whole Genome Sequence of the Commercially Relevant Mushroom Strain Agaricus bisporus var. bisporus ARP23 | Agaricus bisporus is an extensively cultivated edible mushroom. Demand for cultivation is continuously growing and difficulties associated with breeding programs now means strains are effectively considered monoculture. While commercial growing practices are highly efficient and tightly controlled, the over-use of a single strain has led to a variety of disease outbreaks from a range of pathogens including bacteria, fungi and viruses. To address this, the Agaricus Resource Program (ARP) was set up to collect wild isolates from diverse geographical locations through a bounty-driven scheme to create a repository of wild Agaricus germplasm",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Sequence trimming",
+                    "uri": "http://edamontology.org/operation_3192"
+                },
+                {
+                    "term": "Genotyping",
+                    "uri": "http://edamontology.org/operation_3196"
+                },
+                {
+                    "term": "Scaffolding",
+                    "uri": "http://edamontology.org/operation_3216"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://www.ncbi.nlm.nih.gov/pubmed/?term=31371382",
+    "lastUpdate": "2019-11-14T18:19:09Z",
+    "name": "Agaricus bisporus var bisporus ARP23",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1534/G3.119.400563",
+            "metadata": {
+                "abstract": "\u00a9 2019 Impact Journals LLC. All rights reserved.Agaricus bisporus is an extensively cultivated edible mushroom. Demand for cultivation is continuously growing and difficulties associated with breeding programs now means strains are effectively considered monoculture. While commercial growing practices are highly efficient and tightly controlled, the over-use of a single strain has led to a variety of disease outbreaks from a range of pathogens including bacteria, fungi and viruses. To address this, the Agaricus Resource Program (ARP) was set up to collect wild isolates from diverse geographical locations through a bounty-driven scheme to create a repository of wild Agaricus germplasm. One of the strains collected, Agaricus bisporus var. bisporus ARP23, has been crossed extensively with white commercial varieties leading to the generation of a novel hybrid with a dark brown pileus commonly referred to as 'Heirloom'. Heirloom has been successfully implemented into commercial mushroom cultivation. In this study the whole genome of Agaricus bisporus var. bisporus ARP23 was sequenced and assembled with Illumina and PacBio sequencing technology. The final genome was found to be 33.49 Mb in length and have significant levels of synteny to other sequenced Agaricus bisporus strains. Overall, 13, 030 putative protein coding genes were located and annotated. Relative to the other A. bisporus genomes that are currently available, Agaricus bisporus var. bisporus ARP23 is the largest A. bisporus strain in terms of gene number and genetic content sequenced to date. Comparative genomic analysis shows that the A. bisporus mating loci in unifactorial and unsurprisingly highly conserved between strains. The lignocellulolytic gene content of all A. bisporus strains compared is also very similar. Our results show that the pangenome structure of A. bisporus is quite diverse with between 60-70% of the total protein coding genes per strain considered as being orthologous and syntenically conserved. These analyses and the genome sequence described herein are the starting point for more detailed molecular analyses into the growth and phenotypical responses of Agaricus bisporus var. bisporus ARP23 when challenged with economically important mycoviruses.",
+                "authors": [
+                    {
+                        "name": "O'Connor E."
+                    },
+                    {
+                        "name": "McGowan J."
+                    },
+                    {
+                        "name": "McCarthy C.G.P."
+                    },
+                    {
+                        "name": "Amini A."
+                    },
+                    {
+                        "name": "Grogan H."
+                    },
+                    {
+                        "name": "Fitzpatrick D.A."
+                    }
+                ],
+                "citationCount": 2,
+                "date": "2019-10-01T00:00:00Z",
+                "journal": "G3: Genes, Genomes, Genetics",
+                "title": "Whole genome sequence of the commercially relevant mushroom strain Agaricus bisporus var. bisporus ARP23"
+            },
+            "pmcid": "PMC6778795",
+            "pmid": "31371382"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Mapping",
+            "uri": "http://edamontology.org/topic_0102"
+        },
+        {
+            "term": "Phylogenomics",
+            "uri": "http://edamontology.org/topic_0194"
+        },
+        {
+            "term": "Sequence assembly",
+            "uri": "http://edamontology.org/topic_0196"
+        }
+    ]
+}

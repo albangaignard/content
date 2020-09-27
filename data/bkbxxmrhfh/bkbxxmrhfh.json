@@ -1,0 +1,73 @@
+{
+    "additionDate": "2020-01-14T09:46:36Z",
+    "biotoolsCURIE": "biotools:bkbxxmrhfh",
+    "biotoolsID": "bkbxxmrhfh",
+    "confidence_flag": "low",
+    "credit": [
+        {
+            "email": "laurentfrossard@outlook.com",
+            "name": "Laurent Frossard",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "Survey data on the quality of life of consumers fitted with osseointegrated fixation and bone-anchored limb prostheses provided by government organization.\n\nSurvey on the quality of life of consumers fitted with osseointegrated fixation and bone-anchored limb prostheses provided by government organization.\n\nThis specifically-designed survey data on the quality of life was administered by Queensland Artificial Limb Services (QALS) as an integrated part of its continuous quality improvement procedure for assessing the provision of bone-anchored prosthesis.\n\nPublished: 19 Jul 2019 : Version 1 : DOI: 10.17632/bkbxxmrhfh.1.\n\n||| CORRECT NAME OF TOOL COULD ALSO BE 'QALS', 'bone-anchored prosthesis', 'bone-anchored', 'prosthesis'",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Standardisation and normalisation",
+                    "uri": "http://edamontology.org/operation_3435"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://data.mendeley.com/datasets/bkbxxmrhfh/1",
+    "lastUpdate": "2020-01-14T09:46:36Z",
+    "name": "bkbxxmrhfh",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1016/J.DIB.2019.104536",
+            "metadata": {
+                "abstract": "\u00a9 2019 The Author(s)The data in this paper are related to the research article entitled \u201cDevelopment of a government continuous quality improvement procedure for assessing the provision of bone anchored limb prosthesis: A process re-design descriptive study\u201d (Frossard et al., Canadian Prosthetics & Orthotics Journal, 2018. 1(2). p. 1\u201314). This article contains quality of life data experienced by individuals before and after implantation of a press-fit or screw-type osseointegrated fixation when fitted with conventional socket-suspended and bone-anchored limb prosthesis, respectively. This specifically-designed survey was developed and administered by Queensland Artificial Limb Services (QALS), an Australian State government organization. It was an integrated part of QALS\u2032 continuous quality improvement procedure for assessing the provision of bone-anchored prosthesis. A total of 12 out of the 65 consumers completed to the survey, giving a return rate of 18%. This benchmark information can contribute to inform the design of (A) other patients' experience surveys including those built-in governmental continuous quality improvement procedure as well as (B) clinical trials looking at the overall effects of surgical implantation of ossoeintegrated fixation on patients' quality of life. Online repository contains the files: https://data.mendeley.com/datasets/bkbxxmrhfh/1.",
+                "authors": [
+                    {
+                        "name": "Frossard L."
+                    },
+                    {
+                        "name": "Ferrada L."
+                    },
+                    {
+                        "name": "Berg D."
+                    }
+                ],
+                "date": "2019-10-01T00:00:00Z",
+                "journal": "Data in Brief",
+                "title": "Survey data on the quality of life of consumers fitted with osseointegrated fixation and bone-anchored limb prostheses provided by government organization"
+            },
+            "pmcid": "PMC6811965",
+            "pmid": "31667297"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Surgery",
+            "uri": "http://edamontology.org/topic_3421"
+        },
+        {
+            "term": "Data governance",
+            "uri": "http://edamontology.org/topic_3571"
+        },
+        {
+            "term": "Preclinical and clinical studies",
+            "uri": "http://edamontology.org/topic_3379"
+        },
+        {
+            "term": "Laboratory techniques",
+            "uri": "http://edamontology.org/topic_3361"
+        }
+    ]
+}
