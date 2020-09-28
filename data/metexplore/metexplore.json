@@ -1,7 +1,5 @@
 {
-    "accessibility": [
-        "Open access"
-    ],
+    "accessibility": "Open access",
     "additionDate": "2018-07-09T23:06:59Z",
     "biotoolsCURIE": "biotools:metexplore",
     "biotoolsID": "metexplore",
@@ -44,17 +42,23 @@
     "documentation": [
         {
             "note": "User documentation on MetExplore main features.",
-            "type": "User manual",
+            "type": [
+                "User manual"
+            ],
             "url": "https://metexplore.toulouse.inra.fr/metexplore-doc/index.php"
         },
         {
             "note": "MetExploreViz (metabolic network visualsiation) documentation.",
-            "type": "User manual",
+            "type": [
+                "User manual"
+            ],
             "url": "https://metexplore.toulouse.inra.fr/metexploreViz/doc/documentation.php"
         },
         {
             "note": "MetExplore webservice documentation",
-            "type": "API documentation",
+            "type": [
+                "API documentation"
+            ],
             "url": "https://metexplore.toulouse.inra.fr/metexplore-webservice-documentation/"
         }
     ],
@@ -104,16 +108,16 @@
                     },
                     "format": [
                         {
-                            "term": "SBML",
-                            "uri": "http://edamontology.org/format_2585"
+                            "term": "xlsx",
+                            "uri": "http://edamontology.org/format_3620"
                         },
                         {
                             "term": "GML",
                             "uri": "http://edamontology.org/format_3822"
                         },
                         {
-                            "term": "xlsx",
-                            "uri": "http://edamontology.org/format_3620"
+                            "term": "SBML",
+                            "uri": "http://edamontology.org/format_2585"
                         },
                         {
                             "term": "PNG",
@@ -145,7 +149,7 @@
         }
     ],
     "homepage": "http://www.metexplore.fr/",
-    "lastUpdate": "2020-01-24T09:53:38Z",
+    "lastUpdate": "2020-06-16T10:55:28Z",
     "maturity": "Mature",
     "name": "MetExplore",
     "operatingSystem": [
@@ -197,13 +201,15 @@
                         "name": "Jourdan F."
                     }
                 ],
-                "citationCount": 12,
+                "citationCount": 18,
                 "date": "2018-07-02T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "MetExplore: Collaborative edition and exploration of metabolic networks"
             },
             "pmid": "29718355",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         },
         {
             "doi": "10.1093/nar/gkq312",
@@ -232,18 +238,55 @@
                         "name": "Jourdan F."
                     }
                 ],
-                "citationCount": 107,
+                "citationCount": 110,
                 "date": "2010-05-05T00:00:00Z",
                 "journal": "Nucleic Acids Research",
                 "title": "MetExplore: A web server to link metabolomic experiments and genome-scale metabolic networks"
             },
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         },
         {
             "doi": "10.1093/bioinformatics/btx588",
+            "metadata": {
+                "abstract": "\u00a9 The Author 2017. Published by Oxford University Press.Summary MetExploreViz is an open source web component that can be easily embedded in any web site. It provides features dedicated to the visualization of metabolic networks and pathways and thus offers a flexible solution to analyse omics data in a biochemical context.",
+                "authors": [
+                    {
+                        "name": "Chazalviel M."
+                    },
+                    {
+                        "name": "Frainay C."
+                    },
+                    {
+                        "name": "Poupin N."
+                    },
+                    {
+                        "name": "Vinson F."
+                    },
+                    {
+                        "name": "Merlet B."
+                    },
+                    {
+                        "name": "Gloaguen Y."
+                    },
+                    {
+                        "name": "Cottret L."
+                    },
+                    {
+                        "name": "Jourdan F."
+                    }
+                ],
+                "citationCount": 11,
+                "date": "2018-01-15T00:00:00Z",
+                "journal": "Bioinformatics",
+                "title": "MetExploreViz: Web component for interactive metabolic network visualization"
+            },
             "pmcid": "PMC5860210",
             "pmid": "28968733",
-            "type": "Method"
+            "type": [
+                "Method"
+            ]
         }
     ],
     "toolType": [
@@ -258,6 +301,15 @@
         }
     ],
     "version": [
-        "2.23.14"
+        "2.25",
+        "2.15",
+        "2.18",
+        "2.19",
+        "2.20",
+        "2.21",
+        "2.22",
+        "2.23",
+        "2.24",
+        "2.26"
     ]
 }
