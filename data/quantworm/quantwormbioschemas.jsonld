@@ -38,8 +38,8 @@
       "sc:name": "QuantWorm",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://www.quantworm.org/"
     }

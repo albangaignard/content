@@ -42,9 +42,9 @@
       "sc:license": "CC-BY-4.0",
       "sc:name": "ORGANISMS",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://organisms.jensenlab.org/"
     }

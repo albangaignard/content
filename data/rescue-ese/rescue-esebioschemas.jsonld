@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Gene Yeo",
-    "Ru-Fang Yeh",
-    "Will Fairbrother"
+    "Will Fairbrother",
+    "Ru-Fang Yeh"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:12114529",

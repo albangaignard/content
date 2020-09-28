@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/cylofold",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Bruce A. Shapiro",
     "Eckart Bindewald",
-    "Wojciech Kasprzak"
+    "Wojciech Kasprzak",
+    "Bruce A. Shapiro"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:20501603",
@@ -21,8 +21,8 @@
   "sc:name": "CyloFold",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://cylofold.ncifcrf.gov"
 }

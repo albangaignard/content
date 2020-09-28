@@ -29,8 +29,8 @@
       "sc:license": "LGPL-2.1",
       "sc:name": "RILogo",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:provider": "binf.ku.dk",

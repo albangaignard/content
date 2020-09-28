@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/khmer",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "khmer-project@idyll.org",
     "Getting help guide",
+    "khmer-project@idyll.org",
     "Gitter Chat"
   ],
   "sc:additionalType": "Command-line tool",

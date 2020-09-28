@@ -17,8 +17,8 @@
   "sc:name": "LRIscan",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.rna.uni-jena.de/en/software/"
 }

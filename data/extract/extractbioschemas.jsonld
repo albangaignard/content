@@ -20,9 +20,9 @@
         "@id": "edam:data_3779"
       },
       "sc:additionalType": [
-        "Web API",
         "Web application",
-        "Web service"
+        "Web service",
+        "Web API"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_0218"
@@ -43,8 +43,8 @@
       "sc:name": "EXTRACT",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://extract.jensenlab.org/",
       "sc:version": "2.0"

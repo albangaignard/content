@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gkx351",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/cafe_sequence_analysis",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -43,10 +39,14 @@
       "sc:name": "CAFE",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://github.com/younglululu/CAFE"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkx351",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -27,8 +27,8 @@
       },
       "sc:name": "uQlust",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/uQlust"
     },

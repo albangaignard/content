@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1186/S12864-019-5742-X",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/LightCpG",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -36,10 +32,14 @@
       "sc:name": "LightCpG",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/guofei-tju/LightCpG"
+    },
+    {
+      "@id": "https://doi.org/10.1186/S12864-019-5742-X",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

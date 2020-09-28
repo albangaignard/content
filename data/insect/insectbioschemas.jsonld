@@ -17,8 +17,8 @@
   "sc:name": "INSECT",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bioinformatics.ibioba-mpsp-conicet.gov.ar/INSECT2/"
 }

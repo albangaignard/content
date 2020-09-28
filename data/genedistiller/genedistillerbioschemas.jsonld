@@ -31,8 +31,8 @@
       ],
       "sc:name": "GeneDistiller",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://www.genedistiller.org"
