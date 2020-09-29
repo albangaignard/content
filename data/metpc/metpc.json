@@ -1,7 +1,5 @@
 {
-    "accessibility": [
-        "Open access"
-    ],
+    "accessibility": "Open access",
     "additionDate": "2019-08-09T13:18:01Z",
     "biotoolsCURIE": "biotools:MetPC",
     "biotoolsID": "MetPC",
@@ -42,11 +40,13 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2019-10-31T12:04:05Z",
+    "lastUpdate": "2020-06-16T10:55:25Z",
     "license": "Unlicense",
     "link": [
         {
-            "type": "Issue tracker",
+            "type": [
+                "Issue tracker"
+            ],
             "url": "https://github.com/jjs3098/CNU-Bioinformatics-Lab/issues"
         }
     ],
@@ -61,9 +61,25 @@
     "publication": [
         {
             "doi": "10.3390/METABO9050103",
+            "metadata": {
+                "abstract": "\u00a9 2019 by the authors.Due to the complex features of metabolomics data, the development of a unified platform, which covers preprocessing steps to data analysis, has been in high demand over the last few decades. Thus, we developed a new bioinformatics tool that includes a few of preprocessing steps and biomarker discovery procedure. For metabolite identification, we considered a hierarchical statistical model coupled with an Expectation\u2013Maximization (EM) algorithm to take care of latent variables. For biomarker metabolite discovery, our procedure controls two-dimensional false discovery rate (fdr2d) when testing for multiple hypotheses simultaneously.",
+                "authors": [
+                    {
+                        "name": "Kim J."
+                    },
+                    {
+                        "name": "Jeong J."
+                    }
+                ],
+                "date": "2019-05-01T00:00:00Z",
+                "journal": "Metabolites",
+                "title": "MetPC: Metabolite pipeline consisting of metabolite identification and biomarker discovery under the control of two-dimensional FDR"
+            },
             "pmcid": "PMC6572057",
             "pmid": "31130635",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
