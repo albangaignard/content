@@ -1,7 +1,5 @@
 {
-    "accessibility": [
-        "Open access"
-    ],
+    "accessibility": "Open access",
     "additionDate": "2019-06-23T13:28:03Z",
     "biotoolsCURIE": "biotools:RAEdb",
     "biotoolsID": "RAEdb",
@@ -19,7 +17,9 @@
     "description": "Database of enhancers identified by high-throughput reporter assays.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "http://www.computationalbiology.cn/RAEdb/help.html"
         }
     ],
@@ -51,7 +51,7 @@
         }
     ],
     "homepage": "http://www.computationalbiology.cn/RAEdb/index.php",
-    "lastUpdate": "2019-06-23T13:28:03Z",
+    "lastUpdate": "2020-06-16T10:55:23Z",
     "maturity": "Mature",
     "name": "RAEdb",
     "operatingSystem": [
@@ -63,9 +63,41 @@
     "publication": [
         {
             "doi": "10.1093/database/bay140",
+            "metadata": {
+                "abstract": "\u00a9 The Author(s) 2019.High-throughput reporter assays have been recently developed to directly and quantitatively assess enhancer activity for thousands of regulatory elements. However, there is still no database to collect these enhancers. We developed RAEdb, the first database to collect enhancers identified by high-throughput reporter assays. RAEdb includes 538 320 enhancers derived from eight studies, most of which were from six human cell lines. An activity score was assigned to each enhancer based on reporter assays. Based on these enhancers, 7658 epromoters (promoters with enhancer activity) were identified and stored in the database. RAEdb provides two ways of searches: the first is to search studies by species and cell line; the other is to search enhancers or epromoters by position, activity score, sequence and gene. RAEdb also provides a genome browser to query, visualize and compare enhancers. All data in RAEdb is freely available for download.",
+                "authors": [
+                    {
+                        "name": "Cai Z."
+                    },
+                    {
+                        "name": "Cui Y."
+                    },
+                    {
+                        "name": "Tan Z."
+                    },
+                    {
+                        "name": "Zhang G."
+                    },
+                    {
+                        "name": "Tan Z."
+                    },
+                    {
+                        "name": "Zhang X."
+                    },
+                    {
+                        "name": "Peng Y."
+                    }
+                ],
+                "citationCount": 3,
+                "date": "2019-01-08T00:00:00Z",
+                "journal": "Database",
+                "title": "RAEdb: A database of enhancers identified by high-throughput reporter assays"
+            },
             "pmcid": "PMC6323319",
             "pmid": "30624654",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
