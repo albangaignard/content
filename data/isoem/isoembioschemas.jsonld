@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/isoem",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Alex Zelikovsky",
     "Igor Mandric",
     "Sahar Al Seesi",
+    "Alex Zelikovsky",
     "Ion Mandoiu"
   ],
   "sc:additionalType": "Command-line tool",
@@ -22,8 +22,8 @@
   "sc:name": "IsoEM",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://dna.engr.uconn.edu/?page_id=105"
 }

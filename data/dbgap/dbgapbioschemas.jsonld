@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkt1211",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/dbgap",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Michael Feolo",
@@ -30,23 +34,19 @@
           "@id": "edam:operation_2422"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_3196"
         },
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_3431"
         }
       ],
       "sc:name": "dbGAP",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://www.ncbi.nlm.nih.gov/gap"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkt1211",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

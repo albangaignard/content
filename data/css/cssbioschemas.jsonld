@@ -13,8 +13,8 @@
   "biotools:primaryContact": "Nick Furnham",
   "sc:additionalType": "Web application",
   "sc:author": [
-    "Nick Furnham",
     "Thornton Group",
+    "Nick Furnham",
     "James Torrance"
   ],
   "sc:contributor": "Craig Porter",

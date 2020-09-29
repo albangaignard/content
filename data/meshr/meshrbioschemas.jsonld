@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1111/age.12307",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/meshr",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -29,10 +25,10 @@
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_2048"
+          "@id": "edam:data_3509"
         },
         {
-          "@id": "edam:data_3509"
+          "@id": "edam:data_2048"
         }
       ],
       "sc:additionalType": [
@@ -48,10 +44,10 @@
         }
       ],
       "sc:citation": [
-        "pmcid:PMC5032990",
         {
           "@id": "https://doi.org/10.1111/age.12307"
         },
+        "pmcid:PMC5032990",
         "pubmed:26036323"
       ],
       "sc:description": "A set of annotation maps describing the entire MeSH assembled using data from MeSH.",
@@ -67,6 +63,10 @@
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/meshr.html",
       "sc:version": "1.10.0"
+    },
+    {
+      "@id": "https://doi.org/10.1111/age.12307",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "http://orcid.org/0000-0003-3797-2148",

@@ -22,8 +22,8 @@
         "Thomas Boudier"
       ],
       "sc:additionalType": [
-        "Plug-in",
-        "Library"
+        "Library",
+        "Plug-in"
       ],
       "sc:citation": [
         "pubmed:23681123",
@@ -40,8 +40,8 @@
       "sc:name": "TANGO",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://biophysique.mnhn.fr/tango/HomePage"
     }

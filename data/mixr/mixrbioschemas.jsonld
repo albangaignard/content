@@ -10,11 +10,15 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1073/PNAS.1814995116",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/MIXR",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Sara L. Sawyer",
-        "William H. Press"
+        "William H. Press",
+        "Sara L. Sawyer"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -39,15 +43,11 @@
       "sc:license": "Unlicense",
       "sc:name": "MIXR",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://github.com/hawkjo/mixr"
-    },
-    {
-      "@id": "https://doi.org/10.1073/PNAS.1814995116",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

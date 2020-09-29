@@ -31,9 +31,9 @@
       },
       "sc:name": "MetabolomicsTools",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "https://github.com/RASpicer/MetabolomicsTools"
     }

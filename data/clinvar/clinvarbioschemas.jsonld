@@ -10,12 +10,16 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkt1113",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/clinvar",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Donna R. Maglott",
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         {
@@ -41,15 +45,11 @@
       ],
       "sc:name": "ClinVar",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://www.ncbi.nlm.nih.gov/clinvar/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkt1113",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -31,9 +31,9 @@
       },
       "sc:name": "LOGIQA",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://www.ngs-qc.org/logiqa/"
     }

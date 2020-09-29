@@ -22,8 +22,8 @@
   "sc:name": "BeAtMuSiC",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://babylone.ulb.ac.be/beatmusic"
 }

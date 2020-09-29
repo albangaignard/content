@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0003-4468-7898",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/DIA-DB",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -50,6 +46,10 @@
         "Mac"
       ],
       "sc:url": "http://bio-hpc.ucam.edu/dia-db/"
+    },
+    {
+      "@id": "https://orcid.org/0000-0003-4468-7898",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.3390/MOLECULES24102002",

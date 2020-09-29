@@ -17,8 +17,8 @@
   "sc:name": "SuperPose",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://wishart.biology.ualberta.ca/SuperPose/"
 }

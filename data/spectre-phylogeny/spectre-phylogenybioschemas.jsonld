@@ -17,8 +17,8 @@
   "sc:name": "SPECTRE",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/maplesond/SPECTRE"
 }

@@ -31,9 +31,9 @@
       },
       "sc:name": "CIDER",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://pappulab.wustl.edu/CIDER/"
     }

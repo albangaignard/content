@@ -16,10 +16,10 @@
   ],
   "sc:author": [
     "Ondrej Salanda",
+    "Jaroslav Bendl",
     "Jiri Damborsky",
-    "Jan Brezovsky",
     "Jan Stourac",
-    "Jaroslav Bendl"
+    "Jan Brezovsky"
   ],
   "sc:contributor": [
     "Antonin Pavelka",
@@ -30,15 +30,15 @@
   "sc:name": "PredictSNP",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
-    "Masaryk University, Brno, Czech Republic",
-    "International Centre for Clinical Research, Brno, Czech Republic",
+    "Mayo Clinic, Rochester, New York, United States of America",
     "Brno University of Technology, Brno, Czech Republic",
+    "International Centre for Clinical Research, Brno, Czech Republic",
     "Loschmidt Laboratories",
-    "Mayo Clinic, Rochester, New York, United States of America"
+    "Masaryk University, Brno, Czech Republic"
   ],
   "sc:url": "http://loschmidt.chemi.muni.cz/predictsnp",
   "sc:version": "1.0"

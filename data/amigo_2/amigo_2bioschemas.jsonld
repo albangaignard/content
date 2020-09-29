@@ -15,8 +15,8 @@
   "sc:name": "AmiGO 2",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://amigo.geneontology.org/amigo"
 }

@@ -58,9 +58,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "miRNApath",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/miRNApath.html",
       "sc:version": "1.34.0"

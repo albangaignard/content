@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Divya Tej Sowpati",
-    "Surabhi Srivastava",
-    "Rakesh K Mishra"
+    "Rakesh K Mishra",
+    "Surabhi Srivastava"
   ],
   "sc:additionalType": "Web application",
   "sc:description": "Webapp written using Vue and d3.js for epigenetic data visualization by biologists.",

@@ -54,8 +54,8 @@
       "sc:name": "MHCcluster",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": "CBS",
       "sc:softwareHelp": {

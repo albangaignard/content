@@ -22,8 +22,8 @@
         "Library"
       ],
       "sc:citation": [
-        "pmcid:PMC4429355",
         "pubmed:25972926",
+        "pmcid:PMC4429355",
         {
           "@id": "https://doi.org/10.1186/1756-8935-8-6"
         }
@@ -34,9 +34,9 @@
       },
       "sc:name": "DMRcate",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/DMRcate.html",
       "sc:version": "1.10.1"
