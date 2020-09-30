@@ -17,8 +17,8 @@
   "sc:name": "HTP-OligoDesigner",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.ifsc.usp.br/htpoligo/"
 }

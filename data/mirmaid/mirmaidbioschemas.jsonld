@@ -15,10 +15,10 @@
     "Anders Jacobsen"
   ],
   "sc:additionalType": [
-    "Library",
-    "Command-line tool",
     "Web application",
+    "Command-line tool",
     "Database portal",
+    "Library",
     "Web API"
   ],
   "sc:description": "Intuitive and modular software platform designed to unify miRBase and independent miRNA data resources. It enables miRNA researchers to computationally address complex questions involving the multitude of miRNA data resources.",

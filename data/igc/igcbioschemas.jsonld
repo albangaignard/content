@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12859-016-1438-2",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/igc",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Liang-Bo Wang",
@@ -20,15 +24,15 @@
         "@id": "edam:data_1669"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_2640"
+          "@id": "edam:topic_0203"
         },
         {
-          "@id": "edam:topic_0203"
+          "@id": "edam:topic_2640"
         }
       ],
       "sc:citation": [
@@ -58,10 +62,6 @@
     {
       "@id": "http://orcid.org/0000-0003-3697-0386",
       "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12859-016-1438-2",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

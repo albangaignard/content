@@ -32,8 +32,8 @@
       "sc:name": "SNPdb",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://www.ncbi.nlm.nih.gov/snp"
     }

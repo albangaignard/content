@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0003-2328-9612",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/nparact",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -39,10 +43,6 @@
     {
       "@id": "https://doi.org/10.1016/j.mex.2016.05.006",
       "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "http://orcid.org/0000-0003-2328-9612",
-      "@type": "schema:Person"
     }
   ]
 }

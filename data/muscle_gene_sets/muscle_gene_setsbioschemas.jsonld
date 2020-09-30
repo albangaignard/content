@@ -43,8 +43,8 @@
       "sc:name": "Muscle Gene Sets",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://www.sys-myo.com/muscle_gene_sets"
     },

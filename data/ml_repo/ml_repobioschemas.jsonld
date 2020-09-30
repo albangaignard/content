@@ -21,8 +21,8 @@
       },
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pmcid:PMC6493971",
         "pubmed:31042284",
+        "pmcid:PMC6493971",
         {
           "@id": "https://doi.org/10.1093/GIGASCIENCE/GIZ042"
         }
@@ -33,18 +33,18 @@
           "@id": "edam:operation_3431"
         },
         {
-          "@id": "edam:operation_3659"
+          "@id": "edam:operation_3192"
         },
         {
-          "@id": "edam:operation_3192"
+          "@id": "edam:operation_3659"
         }
       ],
       "sc:license": "MIT",
       "sc:name": "ML Repo",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "https://knights-lab.github.io/MLRepo/"
     },

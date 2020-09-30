@@ -29,8 +29,8 @@
       "sc:name": "ConR",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/ConR/",
       "sc:version": "1.2.2"

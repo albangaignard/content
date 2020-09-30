@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "L. Ferrer",
-    "D. Villoing",
-    "M. Bardies"
+    "M. Bardies",
+    "D. Villoing"
   ],
   "sc:additionalType": "Desktop application",
   "sc:citation": "pubmed:26632045",

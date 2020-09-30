@@ -30,8 +30,8 @@
       "sc:name": "PIA - Protein Inference Algorithms",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": "BioInfra.Prot",
       "sc:url": "https://mpc-bioinformatics.github.io/pia/",

@@ -28,8 +28,8 @@
       "sc:name": "PlantTFcat",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://plantgrn.noble.org/PlantTFcat/"
     },

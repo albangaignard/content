@@ -18,10 +18,10 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         {
-          "@id": "http://orcid.org/0000-0001-8781-9753"
+          "@id": "http://orcid.org/0000-0001-9642-8244"
         },
         {
-          "@id": "http://orcid.org/0000-0001-9642-8244"
+          "@id": "http://orcid.org/0000-0001-8781-9753"
         }
       ],
       "sc:additionalType": "Command-line tool",

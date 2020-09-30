@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Craig Bielski",
-    "Emma Schwager",
-    "George Weingart"
+    "George Weingart",
+    "Emma Schwager"
   ],
   "sc:additionalType": [
     "Command-line tool",

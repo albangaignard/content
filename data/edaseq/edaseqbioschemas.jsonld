@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Davide Risso",
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC4067528",
@@ -36,8 +36,8 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "EDASeq",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/EDASeq.html",

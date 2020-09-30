@@ -18,8 +18,8 @@
   "sc:name": "MuMRescueLite",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://genome.gsc.riken.jp/osc/english/software/"
 }
