@@ -1,0 +1,119 @@
+{
+    "additionDate": "2020-01-14T09:19:36Z",
+    "biotoolsCURIE": "biotools:PmDscam",
+    "biotoolsID": "PmDscam",
+    "confidence_flag": "high",
+    "credit": [
+        {
+            "email": "wanghc@mail.ncku.edu.tw",
+            "name": "Han-Ching Wang",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "The gene structure and hypervariability of the complete Penaeus monodon Dscam gene.\n\nPmDscam is a tool for sequence alignment of hypervariable shrimp Dscam (Down syndrome cell adhesion molecule).\n\nUsing NGS and Sanger sequencing, a 260-kbp Dscam genome draft from Black tiger shrimp (Penaeus monodon) was completed. Based on our analysis, hypervariability of PmDscam occurs both on the extracellular region and the cytoplasmic tail. From one PmDscam genome locus and through alternative splicing, there are 54,756 potential combinations involving extracellular regions, plus 512 potential combinations of cytoplasmic tails. Therefore, PmDscam has super-hypervariability all derived from one PmDscam genome locus.\n\n||| CORRECT NAME OF TOOL COULD ALSO BE 'Penaeus monodon Dscam', 'P monodon Dscam'",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Database search",
+                    "uri": "http://edamontology.org/operation_2421"
+                },
+                {
+                    "term": "Coding region prediction",
+                    "uri": "http://edamontology.org/operation_0436"
+                },
+                {
+                    "term": "Exonic splicing enhancer prediction",
+                    "uri": "http://edamontology.org/operation_0446"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://pmdscam.dbbs.ncku.edu.tw/",
+    "lastUpdate": "2020-01-14T09:19:36Z",
+    "name": "PmDscam",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1038/S41598-019-52656-X",
+            "metadata": {
+                "abstract": "\u00a9 2019, The Author(s).Using two advanced sequencing approaches, Illumina and PacBio, we derive the entire Dscam gene from an M2 assembly of the complete Penaeus monodon genome. The P. monodon Dscam (PmDscam) gene is ~266 kbp, with a total of 44 exons, 5 of which are subject to alternative splicing. PmDscam has a conserved architectural structure consisting of an extracellular region with hypervariable Ig domains, a transmembrane domain, and a cytoplasmic tail. We show that, contrary to a previous report, there are in fact 26, 81 and 26 alternative exons in N-terminal Ig2, N-terminal Ig3 and the entirety of Ig7, respectively. We also identified two alternatively spliced exons in the cytoplasmic tail, with transmembrane domains in exon variants 32.1 and 32.2, and stop codons in exon variants 44.1 and 44.2. This means that alternative splicing is involved in the selection of the stop codon. There are also 7 non-constitutive cytoplasmic tail exons that can either be included or skipped. Alternative splicing and the non-constitutive exons together produce more than 21 million isoform combinations from one PmDscam locus in the P. monodon gene. A public-facing database that allows BLAST searches of all 175 exons in the PmDscam gene has been established at http://pmdscam.dbbs.ncku.edu.tw/.",
+                "authors": [
+                    {
+                        "name": "Apitanyasai K."
+                    },
+                    {
+                        "name": "Huang S.-W."
+                    },
+                    {
+                        "name": "Ng T.H."
+                    },
+                    {
+                        "name": "He S.-T."
+                    },
+                    {
+                        "name": "Huang Y.-H."
+                    },
+                    {
+                        "name": "Chiu S.-P."
+                    },
+                    {
+                        "name": "Tseng K.-C."
+                    },
+                    {
+                        "name": "Lin S.-S."
+                    },
+                    {
+                        "name": "Chang W.-C."
+                    },
+                    {
+                        "name": "Baldwin-Brown J.G."
+                    },
+                    {
+                        "name": "Long A.D."
+                    },
+                    {
+                        "name": "Lo C.-F."
+                    },
+                    {
+                        "name": "Yu H.-T."
+                    },
+                    {
+                        "name": "Wang H.-C."
+                    }
+                ],
+                "citationCount": 3,
+                "date": "2019-12-01T00:00:00Z",
+                "journal": "Scientific Reports",
+                "title": "The gene structure and hypervariability of the complete Penaeus monodon Dscam gene"
+            },
+            "pmcid": "PMC6851185",
+            "pmid": "31719551"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Gene transcripts",
+            "uri": "http://edamontology.org/topic_3512"
+        },
+        {
+            "term": "RNA splicing",
+            "uri": "http://edamontology.org/topic_3320"
+        },
+        {
+            "term": "Sequencing",
+            "uri": "http://edamontology.org/topic_3168"
+        },
+        {
+            "term": "Transcriptomics",
+            "uri": "http://edamontology.org/topic_3308"
+        },
+        {
+            "term": "Protein folds and structural domains",
+            "uri": "http://edamontology.org/topic_0736"
+        }
+    ]
+}

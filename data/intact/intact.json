@@ -21,12 +21,17 @@
     "description": "Protein interaction database and analysis system.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://www.ebi.ac.uk/intact/about/overview;jsessionid=51507E4002B5190B20AF71AF6B4B950B"
         }
     ],
     "editPermission": {
-        "type": "private"
+        "authors": [
+            "intact-ebi"
+        ],
+        "type": "group"
     },
     "elixirNode": [
         "EMBL"
@@ -68,14 +73,14 @@
         }
     ],
     "homepage": "http://www.ebi.ac.uk/intact/",
-    "lastUpdate": "2019-02-15T10:23:57Z",
+    "lastUpdate": "2020-02-26T17:20:20Z",
     "name": "IntAct",
     "operatingSystem": [
         "Linux",
         "Windows",
         "Mac"
     ],
-    "owner": "EMBL-EBI_Databases",
+    "owner": "intact-ebi",
     "publication": [
         {
             "doi": "10.1093/nar/gkt1115",
@@ -193,7 +198,9 @@
                 "journal": "Nucleic Acids Research",
                 "title": "The MIntAct project - IntAct as a common curation platform for 11 molecular interaction databases"
             },
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [

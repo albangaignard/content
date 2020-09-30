@@ -1,0 +1,80 @@
+{
+    "additionDate": "2019-11-14T20:02:03Z",
+    "biotoolsCURIE": "biotools:HEARTSMAP",
+    "biotoolsID": "HEARTSMAP",
+    "confidence_flag": "low",
+    "credit": [
+        {
+            "email": "qdoan@bcchr.ca",
+            "name": "Quynh Doan",
+            "orcidid": "https://orcid.org/0000-0002-8435-7837",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "> LOW CONFIDENCE! | > CORRECT NAME OF TOOL COULD ALSO BE 'provincial dissemination HEARTSMAP', 'HEARTSMAP emergency paediatric psychosocial', 'HEARTSMAP emergency paediatric psychosocial assessments' | emergency department psychosocial assessment and disposition decision tool for children and youth | OPEN HEARTSMAP \u2013 An Emergency Psychosocial Assessment + Management tool for children + youth | An Emergency Psychosocial Assessment + Management tool for children + youth | Registration and use of Open HEARTSMAP is intended solely for clinicians (physicians, nurses, social workers, other mental health workers) to aid their psychosocial assessment. Other use is non-permissible",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Essential dynamics",
+                    "uri": "http://edamontology.org/operation_3891"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://www.openheartsmap.ca",
+    "lastUpdate": "2019-11-14T20:02:03Z",
+    "name": "HEARTSMAP",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1093/PCH/PXZ038",
+            "metadata": {
+                "abstract": "\u00a9 2019 The Author(s). Published by Oxford University Press on behalf of the Canadian Paediatric Society. All rights reserved.Background: This article describes the provincial dissemination of HEARTSMAP, an evidence-based emergency department (ED) psychosocial assessment and disposition decision tool for clinician use with children and youth. Methods: HEARTSMAP was disseminated in partnership with local, child and youth mental health teams, as part of a quality improvement initiative implemented in British Columbia EDs. The target audience of education sessions were clinicians working in ED settings responsible for paediatric psychosocial assessments. We used the RE-AIM framework to evaluate the reach, effectiveness, adoption, implementation, and maintenance of HEARTSMAP dissemination, analyzing data from session evaluation forms and online tool data. Results: Education sessions reached 475 attendees, in 52 of 95 British Columbia EDs. HEARTSMAP training was well received by clinicians with 96% describing effective content including increased comfort in conducting paediatric psychosocial assessments and confidence in disposition planning after training. Clinicians identified unclear processes and lack of local resources as the main barriers to implementation. One-third of the attendees expressed willingness to use the tool, and 27% of registered clinicians have used the tool postimplementation. Conclusions: Our approach reached and effectively trained clinicians from over half of the province's EDs to use HEARTSMAP for emergency paediatric psychosocial assessments. For some, this provided greater comfort and confidence for these assessments and the following disposition decisions. This evaluation provides valuable insights on training clinicians to use a paediatric mental health tool within diverse ED settings and emphasized the need for ongoing support and institutional engagement to facilitate local, infrastructural, and operational processes for adoption and maintenance, postdissemination.",
+                "authors": [
+                    {
+                        "name": "Koopmans E."
+                    },
+                    {
+                        "name": "Black T."
+                    },
+                    {
+                        "name": "Newton A."
+                    },
+                    {
+                        "name": "Dhugga G."
+                    },
+                    {
+                        "name": "Karduri N."
+                    },
+                    {
+                        "name": "Doan Q."
+                    }
+                ],
+                "citationCount": 1,
+                "date": "2019-09-05T00:00:00Z",
+                "journal": "Paediatrics and Child Health (Canada)",
+                "title": "Provincial dissemination of HEARTSMAP, an emergency department psychosocial assessment and disposition decision tool for children and youth"
+            },
+            "pmcid": "PMC6735715",
+            "pmid": "31528104"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Paediatrics",
+            "uri": "http://edamontology.org/topic_3418"
+        },
+        {
+            "term": "Psychiatry",
+            "uri": "http://edamontology.org/topic_3419"
+        },
+        {
+            "term": "Critical care medicine",
+            "uri": "http://edamontology.org/topic_3403"
+        }
+    ]
+}
