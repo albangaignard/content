@@ -1,7 +1,5 @@
 {
-    "accessibility": [
-        "Open access"
-    ],
+    "accessibility": "Open access",
     "additionDate": "2019-08-30T10:28:42Z",
     "biotoolsCURIE": "biotools:3SRP",
     "biotoolsID": "3SRP",
@@ -10,13 +8,14 @@
         {
             "email": "eric.charpentier@univ-nantes.fr",
             "name": "Eric Charpentier",
+            "orcidid": "https://orcid.org/0000-0002-8571-7603",
             "typeEntity": "Person",
             "typeRole": [
                 "Primary contact",
                 "Developer",
                 "Support"
             ],
-            "url": "https://pf-bird.univ-nantes.fr/qui-sommes-nous-/membres/"
+            "url": "https://pf-bird.univ-nantes.fr/about-us/members/"
         },
         {
             "email": "pf-bird@univ-nantes.fr",
@@ -72,8 +71,10 @@
     "description": "A Snakemake-based pipeline for 3' sequencing RNA profiling data analysis.  This 3\u2019 Digital gene expression sequencing technique allows a precise and low-cost transcriptome profiling.\n\nThe main steps of the pipeline are:\n- Samples demultiplexing transform the raw paired-end fastq files into a single-end fastq file for each sample.\n- Alignment on refseq reference transcriptome is performed using bwa.\n- Aligned reads are parsed and UMI are counted for each gene in each sample to create an expression matrix.\nIf secondary analysis has been asked (providing a comparisons file), the expression matrix is normalized and differentially expressed genes (DEG) are searched using deseq2.\n- If DEG are found, annotation is performed using the database GO and KEGG.\n- A report is provided listing the main quality controls performed and the results found.",
     "documentation": [
         {
-            "type": "General",
-            "url": "https://gitlab.univ-nantes.fr/bird_pipeline_registry/DGE-pipeline/blob/master/README.md"
+            "type": [
+                "General"
+            ],
+            "url": "https://gitlab.univ-nantes.fr/bird_pipeline_registry/srp-pipeline/-/wikis/home"
         }
     ],
     "editPermission": {
@@ -171,7 +172,7 @@
         "R",
         "Python"
     ],
-    "lastUpdate": "2020-02-07T13:46:28.551888Z",
+    "lastUpdate": "2020-07-22T14:07:02Z",
     "maturity": "Emerging",
     "name": "3SRP",
     "operatingSystem": [
@@ -181,9 +182,218 @@
     "publication": [
         {
             "doi": "10.1038/s41467-017-02107-w",
+            "metadata": {
+                "abstract": "\u00a9 2018 The Author(s).Induced pluripotent stem cells (iPSCs) have considerably impacted human developmental biology and regenerative medicine, notably because they circumvent the use of cells of embryonic origin and offer the potential to generate patient-specific pluripotent stem cells. However, conventional reprogramming protocols produce developmentally advanced, or primed, human iPSCs (hiPSCs), restricting their use to post-implantation human development modeling. Hence, there is a need for hiPSCs resembling preimplantation naive epiblast. Here, we develop a method to generate naive hiPSCs directly from somatic cells, using OKMS overexpression and specific culture conditions, further enabling parallel generation of their isogenic primed counterparts. We benchmark naive hiPSCs against human preimplantation epiblast and reveal remarkable concordance in their transcriptome, dependency on mitochondrial respiration and X-chromosome status. Collectively, our results are essential for the understanding of pluripotency regulation throughout preimplantation development and generate new opportunities for disease modeling and regenerative medicine.",
+                "authors": [
+                    {
+                        "name": "Kilens S."
+                    },
+                    {
+                        "name": "Meistermann D."
+                    },
+                    {
+                        "name": "Moreno D."
+                    },
+                    {
+                        "name": "Chariau C."
+                    },
+                    {
+                        "name": "Gaignerie A."
+                    },
+                    {
+                        "name": "Reignier A."
+                    },
+                    {
+                        "name": "Lelievre Y."
+                    },
+                    {
+                        "name": "Casanova M."
+                    },
+                    {
+                        "name": "Vallot C."
+                    },
+                    {
+                        "name": "Nedellec S."
+                    },
+                    {
+                        "name": "Flippe L."
+                    },
+                    {
+                        "name": "Firmin J."
+                    },
+                    {
+                        "name": "Song J."
+                    },
+                    {
+                        "name": "Charpentier E."
+                    },
+                    {
+                        "name": "Lammers J."
+                    },
+                    {
+                        "name": "Donnart A."
+                    },
+                    {
+                        "name": "Marec N."
+                    },
+                    {
+                        "name": "Deb W."
+                    },
+                    {
+                        "name": "Bihouee A."
+                    },
+                    {
+                        "name": "Le Caignec C."
+                    },
+                    {
+                        "name": "Pecqueur C."
+                    },
+                    {
+                        "name": "Redon R."
+                    },
+                    {
+                        "name": "Barriere P."
+                    },
+                    {
+                        "name": "Bourdon J."
+                    },
+                    {
+                        "name": "Pasque V."
+                    },
+                    {
+                        "name": "Soumillon M."
+                    },
+                    {
+                        "name": "Mikkelsen T.S."
+                    },
+                    {
+                        "name": "Rougeulle C."
+                    },
+                    {
+                        "name": "Freour T."
+                    },
+                    {
+                        "name": "David L."
+                    },
+                    {
+                        "name": "Abel L."
+                    },
+                    {
+                        "name": "Alcover A."
+                    },
+                    {
+                        "name": "Astrom K."
+                    },
+                    {
+                        "name": "Bousso P."
+                    },
+                    {
+                        "name": "Bruhns P."
+                    },
+                    {
+                        "name": "Cumano A."
+                    },
+                    {
+                        "name": "Duffy D."
+                    },
+                    {
+                        "name": "Demangel C."
+                    },
+                    {
+                        "name": "Deriano L."
+                    },
+                    {
+                        "name": "DI Santo J."
+                    },
+                    {
+                        "name": "Dromer F."
+                    },
+                    {
+                        "name": "Eberl G."
+                    },
+                    {
+                        "name": "Enninga J."
+                    },
+                    {
+                        "name": "Fellay J."
+                    },
+                    {
+                        "name": "Freitas A."
+                    },
+                    {
+                        "name": "Gelpi O."
+                    },
+                    {
+                        "name": "Gomperts-Boneca I."
+                    },
+                    {
+                        "name": "Hercberg S."
+                    },
+                    {
+                        "name": "Lantz O."
+                    },
+                    {
+                        "name": "Leclerc C."
+                    },
+                    {
+                        "name": "Mouquet H."
+                    },
+                    {
+                        "name": "Patin E."
+                    },
+                    {
+                        "name": "Pellegrini S."
+                    },
+                    {
+                        "name": "Pol S."
+                    },
+                    {
+                        "name": "Rogge L."
+                    },
+                    {
+                        "name": "Sakuntabhai A."
+                    },
+                    {
+                        "name": "Schwartz O."
+                    },
+                    {
+                        "name": "Schwikowski B."
+                    },
+                    {
+                        "name": "Shorte S."
+                    },
+                    {
+                        "name": "Soumelis V."
+                    },
+                    {
+                        "name": "Tangy F."
+                    },
+                    {
+                        "name": "Tartour E."
+                    },
+                    {
+                        "name": "Toubert A."
+                    },
+                    {
+                        "name": "Ungeheuer M.-N."
+                    },
+                    {
+                        "name": "Quintana-Murci L."
+                    },
+                    {
+                        "name": "Albert M.L."
+                    }
+                ],
+                "citationCount": 30,
+                "date": "2018-12-01T00:00:00Z",
+                "journal": "Nature Communications",
+                "title": "Parallel derivation of isogenic human primed and naive induced pluripotent stem cells"
+            },
             "pmcid": "PMC5783949",
             "pmid": "29367672",
-            "type": "Usage"
+            "type": [
+                "Usage"
+            ]
         },
         {
             "doi": "10.3389/fimmu.2017.02014",
@@ -206,12 +416,14 @@
                         "name": "Blazar B.R."
                     }
                 ],
-                "citationCount": 7,
+                "citationCount": 12,
                 "date": "2018-01-31T00:00:00Z",
                 "journal": "Frontiers in Immunology",
                 "title": "Effects of MicroRNA on regulatory T Cells and implications for adoptive cellular therapy to ameliorate graft-versus-host disease"
             },
-            "type": "Usage"
+            "type": [
+                "Usage"
+            ]
         },
         {
             "doi": "10.1016/j.jaut.2017.10.005",
@@ -290,17 +502,145 @@
                 "journal": "Journal of Autoimmunity",
                 "title": "An intermediate level of CD161 expression defines a novel activated, inflammatory, and pathogenic subset of CD8 + T cells involved in multiple sclerosis"
             },
-            "type": "Usage"
+            "type": [
+                "Usage"
+            ]
         },
         {
             "doi": "10.1172/jci.insight.90088",
-            "type": "Usage"
+            "type": [
+                "Usage"
+            ]
         },
         {
             "doi": "10.1038/s41598-017-14892-x",
+            "metadata": {
+                "abstract": "\u00a9 2017 The Author(s).reating a cDNA library for deep mRNA sequencing (mRNAseq) is generally done by random priming, creating multiple sequencing fragments along each transcript. A 3\u2032-end-focused library approach cannot detect differential splicing, but has potentially higher throughput at a lower cost, along with the ability to improve quantification by using transcript molecule counting with unique molecular identifiers (UMI) that correct PCR bias. Here, we compare an implementation of such a 3\u2032-digital gene expression (3\u2032-DGE) approach with \"conventional\" random primed mRNAseq. Given our particular datasets on cultured human cardiomyocyte cell lines, we find that, while conventional mRNAseq detects \u223c15% more genes and needs \u223c500,000 fewer reads per sample for equivalent statistical power, the resulting differentially expressed genes, biological conclusions, and gene signatures are highly concordant between two techniques. We also find good quantitative agreement at the level of individual genes between two techniques for both read counts and fold changes between given conditions. We conclude that, for high-throughput applications, the potential cost savings associated with 3\u2032-DGE approach are likely a reasonable tradeoff for modest reduction in sensitivity and inability to observe alternative splicing, and should enable many larger scale studies focusing on not only differential expression analysis, but also quantitative transcriptome profiling.",
+                "authors": [
+                    {
+                        "name": "Xiong Y."
+                    },
+                    {
+                        "name": "Soumillon M."
+                    },
+                    {
+                        "name": "Wu J."
+                    },
+                    {
+                        "name": "Hansen J."
+                    },
+                    {
+                        "name": "Hu B."
+                    },
+                    {
+                        "name": "Van Hasselt J.G.C."
+                    },
+                    {
+                        "name": "Jayaraman G."
+                    },
+                    {
+                        "name": "Lim R."
+                    },
+                    {
+                        "name": "Bouhaddou M."
+                    },
+                    {
+                        "name": "Ornelas L."
+                    },
+                    {
+                        "name": "Bochicchio J."
+                    },
+                    {
+                        "name": "Lenaeus L."
+                    },
+                    {
+                        "name": "Stocksdale J."
+                    },
+                    {
+                        "name": "Shim J."
+                    },
+                    {
+                        "name": "Gomez E."
+                    },
+                    {
+                        "name": "Sareen D."
+                    },
+                    {
+                        "name": "Svendsen C."
+                    },
+                    {
+                        "name": "Thompson L.M."
+                    },
+                    {
+                        "name": "Mahajan M."
+                    },
+                    {
+                        "name": "Iyengar R."
+                    },
+                    {
+                        "name": "Sobie E.A."
+                    },
+                    {
+                        "name": "Azeloglu E.U."
+                    },
+                    {
+                        "name": "Birtwistle M.R."
+                    }
+                ],
+                "citationCount": 8,
+                "date": "2017-12-01T00:00:00Z",
+                "journal": "Scientific Reports",
+                "title": "A Comparison of mRNA Sequencing with Random Primed and 3\u2032-Directed Libraries"
+            },
             "pmcid": "PMC5676863",
             "pmid": "29116112",
-            "type": "Method"
+            "type": [
+                "Method"
+            ]
+        },
+        {
+            "doi": "10.3390/ijms21041368",
+            "metadata": {
+                "abstract": "\u00a9 2020 by the authors. Licensee MDPI, Basel, Switzerland.Recent studies strongly support the use of the aryl hydrocarbon receptor (AhR) as a therapeutic target in breast cancer. Glyceollins, a group of soybean phytoalexins, are known to exert therapeutic effects in chronic human diseases and also in cancer. To investigate the interaction between glyceollin I (GI), glyceollin II (GII) and AhR, a computational docking analysis, luciferase assays, immunofluorescence and transcriptome analyses were performed with different cancer cell lines. The docking experiments predicted that GI and GII can enter into the AhR binding pocket, but their interactions with the amino acids of the binding site differ, in part, from those interacting with 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD). Both GI and GII were able to weakly and partially activate AhR, with GII being more potent. The results from the transcriptome assays showed that approximately 10% of the genes regulated by TCDD were also modified by both GI and GII, which could have either antagonistic or synergistic effects upon TCDD activation. In addition, we report here, on the basis of phenotype, that GI and GII inhibit the migration of triple-negative (ER-, PgR-, HER2NEU-) MDA-MB-231 breast cancer cells, and that they inhibit the expression of genes which code for important regulators of cell migration and invasion in cancer tissues. In conclusion, GI and GII are AhR ligands that should be further investigated to determine their usefulness in cancer treatments.",
+                "authors": [
+                    {
+                        "name": "Pham T.H."
+                    },
+                    {
+                        "name": "Lecomte S."
+                    },
+                    {
+                        "name": "Le Guevel R."
+                    },
+                    {
+                        "name": "Lardenois A."
+                    },
+                    {
+                        "name": "Evrard B."
+                    },
+                    {
+                        "name": "Chalmel F."
+                    },
+                    {
+                        "name": "Ferriere F."
+                    },
+                    {
+                        "name": "Balaguer P."
+                    },
+                    {
+                        "name": "Efstathiou T."
+                    },
+                    {
+                        "name": "Pakdel F."
+                    }
+                ],
+                "date": "2020-02-02T00:00:00Z",
+                "journal": "International Journal of Molecular Sciences",
+                "title": "Characterization of glyceollins as novel aryl hydrocarbon receptor ligands and their role in cell migration"
+            },
+            "type": [
+                "Usage"
+            ]
         }
     ],
     "toolType": [

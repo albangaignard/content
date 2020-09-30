@@ -18,7 +18,9 @@
     "description": "Methods to model and impute non-detects in the results of qPCR experiments.",
     "documentation": [
         {
-            "type": "User manual",
+            "type": [
+                "User manual"
+            ],
             "url": "http://bioconductor.org/packages/release/bioc/html/nondetects.html"
         }
     ],
@@ -93,9 +95,32 @@
     "publication": [
         {
             "doi": "10.1093/bioinformatics/btu239",
+            "metadata": {
+                "abstract": "Motivation: Quantitative real-time PCR (qPCR) is one of the most widely used methods to measure gene expression. Despite extensive research in qPCR laboratory protocols, normalization and statistical analysis, little attention has been given to qPCR non-detects - those reactions failing to produce a minimum amount of signal. Results: We show that the common methods of handling qPCR nondetects lead to biased inference. Furthermore, we show that nondetects do not represent data missing completely at random and likely represent missing data occurring not at random. We propose a model of the missing data mechanism and develop a method to directly model non-detects as missing data. Finally, we show that our approach results in a sizeable reduction in bias when estimating both absolute and differential gene expression. \u00a9 The Author 2014.",
+                "authors": [
+                    {
+                        "name": "McCall M.N."
+                    },
+                    {
+                        "name": "McMurray H.R."
+                    },
+                    {
+                        "name": "Land H."
+                    },
+                    {
+                        "name": "Almudevar A."
+                    }
+                ],
+                "citationCount": 65,
+                "date": "2014-08-15T00:00:00Z",
+                "journal": "Bioinformatics",
+                "title": "On non-detects in qPCR data"
+            },
             "pmcid": "PMC4133581",
             "pmid": "24764462",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
