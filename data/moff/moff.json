@@ -29,13 +29,16 @@
     "description": "A modest Feature Finder to extract features in MS1 Data.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://github.com/compomics/moFF"
         }
     ],
     "editPermission": {
         "authors": [
-            "proteomics.bio.tools"
+            "proteomics.bio.tools",
+            "bits@vib.be"
         ],
         "type": "group"
     },
@@ -69,7 +72,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2019-03-26T08:24:48Z",
+    "lastUpdate": "2020-08-19T12:15:50Z",
     "name": "MoFF",
     "operatingSystem": [
         "Linux",
@@ -110,7 +113,9 @@
                 "title": "MoFF: A robust and automated approach to extract peptide ion intensities"
             },
             "pmid": "27898063",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
