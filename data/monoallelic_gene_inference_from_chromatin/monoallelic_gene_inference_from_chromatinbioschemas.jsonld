@@ -14,9 +14,9 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Svetlana Vinogradova",
-        "Henry Ward",
         "Sachit Saksena",
         "Alexander Gimelbrant",
+        "Henry Ward",
         "Sébastien Vigneau"
       ],
       "sc:additionalType": [
@@ -33,17 +33,17 @@
       "sc:description": "Monoallelic Gene Inference from Chromatin (MaGIC) - tool to classify genes into monoallelically expressed (MAE) and biallelically expressed (BAE) using chromatin mark enrichment data.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3227"
+          "@id": "edam:operation_3501"
         },
         {
-          "@id": "edam:operation_3501"
+          "@id": "edam:operation_3227"
         }
       ],
       "sc:license": "MIT",
       "sc:name": "MaGIC",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "https://github.com/gimelbrantlab/magic"

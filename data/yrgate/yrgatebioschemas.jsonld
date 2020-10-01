@@ -32,8 +32,8 @@
       "sc:name": "yrGATE",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://www.plantgdb.org/prj/yrGATE/"
     }

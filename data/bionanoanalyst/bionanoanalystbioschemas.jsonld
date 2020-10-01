@@ -27,9 +27,9 @@
       },
       "sc:name": "BioNanoAnalyst",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://github.com/AppliedBioinformatics/BioNanoAnalyst"
     },

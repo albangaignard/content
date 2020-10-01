@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Jian Ren",
-    "Yu Xue",
-    "Zexian Liu,"
+    "Zexian Liu,",
+    "Yu Xue"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:19783819",

@@ -35,16 +35,16 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3511"
-        },
-        {
-          "@id": "edam:topic_3169"
-        },
-        {
           "@id": "edam:topic_0092"
         },
         {
+          "@id": "edam:topic_3511"
+        },
+        {
           "@id": "edam:topic_3168"
+        },
+        {
+          "@id": "edam:topic_3169"
         }
       ],
       "sc:citation": [
@@ -61,8 +61,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "csaw",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/csaw.html",

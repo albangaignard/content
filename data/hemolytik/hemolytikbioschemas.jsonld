@@ -27,8 +27,8 @@
       },
       "sc:name": "Hemolytik",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://crdd.osdd.net/raghava/hemolytik/"

@@ -10,15 +10,19 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/DATABASE/BAZ051",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/GIDB",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Ying Wang",
-        "Xiaoyan Zhang"
+        "Xiaoyan Zhang",
+        "Ying Wang"
       ],
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         {
@@ -35,14 +39,10 @@
       "sc:name": "GIDB",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://bmtongji.cn/GIDB/index.html"
-    },
-    {
-      "@id": "https://doi.org/10.1093/DATABASE/BAZ051",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

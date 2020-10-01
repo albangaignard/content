@@ -16,8 +16,8 @@
   "sc:name": "ModeRNA",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://genesilico.pl/moderna/",
   "sc:version": "1"

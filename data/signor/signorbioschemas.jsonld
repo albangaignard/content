@@ -18,9 +18,9 @@
     "Alberto Calderone"
   ],
   "sc:contributor": [
-    "Elena Santonico",
     "Marta Iannuccelli",
     "Gianni Cesareni",
+    "Elena Santonico",
     "Livia Perfetto"
   ],
   "sc:description": "A tool collects manually-annotated logic relationships between molecules that participate in signal transduction.",

@@ -13,9 +13,9 @@
   "sc:additionalType": "Database portal",
   "sc:author": "David Sehnal",
   "sc:contributor": [
+    "Deepti Jaiswal",
     "Radka Svobodová Vařeková",
     "Lukáš Pravda",
-    "Deepti Jaiswal",
     "Crina-Maria Ionescu"
   ],
   "sc:description": "Database of validation results for ligands and non-standard residues in the Protein Data Bank.",

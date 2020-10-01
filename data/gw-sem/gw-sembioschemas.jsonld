@@ -32,9 +32,9 @@
       "sc:license": "Unlicense",
       "sc:name": "GW-SEM",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://www.people.vcu.edu/~bverhulst/GW-SEM/GW-SEM.R"
     }

@@ -32,8 +32,8 @@
       "sc:name": "S2O",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://sourceforge.net/projects/s2o/"
     },

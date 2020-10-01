@@ -40,8 +40,8 @@
       "sc:name": "ImmPort",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://www.immport.org"
     }

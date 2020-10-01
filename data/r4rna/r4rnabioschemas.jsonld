@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gks241",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/r4rna",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -48,10 +52,6 @@
     {
       "@id": "http://orcid.org/0000-0001-9203-6323",
       "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gks241",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

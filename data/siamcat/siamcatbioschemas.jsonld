@@ -19,10 +19,10 @@
       "biotools:primaryContact": "Georg Zeller",
       "edam:has_input": [
         {
-          "@id": "edam:data_2914"
+          "@id": "edam:data_2082"
         },
         {
-          "@id": "edam:data_2082"
+          "@id": "edam:data_2914"
         }
       ],
       "edam:has_output": [
@@ -68,8 +68,8 @@
         "Linux"
       ],
       "sc:provider": [
-        "European Molecular Biology Laboratory (EMBL)",
-        "HD-HuB"
+        "HD-HuB",
+        "European Molecular Biology Laboratory (EMBL)"
       ],
       "sc:softwareHelp": {
         "@id": "http://siamcat.embl.de/"

@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/btq046",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0002-0474-2218",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/ebimage",
@@ -22,13 +22,13 @@
       },
       "sc:additionalType": "Command-line tool",
       "sc:author": [
-        "Gregoire Pau",
+        "Oleg Sklyar",
         {
           "@id": "http://orcid.org/0000-0002-0474-2218"
         },
-        "Oleg Sklyar",
-        "Andrzej Oleś",
-        "Mike Smith"
+        "Gregoire Pau",
+        "Mike Smith",
+        "Andrzej Oleś"
       ],
       "sc:citation": [
         "pmcid:PMC2844988",
@@ -44,9 +44,9 @@
       "sc:license": "LGPL-2.1",
       "sc:name": "EBImage",
       "sc:operatingSystem": [
+        "Mac",
         "Linux",
-        "Windows",
-        "Mac"
+        "Windows"
       ],
       "sc:provider": [
         "hdhub",
@@ -56,8 +56,8 @@
       "sc:version": "4"
     },
     {
-      "@id": "http://orcid.org/0000-0002-0474-2218",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1093/bioinformatics/btq046",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

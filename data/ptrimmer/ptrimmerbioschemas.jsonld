@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/pTrimmer",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Jun Chen",
-        "Zhiguang Li"
+        "Zhiguang Li",
+        "Jun Chen"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
@@ -30,10 +30,10 @@
           "@id": "edam:operation_3192"
         },
         {
-          "@id": "edam:operation_0308"
+          "@id": "edam:operation_3237"
         },
         {
-          "@id": "edam:operation_3237"
+          "@id": "edam:operation_0308"
         }
       ],
       "sc:license": "GPL-3.0",
