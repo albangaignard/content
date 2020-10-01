@@ -15,11 +15,15 @@
     "description": "Web server that can discover motifs that are enriched in sets of nucleotide sequences provided by the user. It uses a new approach for finding enriched motifs: It directly optimizes the statistical significance of enrichment for PWMs. It can also score conservation and positional clustering of motifs. In several benchmarks on yeast and metazoan sequences, the underlying XXmotif method showed better sensitivity and produced PWMs of higher quality than state-of-the-art tools.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "http://xxmotif.genzentrum.lmu.de/index.php?id=about"
         },
         {
-            "type": "Other",
+            "type": [
+                "Other"
+            ],
             "url": "http://xxmotif.genzentrum.lmu.de/index.php?id=faq"
         }
     ],
@@ -59,7 +63,9 @@
     "lastUpdate": "2019-01-09T15:32:28Z",
     "link": [
         {
-            "type": "Software catalogue",
+            "type": [
+                "Software catalogue"
+            ],
             "url": "http://www.mybiosoftware.com/xxmotif-exhaustive-weight-matrix-based-motif-discovery-nucleotide-sequences.html"
         }
     ],
@@ -72,9 +78,29 @@
     "publication": [
         {
             "doi": "10.1093/nar/gks602",
+            "metadata": {
+                "abstract": "The discovery of regulatory motifs enriched in sets of DNA or RNA sequences is fundamental to the analysis of a great variety of functional genomics experiments. These motifs usually represent binding sites of proteins or non-coding RNAs, which are best described by position weight matrices (PWMs). We have recently developed XXmotif, a de novo motif discovery method that is able to directly optimize the statistical significance of PWMs. XXmotif can also score conservation and positional clustering of motifs. The XXmotif server provides (i) a list of significantly overrepresented motif PWMs with web logos and E-values; (ii) a graph with color-coded boxes indicating the positions of selected motifs in the input sequences; (iii) a histogram of the overall positional distribution for selected motifs and (iv) a page for each motif with all significant motif occurrences, their P-values for enrichment, conservation and localization, their sequence contexts and coordinates. Free access: http://xxmotif.genzentrum.lmu.de. \u00a9 2012 The Author(s).",
+                "authors": [
+                    {
+                        "name": "Luehr S."
+                    },
+                    {
+                        "name": "Hartmann H."
+                    },
+                    {
+                        "name": "Soding J."
+                    }
+                ],
+                "citationCount": 29,
+                "date": "2012-07-01T00:00:00Z",
+                "journal": "Nucleic Acids Research",
+                "title": "The XXmotif web server for eXhaustive, weight matriX-based motif discovery in nucleotide sequences"
+            },
             "pmcid": "PMC3394272",
             "pmid": "22693218",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         },
         {
             "metadata": {
@@ -102,7 +128,9 @@
                 "title": "P-value-based regulatory motif discovery using positional weight matrices"
             },
             "pmid": "22990209",
-            "type": "Other"
+            "type": [
+                "Other"
+            ]
         }
     ],
     "toolType": [

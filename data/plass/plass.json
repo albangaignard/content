@@ -1,7 +1,5 @@
 {
-    "accessibility": [
-        "Open access"
-    ],
+    "accessibility": "Open access",
     "additionDate": "2019-10-12T11:17:16Z",
     "biotoolsCURIE": "biotools:Plass",
     "biotoolsID": "Plass",
@@ -103,15 +101,19 @@
     "language": [
         "C++"
     ],
-    "lastUpdate": "2020-01-09T22:28:20Z",
+    "lastUpdate": "2020-09-03T23:33:17Z",
     "license": "GPL-3.0",
     "link": [
         {
-            "type": "Issue tracker",
+            "type": [
+                "Issue tracker"
+            ],
             "url": "https://github.com/soedinglab/plass/issues"
         },
         {
-            "type": "Repository",
+            "type": [
+                "Repository"
+            ],
             "url": "https://github.com/soedinglab/plass"
         }
     ],
@@ -138,16 +140,20 @@
                         "name": "Soding J."
                     }
                 ],
-                "citationCount": 1,
+                "citationCount": 6,
                 "date": "2019-07-01T00:00:00Z",
                 "journal": "Nature Methods",
                 "title": "Protein-level assembly increases protein sequence recovery from metagenomic samples manyfold"
             },
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         },
         {
             "doi": "10.1101/386110",
-            "type": "Other"
+            "type": [
+                "Other"
+            ]
         }
     ],
     "relation": [
@@ -174,6 +180,7 @@
         }
     ],
     "version": [
+        "4-687d7",
         "3-764a3",
         "2-c7e35",
         "1-2e0ef"
