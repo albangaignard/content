@@ -18,8 +18,8 @@
       "sc:additionalType": [
         "Command-line tool",
         "Web application",
-        "Web service",
-        "Web API"
+        "Web API",
+        "Web service"
       ],
       "sc:author": {
         "@id": "https://orcid.org/0000-0002-8799-8584"

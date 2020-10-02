@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
     "EMBOSS Contributors",
     "UK MRC",
+    "Wellcome Trust",
     "UK BBSRC"
   ],
   "sc:description": "Display restriction enzyme binding sites in a nucleotide sequence.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "remap",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "EMBL EBI",

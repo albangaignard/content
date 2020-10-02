@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Bradley Broom",
-    "Kim-Anh Do",
     "Paul Roebuck",
+    "Kim-Anh Do",
     "Rumiana Nikolova"
   ],
   "sc:additionalType": "Library",

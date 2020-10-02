@@ -10,13 +10,17 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/NAR/GKW310",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/synteny_portal",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Support",
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pmcid:PMC4987893",
         "pubmed:27154270",
+        "pmcid:PMC4987893",
         {
           "@id": "https://doi.org/10.1093/NAR/GKW310"
         }
@@ -27,15 +31,11 @@
       },
       "sc:name": "Synteny Portal",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bioinfo.konkuk.ac.kr/synteny_portal/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKW310",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

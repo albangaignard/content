@@ -16,8 +16,8 @@
   "sc:name": "RiboVision",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://apollo.chemistry.gatech.edu/RiboVision/"
 }

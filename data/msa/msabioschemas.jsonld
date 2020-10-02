@@ -17,10 +17,10 @@
   ],
   "sc:author": "Sebastian Wilzbach",
   "sc:contributor": [
-    "Benedikt Rauscher",
     "Google Summer of Code (GSoC) 2014",
-    "Ian Sillitoe",
     "Guy Yachdav",
+    "Ian Sillitoe",
+    "Benedikt Rauscher",
     "Tatyana Goldberg"
   ],
   "sc:description": "Display multiple-sequence alignment. The tool is also available as R/BioConductor interface to the multiple sequence alignment algorithms ClustalW, ClustalOmega, and Muscle. All three algorithms are integrated in the package, therefore, they do not depend on any external software tools and are available for all major platforms.",
@@ -28,9 +28,9 @@
   "sc:license": "Apache-2.0",
   "sc:name": "msa",
   "sc:operatingSystem": [
+    "Mac",
     "Windows",
-    "Linux",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
     "Technische Universität München",

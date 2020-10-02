@@ -17,8 +17,8 @@
   "sc:name": "GenomeNet",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.genome.ad.jp/"
 }

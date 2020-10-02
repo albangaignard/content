@@ -18,8 +18,8 @@
   "sc:description": "Prediction of MoRF regions in intrinsically disordered protein sequences.",
   "sc:name": "OPAL",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "http://www.alok-ai-lab.com/tools/opal/"

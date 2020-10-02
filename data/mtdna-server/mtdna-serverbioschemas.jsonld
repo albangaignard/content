@@ -19,8 +19,8 @@
   "sc:description": "Free mtDNA NGS analysis pipeline including heteroplasmy detection and haplogroup-based contamination deconvolution.",
   "sc:name": "mtDNA-Server",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "https://mtdna-server.uibk.ac.at/"

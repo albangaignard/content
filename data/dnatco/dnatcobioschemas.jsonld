@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/dnatco",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Command-line tool",
-    "Web application"
+    "Web application",
+    "Command-line tool"
   ],
   "sc:author": [
     "Bohdan Schneider",
@@ -22,8 +22,8 @@
   "sc:name": "DNATCO",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": "Institute of Biotechnology AS CR, Prague, Czech Republic",
   "sc:url": "http://www.dnatco.org/",

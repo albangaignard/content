@@ -19,8 +19,8 @@
     "Linux"
   ],
   "sc:provider": [
-    "CNIO",
     "CNIC",
+    "CNIO",
     "cnio.es"
   ],
   "sc:url": "http://proteo.bioinfo.cnio.es",

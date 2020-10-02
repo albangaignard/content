@@ -12,23 +12,23 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
     "UK BBSRC",
     "Wellcome Trust",
+    "UK MRC",
     "EMBOSS Contributors"
   ],
   "sc:description": "Draw a hydropathy plot for a protein sequence.",
   "sc:funder": [
-    "UK BBSRC",
     "UK MRC",
+    "UK BBSRC",
     "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "pepwindow",
   "sc:operatingSystem": [
+    "Windows",
     "Linux",
-    "Mac",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
     "EMBOSS",

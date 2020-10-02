@@ -10,6 +10,14 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkp995",
+      "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkq929",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/cosmic",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Cosmic Support",
@@ -18,20 +26,20 @@
         "Web application"
       ],
       "sc:citation": [
-        "pmcid:PMC3263736",
-        "pubmed:20952405",
-        "pubmed:19906727",
+        {
+          "@id": "https://doi.org/10.1093/nar/gkq929"
+        },
         "pmcid:PMC2808858",
         {
           "@id": "https://doi.org/10.1093/nar/gkp995"
         },
-        {
-          "@id": "https://doi.org/10.1093/nar/gkq929"
-        },
-        "pubmed:21609966",
+        "pubmed:19906727",
         {
           "@id": "https://doi.org/10.1093/database/bar018"
         },
+        "pubmed:21609966",
+        "pmcid:PMC3263736",
+        "pubmed:20952405",
         "pmcid:PMC3013785"
       ],
       "sc:description": "Catalogue Of Somatic Mutations In Cancer (COSMIC) - resource for exploring the impact of somatic mutations in human cancer.",
@@ -52,22 +60,14 @@
       "sc:license": "Other",
       "sc:name": "COSMIC",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://www.sanger.ac.uk/genetics/CGP/cosmic/"
     },
     {
-      "@id": "https://doi.org/10.1093/nar/gkq929",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://doi.org/10.1093/database/bar018",
-      "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkp995",
       "@type": "sc:CreativeWork"
     }
   ]

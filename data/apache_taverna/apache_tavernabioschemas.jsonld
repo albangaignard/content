@@ -15,8 +15,8 @@
     "Apache Taverna mailing lists"
   ],
   "sc:additionalType": [
-    "Workbench",
     "Desktop application",
+    "Workbench",
     "Web API",
     "Command-line tool",
     "Web service",
@@ -28,8 +28,8 @@
   "sc:name": "Apache Taverna",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "cs.manchester.ac.uk",
