@@ -1,0 +1,97 @@
+{
+    "additionDate": "2019-11-14T20:08:29Z",
+    "biotoolsCURIE": "biotools:abolishing_activity",
+    "biotoolsID": "abolishing_activity",
+    "confidence_flag": "low",
+    "credit": [
+        {
+            "email": "htakeshi@med.shimane-u.ac.jp",
+            "name": "Haruo Takeshita",
+            "orcidid": "https://orcid.org/0000-0001-6291-4279",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "> LOW CONFIDENCE! | > CORRECT NAME OF TOOL COULD ALSO BE 'associated autoimmunity', 'assumed substantially' | Evaluation of the functional effects of genetic variants\u2012missense and nonsense SNPs, indels and copy number variations\u2012in the gene encoding human deoxyribonuclease I potentially implicated in autoimmunity | Export custom datasets from Ensembl with this data-mining tool | Search our genomes for your DNA or protein sequence",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "SNP detection",
+                    "uri": "http://edamontology.org/operation_0484"
+                },
+                {
+                    "term": "Linkage disequilibrium calculation",
+                    "uri": "http://edamontology.org/operation_0488"
+                },
+                {
+                    "term": "Genotyping",
+                    "uri": "http://edamontology.org/operation_3196"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://asia.ensembl.org",
+    "lastUpdate": "2019-11-14T20:08:29Z",
+    "name": "abolishing activity",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1038/S41598-019-49935-Y",
+            "metadata": {
+                "abstract": "\u00a9 2019, The Author(s).Genetic variants, such as single nucleotide polymorphisms (SNPs), in the deoxyribonuclease I (DNase I) gene which remarkably reduce or abolish the activity are assumed to be substantially responsible for the genetic backgrounds determining susceptibility to autoimmune dysfunction. Here, we evaluated many genetic variants, including missense and nonsense SNPs, and indel (inframe) variants in the gene, potentially implicated in autoimmune diseases as functional variants resulting in altered activity levels. Eighteen missense and 7 nonsense SNPs, and 9 indel (inframe) variants were found to result in loss of function and disappearance of DNase I activity. Furthermore, considering the positions in the DNase I protein corresponding to the various nonsense SNPs, all of the other nonsense SNPs and frameshift variants registered in the Ensembl database (https://asia.ensembl.org) appear likely to exert a pathogenetic effect through loss of the activity. Accordingly, a total of 60 genetic variants in the DNase 1 gene (DNASE1) inducing abolishment or marked reduction of the DNase I activity could be identified as genetic risk factors for autoimmunity, irrespective of how sparsely they were distributed in the population. It was noteworthy that SNP p.Gln244Arg, reportedly associated with autoimmunity and reducing the activity to about half of that of the wild type, and SNP p.Arg107Gly, abolishing the activity completely, were distributed worldwide and in African populations at the polymorphic level, respectively. On the other hand, with regard to copy number variations in DNASE1 where loss of copy leads to a reduction of the in vivo enzyme activity, only 2 diploid copy numbers were distributed in Japanese and German populations, demonstrating no loss of copy. These exhaustive data for genetic variants in DNASE1 resulting in loss or marked reduction of the DNase I activity are highly informative when considering genetic predisposition leading to autoimmune dysfunction.",
+                "authors": [
+                    {
+                        "name": "Ueki M."
+                    },
+                    {
+                        "name": "Kimura-Kataoka K."
+                    },
+                    {
+                        "name": "Fujihara J."
+                    },
+                    {
+                        "name": "Iida R."
+                    },
+                    {
+                        "name": "Kawai Y."
+                    },
+                    {
+                        "name": "Kusaka A."
+                    },
+                    {
+                        "name": "Sasaki T."
+                    },
+                    {
+                        "name": "Takeshita H."
+                    },
+                    {
+                        "name": "Yasuda T."
+                    }
+                ],
+                "citationCount": 1,
+                "date": "2019-12-01T00:00:00Z",
+                "journal": "Scientific Reports",
+                "title": "Evaluation of the functional effects of genetic variants\u2012missense and nonsense SNPs, indels and copy number variations\u2012in the gene encoding human deoxyribonuclease I potentially implicated in autoimmunity"
+            },
+            "pmcid": "PMC6754452",
+            "pmid": "31541133"
+        }
+    ],
+    "topic": [
+        {
+            "term": "DNA polymorphism",
+            "uri": "http://edamontology.org/topic_2885"
+        },
+        {
+            "term": "Mapping",
+            "uri": "http://edamontology.org/topic_0102"
+        },
+        {
+            "term": "Gene expression",
+            "uri": "http://edamontology.org/topic_0203"
+        }
+    ]
+}

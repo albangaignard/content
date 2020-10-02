@@ -1,0 +1,97 @@
+{
+    "additionDate": "2019-11-14T20:01:41Z",
+    "biotoolsCURIE": "biotools:GCF",
+    "biotoolsID": "GCF",
+    "confidence_flag": "low",
+    "credit": [
+        {
+            "email": "maito@sk.ritsumei.ac.jp",
+            "name": "Masahiro Ito",
+            "orcidid": "https://orcid.org/0000-0001-8364-8440",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "> LOW CONFIDENCE! | > CORRECT NAME OF TOOL COULD ALSO BE 'Gene Cascade Finder' | A tool for identification of gene cascades and its application in Caenorhabditis elegans | Obtaining a comprehensive understanding of the gene regulatory networks, or gene cascades, involved in cell fate determination and cell lineage segregation in Caenorhabditis elegans is a long-standing challenge. Although RNA-sequencing (RNA-Seq) is a promising technique to resolve these questions, the bioinformatics tools to identify associated gene cascades from RNA-Seq data remain inadequate. To overcome these limitations, we developed Gene Cascade Finder (GCF) as a novel tool for building gene cascades by comparison of mutant and wild-type RNA-Seq data along with integrated information of protein-protein interactions, expression timing, and domains. Application of GCF to RNA-Seq data confirmed that SPN-4 and MEX-3 regulate the canonical Wnt pathway during embryonic development",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Pathway or network prediction",
+                    "uri": "http://edamontology.org/operation_3439"
+                },
+                {
+                    "term": "Pathway or network comparison",
+                    "uri": "http://edamontology.org/operation_0277"
+                },
+                {
+                    "term": "Gene regulatory network analysis",
+                    "uri": "http://edamontology.org/operation_1781"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://www.gcf.sk.ritsumei.ac.jp",
+    "lastUpdate": "2019-11-14T20:01:41Z",
+    "name": "GCF",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1371/JOURNAL.PONE.0215187",
+            "metadata": {
+                "abstract": "\u00a9 2019 Nomoto et al.Obtaining a comprehensive understanding of the gene regulatory networks, or gene cascades, involved in cell fate determination and cell lineage segregation in Caenorhabditis elegans is a long-standing challenge. Although RNA-sequencing (RNA-Seq) is a promising technique to resolve these questions, the bioinformatics tools to identify associated gene cascades from RNA-Seq data remain inadequate. To overcome these limitations, we developed Gene Cascade Finder (GCF) as a novel tool for building gene cascades by comparison of mutant and wild-type RNA-Seq data along with integrated information of proteinprotein interactions, expression timing, and domains. Application of GCF to RNA-Seq data confirmed that SPN-4 and MEX-3 regulate the canonical Wnt pathway during embryonic development. Moreover, lin-35, hsp-3, and gpa-12 were found to be involved in MEX-1- dependent neurogenesis, and MEX-3 was found to control the gene cascade promoting neurogenesis through lin-35 and apl-1. Thus, GCF could be a useful tool for building gene cascades from RNA-Seq data.",
+                "authors": [
+                    {
+                        "name": "Nomoto Y."
+                    },
+                    {
+                        "name": "Kubota Y."
+                    },
+                    {
+                        "name": "Ohnishi Y."
+                    },
+                    {
+                        "name": "Kasahara K."
+                    },
+                    {
+                        "name": "Tomita A."
+                    },
+                    {
+                        "name": "Oshime T."
+                    },
+                    {
+                        "name": "Yamashita H."
+                    },
+                    {
+                        "name": "Fahmi M."
+                    },
+                    {
+                        "name": "Ito M."
+                    }
+                ],
+                "citationCount": 1,
+                "date": "2019-09-01T00:00:00Z",
+                "journal": "PLoS ONE",
+                "title": "Gene Cascade Finder: A tool for identification of gene cascades and its application in Caenorhabditis elegans"
+            },
+            "pmcid": "PMC6736238",
+            "pmid": "31504044"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Gene expression",
+            "uri": "http://edamontology.org/topic_0203"
+        },
+        {
+            "term": "RNA-Seq",
+            "uri": "http://edamontology.org/topic_3170"
+        },
+        {
+            "term": "Molecular interactions, pathways and networks",
+            "uri": "http://edamontology.org/topic_0602"
+        }
+    ]
+}
