@@ -17,8 +17,8 @@
   "sc:name": "OVNIp",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://wwwappli.nantes.inra.fr:8180/OVNIp/"
 }

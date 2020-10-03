@@ -28,8 +28,8 @@
       "sc:name": "WORMHOLE",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://wormhole.jax.org/"
     },

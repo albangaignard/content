@@ -10,21 +10,21 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-2873-2671",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1093/biostatistics/kxt053",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-2873-2671",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/derfinder",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Leonardo Collado-Torres",
         {
           "@id": "http://orcid.org/0000-0002-2873-2671"
-        },
-        "Leonardo Collado-Torres"
+        }
       ],
       "edam:has_input": {
         "@id": "edam:data_3496"
@@ -33,8 +33,8 @@
         "@id": "edam:data_2048"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_3170"
@@ -58,9 +58,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "derfinder",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/derfinder.html",
       "sc:version": "1.8.0"

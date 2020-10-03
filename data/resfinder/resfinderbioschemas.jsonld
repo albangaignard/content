@@ -38,9 +38,9 @@
       "sc:license": "Other",
       "sc:name": "ResFinder",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": "CBS",
       "sc:softwareHelp": {

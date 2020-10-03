@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
-    "EMBOSS Contributors",
     "UK BBSRC",
-    "Wellcome Trust"
+    "UK MRC",
+    "Wellcome Trust",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Validate index and report internals for dbx databases.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "dbxreport",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "EMBOSS",

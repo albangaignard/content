@@ -17,8 +17,8 @@
   "sc:name": "Alview",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://cbiit.nci.nih.gov/ncip"
 }

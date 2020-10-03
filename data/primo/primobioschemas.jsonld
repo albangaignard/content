@@ -10,13 +10,17 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1371/JOURNAL.PONE.0166698",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/primo",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Özlem Tastan Bishop",
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pmcid:PMC5113968",
         "pubmed:27855192",
+        "pmcid:PMC5113968",
         {
           "@id": "https://doi.org/10.1371/JOURNAL.PONE.0166698"
         }
@@ -32,10 +36,6 @@
         "Windows"
       ],
       "sc:url": "https://primo.rubi.ru.ac.za/"
-    },
-    {
-      "@id": "https://doi.org/10.1371/JOURNAL.PONE.0166698",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

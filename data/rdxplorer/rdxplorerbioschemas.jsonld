@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1371/JOURNAL.PCBI.1007069",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/RDXplorer",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Makarov V.",
@@ -34,6 +30,10 @@
         "Mac"
       ],
       "sc:url": "https://sourceforge.net/projects/rdxplorer/"
+    },
+    {
+      "@id": "https://doi.org/10.1371/JOURNAL.PCBI.1007069",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

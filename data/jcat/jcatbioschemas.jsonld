@@ -17,8 +17,8 @@
   "sc:name": "JCat",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.jcat.de/"
 }

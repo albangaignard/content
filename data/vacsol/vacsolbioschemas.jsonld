@@ -22,8 +22,8 @@
         "Desktop application"
       ],
       "sc:citation": [
-        "pubmed:28193166",
         "pmcid:PMC5307925",
+        "pubmed:28193166",
         {
           "@id": "https://doi.org/10.1186/s12859-017-1540-0"
         }
@@ -34,9 +34,9 @@
       },
       "sc:name": "VacSol",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "https://sourceforge.net/projects/vacsol/"
     }

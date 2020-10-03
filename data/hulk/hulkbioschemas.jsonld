@@ -36,9 +36,9 @@
       "sc:license": "Other",
       "sc:name": "HULK",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://github.com/will-rowe/hulk"
     },

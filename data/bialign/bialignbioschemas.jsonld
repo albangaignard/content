@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Ivo L. Hofacker",
-    "Sebastian Will",
+    "Maria Waldl",
     "Michael T. Wolfinger",
-    "Maria Waldl"
+    "Sebastian Will"
   ],
   "sc:additionalType": "Script",
   "sc:description": "Bi-Alignments as Models of Incongruent Evolution of RNA Sequence and Structure.",

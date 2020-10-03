@@ -16,8 +16,8 @@
   "sc:name": "InsectBase",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.insect-genome.com/"
 }

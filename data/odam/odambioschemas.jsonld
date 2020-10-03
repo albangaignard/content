@@ -28,8 +28,8 @@
       "sc:name": "ODAM",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://pmb-bordeaux.fr/dataexplorer/",
       "sc:version": "1.1"

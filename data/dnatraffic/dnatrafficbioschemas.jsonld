@@ -17,8 +17,8 @@
   "sc:name": "DNAtraffic",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://dnatraffic.ibb.waw.pl/"
 }

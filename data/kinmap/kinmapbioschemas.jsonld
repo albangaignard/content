@@ -27,9 +27,9 @@
       },
       "sc:name": "KinMap",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://www.kinhub.org/kinmap/"
     },

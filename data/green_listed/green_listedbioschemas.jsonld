@@ -17,8 +17,8 @@
   "sc:name": "Green listed",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://greenlisted.cmm.ki.se/"
 }
