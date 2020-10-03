@@ -19,7 +19,9 @@
     "description": "This package implements sampling, iteration, and input of FASTQ files. The package includes functions for filtering and trimming reads, and for generating a quality assessment report. Data are represented as DNAStringSet-derived objects, and easily manipulated for a diversity of purposes. The package also contains legacy support for early single-end, ungapped alignment formats.",
     "documentation": [
         {
-            "type": "User manual",
+            "type": [
+                "User manual"
+            ],
             "url": "http://bioconductor.org/packages/release/bioc/html/ShortRead.html"
         }
     ],
@@ -62,7 +64,9 @@
     "license": "Artistic-2.0",
     "link": [
         {
-            "type": "Mirror",
+            "type": [
+                "Mirror"
+            ],
             "url": "http://bioconductor.org/packages/ShortRead/"
         }
     ],
@@ -76,9 +80,38 @@
     "publication": [
         {
             "doi": "10.1093/bioinformatics/btp450",
+            "metadata": {
+                "abstract": "Summary: ShortRead is a package for input, quality assessment, manipulation and output of high-throughput sequencing data. ShortRead is provided in the R and Bioconductor environments, allowing ready access to additional facilities for advanced statistical analysis, data transformation, visualization and integration with diverse genomic resources. \u00a9 The Author(s) 2009. Published by Oxford University Press.",
+                "authors": [
+                    {
+                        "name": "Morgan M."
+                    },
+                    {
+                        "name": "Anders S."
+                    },
+                    {
+                        "name": "Lawrence M."
+                    },
+                    {
+                        "name": "Aboyoun P."
+                    },
+                    {
+                        "name": "Pages H."
+                    },
+                    {
+                        "name": "Gentleman R."
+                    }
+                ],
+                "citationCount": 244,
+                "date": "2009-10-16T00:00:00Z",
+                "journal": "Bioinformatics",
+                "title": "ShortRead: A bioconductor package for input, quality assessment and exploration of high-throughput sequence data"
+            },
             "pmcid": "PMC2752612",
             "pmid": "19654119",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
