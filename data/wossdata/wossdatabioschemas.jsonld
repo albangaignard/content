@@ -19,16 +19,16 @@
   ],
   "sc:description": "Find programs by EDAM data.",
   "sc:funder": [
+    "UK MRC",
     "Wellcome Trust",
-    "UK BBSRC",
-    "UK MRC"
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "wossdata",
   "sc:operatingSystem": [
-    "Mac",
+    "Linux",
     "Windows",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
     "EMBOSS",

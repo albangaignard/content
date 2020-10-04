@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Yunbin Zhang",
-    "Hiromi W.L. Koh",
     "Hyungwon Choi",
+    "Hiromi W.L. Koh",
     "Christine Vogel"
   ],
   "sc:additionalType": "Plug-in",

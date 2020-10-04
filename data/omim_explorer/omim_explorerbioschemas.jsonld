@@ -30,21 +30,21 @@
           "@id": "edam:operation_2422"
         },
         {
-          "@id": "edam:operation_3096"
+          "@id": "edam:operation_3778"
         },
         {
           "@id": "edam:operation_3083"
         },
         {
-          "@id": "edam:operation_3778"
+          "@id": "edam:operation_3096"
         }
       ],
       "sc:license": "Other",
       "sc:name": "OMIM explorer",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://www.omimexplorer.com/"
     },

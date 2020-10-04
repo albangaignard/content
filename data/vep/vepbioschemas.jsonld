@@ -13,8 +13,8 @@
   "biotools:primaryContact": "Contact Form",
   "sc:additionalType": [
     "Command-line tool",
-    "Web service",
     "Web application",
+    "Web service",
     "Script"
   ],
   "sc:author": "Ensembl",

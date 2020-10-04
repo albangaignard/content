@@ -16,8 +16,8 @@
   "sc:name": "riboPicker",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://ribopicker.sourceforge.net/"
 }

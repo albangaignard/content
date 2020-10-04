@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/splicingviewer",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Huabin Hou",
     "Linglin Zhou",
+    "Huabin Hou",
     "SplicingViewer team",
     "Qi Liu"
   ],

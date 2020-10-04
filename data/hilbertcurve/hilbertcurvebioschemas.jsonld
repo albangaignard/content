@@ -27,8 +27,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "HilbertCurve",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/HilbertCurve.html",

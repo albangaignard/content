@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/2049-2618-2-15",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/aldex2",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -26,8 +22,8 @@
         "@id": "edam:data_0951"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
@@ -38,8 +34,8 @@
         }
       ],
       "sc:citation": [
-        "pmcid:PMC4030730",
         "pubmed:24910773",
+        "pmcid:PMC4030730",
         {
           "@id": "https://doi.org/10.1186/2049-2618-2-15"
         }
@@ -60,6 +56,10 @@
     {
       "@id": "http://orcid.org/0000-0001-5803-3380",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1186/2049-2618-2-15",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

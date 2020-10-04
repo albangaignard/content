@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Louis Mullie",
       "sc:additionalType": [
-        "Web application",
-        "Web API"
+        "Web API",
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:30744586",
@@ -32,8 +32,8 @@
       "sc:license": "MIT",
       "sc:name": "CoreSlicer",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://coreslicer.com/"

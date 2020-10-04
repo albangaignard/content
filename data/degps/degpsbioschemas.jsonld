@@ -32,9 +32,9 @@
       "sc:license": "Other",
       "sc:name": "deGPS",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://github.com/LL-LAB-MCW/deGPS"
     }

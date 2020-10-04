@@ -18,8 +18,8 @@
   "sc:name": "Slider",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://www.bcgsc.ca/platform/bioinfo/software/slider"
 }

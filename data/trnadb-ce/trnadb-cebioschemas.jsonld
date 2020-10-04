@@ -17,8 +17,8 @@
   "sc:name": "tRNADB-CE",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://trna.nagahama-i-bio.ac.jp"
 }

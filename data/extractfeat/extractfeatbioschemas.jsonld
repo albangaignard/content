@@ -12,16 +12,16 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
-    "EMBOSS Contributors",
+    "UK MRC",
     "UK BBSRC",
-    "UK MRC"
+    "Wellcome Trust",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Extract some features from sequence(s).",
   "sc:funder": [
     "Wellcome Trust",
-    "UK MRC",
-    "UK BBSRC"
+    "UK BBSRC",
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "extractfeat",
@@ -31,8 +31,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/extractfeat.html",
   "sc:version": "r6"

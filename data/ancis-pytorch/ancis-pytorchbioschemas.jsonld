@@ -13,10 +13,10 @@
   "biotools:primaryContact": [
     "Menglin Jiang",
     "Jingru Yi",
-    "Pengxiang Wu",
-    "Daniel J. Hoeppner",
     "Qiaoying Huang",
-    "Dimitris N. Metaxas"
+    "Dimitris N. Metaxas",
+    "Daniel J. Hoeppner",
+    "Pengxiang Wu"
   ],
   "sc:additionalType": "Script",
   "sc:citation": "pubmed:31103790",

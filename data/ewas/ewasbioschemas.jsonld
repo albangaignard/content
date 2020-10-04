@@ -23,9 +23,9 @@
   "sc:license": "Unlicense",
   "sc:name": "EWAS",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.bioapp.org/ewas/"
 }

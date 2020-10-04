@@ -39,8 +39,8 @@
       "sc:name": "DEQOR",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://144.76.155.9/deqor_new/input.html",
       "sc:version": "3"

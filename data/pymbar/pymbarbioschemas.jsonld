@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/pymbar",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "John D. Chodera",
     "Kyle A. Beauchamp",
     "Levi N. Naden",
+    "John D. Chodera",
     "Michael R. Shirts"
   ],
   "sc:additionalType": "Library",
@@ -22,8 +22,8 @@
   "sc:name": "pymbar",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://github.com/choderalab/pymbar"
 }

@@ -15,8 +15,8 @@
   "sc:name": "Swiss-PdbViewer",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://spdbv.vital-it.ch/"
 }
