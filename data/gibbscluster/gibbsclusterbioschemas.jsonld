@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1093/NAR/GKX248",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/gibbscluster",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Morten Nielsen",
@@ -29,8 +25,8 @@
         {
           "@id": "https://doi.org/10.1093/NAR/GKX248"
         },
-        "pubmed:28407089",
-        "pmcid:PMC5570237"
+        "pmcid:PMC5570237",
+        "pubmed:28407089"
       ],
       "sc:contributor": {
         "@id": "http://orcid.org/0000-0002-8036-2647"
@@ -49,6 +45,10 @@
       ],
       "sc:name": "GibbsCluster",
       "sc:url": "http://www.cbs.dtu.dk/services/GibbsCluster-2.0"
+    },
+    {
+      "@id": "https://doi.org/10.1093/NAR/GKX248",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

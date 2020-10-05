@@ -31,9 +31,9 @@
       },
       "sc:name": "InsertionMapper",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://sourceforge.net/projects/insertionmapper/"
     }

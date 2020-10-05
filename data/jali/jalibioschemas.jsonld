@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/jali",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web application",
     "Web API",
+    "Web application",
     "Command-line tool"
   ],
   "sc:author": "Jens Stoye",
@@ -24,9 +24,9 @@
     "Linux"
   ],
   "sc:provider": [
-    "BiBiServ",
+    "Bielefeld University",
     "CeBiTec",
-    "Bielefeld University"
+    "BiBiServ"
   ],
   "sc:url": "http://bibiserv.cebitec.uni-bielefeld.de/jali",
   "sc:version": "1.3"

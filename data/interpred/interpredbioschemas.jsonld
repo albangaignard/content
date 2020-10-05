@@ -17,8 +17,8 @@
   "sc:name": "InterPred",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://bioinfo.ifm.liu.se/inter/interpred/"
 }

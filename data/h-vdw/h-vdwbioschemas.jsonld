@@ -16,8 +16,8 @@
   "sc:name": "H-VDW",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.cbi.seu.edu.cn/H-VDW/H-VDW.htm"
 }

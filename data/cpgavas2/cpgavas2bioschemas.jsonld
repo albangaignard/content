@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/NAR/GKZ345",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/CPGAVAS2",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Chang Liu",
@@ -43,11 +39,15 @@
       "sc:license": "Unlicense",
       "sc:name": "CPGAVAS2",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://www.herbalgenomics.org/cpgavas2"
+    },
+    {
+      "@id": "https://doi.org/10.1093/NAR/GKZ345",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

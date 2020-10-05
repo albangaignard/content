@@ -21,8 +21,8 @@
         "Anthony Hawkins"
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:20132535",
@@ -38,9 +38,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "GOseq",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/goseq.html",
       "sc:version": "1.26.0"

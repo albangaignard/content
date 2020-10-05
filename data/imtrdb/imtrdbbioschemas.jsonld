@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12864-019-5536-1",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/ImtRDB",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -17,8 +21,8 @@
         "Konstantin Gunbin"
       ],
       "sc:additionalType": [
-        "Database portal",
-        "Desktop application"
+        "Desktop application",
+        "Database portal"
       ],
       "sc:citation": [
         {
@@ -39,15 +43,11 @@
       "sc:license": "Unlicense",
       "sc:name": "ImtRDB",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioinfodbs.kantiana.ru/ImtRDB/"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12864-019-5536-1",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

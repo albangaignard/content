@@ -21,8 +21,8 @@
   "sc:name": "PROFhtm",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "RostLab",

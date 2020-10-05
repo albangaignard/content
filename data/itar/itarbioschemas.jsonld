@@ -36,8 +36,8 @@
       ],
       "sc:name": "iTAR",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://syslab3.nchu.edu.tw/iTAR/"

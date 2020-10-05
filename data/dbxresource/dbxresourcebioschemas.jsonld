@@ -14,21 +14,21 @@
   "sc:contributor": [
     "Wellcome Trust",
     "EMBOSS Contributors",
-    "UK MRC",
-    "UK BBSRC"
+    "UK BBSRC",
+    "UK MRC"
   ],
   "sc:description": "Index a data resource catalogue using b+tree indices.",
   "sc:funder": [
+    "UK MRC",
     "Wellcome Trust",
-    "UK BBSRC",
-    "UK MRC"
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "dbxresource",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "EMBOSS",

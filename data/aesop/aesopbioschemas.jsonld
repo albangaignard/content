@@ -28,9 +28,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "AESOP",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://aesop.readthedocs.io/en/latest/index.html"
     },

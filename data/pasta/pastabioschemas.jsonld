@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0003-4525-7793",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/pasta",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -24,10 +28,10 @@
       "sc:additionalType": "Web application",
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0128"
+          "@id": "edam:topic_0080"
         },
         {
-          "@id": "edam:topic_0080"
+          "@id": "edam:topic_0128"
         }
       ],
       "sc:citation": [
@@ -43,9 +47,9 @@
       },
       "sc:name": "PASTA",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": [
         "ELIXIR-ITA-PADOVA",
@@ -53,10 +57,6 @@
       ],
       "sc:url": "http://protein.bio.unipd.it/pasta2/index.html",
       "sc:version": "2.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0003-4525-7793",
-      "@type": "schema:Person"
     },
     {
       "@id": "https://doi.org/10.1093/nar/gku399",

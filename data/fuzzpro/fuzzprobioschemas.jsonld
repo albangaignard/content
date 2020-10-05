@@ -14,8 +14,8 @@
   "sc:contributor": [
     "Wellcome Trust",
     "EMBOSS Contributors",
-    "UK BBSRC",
-    "UK MRC"
+    "UK MRC",
+    "UK BBSRC"
   ],
   "sc:description": "Search for patterns in protein sequences.",
   "sc:funder": [
@@ -26,8 +26,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "fuzzpro",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": [

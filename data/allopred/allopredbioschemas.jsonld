@@ -24,8 +24,8 @@
         "@id": "http://orcid.org/0000-0002-5154-1929"
       },
       "sc:additionalType": [
-        "Web application",
-        "Command-line tool"
+        "Command-line tool",
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC4619270",
@@ -42,8 +42,8 @@
       "sc:name": "AlloPred",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": "hotmail.co.uk",
       "sc:url": "http://www.sbg.bio.ic.ac.uk/allopred/home",

@@ -28,8 +28,8 @@
       "sc:name": "Elviz",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://genome.jgi.doe.gov/viz/"
     },

@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/cafe_sequence_analysis",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Prof. Fengzhu Sun",
-        "Yang Lu"
+        "Yang Lu",
+        "Prof. Fengzhu Sun"
       ],
       "sc:additionalType": [
         "Command-line tool",
@@ -39,8 +39,8 @@
       "sc:name": "CAFE",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://github.com/younglululu/CAFE"
     },

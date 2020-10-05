@@ -17,8 +17,8 @@
   "sc:name": "JOY",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://mizuguchilab.org/joy/"
 }

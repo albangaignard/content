@@ -10,12 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1371/JOURNAL.PCBI.1007012",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://orcid.org/0000-0002-4264-8572",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1371/JOURNAL.PCBI.1007012",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/DoGNet",
@@ -38,9 +38,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "DoGNet",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://github.com/kulikovv/dognet"
     }

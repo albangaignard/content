@@ -27,9 +27,9 @@
       },
       "sc:name": "VDJviz",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://github.com/antigenomics/vdjviz"
     },

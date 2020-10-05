@@ -17,8 +17,8 @@
   "sc:name": "SoyBase",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://soybase.org"
 }

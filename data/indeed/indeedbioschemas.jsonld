@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/INDEED",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Zhenzhi Li",
-        "Yiming Zuo"
+        "Yiming Zuo",
+        "Zhenzhi Li"
       ],
       "sc:additionalType": "Library",
       "sc:author": "Zhenzhi Li",
@@ -41,8 +41,8 @@
       "sc:name": "INDEED",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://bioconductor.org/packages/release/bioc/html/INDEED.html",
       "sc:version": "1.2.0"

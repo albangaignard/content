@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
     "Command-line tool",
-    "Web application",
-    "Web API"
+    "Web API",
+    "Web application"
   ],
   "sc:author": [
     "Thomas Gatter",
@@ -25,13 +25,13 @@
   "sc:name": "genefisher2",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
-    "CeBiTec",
     "BiBiServ",
-    "Bielefeld University"
+    "Bielefeld University",
+    "CeBiTec"
   ],
   "sc:url": "http://bibiserv.cebitec.uni-bielefeld.de/genefisher2",
   "sc:version": "1"
