@@ -19,7 +19,9 @@
     "description": "Haplotyping programs package: LinkPHASE,HiddenPHASE, DualPHASE and DAGPHASE. The proposed methods work in two steps. First, haplotypes are reconstructed based on familial information (Mendelian segregation rules and linkage information) and next it fills in the gaps by applying a Hidden Markov Model (models from fastPHASE (Scheet and Stephens, 2006) or from Beagle (Browning and Browning, 2007)).",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "http://www.giga.ulg.ac.be/cms/c_55143/fr/phasebook-2-5-tar"
         }
     ],
@@ -70,11 +72,32 @@
                 "title": "LINKPHASE3: An improved pedigree-based phasing algorithm robust to genotyping and map errors"
             },
             "pmid": "25573918",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         },
         {
+            "doi": "10.1534/genetics.109.108431",
+            "metadata": {
+                "abstract": "Faithful reconstruction of haplotypes from diploid marker data (phasing) is important for many kinds of genetic analyses, including mapping of trait loci, prediction of genomic breeding values, and identification of signatures of selection. In human genetics, phasing most often exploits population information (linkage disequilibrium), while in animal genetics the primary source of information is familial (Mendelian segregation and linkage). We herein develop and evaluate a method that simultaneously exploits both sources of information. It builds on hidden Markov models that were initially developed to exploit population information only.We demonstrate that the approach improves the accuracy of allele phasing as well as imputation of missing genotypes. Reconstructed haplotypes are assigned to hidden states that are shown to correspond to clusters of genealogically related chromosomes.We show that these cluster states can directly be used to fine map QTL. The method is computationally effective at handling large data sets based on high-density SNP panels. Copyright \u00a9 2010 by the Genetics Society of America.",
+                "authors": [
+                    {
+                        "name": "Druet T."
+                    },
+                    {
+                        "name": "Georges M."
+                    }
+                ],
+                "citationCount": 153,
+                "date": "2010-03-01T00:00:00Z",
+                "journal": "Genetics",
+                "title": "A hidden Markov model combining linkage and linkage disequilibrium information for haplotype reconstruction and quantitative trait locus fine mapping"
+            },
             "pmcid": "PMC2845346",
-            "type": "Primary"
+            "pmid": "20008575",
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [

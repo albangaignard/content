@@ -86,7 +86,9 @@
     "description": "Resource to explore known and predicted interactions of chemicals and proteins. Chemicals are linked to other chemicals and proteins by evidence derived from experiments, databases and the literature.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "http://stitch.embl.de/cgi/show_info_page.pl?UserId=pRfi11Qlkhnx&sessionId=sEfmbh_T7QLq"
         }
     ],
@@ -243,9 +245,35 @@
     "publication": [
         {
             "doi": "10.1093/nar/gkm795",
+            "metadata": {
+                "abstract": "The knowledge about interactions between proteins and small molecules is essential for the understanding of molecular and cellular functions. However, information on such interactions is widely dispersed across numerous databases and the literature. To facilitate access to this data, STITCH ('search tool for interactions of chemicals') integrates information about interactions from metabolic pathways, crystal structures, binding experiments and drug-target relationships. Inferred information from phenotypic effects, text mining and chemical structure similarity is used to predict relations between chemicals. STITCH further allows exploring the network of chemical relations, also in the context of associated binding proteins. Each proposed interaction can be traced back to the original data sources. Our database contains interaction information for over 68 000 different chemicals, including 2200 drugs, and connects them to 1.5 million genes across 373 genomes and their interactions contained in the STRING database. STITCH is available at http://stitch.embl.de/. \u00a9 2007 The Author(s).",
+                "authors": [
+                    {
+                        "name": "Kuhn M."
+                    },
+                    {
+                        "name": "von Mering C."
+                    },
+                    {
+                        "name": "Campillos M."
+                    },
+                    {
+                        "name": "Jensen L.J."
+                    },
+                    {
+                        "name": "Bork P."
+                    }
+                ],
+                "citationCount": 381,
+                "date": "2008-01-01T00:00:00Z",
+                "journal": "Nucleic Acids Research",
+                "title": "STITCH: Interaction networks of chemicals and proteins"
+            },
             "pmcid": "PMC2238848",
             "pmid": "18084021",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         },
         {
             "metadata": {
@@ -282,7 +310,9 @@
                 "title": "STITCH 2: An interaction network database for small molecules and proteins"
             },
             "pmid": "19897548",
-            "type": "Other"
+            "type": [
+                "Other"
+            ]
         },
         {
             "metadata": {
@@ -316,7 +346,9 @@
                 "title": "STITCH 4: Integration of protein-chemical interactions with user data"
             },
             "pmid": "24293645",
-            "type": "Other"
+            "type": [
+                "Other"
+            ]
         },
         {
             "metadata": {
@@ -347,7 +379,9 @@
                 "title": "STITCH 3: Zooming in on protein-chemical interactions"
             },
             "pmid": "22075997",
-            "type": "Other"
+            "type": [
+                "Other"
+            ]
         }
     ],
     "toolType": [
