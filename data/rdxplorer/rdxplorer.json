@@ -1,7 +1,5 @@
 {
-    "accessibility": [
-        "Open access"
-    ],
+    "accessibility": "Open access",
     "additionDate": "2019-08-09T13:23:44Z",
     "biotoolsCURIE": "biotools:RDXplorer",
     "biotoolsID": "RDXplorer",
@@ -19,7 +17,9 @@
     "description": "> LOW CONFIDENCE! | > CORRECT NAME OF TOOL COULD ALSO BE 'LUMPY', 'CNVnator RDXplorer', 'CNVnator' (bio.tools/cnvnator), 'CNV' | Comprehensively benchmarking applications for detecting copy number variation | The RDXplorer is a computational tool for copy number variants (CNV) detection in whole human genome sequence data using read depth (RD) coverage. CNV detection is based on the Event-Wise Testing (EWT) algorithm recently published by our group",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "http://rdxplorer.sourceforge.net/"
         }
     ],
@@ -55,7 +55,7 @@
         "R",
         "Python"
     ],
-    "lastUpdate": "2019-10-31T12:13:30Z",
+    "lastUpdate": "2020-06-16T10:55:26Z",
     "license": "Other",
     "maturity": "Emerging",
     "name": "RDXplorer",
@@ -67,9 +67,32 @@
     "publication": [
         {
             "doi": "10.1371/JOURNAL.PCBI.1007069",
+            "metadata": {
+                "abstract": "\u00a9 2019 Zhang et al.Motivation: Recently, copy number variation (CNV) has gained considerable interest as a type of genomic variation that plays an important role in complex phenotypes and disease susceptibility. Since a number of CNV detection methods have recently been developed, it is necessary to help investigators choose suitable methods for CNV detection depending on their objectives. For this reason, this study compared ten commonly used CNV detection applications, including CNVnator, ReadDepth, RDXplorer, LUMPY and Control-FREEC, benchmarking the applications by sensitivity, specificity and computational demands. Taking the DGV gold standard variants as a standard dataset, we evaluated the ten applications with real sequencing data at sequencing depths from 5X to 50X. Among the ten methods benchmarked, LUMPY performs the best for both high sensitivity and specificity at each sequencing depth. For the purpose of high specificity, Canvas is also a good choice. If high sensitivity is preferred, CNVnator and RDXplorer are better choices. Additionally, CNVnator and GROM-RD perform well for low-depth sequencing data. Our results provide a comprehensive performance evaluation for these selected CNV detection methods and facilitate future development and improvement in CNV prediction methods.",
+                "authors": [
+                    {
+                        "name": "Zhang L."
+                    },
+                    {
+                        "name": "Bai W."
+                    },
+                    {
+                        "name": "Yuan N."
+                    },
+                    {
+                        "name": "Du Z."
+                    }
+                ],
+                "citationCount": 6,
+                "date": "2019-01-01T00:00:00Z",
+                "journal": "PLoS Computational Biology",
+                "title": "Comprehensively benchmarking applications for detecting copy number variation"
+            },
             "pmcid": "PMC6555534",
             "pmid": "31136576",
-            "type": "Benchmarking study"
+            "type": [
+                "Benchmarking study"
+            ]
         },
         {
             "metadata": {
@@ -97,7 +120,9 @@
                 "title": "Sensitive and accurate detection of copy number variants using read depth of coverage"
             },
             "pmid": "19657104",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
