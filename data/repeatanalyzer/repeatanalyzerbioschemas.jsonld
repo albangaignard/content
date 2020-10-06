@@ -29,8 +29,8 @@
       "sc:name": "RepeatAnalyzer",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://bitbucket.org/repeatgroup/repeatanalyzer/overview"
     },

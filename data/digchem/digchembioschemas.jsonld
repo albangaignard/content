@@ -14,10 +14,6 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://doi.org/10.1371/JOURNAL.PCBI.1007022",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/DigChem",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -34,10 +30,10 @@
       "sc:description": "Identification of disease-gene-chemical relationships from Medline abstracts.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3625"
+          "@id": "edam:operation_2422"
         },
         {
-          "@id": "edam:operation_2422"
+          "@id": "edam:operation_3625"
         },
         {
           "@id": "edam:operation_3280"
@@ -46,11 +42,15 @@
       "sc:license": "Unlicense",
       "sc:name": "DigChem",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://gcancer.org/digchem"
+    },
+    {
+      "@id": "https://doi.org/10.1371/JOURNAL.PCBI.1007022",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

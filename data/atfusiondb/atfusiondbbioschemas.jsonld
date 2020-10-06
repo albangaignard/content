@@ -34,16 +34,16 @@
           "@id": "edam:operation_0224"
         },
         {
-          "@id": "edam:operation_0495"
+          "@id": "edam:operation_2495"
         },
         {
-          "@id": "edam:operation_2495"
+          "@id": "edam:operation_0495"
         }
       ],
       "sc:name": "AtFusionDB",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://www.nipgr.ac.in/AtFusionDB/"

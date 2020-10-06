@@ -17,8 +17,8 @@
   "sc:name": "SpliceDisease DB",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://202.38.126.151:8080/SDisease/"
 }

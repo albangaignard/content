@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/geneid",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Francisco Camara",
-        "Support"
+        "Support",
+        "Francisco Camara"
       ],
       "sc:additionalType": [
         "Web application",
@@ -23,10 +23,10 @@
       "sc:author": "Roderic Guigo",
       "sc:citation": "pubmed:18428791",
       "sc:contributor": [
+        "Tyler Alioto",
         {
           "@id": "http://orcid.org/0000-0001-6261-7370"
-        },
-        "Tyler Alioto"
+        }
       ],
       "sc:description": "Ab initio gene finding program used to predict genes along DNA sequences in a large set of organisms.",
       "sc:license": "GPL-3.0",

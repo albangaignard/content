@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/phageterm",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Julian Garneau",
     "Marc Monot",
+    "Julian Garneau",
     "David Bikard"
   ],
   "sc:additionalType": "Command-line tool",

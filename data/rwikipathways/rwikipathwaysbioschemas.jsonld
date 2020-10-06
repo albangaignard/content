@@ -24,8 +24,8 @@
       "sc:name": "rWikiPathways",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/rWikiPathways.html",
       "sc:version": "1.0.0"

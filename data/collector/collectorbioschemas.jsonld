@@ -15,8 +15,8 @@
     "Manuel Pastor"
   ],
   "sc:additionalType": [
-    "Web service",
     "Web application",
+    "Web service",
     "Desktop application"
   ],
   "sc:description": "Tool that allows extracting from the Open PHACTS Discovery platform series of compounds annotated with experimental data that can be used directly for building QSAR predictive models.",

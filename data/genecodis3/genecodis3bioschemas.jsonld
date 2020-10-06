@@ -17,8 +17,8 @@
   "sc:name": "GeneCodis3",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://genecodis.cnb.csic.es/"
 }

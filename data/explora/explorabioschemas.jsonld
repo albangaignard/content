@@ -38,8 +38,8 @@
       },
       "sc:name": "EXPLoRA",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:provider": "ugent.be",

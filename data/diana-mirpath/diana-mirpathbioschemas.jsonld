@@ -23,15 +23,15 @@
       "biotools:primaryContact": "Ioannis S Vlachos",
       "sc:additionalType": "Web service",
       "sc:citation": [
-        "pubmed:22649059",
-        "pmcid:PMC3394305",
-        "pubmed:19435746",
         "pmcid:PMC4489228",
-        {
-          "@id": "https://doi.org/10.1093/nar/gks494"
-        },
+        "pubmed:22649059",
+        "pubmed:19435746",
+        "pmcid:PMC3394305",
         {
           "@id": "https://doi.org/10.1093/nar/gkv403"
+        },
+        {
+          "@id": "https://doi.org/10.1093/nar/gks494"
         },
         "pubmed:25977294"
       ],

@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Shan Gao",
       "sc:additionalType": "Library",
       "sc:citation": [
-        "pmcid:PMC6503164",
         "pubmed:31114611",
+        "pmcid:PMC6503164",
         {
           "@id": "https://doi.org/10.3389/fgene.2019.00400"
         }
@@ -34,8 +34,8 @@
       "sc:name": "NormExpression",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/NormExpression/index.html"
     },

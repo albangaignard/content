@@ -27,16 +27,16 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_0872"
+          "@id": "edam:data_1916"
         },
         {
-          "@id": "edam:data_1916"
+          "@id": "edam:data_2044"
         },
         {
           "@id": "edam:data_2968"
         },
         {
-          "@id": "edam:data_2044"
+          "@id": "edam:data_0872"
         }
       ],
       "sc:additionalType": "Web application",
@@ -68,13 +68,13 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "CARNA web server",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:provider": [
-        "University Freiburg",
-        "rnateam"
+        "rnateam",
+        "University Freiburg"
       ],
       "sc:softwareHelp": {
         "@id": "http://rna.informatik.uni-freiburg.de/Help.jsp"

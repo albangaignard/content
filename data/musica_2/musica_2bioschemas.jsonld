@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/musica_2",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Masahiro Kasahara",
     "Shin-ichi Morishita",
-    "Reginaldo Kuroshu",
-    "Yutaka Suzuki"
+    "Yutaka Suzuki",
+    "Masahiro Kasahara",
+    "Reginaldo Kuroshu"
   ],
   "sc:additionalType": "Workflow",
   "sc:citation": "pubmed:20479877",

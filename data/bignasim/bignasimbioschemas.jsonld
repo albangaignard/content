@@ -27,8 +27,8 @@
   "sc:provider": [
     "University of Barcelona",
     "Technic University of Catalonia",
-    "Barcelona Supercomputing Center",
-    "Institute of Research In Biomedicine - Barcelona"
+    "Institute of Research In Biomedicine - Barcelona",
+    "Barcelona Supercomputing Center"
   ],
   "sc:url": "http://mmb.irbbarcelona.org/BIGNASim/"
 }
