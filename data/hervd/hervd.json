@@ -92,11 +92,15 @@
     "description": "Human endogenous retroviruses database.",
     "documentation": [
         {
-            "type": "User manual",
+            "type": [
+                "User manual"
+            ],
             "url": "https://herv.img.cas.cz/help"
         },
         {
-            "type": "Citation instructions",
+            "type": [
+                "Citation instructions"
+            ],
             "url": "https://herv.img.cas.cz"
         }
     ],
@@ -163,7 +167,9 @@
     "license": "CC-BY-4.0",
     "link": [
         {
-            "type": "Other",
+            "type": [
+                "Other"
+            ],
             "url": "https://herv.img.cas.cz/entities"
         }
     ],
@@ -175,8 +181,12 @@
     "owner": "ELIXIR-CZ",
     "publication": [
         {
+            "doi": "10.1093/nar/gkh075",
             "pmcid": "PMC308809",
-            "type": "Other"
+            "pmid": "14681356",
+            "type": [
+                "Other"
+            ]
         }
     ],
     "toolType": [
