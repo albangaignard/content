@@ -1,0 +1,102 @@
+{
+    "additionDate": "2019-11-14T18:34:29Z",
+    "biotoolsCURIE": "biotools:GSE56348",
+    "biotoolsID": "GSE56348",
+    "confidence_flag": "medium",
+    "credit": [
+        {
+            "email": "qztang@whu.edu.cn",
+            "name": "Qi-Zhu Tang",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "> MEDIUM CONFIDENCE! | > NAME (GSE56348) SIMILAR TO (PUB. DIFFERENT) bio.tools/gse (GSE) | > CORRECT NAME OF TOOL COULD ALSO BE 'GSE36074', 'GSE18224', 'cardiac remodeling', 'DEGs' | Identification of differentially expressed genes and preliminary validations in cardiac pathological remodeling induced by transverse aortic constriction | NCBI's Gene Expression Omnibus (GEO) is a public archive and resource for gene expression data | GEO help: Mouse over screen elements for information | Scope: Self Platform Samples Series Family Format: HTML SOFT MINiML Amount: Brief Quick GEO accession:",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Enrichment analysis",
+                    "uri": "http://edamontology.org/operation_3501"
+                },
+                {
+                    "term": "Differential gene expression analysis",
+                    "uri": "http://edamontology.org/operation_3223"
+                },
+                {
+                    "term": "Protein interaction prediction",
+                    "uri": "http://edamontology.org/operation_2492"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE56348",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-11-14T18:34:29Z",
+    "name": "GSE56348",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.3892/IJMM.2019.4291",
+            "metadata": {
+                "abstract": "\u00a9 2019 Spandidos Publications. All rights reserved.Cardiac remodeling predisposes to heart failure if the burden is unresolved, and heart failure is an important cause of mortality in humans. The aim of the present study was to identify the key genes involved in cardiac pathological remodeling induced by pressure overload. Gene expression profiles of the GSE5500, GSE18224, GSE36074 and GSE56348 datasets were downloaded from the Gene Expression Omnibus database. Differentially expressed genes (DEGs), defined as |log2FC|>1 (FC, fold change) and an adjusted P.value of <0.05, were screened using the R software with the limma package. Gene ontology enrichment analysis was performed and a protein-protein interaction (PPI) network of the DEGs was constructed. A cardiac remodeling model induced by transverse aortic constriction (TAC) was established. Furthermore, consistent DEGs were further validated using reverse transcription.quantitative polymerase chain reaction (RT.PCR) analysis, western blotting and immunohistochemistry in the ventricular tissue samples after TAC or sham operation. A total of 24 common DEGs were identified (23 significantly upregulated and 1 downregulated), of which 9 genes had been previously confirmed to be directly involved in cardiac remodeling. Hence, the level of expression of the other 15 genes was detected in subsequent studies via RT.PCR. Based on the results of the PPI network analysis and RT.PCR, we further detected the protein levels of Itgbl1 and Asporin, which were consistent with the results of bioinformatics analysis and RT-PCR. The expression of Itgbl1, Aspn, Fstl1, Mfap5, Col8a1, Ltbp2, Mfap4, Pamr1, Cnksr1, Aqp8, Meox1, Gdf15 and Srpx was found to be upregulated in a mouse model of cardiac remodeling, while that of Retnla was downregulated. Therefore, the present study identified the key genes implicated in cardiac remodeling, aiming to provide new insight into the underlying mechanism.",
+                "authors": [
+                    {
+                        "name": "Wang H.-B."
+                    },
+                    {
+                        "name": "Huang R."
+                    },
+                    {
+                        "name": "Yang K."
+                    },
+                    {
+                        "name": "Xu M."
+                    },
+                    {
+                        "name": "Fan D."
+                    },
+                    {
+                        "name": "Liu M.-X."
+                    },
+                    {
+                        "name": "Huang S.-H."
+                    },
+                    {
+                        "name": "Liu L.-B."
+                    },
+                    {
+                        "name": "Wu H.-M."
+                    },
+                    {
+                        "name": "Tang Q.-Z."
+                    }
+                ],
+                "citationCount": 3,
+                "date": "2019-01-01T00:00:00Z",
+                "journal": "International Journal of Molecular Medicine",
+                "title": "Identification of differentially expressed genes and preliminary validations in cardiac pathological remodeling induced by transverse aortic constriction"
+            },
+            "pmcid": "PMC6713409",
+            "pmid": "31364721"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Pathology",
+            "uri": "http://edamontology.org/topic_0634"
+        },
+        {
+            "term": "Protein interactions",
+            "uri": "http://edamontology.org/topic_0128"
+        },
+        {
+            "term": "Gene expression",
+            "uri": "http://edamontology.org/topic_0203"
+        }
+    ]
+}

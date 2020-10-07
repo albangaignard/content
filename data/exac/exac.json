@@ -1,7 +1,5 @@
 {
-    "accessibility": [
-        "Open access"
-    ],
+    "accessibility": "Open access",
     "additionDate": "2017-03-05T09:50:42Z",
     "biotoolsCURIE": "biotools:exac",
     "biotoolsID": "exac",
@@ -31,7 +29,9 @@
     "description": "Exome aggregation consortium (ExAC) - browser framework to display large population datasets of genetic variation. The browser aggregates exome sequencing data from a wide variety of large-scale sequencing projects, and to make summary data available for the wider scientific community.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://github.com/konradjk/exac_browser"
         }
     ],
@@ -64,7 +64,7 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2019-06-13T16:40:09Z",
+    "lastUpdate": "2020-06-16T10:55:22Z",
     "license": "ODbL-1.0",
     "maturity": "Mature",
     "name": "ExAC",
@@ -77,9 +77,59 @@
     "publication": [
         {
             "doi": "10.1093/nar/gkw971",
+            "metadata": {
+                "abstract": "\u00a9 The Author(s) 2016.Worldwide, hundreds of thousands of humans have had their genomes or exomes sequenced, and access to the resulting data sets can provide valuable information for variant interpretation and understanding gene function. Here, we present a lightweight, flexible browser framework to display large population datasets of genetic variation. We demonstrate its use for exome sequence data from 60 706 individuals in the Exome Aggregation Consortium (ExAC). The ExAC browser provides geneand transcript-centric displays of variation, a critical view for clinical applications. Additionally, we provide a variant display, which includes population frequency and functional annotation data as well as short read support for the called variant. This browser is open-source, freely available at http://exac.broadinstitute.org, and has already been used extensively by clinical laboratories worldwide.",
+                "authors": [
+                    {
+                        "name": "Karczewski K.J."
+                    },
+                    {
+                        "name": "Weisburd B."
+                    },
+                    {
+                        "name": "Thomas B."
+                    },
+                    {
+                        "name": "Solomonson M."
+                    },
+                    {
+                        "name": "Ruderfer D.M."
+                    },
+                    {
+                        "name": "Kavanagh D."
+                    },
+                    {
+                        "name": "Hamamsy T."
+                    },
+                    {
+                        "name": "Lek M."
+                    },
+                    {
+                        "name": "Samocha K.E."
+                    },
+                    {
+                        "name": "Cummings B.B."
+                    },
+                    {
+                        "name": "Birnbaum D."
+                    },
+                    {
+                        "name": "Daly M.J."
+                    },
+                    {
+                        "name": "MacArthur D.G."
+                    }
+                ],
+                "citationCount": 183,
+                "date": "2017-01-01T00:00:00Z",
+                "journal": "Nucleic Acids Research",
+                "title": "The ExAC browser: Displaying reference data information from over 60 000 exomes"
+            },
             "pmcid": "PMC5210650",
             "pmid": "27899611",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
@@ -98,6 +148,10 @@
         {
             "term": "Exome sequencing",
             "uri": "http://edamontology.org/topic_3676"
+        },
+        {
+            "term": "Rare diseases",
+            "uri": "http://edamontology.org/topic_3325"
         }
     ]
 }
