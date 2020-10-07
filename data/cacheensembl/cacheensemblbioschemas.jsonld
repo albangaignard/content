@@ -19,20 +19,20 @@
   ],
   "sc:description": "Generate server cache file for an Ensembl server.",
   "sc:funder": [
-    "UK BBSRC",
+    "UK MRC",
     "Wellcome Trust",
-    "UK MRC"
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "cacheensembl",
   "sc:operatingSystem": [
-    "Mac",
+    "Linux",
     "Windows",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/cacheensembl.html",
   "sc:version": "r6"

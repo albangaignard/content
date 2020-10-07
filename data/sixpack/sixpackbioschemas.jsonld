@@ -13,21 +13,21 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK MRC",
-    "UK BBSRC",
+    "EMBOSS Contributors",
     "Wellcome Trust",
-    "EMBOSS Contributors"
+    "UK BBSRC"
   ],
   "sc:description": "Display a DNA sequence with 6-frame translation and ORFs.",
   "sc:funder": [
-    "Wellcome Trust",
+    "UK BBSRC",
     "UK MRC",
-    "UK BBSRC"
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "sixpack",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": [

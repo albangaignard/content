@@ -28,8 +28,8 @@
       "sc:name": "Arpeggio",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://structure.bioc.cam.ac.uk/arpeggio/"
     },

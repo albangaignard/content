@@ -24,9 +24,9 @@
   "sc:license": "Other",
   "sc:name": "MOLE",
   "sc:operatingSystem": [
-    "Linux",
+    "Windows",
     "Mac",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
     "Palacký University, Olomouc, Czech Republic",

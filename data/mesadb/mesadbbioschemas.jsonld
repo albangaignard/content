@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/mesadb",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Cengiz Yakicier",
     "Özlen Konu",
-    "Gökhan Karakülah",
+    "Cengiz Yakicier",
     "Aybar C. Acar",
+    "Gökhan Karakülah",
     "Koray D. Kaya"
   ],
   "sc:additionalType": "Database portal",

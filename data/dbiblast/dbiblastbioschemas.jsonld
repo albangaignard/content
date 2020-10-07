@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
-    "EMBOSS Contributors",
+    "Wellcome Trust",
     "UK MRC",
-    "Wellcome Trust"
+    "EMBOSS Contributors"
   ],
   "sc:description": "Index a BLAST database.",
   "sc:funder": [
@@ -27,12 +27,12 @@
   "sc:name": "dbiblast",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/dbiblast.html",
   "sc:version": "r6"

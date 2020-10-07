@@ -17,8 +17,8 @@
   "sc:name": "SNPaDomain",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://snpnavigator.net/"
 }

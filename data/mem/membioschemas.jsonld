@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Raivo Kolde",
-    "Jaak Vilo",
-    "Priit Adler"
+    "Priit Adler",
+    "Jaak Vilo"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:19961599",
@@ -22,8 +22,8 @@
   "sc:name": "Multi Experiment Matrix (MEM)",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://biit.cs.ut.ee/mem/"
 }

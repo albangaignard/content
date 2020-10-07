@@ -27,17 +27,17 @@
           "@id": "edam:operation_3435"
         },
         {
-          "@id": "edam:operation_3472"
+          "@id": "edam:operation_3798"
         },
         {
-          "@id": "edam:operation_3798"
+          "@id": "edam:operation_3472"
         }
       ],
       "sc:license": "Other",
       "sc:name": "HULK",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://github.com/will-rowe/hulk"

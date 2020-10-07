@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/pathvisio",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Martina Kutmon",
-        "Chris T. Evelo"
+        "Chris T. Evelo",
+        "Martina Kutmon"
       ],
       "sc:additionalType": "Desktop application",
       "sc:citation": [
@@ -34,10 +34,10 @@
           "@id": "edam:operation_3083"
         },
         {
-          "@id": "edam:operation_3096"
+          "@id": "edam:operation_2497"
         },
         {
-          "@id": "edam:operation_2497"
+          "@id": "edam:operation_3096"
         }
       ],
       "sc:license": "Apache-2.0",

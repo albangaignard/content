@@ -19,8 +19,8 @@
   "sc:name": "SpartaABC",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://spartaabc.tau.ac.il/webserver"
 }

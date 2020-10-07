@@ -31,10 +31,10 @@
       "sc:description": "Web Tool for Navigating and Plotting SomaLogic ADAT Files.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_2939"
+          "@id": "edam:operation_2495"
         },
         {
-          "@id": "edam:operation_2495"
+          "@id": "edam:operation_2939"
         }
       ],
       "sc:license": "Apache-2.0",

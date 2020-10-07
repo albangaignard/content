@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Aurelie Gabriel",
-    "Tiffany Delhomme",
     "Matthieu Foll",
+    "Tiffany Delhomme",
     "Nicolas Alcala"
   ],
   "sc:additionalType": "Command-line tool",
@@ -21,8 +21,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "needlestack",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:url": "https://github.com/IARCbioinfo/needlestack"

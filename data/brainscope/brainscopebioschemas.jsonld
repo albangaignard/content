@@ -18,10 +18,10 @@
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pmcid:PMC5449549",
         {
           "@id": "https://doi.org/10.1093/NAR/GKX046"
         },
+        "pmcid:PMC5449549",
         "pubmed:28132031"
       ],
       "sc:description": "Interactive visual exploration of the spatial and temporal human brain transcriptome.",
@@ -32,8 +32,8 @@
       "sc:name": "BrainScope",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://www.brainscope.nl/brainscope"
     },

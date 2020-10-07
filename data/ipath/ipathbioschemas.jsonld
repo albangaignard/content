@@ -33,8 +33,8 @@
         "Mac"
       ],
       "sc:provider": [
-        "HD-HuB",
-        "European Molecular Biology Laboratory (EMBL)"
+        "European Molecular Biology Laboratory (EMBL)",
+        "HD-HuB"
       ],
       "sc:url": "http://pathways.embl.de/iPath2.cgi",
       "sc:version": "2.0"

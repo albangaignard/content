@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Martin T. Swain",
       "sc:additionalType": [
-        "Plug-in",
-        "Command-line tool"
+        "Command-line tool",
+        "Plug-in"
       ],
       "sc:citation": [
         "pubmed:27473283",

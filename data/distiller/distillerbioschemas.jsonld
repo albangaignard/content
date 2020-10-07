@@ -11,14 +11,14 @@
   "@id": "https://bio.tools/distiller",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Command-line tool",
-    "Web application"
+    "Web application",
+    "Command-line tool"
   ],
   "sc:description": "Data integration system to identify links in expression regulation.",
   "sc:name": "DISTILLER",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
+    "Linux",
     "Windows"
   ],
   "sc:provider": "ugent.be",

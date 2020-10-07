@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Sriram Krishnan",
-    "Nadya Williams",
     "Luca Clementi",
+    "Nadya Williams",
     "Wilfred Li"
   ],
   "sc:additionalType": "Web application",

@@ -20,8 +20,8 @@
   "sc:name": "MizBee",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.cs.utah.edu/~miriah/mizbee/Overview.html"
 }

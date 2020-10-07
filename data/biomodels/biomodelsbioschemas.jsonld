@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/1752-0509-4-92",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/biomodels",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Camille Laibe",
@@ -26,15 +30,11 @@
       "sc:name": "BioModels database",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:provider": "EMBL-EBI",
       "sc:url": "http://www.ebi.ac.uk/biomodels"
-    },
-    {
-      "@id": "https://doi.org/10.1186/1752-0509-4-92",
-      "@type": "sc:CreativeWork"
     }
   ]
 }
