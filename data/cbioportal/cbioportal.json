@@ -1,0 +1,88 @@
+{
+    "additionDate": "2020-01-14T20:10:14Z",
+    "biotoolsCURIE": "biotools:cBioportal",
+    "biotoolsID": "cBioportal",
+    "confidence_flag": "low",
+    "credit": [
+        {
+            "email": "pmishra@cpdr.org",
+            "name": "Prachi Mishra",
+            "typeEntity": "Person"
+        },
+        {
+            "email": "adobi@cpdr.org",
+            "name": "Albert Dobi",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "Genomic alterations of Tenascin C in highly aggressive prostate cancer.\n\ncBioPortal for Cancer Genomics.\n\n||| CORRECT NAME OF TOOL COULD ALSO BE 'cBioportal Version', 'cBioportal Version 2.2.0'",
+    "editPermission": {
+        "type": "public"
+    },
+    "homepage": "http://www.cBioportal.org/index.do",
+    "lastUpdate": "2020-01-14T20:10:14Z",
+    "name": "cBioportal",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.18632/GENESANDCANCER.196",
+            "metadata": {
+                "abstract": "\u00a9 Mishra et al.Tenascin C (TNC), an extra-cellular matrix (ECM) family gene, is expressed in several cancer tissues of breast, lung, colon, and gastrointestinal tract leading to proliferation, migration, invasion, angiogenesis and metastasis, but its role in tumorigenesis of prostate cancer is poorly understood. We took a meta-analysis approach to characterize the alterations of TNC gene in prostate cancer using publicly available databases (cBioportal Version 2.2.0, http://www.cBioportal.org/index. do). The analysis identified TNC alterations (gene amplification) significantly in the neuroendocrine prostate cancer dataset (Trento/Broad/ Cornell, N = 114), which was further validated in other prostate cancer datasets, including The Cancer Genome Atlas (TCGA) prostate cancer (2015). In the TCGA prostate cancer dataset (N = 498), high TNC (alteration frequency, 36%) revealed a strong association with high diagnostic Gleason score. Genomic alterations of TNC was also significantly associated (P < 0.05) with expression level of genes from NOTCH, SOX and WNT family, implicating a link between TNC and poorly differentiated aggressive phenotype in NEPC. TCGA prostate adenocarcinoma cases with TNC alteration also demonstrated prominent decrease in disease-free survival (P = 0.0637). These findings indicate a possible association of TNC to the aggressive subtype of prostate cancer and warrant further functional studies to evident the involvement of TNC in prostate cancer progression.",
+                "authors": [
+                    {
+                        "name": "Mishra P."
+                    },
+                    {
+                        "name": "Kiebish M.A."
+                    },
+                    {
+                        "name": "Cullen J."
+                    },
+                    {
+                        "name": "Srinivasan A."
+                    },
+                    {
+                        "name": "Patterson A."
+                    },
+                    {
+                        "name": "Sarangarajan R."
+                    },
+                    {
+                        "name": "Narain N.R."
+                    },
+                    {
+                        "name": "Dobi A."
+                    }
+                ],
+                "citationCount": 1,
+                "date": "2019-01-01T00:00:00Z",
+                "journal": "Genes and Cancer",
+                "title": "Genomic alterations of tenascin c in highly aggressive prostate cancer: A meta-analysis"
+            },
+            "pmcid": "PMC6872669",
+            "pmid": "31798767"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Oncology",
+            "uri": "http://edamontology.org/topic_2640"
+        },
+        {
+            "term": "Biomarkers",
+            "uri": "http://edamontology.org/topic_3360"
+        },
+        {
+            "term": "Genotype and phenotype",
+            "uri": "http://edamontology.org/topic_0625"
+        },
+        {
+            "term": "Gene expression",
+            "uri": "http://edamontology.org/topic_0203"
+        },
+        {
+            "term": "Exome sequencing",
+            "uri": "http://edamontology.org/topic_3676"
+        }
+    ]
+}

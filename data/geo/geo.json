@@ -1,0 +1,91 @@
+{
+    "additionDate": "2019-11-14T18:41:11Z",
+    "biotoolsCURIE": "biotools:GEO",
+    "biotoolsID": "GEO",
+    "confidence_flag": "very low",
+    "credit": [
+        {
+            "email": "jifeng_feng@163.com",
+            "name": "Jifeng Feng",
+            "orcidid": "https://orcid.org/0000-0002-7979-2391",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "> LOW CONFIDENCE! | > COMMON LINK WITH (PUB. & NAME DIFFERENT) bio.tools/ncbi_resources (NLM.NIH.GOV), bio.tools/ncbi_geo (NCBI.NLM.NIH.GOV/geo), bio.tools/genbank (NLM.NIH.GOV) | > CORRECT NAME OF TOOL COULD ALSO BE 'gene our', 'RobustRankAggreg', 'CRC' (bio.tools/CRC), 'colorectal' | Integrated Analysis of Oncogenic Networks in Colorectal Cancer Identifies GUCA2A as a Molecular Marker | Gene Expression Omnibus (GEO) is a database repository of high throughput gene expression data and hybridization arrays, chips, microarrays | GEO is a public functional genomics data repository supporting MIAME-compliant data submissions. Array- and sequence-based data are accepted. Tools are provided to help users query and download experiments and curated gene expression profiles",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Deposition",
+                    "uri": "http://edamontology.org/operation_3431"
+                },
+                {
+                    "term": "Expression analysis",
+                    "uri": "http://edamontology.org/operation_2495"
+                },
+                {
+                    "term": "Weighted correlation network analysis",
+                    "uri": "http://edamontology.org/operation_3766"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://www.ncbi.nlm.nih.gov/geo",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-11-14T18:41:11Z",
+    "name": "GEO",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1155/2019/6469420",
+            "metadata": {
+                "abstract": "\u00a9 2019 Hui Zhang et al.Colorectal cancer (CRC) is one of the most common and deadly malignancies in the world. In China, the morbidity rate of CRC has increased during the period 2000 to 2011. Biomarker detection for early CRC diagnosis can effectively reduce the mortality of patients with CRC. To explore the underlying mechanisms of effective biomarkers and identify more of them, we performed weighted correlation network analysis (WGCNA) on a GSE68468 dataset generated from 378 CRC tissue samples. We screened the gene set (module), which was significantly associated with CRC histology, and analyzed the hub genes. The key genes were identified by obtaining six colorectal raw data (i.e., GSE25070, GSE44076, GSE44861, GSE21510, GSE9348, and GSE21815) from the GEO database (https://www.ncbi.nlm.nih.gov/geo). The robust differentially expressed genes (DEGs) in all six datasets were calculated and obtained using the library \"RobustRankAggreg\" package in R 3.5.1. An integrated analysis of CRC based on the top 50 downregulated DEGs and hub genes in the red module from WGCNA was conducted, and the intersecting genes were screened. The Kaplan-Meier plot was further analyzed, and the genes associated with CRC prognosis based on patients from the TCGA database were determined. Finally, we validated the candidate gene in our clinical CRC specimens. We postulated that the candidate genes screened from the database and verified by our clinical pathological data may contribute to understanding the molecular mechanisms of tumorigenesis and may serve as potential biomarkers for CRC diagnosis and treatment.",
+                "authors": [
+                    {
+                        "name": "Zhang H."
+                    },
+                    {
+                        "name": "Du Y."
+                    },
+                    {
+                        "name": "Wang Z."
+                    },
+                    {
+                        "name": "Lou R."
+                    },
+                    {
+                        "name": "Wu J."
+                    },
+                    {
+                        "name": "Feng J."
+                    }
+                ],
+                "citationCount": 2,
+                "date": "2019-01-01T00:00:00Z",
+                "journal": "Biochemistry Research International",
+                "title": "Integrated Analysis of Oncogenic Networks in Colorectal Cancer Identifies GUCA2A as a Molecular Marker"
+            },
+            "pmcid": "PMC6701329",
+            "pmid": "31467713"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Microarray experiment",
+            "uri": "http://edamontology.org/topic_3518"
+        },
+        {
+            "term": "Biomarkers",
+            "uri": "http://edamontology.org/topic_3360"
+        },
+        {
+            "term": "Gene expression",
+            "uri": "http://edamontology.org/topic_0203"
+        }
+    ]
+}

@@ -33,7 +33,9 @@
     "description": "Database of annotated tandem repeat protein structures.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "http://repeatsdb.bio.unipd.it/help"
         }
     ],
@@ -131,9 +133,37 @@
     "publication": [
         {
             "doi": "10.1093/nar/gkw1268",
+            "metadata": {
+                "authors": [
+                    {
+                        "name": "Paladin L."
+                    },
+                    {
+                        "name": "Hirsh L."
+                    },
+                    {
+                        "name": "Piovesan D."
+                    },
+                    {
+                        "name": "Andrade-Navarro M.A."
+                    },
+                    {
+                        "name": "Kajava A.V."
+                    },
+                    {
+                        "name": "Tosatto S.C.E."
+                    }
+                ],
+                "citationCount": 1,
+                "date": "2017-04-07T00:00:00Z",
+                "journal": "Nucleic acids research",
+                "title": "Erratum: RepeatsDB 2.0: improved annotation, classification, search and visualization of repeat protein structures (Nucleic acids research (2017) 45 D1 (D308-D312))"
+            },
             "pmcid": "PMC5389603",
             "pmid": "27928056",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [

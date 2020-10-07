@@ -1,7 +1,5 @@
 {
-    "accessibility": [
-        "Open access"
-    ],
+    "accessibility": "Open access",
     "additionDate": "2017-01-17T15:00:47Z",
     "biotoolsCURIE": "biotools:monocle",
     "biotoolsID": "monocle",
@@ -23,12 +21,16 @@
     "description": "This tool performs differential expression and time-series analysis for single-cell expression experiments. It orders individual cells according to progress through a biological process, without knowing ahead of time which genes define progress through that process. It also performs differential expression analysis, clustering, visualization, and other useful tasks on single cell expression data. It is designed to work with RNA-Seq and qPCR data, but could be used with other types as well.",
     "documentation": [
         {
-            "type": "User manual",
+            "type": [
+                "User manual"
+            ],
             "url": "http://bioconductor.org/packages/release/bioc/html/monocle.html"
         },
         {
             "note": "Updates for monocle release 2",
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "http://cole-trapnell-lab.github.io/monocle-release/docs/#major-updates-in-monocle-2"
         }
     ],
@@ -91,11 +93,13 @@
     "language": [
         "R"
     ],
-    "lastUpdate": "2019-02-17T19:04:12Z",
+    "lastUpdate": "2020-06-16T10:55:21Z",
     "license": "Artistic-2.0",
     "link": [
         {
-            "type": "Repository",
+            "type": [
+                "Repository"
+            ],
             "url": "https://github.com/cole-trapnell-lab/monocle-release"
         }
     ],
@@ -110,9 +114,38 @@
     "publication": [
         {
             "doi": "10.1038/nmeth.4150",
+            "metadata": {
+                "abstract": "\u00a9 2017 Nature American, Inc. part of Springer Nature. All rights reserved.Single-cell gene expression studies promise to reveal rare cell types and cryptic states, but the high variability of single-cell RNA-seq measurements frustrates efforts to assay transcriptional differences between cells. We introduce the Census algorithm to convert relative RNA-seq expression levels into relative transcript counts without the need for experimental spike-in controls. Analyzing changes in relative transcript counts led to dramatic improvements in accuracy compared to normalized read counts and enabled new statistical tests for identifying developmentally regulated genes. Census counts can be analyzed with widely used regression techniques to reveal changes in cell-fate-dependent gene expression, splicing patterns and allelic imbalances. We reanalyzed single-cell data from several developmental and disease studies, and demonstrate that Census enabled robust analysis at multiple layers of gene regulation. Census is freely available through our updated single-cell analysis toolkit, Monocle 2.",
+                "authors": [
+                    {
+                        "name": "Qiu X."
+                    },
+                    {
+                        "name": "Hill A."
+                    },
+                    {
+                        "name": "Packer J."
+                    },
+                    {
+                        "name": "Lin D."
+                    },
+                    {
+                        "name": "Ma Y.-A."
+                    },
+                    {
+                        "name": "Trapnell C."
+                    }
+                ],
+                "citationCount": 228,
+                "date": "2017-02-28T00:00:00Z",
+                "journal": "Nature Methods",
+                "title": "Single-cell mRNA quantification and differential analysis with Census"
+            },
             "pmcid": "PMC5330805",
             "pmid": "28114287",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         },
         {
             "doi": "10.1038/nmeth.4402",
@@ -146,7 +179,9 @@
                 "journal": "Nature Methods",
                 "title": "Reversed graph embedding resolves complex single-cell trajectories"
             },
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
