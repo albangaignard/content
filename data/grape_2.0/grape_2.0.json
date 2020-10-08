@@ -37,7 +37,9 @@
     "description": "GRAPE 2.0 provides an extensive pipeline for RNA-Seq analyses. It allows the creation of an automated and integrated workflow to manage, analyse and visualize RNA-Seq data.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "http://grape-pipeline.readthedocs.org/en/latest/"
         }
     ],
@@ -50,6 +52,12 @@
     "editPermission": {
         "type": "private"
     },
+    "elixirNode": [
+        "Spain"
+    ],
+    "elixirPlatform": [
+        "Tools"
+    ],
     "function": [
         {
             "operation": [
@@ -64,15 +72,17 @@
             ]
         }
     ],
-    "homepage": "https://github.com/grape-pipeline/grape",
+    "homepage": "https://github.com/guigolab/grape-nf",
     "language": [
         "Python"
     ],
-    "lastUpdate": "2018-12-10T12:58:56Z",
+    "lastUpdate": "2020-07-23T14:09:26Z",
     "license": "GPL-3.0",
     "link": [
         {
-            "type": "Repository",
+            "type": [
+                "Repository"
+            ],
             "url": "https://github.com/grape-pipeline/grape"
         }
     ],
@@ -100,12 +110,14 @@
                         "name": "Guigo R."
                     }
                 ],
-                "citationCount": 17,
+                "citationCount": 19,
                 "date": "2013-03-01T00:00:00Z",
                 "journal": "Bioinformatics",
                 "title": "Grape RNA-Seq analysis pipeline environment"
             },
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [

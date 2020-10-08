@@ -1,0 +1,85 @@
+{
+    "additionDate": "2020-01-14T09:39:49Z",
+    "biotoolsCURIE": "biotools:Caryocar",
+    "biotoolsID": "Caryocar",
+    "confidence_flag": "low",
+    "credit": [
+        {
+            "email": "rhewter@gmail.com",
+            "name": "Rhewter Nunes",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "Data on the draft genome sequence of Caryocar brasiliense Camb. (Caryocaraceae).\n\nA BioProject is a collection of biological data related to a single initiative, originating from a single organization or from a consortium. A BioProject record provides users a single place to find links to the diverse data types generated for that project.\n\nCaryocar brasiliense isolate:Cbr1_UFG_LGBio.\n\nSee also 1 genome matching your organism search.\n\n||| COMMON LINK WITH (PUB. & NAME DIFFERENT) bio.tools/bioproject (NLM.NIH.GOV/bioproject).\n\n||| CORRECT NAME OF TOOL COULD ALSO BE 'brasiliense', 'Data draft genome sequence Caryocar brasiliense Camb Caryocaraceae', 'Caryocar brasiliense'",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Genome assembly",
+                    "uri": "http://edamontology.org/operation_0525"
+                },
+                {
+                    "term": "Filtering",
+                    "uri": "http://edamontology.org/operation_3695"
+                },
+                {
+                    "term": "PCR primer design",
+                    "uri": "http://edamontology.org/operation_0308"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://www.ncbi.nlm.nih.gov/bioproject/?term=caryocar",
+    "lastUpdate": "2020-01-14T09:39:49Z",
+    "name": "Caryocar",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1016/J.DIB.2019.104543",
+            "metadata": {
+                "abstract": "\u00a9 2019 The Author(s)Caryocar brasiliense (Caryocaraceae) is a Neotropical tree species widely distributed in Brazilian savannas. This species is very popular in central Brazil mainly due to the use of its fruits in the local cuisine and their anti-inflammatory proprieties, and indeed it is one of the candidates, among Brazilian native plants, for fast track incorporation into cropping systems. Considering the importance of Caryocar brasiliense, little is known about its genetics and genomics, and determination of a reference genome sequence could improve the understanding of its evolution, as well as the development of tools for domestication. Here, we provide the first draft genome of C. brasiliense, the raw sequencing data and some multiplex sets of high quality microsatellite primers. Data on the genome project can be obtained from the BioProject at NCBI (https://www.ncbi.nlm.nih.gov/bioproject/?term=caryocar).",
+                "authors": [
+                    {
+                        "name": "Nunes R."
+                    },
+                    {
+                        "name": "Goncalves A.R."
+                    },
+                    {
+                        "name": "Pires de Campos Telles M."
+                    }
+                ],
+                "date": "2019-10-01T00:00:00Z",
+                "journal": "Data in Brief",
+                "title": "Data on the draft genome sequence of Caryocar brasiliense Camb. (Caryocaraceae): An important genetic resource from Brazilian savannas"
+            },
+            "pmcid": "PMC6811913",
+            "pmid": "31667304"
+        }
+    ],
+    "topic": [
+        {
+            "term": "DNA polymorphism",
+            "uri": "http://edamontology.org/topic_2885"
+        },
+        {
+            "term": "Sequencing",
+            "uri": "http://edamontology.org/topic_3168"
+        },
+        {
+            "term": "Probes and primers",
+            "uri": "http://edamontology.org/topic_0632"
+        },
+        {
+            "term": "Plant biology",
+            "uri": "http://edamontology.org/topic_0780"
+        },
+        {
+            "term": "Sequence assembly",
+            "uri": "http://edamontology.org/topic_0196"
+        }
+    ]
+}

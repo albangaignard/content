@@ -20,7 +20,9 @@
     "description": "Compute gene expression summary values for Affymetrix Genechip\u00ae data using the Robust Multichip Average expression summary and carry out quality assessment using probe-level metrics.",
     "documentation": [
         {
-            "type": "User manual",
+            "type": [
+                "User manual"
+            ],
             "url": "http://rmaexpress.bmbolstad.com/RMAExpress_UsersGuide.pdf"
         }
     ],
@@ -44,7 +46,9 @@
     "lastUpdate": "2018-12-16T12:49:53Z",
     "link": [
         {
-            "type": "Software catalogue",
+            "type": [
+                "Software catalogue"
+            ],
             "url": "http://www.mybiosoftware.com/rmaexpress-1-0-5-generate-rma-expression-measures-affy-data.html"
         }
     ],
@@ -58,9 +62,32 @@
     "publication": [
         {
             "doi": "10.1093/bioinformatics/19.2.185",
+            "metadata": {
+                "abstract": "Motivation: When running experiments that involve multiple high density oligonucleotide arrays, it is important to remove sources of variation between arrays of non-biological origin. Normalization is a process for reducing this variation. It is common to see non-linear relations between arrays and the standard normalization provided by Affymetrix does not perform well in these situations. Results: We present three methods of performing normalization at the probe intensity level. These methods are called complete data methods because they make use of data from all arrays in an experiment to form the normalizing relation. These algorithms are compared to two methods that make use of a baseline array: a one number scaling based algorithm and a method that uses a non-linear normalizing relation by comparing the variability and bias of an expression measure. Two publicly available datasets are used to carry out the comparisons. The simplest and quickest complete data method is found to perform favorably.",
+                "authors": [
+                    {
+                        "name": "Bolstad B.M."
+                    },
+                    {
+                        "name": "Irizarry R.A."
+                    },
+                    {
+                        "name": "Astrand M."
+                    },
+                    {
+                        "name": "Speed T.P."
+                    }
+                ],
+                "citationCount": 5790,
+                "date": "2003-02-01T00:00:00Z",
+                "journal": "Bioinformatics",
+                "title": "A comparison of normalization methods for high density oligonucleotide array data based on variance and bias"
+            },
             "pmcid": "PMC150247",
             "pmid": "12538238",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         },
         {
             "metadata": {
@@ -91,7 +118,9 @@
                 "title": "Summaries of Affymetrix GeneChip probe level data"
             },
             "pmid": "12582260",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         },
         {
             "doi": "10.1093/biostatistics/4.2.249",
@@ -125,7 +154,9 @@
                 "journal": "Biostatistics (Oxford, England)",
                 "title": "Exploration, normalization, and summaries of high density oligonucleotide array probe level data."
             },
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [

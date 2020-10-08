@@ -1,0 +1,40 @@
+{
+    "additionDate": "2019-11-14T20:06:28Z",
+    "biotoolsCURIE": "biotools:HEDSA",
+    "biotoolsID": "HEDSA",
+    "confidence_flag": "low",
+    "credit": [
+        {
+            "email": "cleophas@sun.ac.za",
+            "name": "Marcia Lyner-Cleophas",
+            "orcidid": "https://orcid.org/0000-0003-1460-6313",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "> LOW CONFIDENCE! | > HOMEPAGE BROKEN! | > COMMON LINK WITH (PUB. & NAME DIFFERENT) bio.tools/krisp (ORG.ZA) | > CORRECT NAME OF TOOL COULD ALSO BE 'Assistive technology enables inclusion higher education', 'PSET', 'PSET sector' | The role of Higher and Further Education Disability Services Association | Background:Using assistive technology is one way to foster inclusion of students in the post-school education and training (PSET) sector. Objectives:Higher and Further Education Disability Services Association (HEDSA) enables the sharing of new knowledge about assistive technologies through its symposia, and making information available on its website. Additionally, it facilitates dialogue and collaboration amongst institutions in the PSET network using a listserv and newsletters, given that PSET institutions are spread countrywide",
+    "editPermission": {
+        "type": "public"
+    },
+    "homepage": "http://www.hedsa.org.za",
+    "lastUpdate": "2019-11-14T20:06:28Z",
+    "name": "HEDSA",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.4102/AJOD.V8I0.558",
+            "metadata": {
+                "abstract": "\u00a9 2019 by the authors.Background: Using assistive technology is one way to foster inclusion of students in the post- school education and training (PSET) sector. Objectives: Higher and Further Education Disability Services Association (HEDSA) enables the sharing of new knowledge about assistive technologies through its symposia, and making information available on its website. Additionally, it facilitates dialogue and collaboration amongst institutions in the PSET network using a listserv and newsletters, given that PSET institutions are spread countrywide. Method: This is an article based on a presentation at the 5th African Network of Evidence-to- Action in Disability (AfriNEAD) conference in Ghana in 2017 that focused on the value of assistive technology for students pursuing studies in the PSET sector and the role played by HEDSA in South Africa. Results: The positive gains and existing gaps in disability inclusion in the higher education sector in South Africa are highlighted, with reference to access to technology. All higher education institutions have internet access and can thereby make use of listservs to communicate information. MapAbility is a way that prospective students can gain a snapshot view of available resources at institutions of learning, using the internet. Conclusion: An association such as HEDSA plays a critical role in the PSET sector to enhance disability inclusion using online tools to disseminate information.",
+                "authors": [
+                    {
+                        "name": "Lyner-Cleophas M."
+                    }
+                ],
+                "date": "2019-01-01T00:00:00Z",
+                "journal": "African Journal of Disability",
+                "title": "Assistive technology enables inclusion in higher education: The role of higher and further education disability services association"
+            },
+            "pmcid": "PMC6739537",
+            "pmid": "31534917"
+        }
+    ]
+}
