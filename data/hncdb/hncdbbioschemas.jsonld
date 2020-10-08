@@ -13,20 +13,20 @@
       "@id": "https://bio.tools/HNCDB",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Ankui Yang",
         "Zhixiang Zuo",
-        "Xiaoqing Pei",
-        "Ankui Yang"
+        "Xiaoqing Pei"
       ],
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.3389/FONC.2019.00371"
         },
-        "pmcid:PMC6527845",
-        "pubmed:31139565"
+        "pubmed:31139565",
+        "pmcid:PMC6527845"
       ],
       "sc:description": "Integrated Gene and Drug Database for Head and Neck Cancer.",
       "sc:featureList": [

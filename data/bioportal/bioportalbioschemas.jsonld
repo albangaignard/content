@@ -17,8 +17,8 @@
   "sc:name": "BioPortal",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bioportal.bioontology.org"
 }

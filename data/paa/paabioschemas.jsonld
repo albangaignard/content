@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/paa",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Michael Turewicz",
-        "BioInfra.Prot"
+        "BioInfra.Prot",
+        "Michael Turewicz"
       ],
       "edam:has_input": [
         {
@@ -42,13 +42,13 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3518"
-        },
-        {
           "@id": "edam:topic_0121"
         },
         {
           "@id": "edam:topic_3360"
+        },
+        {
+          "@id": "edam:topic_3518"
         }
       ],
       "sc:author": {
@@ -71,14 +71,14 @@
       "sc:name": "PAA - Protein Array Analyzer",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": [
-        "Ruhr-Universitaet Bochum, Medizinisches Proteom-Center (MPC)",
-        "This work is supported by de.NBI, a project of the BMBF [FKZ 031 A 534A].",
         "This work was supported by P.U.R.E., a project of Nordrhein-Westfalen, a federal state of Germany.",
-        "BioInfra.Prot"
+        "BioInfra.Prot",
+        "Ruhr-Universitaet Bochum, Medizinisches Proteom-Center (MPC)",
+        "This work is supported by de.NBI, a project of the BMBF [FKZ 031 A 534A]."
       ],
       "sc:softwareHelp": {
         "@id": "https://www.bioconductor.org/packages/release/bioc/manuals/PAA/man/PAA.pdf"

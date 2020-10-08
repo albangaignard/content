@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
-    "UK MRC",
     "EMBOSS Contributors",
+    "UK MRC",
+    "Wellcome Trust",
     "UK BBSRC"
   ],
   "sc:description": "Display features of a sequence in pretty format.",
@@ -26,8 +26,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "showfeat",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": [

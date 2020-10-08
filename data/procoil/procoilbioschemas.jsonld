@@ -14,14 +14,18 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0001-6859-8828",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/procoil",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0001-6859-8828"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:21311038",
@@ -38,15 +42,11 @@
       "sc:name": "procoil",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/procoil.html",
       "sc:version": "2.2.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-6859-8828",
-      "@type": "schema:Person"
     }
   ]
 }

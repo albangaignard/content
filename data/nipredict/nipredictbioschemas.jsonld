@@ -20,8 +20,8 @@
   "sc:name": "NIpredict",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://mleg.cse.sc.edu/NIpredict/"
 }

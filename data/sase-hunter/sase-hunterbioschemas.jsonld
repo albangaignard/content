@@ -16,8 +16,8 @@
   "sc:name": "SASE-hunter",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.sjdlab.org/resources/"
 }

@@ -20,8 +20,8 @@
   "sc:name": "bionode-sam",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://github.com/bionode/bionode-sam",
   "sc:version": "1.0.1"

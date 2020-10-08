@@ -16,8 +16,8 @@
   "sc:name": "BioExcel Virtual Screening pipeline",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://github.com/bioexcel/virtualscreening",
   "sc:version": "Alpha"

@@ -24,8 +24,8 @@
     "Linux"
   ],
   "sc:provider": [
-    "HHMI",
     "EMBL-EBI",
+    "HHMI",
     "Sanger Institute"
   ],
   "sc:url": "http://rfam.xfam.org/search",

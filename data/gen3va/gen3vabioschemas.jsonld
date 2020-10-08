@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/S12859-016-1321-1",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/gen3va",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -41,10 +45,6 @@
         "Windows"
       ],
       "sc:url": "http://amp.pharm.mssm.edu/gen3va/"
-    },
-    {
-      "@id": "https://doi.org/10.1186/S12859-016-1321-1",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

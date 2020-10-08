@@ -22,9 +22,9 @@
   "sc:description": "Hub Objects Analyzer or Hubba is a web-based service for characterizing nodes of importance within a protein interactome data set.",
   "sc:name": "Hubba",
   "sc:operatingSystem": [
-    "Mac",
+    "Windows",
     "Linux",
-    "Windows"
+    "Mac"
   ],
   "sc:url": "http://hub.iis.sinica.edu.tw/Hubba"
 }

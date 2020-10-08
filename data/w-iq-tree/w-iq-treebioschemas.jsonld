@@ -32,8 +32,8 @@
       "sc:name": "W-IQ-TREE",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://iqtree.cibiv.univie.ac.at/"
     }

@@ -24,8 +24,8 @@
         "@id": "http://orcid.org/0000-0002-1320-6695"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC3236061",
@@ -41,9 +41,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "joda",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/joda.html",
       "sc:version": "1.22.0"

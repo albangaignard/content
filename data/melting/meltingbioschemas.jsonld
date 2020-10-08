@@ -17,8 +17,8 @@
   "sc:name": "Melting",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://www.ebi.ac.uk/compneur-srv/melting/"
 }

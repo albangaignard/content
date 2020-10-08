@@ -13,10 +13,10 @@
   "sc:additionalType": "Database portal",
   "sc:author": "Živa Ramšak",
   "sc:contributor": [
-    "Matej Korbar",
-    "Ana Rotter",
-    "Igor Mozetič",
     "Björn Usadel",
+    "Igor Mozetič",
+    "Ana Rotter",
+    "Matej Korbar",
     "Špela Baebler",
     "Kristina Gruden"
   ],
@@ -25,8 +25,8 @@
   "sc:name": "GoMapMan",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "National Institute of Biology, Slovenia",

@@ -17,8 +17,8 @@
   "sc:name": "SurvNet",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://bioinformatics.mdanderson.org/main/SurvNet"
 }

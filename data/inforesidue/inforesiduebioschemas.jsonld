@@ -14,8 +14,8 @@
   "sc:contributor": [
     "UK BBSRC",
     "Wellcome Trust",
-    "EMBOSS Contributors",
-    "UK MRC"
+    "UK MRC",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Return information on a given amino acid residue.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "inforesidue",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "EMBL EBI",

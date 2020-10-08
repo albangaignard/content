@@ -21,8 +21,8 @@
   "sc:name": "MEROPS Blast",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "EMBL-EBI",

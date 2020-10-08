@@ -14,18 +14,14 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0002-6977-7147",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/famagg",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0002-6977-7147"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC4866523",
@@ -47,6 +43,10 @@
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/FamAgg.html",
       "sc:version": "1.2.1"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-6977-7147",
+      "@type": "schema:Person"
     }
   ]
 }

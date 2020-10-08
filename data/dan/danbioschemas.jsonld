@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
-    "UK MRC",
     "EMBOSS Contributors",
+    "UK MRC",
     "UK BBSRC"
   ],
   "sc:description": "Calculate nucleic acid melting temperature.",
@@ -27,12 +27,12 @@
   "sc:name": "dan",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/dan.html",
   "sc:version": "r6"
