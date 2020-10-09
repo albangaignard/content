@@ -16,8 +16,8 @@
   "sc:name": "RAPTR-SV",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://github.com/njdbickhart/RAPTR-SV"
 }

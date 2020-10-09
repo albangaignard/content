@@ -29,18 +29,18 @@
       ],
       "sc:author": [
         {
-          "@id": "https://orcid.org/0000-0003-2090-3621"
+          "@id": "https://orcid.org/0000-0001-5980-8002"
         },
         {
-          "@id": "https://orcid.org/0000-0001-5980-8002"
+          "@id": "https://orcid.org/0000-0003-2090-3621"
         }
       ],
       "sc:description": "Pathway enrichment analysis enables researchers to uncover mechanisms underlying the phenotype. pathfindR is a tool for pathway enrichment analysis utilizing active subnetworks. It identifies active subnetworks in a protein-protein interaction network using user-provided a list of genes. It performs pathway enrichment analyses on the identified subnetworks. pathfindR also offers functionalities to cluster enriched pathways and identify representative pathways, visualize analysis results and to score the pathways per sample.",
       "sc:license": "MIT",
       "sc:name": "pathfindR",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://github.com/egeulgen/pathfindR",

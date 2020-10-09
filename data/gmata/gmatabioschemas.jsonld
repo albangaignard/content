@@ -29,8 +29,8 @@
       "sc:name": "GMATA",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://sourceforge.net/projects/gmata/",
       "sc:version": "v21"

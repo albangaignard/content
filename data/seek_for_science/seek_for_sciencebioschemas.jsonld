@@ -21,8 +21,8 @@
   "sc:name": "SEEK for Science",
   "sc:operatingSystem": "Linux",
   "sc:provider": [
-    "Heidelberg Institute for Theoretical Studies, Germany",
     "The University of Manchester, UK",
+    "Heidelberg Institute for Theoretical Studies, Germany",
     "manchester.ac.uk"
   ],
   "sc:url": "http://seek4science.org/",

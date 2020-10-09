@@ -29,8 +29,8 @@
         }
       ],
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:author": "Jan Baumbach",
       "sc:citation": "pubmed:26389570",
@@ -38,8 +38,8 @@
       "sc:name": "Clusteval",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": "bmb.sdu.dk",
       "sc:url": "http://clusteval.sdu.dk/"

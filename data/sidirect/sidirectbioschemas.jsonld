@@ -17,8 +17,8 @@
   "sc:name": "siDirect",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://design.RNAi.jp/"
 }

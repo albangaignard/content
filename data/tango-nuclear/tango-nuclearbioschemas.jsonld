@@ -13,13 +13,13 @@
       "@id": "https://bio.tools/tango-nuclear",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Jean Ollion",
         "Thomas Boudier",
-        "Julien Cochennec",
-        "Jean Ollion"
+        "Julien Cochennec"
       ],
       "sc:additionalType": [
-        "Library",
-        "Plug-in"
+        "Plug-in",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:23681123",
@@ -35,9 +35,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "TANGO",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://biophysique.mnhn.fr/tango/HomePage"
     },

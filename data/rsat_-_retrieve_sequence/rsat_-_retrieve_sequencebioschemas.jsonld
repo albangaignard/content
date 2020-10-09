@@ -21,8 +21,8 @@
       },
       "sc:additionalType": [
         "Web service",
-        "Web application",
         "Command-line tool",
+        "Web application",
         "Web API"
       ],
       "sc:author": {

@@ -17,8 +17,8 @@
   "sc:name": "JEvTrace",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://compbio.berkeley.edu/people/marcin/jevtrace/"
 }

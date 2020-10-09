@@ -13,22 +13,22 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "EMBOSS Contributors",
+    "UK MRC",
+    "Wellcome Trust",
+    "UK BBSRC"
+  ],
+  "sc:description": "Index a GCG formatted database using b+tree indices.",
+  "sc:funder": [
     "UK BBSRC",
     "UK MRC",
     "Wellcome Trust"
   ],
-  "sc:description": "Index a GCG formatted database using b+tree indices.",
-  "sc:funder": [
-    "Wellcome Trust",
-    "UK MRC",
-    "UK BBSRC"
-  ],
   "sc:license": "GPL-3.0",
   "sc:name": "dbxgcg",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "EMBOSS",

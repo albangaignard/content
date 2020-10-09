@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Ricardo Lebrón",
-    "Michael Hackenberg",
     "Guillermo Barturen",
-    "José L. Oliver"
+    "José L. Oliver",
+    "Michael Hackenberg"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:24627790",

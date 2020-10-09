@@ -35,9 +35,9 @@
       ],
       "sc:name": "QHOT",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://www.stat.sinica.edu.tw/chkao/RQTL/download.htm"
     },

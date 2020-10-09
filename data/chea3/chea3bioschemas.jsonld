@@ -21,11 +21,11 @@
       },
       "sc:additionalType": "Web application",
       "sc:citation": [
-        "pmcid:PMC6602523",
         {
           "@id": "https://doi.org/10.1093/NAR/GKZ446"
         },
-        "pubmed:31114921"
+        "pubmed:31114921",
+        "pmcid:PMC6602523"
       ],
       "sc:description": "Transcription factor enrichment analysis by orthogonal omics integration.",
       "sc:featureList": [
@@ -33,18 +33,18 @@
           "@id": "edam:operation_3766"
         },
         {
-          "@id": "edam:operation_2436"
+          "@id": "edam:operation_3463"
         },
         {
-          "@id": "edam:operation_3463"
+          "@id": "edam:operation_2436"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "ChEA3",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://amp.pharm.mssm.edu/ChEA3"
     },

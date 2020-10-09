@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/BUStools",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "Vasilis Ntranos",
     "Páll Melsted",
-    "Lior Pachter",
-    "Vasilis Ntranos"
+    "Lior Pachter"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:31073610",

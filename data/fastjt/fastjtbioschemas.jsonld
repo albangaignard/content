@@ -13,9 +13,9 @@
   "biotools:primaryContact": "Jiaxing Lin",
   "sc:additionalType": "Library",
   "sc:author": [
-    "Kouros Owzar",
     "Ivo Shterev",
     "Alexander Sibley",
+    "Kouros Owzar",
     "Jiaxing Lin"
   ],
   "sc:citation": "pubmed:31195980",
@@ -23,8 +23,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "fastJT",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "https://cran.r-project.org/package=fastJT",

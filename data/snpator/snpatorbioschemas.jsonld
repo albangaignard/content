@@ -12,13 +12,13 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Web application",
   "sc:author": [
+    "Angel Carreño Torres",
+    "Pep Alegre",
+    "Tere Páramo Prieto",
+    "Ricard Sangrós",
     "José Marí­a Heredia Genestar",
     "Arcadi Navarro Cuartiellas",
-    "Pep Alegre",
-    "Angel Carreño Torres",
-    "Tere Páramo Prieto",
-    "Carlos Morcillo Suarez",
-    "Ricard Sangrós"
+    "Carlos Morcillo Suarez"
   ],
   "sc:citation": "pubmed:18515823",
   "sc:contributor": [
@@ -29,12 +29,12 @@
   "sc:name": "SNPator",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
-    "upf.edu",
-    "Instituto Nacional de Bioinformática (INB)"
+    "Instituto Nacional de Bioinformática (INB)",
+    "upf.edu"
   ],
   "sc:url": "http://www.snpator.org/",
   "sc:version": "1"

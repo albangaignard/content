@@ -40,8 +40,8 @@
       "sc:name": "ConTrav2",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": "ugent.be",
       "sc:url": "http://bioit.irc.ugent.be/contrav2/index.php?v2",

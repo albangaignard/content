@@ -18,8 +18,8 @@
   "sc:description": "Command line, web service, and web interface for fast and accurate functional characterization of variants found by Next Generation Sequencing.",
   "sc:name": "VARIANT",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": [

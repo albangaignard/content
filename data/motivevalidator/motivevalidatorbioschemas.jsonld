@@ -17,16 +17,16 @@
   "sc:author": "David Sehnal",
   "sc:contributor": [
     "Radka Svobodová Vařeková",
+    "Lukáš Pravda",
     "Crina-Maria Ionescu",
-    "Deepti Jaiswal",
-    "Lukáš Pravda"
+    "Deepti Jaiswal"
   ],
   "sc:description": "A web application for validation of annotation of ligands and \nresidues.",
   "sc:name": "MotiveValidator",
   "sc:operatingSystem": [
+    "Linux",
     "Windows",
-    "Mac",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": "Masaryk University, Brno, Czech Republic",
   "sc:url": "http://webchem.ncbr.muni.cz/Platform/MotiveValidator",

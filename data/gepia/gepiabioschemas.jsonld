@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/NAR/GKX247",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/gepia",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Web application",
@@ -38,6 +34,10 @@
       ],
       "sc:name": "GEPIA",
       "sc:url": "http://gepia.cancer-pku.cn/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/NAR/GKX247",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -27,8 +27,8 @@
       },
       "sc:name": "CancerPPD",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://crdd.osdd.net/raghava/cancerppd/"

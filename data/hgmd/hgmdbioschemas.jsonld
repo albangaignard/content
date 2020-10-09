@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1007/s00439-013-1358-4",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/hgmd",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Contact Form",
@@ -30,13 +34,13 @@
           "@id": "edam:operation_3197"
         },
         {
-          "@id": "edam:operation_3436"
-        },
-        {
           "@id": "edam:operation_3224"
         },
         {
           "@id": "edam:operation_3196"
+        },
+        {
+          "@id": "edam:operation_3436"
         }
       ],
       "sc:name": "HGMD",
@@ -46,10 +50,6 @@
         "Mac"
       ],
       "sc:url": "http://www.hgmd.org"
-    },
-    {
-      "@id": "https://doi.org/10.1007/s00439-013-1358-4",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

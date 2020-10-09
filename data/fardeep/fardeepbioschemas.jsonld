@@ -18,6 +18,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://orcid.org/0000-0002-1049-2219",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/FARDEEP",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -56,10 +60,6 @@
         "Mac"
       ],
       "sc:url": "https://github.com/YuningHao/FARDEEP.git"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-1049-2219",
-      "@type": "schema:Person"
     }
   ]
 }

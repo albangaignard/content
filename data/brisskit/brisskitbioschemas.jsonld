@@ -15,19 +15,19 @@
     "Shajid Issa"
   ],
   "sc:additionalType": [
-    "Web API",
-    "Workbench",
-    "Command-line tool",
     "Web application",
-    "Database portal"
+    "Database portal",
+    "Command-line tool",
+    "Workbench",
+    "Web API"
   ],
   "sc:author": [
     "Dr Olly Butters (former Technical Lead)",
     "Shajid Issa (Technical Lead)"
   ],
   "sc:contributor": [
-    "HEFCE UMF",
     "Dr Jonathan Tedds (PI)",
+    "HEFCE UMF",
     "Jisc"
   ],
   "sc:description": "Biomedical Research Software as a Service that enables biomedical & translational researchers to securely manage and combine datasets, typically for patient cohorts. A suite of cloud enabled & integrated open source applications can be accessed in a browser, which make it easier for researchers to manage their studies. Sensitive data can be secured and only accessible to those with permission.",
@@ -37,9 +37,9 @@
   ],
   "sc:name": "BRISSKit",
   "sc:operatingSystem": [
+    "Windows",
     "Mac",
-    "Linux",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
     "University of Bristol",
