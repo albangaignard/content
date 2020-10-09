@@ -1,0 +1,118 @@
+{
+    "additionDate": "2020-01-09T18:31:25Z",
+    "biotoolsCURIE": "biotools:CASE",
+    "biotoolsID": "CASE",
+    "confidence_flag": "very low",
+    "credit": [
+        {
+            "email": "eoghan.casey@unil.ch",
+            "name": "Eoghan Casey",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "Advancing Coordinated Cyber-investigations and Tool Interoperability using a Community Developed Specification Language.\n\nSource files for the CASE website.\n\nAPI used for instantiating CASE objects (includes ontological verification and type checking).\n\nCyber-investigation Analysis Standard Expression (CASE).\n\nRead the CASE Wiki tab to learn everything you need to know about the Cyber-investigation Analysis Standard Expression (CASE) ontology. For learning about the Unified Cyber Ontology, CASE's parent, see UCO.\n\n\"@vocab\": \"http://case.example.org/core#\",.\n\nDET ER DINE PENGER DET DREIER SEG OM...\n\nVi er ikke st\ufffdrst, men garanterer effektiv behandling.\n\nLast ned v\ufffdr brosjyre i PDF format.\n\n||| COMMON LINK WITH (PUB. & NAME DIFFERENT) bio.tools/pymzml (GITHUB.COM).\n\n||| CORRECT NAME OF TOOL COULD ALSO BE 'UCO', 'cyber-investigation', 'cyber-investigations', 'plaso'",
+    "documentation": [
+        {
+            "type": [
+                "Training material"
+            ],
+            "url": "https://github.com/casework/case/blob/master/examples/accounts.json"
+        },
+        {
+            "type": [
+                "Training material"
+            ],
+            "url": "https://github.com/casework/case/blob/master/examples/file.json"
+        }
+    ],
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Standardisation and normalisation",
+                    "uri": "http://edamontology.org/operation_3435"
+                },
+                {
+                    "term": "Ontology visualisation",
+                    "uri": "http://edamontology.org/operation_3559"
+                },
+                {
+                    "term": "Aggregation",
+                    "uri": "http://edamontology.org/operation_3436"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://CASE.as",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2020-01-09T18:31:25Z",
+    "link": [
+        {
+            "type": [
+                "Repository"
+            ],
+            "url": "https://github.com/casework"
+        },
+        {
+            "type": [
+                "Repository"
+            ],
+            "url": "https://github.com/casework/case-api-python"
+        }
+    ],
+    "name": "CASE",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1016/J.DIIN.2017.08.002",
+            "metadata": {
+                "abstract": "\u00a9 2017Any investigation can have a digital dimension, often involving information from multiple data sources, organizations and jurisdictions. Existing approaches to representing and exchanging cyber-investigation information are inadequate, particularly when combining data sources from numerous organizations or dealing with large amounts of data from various tools. To conduct investigations effectively, there is a pressing need to harmonize how this information is represented and exchanged. This paper addresses this need for information exchange and tool interoperability with an open community-developed specification language called Cyber-investigation Analysis Standard Expression (CASE). To further promote a common structure, CASE aligns with and extends the Unified Cyber Ontology (UCO) construct, which provides a format for representing information in all cyber domains. This ontology abstracts objects and concepts that are not CASE-specific, so that they can be used across other cyber disciplines that may extend UCO. This work is a rational evolution of the Digital Forensic Analysis eXpression (DFAX) for representing digital forensic information and provenance. CASE is more flexible than DFAX and can be utilized in any context, including criminal, corporate and intelligence. CASE also builds on the Hansken data model developed and implemented by the Netherlands Forensic Institute (NFI). CASE enables the fusion of information from different organizations, data sources, and forensic tools to foster more comprehensive and cohesive analysis. This paper includes illustrative examples of how CASE can be implemented and used to capture information in a structured form to advance sharing, interoperability and analysis in cyber-investigations. In addition to capturing technical details and relationships between objects, CASE provides structure for representing and sharing details about how cyber-information was handled, transferred, processed, analyzed, and interpreted. CASE also supports data marking for sharing information at different levels of trust and classification, and for protecting sensitive and private information. Furthermore, CASE supports the sharing of knowledge related to cyber-investigations, including distinctive patterns of activity/behavior that are common across cases. This paper features a proof-of-concept Application Program Interface (API) to facilitate implementation of CASE in tools. Community members are encouraged to participate in the development and implementation of CASE and UCO.",
+                "authors": [
+                    {
+                        "name": "Casey E."
+                    },
+                    {
+                        "name": "Barnum S."
+                    },
+                    {
+                        "name": "Griffith R."
+                    },
+                    {
+                        "name": "Snyder J."
+                    },
+                    {
+                        "name": "van Beek H."
+                    },
+                    {
+                        "name": "Nelson A."
+                    }
+                ],
+                "citationCount": 15,
+                "date": "2017-09-01T00:00:00Z",
+                "journal": "Digital Investigation",
+                "title": "Advancing coordinated cyber-investigations and tool interoperability using a community developed specification language"
+            },
+            "pmcid": "PMC6774392",
+            "pmid": "31579279"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Ontology and terminology",
+            "uri": "http://edamontology.org/topic_0089"
+        },
+        {
+            "term": "Transcription factors and regulatory sites",
+            "uri": "http://edamontology.org/topic_0749"
+        },
+        {
+            "term": "Model organisms",
+            "uri": "http://edamontology.org/topic_0621"
+        }
+    ]
+}
