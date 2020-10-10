@@ -18,7 +18,9 @@
     "description": "BridgeDb is a framework for finding and mapping equivalent database identifiers. It has many facets: it is both a framework, live services, and are identifier mapping files for genes, proteins, and metabolites.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://www.bridgedb.org/"
         }
     ],
@@ -171,6 +173,10 @@
         {
             "term": "Data identity and mapping",
             "uri": "http://edamontology.org/topic_3345"
+        },
+        {
+            "term": "Rare diseases",
+            "uri": "http://edamontology.org/topic_3325"
         }
     ]
 }
