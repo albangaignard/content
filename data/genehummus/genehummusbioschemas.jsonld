@@ -36,8 +36,8 @@
       "sc:license": "MIT",
       "sc:name": "geneHummus",
       "sc:operatingSystem": [
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://cran.r-project.org/package=geneHummus",
       "sc:version": "1.0.11"

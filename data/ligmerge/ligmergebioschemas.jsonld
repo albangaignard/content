@@ -17,8 +17,8 @@
   "sc:name": "LigMerge",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://nbcr.ucsd.edu/data/sw/hosted/ligmerge/"
 }

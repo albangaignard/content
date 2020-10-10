@@ -17,8 +17,8 @@
         "Anand K. Gavai"
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pmcid:PMC4373785",
@@ -33,9 +33,9 @@
       },
       "sc:name": "BiGGR",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/BiGGR.html",
       "sc:version": "1.10.0"

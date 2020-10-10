@@ -37,9 +37,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "illuminaio",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/illuminaio.html",
       "sc:version": "0.16.0"

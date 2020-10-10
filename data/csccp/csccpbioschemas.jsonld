@@ -16,8 +16,8 @@
   "sc:name": "CSCCP",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://csccp.cmdm.tw/"
 }

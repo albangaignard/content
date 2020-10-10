@@ -14,10 +14,10 @@
       "@type": "sc:SoftwareApplication",
       "edam:has_input": [
         {
-          "@id": "edam:data_0842"
+          "@id": "edam:data_2388"
         },
         {
-          "@id": "edam:data_2388"
+          "@id": "edam:data_0842"
         }
       ],
       "edam:has_output": [
@@ -50,9 +50,9 @@
       },
       "sc:name": "Complete Arabidopsis transcriptome database",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:provider": "Unité de Recherche en Génomique Végétale",
       "sc:url": "http://urgv.evry.inra.fr/CATdb"

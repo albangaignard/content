@@ -19,8 +19,8 @@
   "sc:license": "Unlicense",
   "sc:name": "ClinOmicsTrailbc",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "https://clinomicstrail.bioinf.uni-sb.de"

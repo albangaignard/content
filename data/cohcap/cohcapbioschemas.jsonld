@@ -10,16 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gkt242",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/cohcap",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Charles Warden",
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:23598999",
@@ -46,6 +42,10 @@
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/COHCAP.html",
       "sc:version": "1.16.0"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkt242",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -13,9 +13,9 @@
       "@id": "https://bio.tools/mzr",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Qiang Kou",
         "Steffen Neumann",
         "Bernd Fischer",
+        "Qiang Kou",
         "Laurent Gatto"
       ],
       "sc:additionalType": [
@@ -23,8 +23,8 @@
         "Library"
       ],
       "sc:citation": [
-        "pmcid:PMC2732273",
         "pubmed:18606607",
+        "pmcid:PMC2732273",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/btn323"
         }
@@ -36,8 +36,8 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "mzR",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/mzR.html",

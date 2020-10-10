@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/meigo",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Julio Saez-Rodríguez",
-        "Julio R. Banga"
+        "Julio R. Banga",
+        "Julio Saez-Rodríguez"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
@@ -31,8 +31,8 @@
       "sc:name": "MEIGO",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://nautilus.iim.csic.es/~gingproc/meigo.html"
     },

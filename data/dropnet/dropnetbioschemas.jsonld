@@ -17,8 +17,8 @@
   "sc:name": "DroPNet",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://dropnet.isima.fr"
 }

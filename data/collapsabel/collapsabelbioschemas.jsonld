@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s12859-016-1006-9",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/collapsabel",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Kaiyin Zhong",
@@ -35,6 +31,10 @@
         "Linux"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/CollapsABEL/"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s12859-016-1006-9",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

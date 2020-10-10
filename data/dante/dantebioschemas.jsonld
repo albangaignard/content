@@ -14,8 +14,8 @@
   "sc:description": "Protein quantitation, statistical analysis and visualization.",
   "sc:name": "DAnTE",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "http://omics.pnl.gov/software/DAnTE.php"

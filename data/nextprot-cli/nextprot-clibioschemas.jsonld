@@ -11,17 +11,17 @@
   "@id": "https://bio.tools/nextprot-cli",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Command-line tool",
+    "Web API",
     "Library",
-    "SPARQL endpoint",
-    "Web API"
+    "Command-line tool",
+    "SPARQL endpoint"
   ],
   "sc:description": "This node module contains methods to access the neXtProt API as well as the SPARQL endpoint.",
   "sc:license": "GPL-2.0",
   "sc:name": "nextprot-cli",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "isb-sib.ch",

@@ -29,8 +29,8 @@
       "sc:name": "Bio-TDS",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://biotds.org/"
     },

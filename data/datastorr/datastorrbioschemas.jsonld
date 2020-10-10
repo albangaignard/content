@@ -10,17 +10,17 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/GIGASCIENCE/GIZ035",
-      "@type": "sc:CreativeWork"
+      "@id": "https://orcid.org/0000-0002-9814-092X",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/Datastorr",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Rich FitzJohn",
         {
           "@id": "https://orcid.org/0000-0002-9814-092X"
-        },
-        "Rich FitzJohn"
+        }
       ],
       "sc:additionalType": "Workflow",
       "sc:citation": [
@@ -37,15 +37,15 @@
       "sc:license": "MIT",
       "sc:name": "Datastorr",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://github.com/ropenscilabs/datastorr"
     },
     {
-      "@id": "https://orcid.org/0000-0002-9814-092X",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1093/GIGASCIENCE/GIZ035",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

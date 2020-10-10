@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/methylextract",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Ricardo Lebrón",
     "Guillermo Barturen",
+    "Ricardo Lebrón",
     "José L. Oliver",
     "Michael Hackenberg"
   ],

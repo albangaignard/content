@@ -10,6 +10,14 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0001-8187-1980",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s13062-016-0159-9",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/ipc",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -22,15 +30,15 @@
         "@id": "edam:data_1528"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Web service"
+        "Web service",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
           "@id": "edam:topic_3292"
         },
         {
-          "@id": "edam:topic_3047"
+          "@id": "edam:topic_0121"
         },
         {
           "@id": "edam:topic_3520"
@@ -39,7 +47,7 @@
           "@id": "edam:topic_0123"
         },
         {
-          "@id": "edam:topic_0121"
+          "@id": "edam:topic_3047"
         }
       ],
       "sc:citation": [
@@ -57,23 +65,15 @@
       "sc:license": "Other",
       "sc:name": "IPC",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:softwareHelp": {
         "@id": "http://isoelectric.org/algorithms.html"
       },
       "sc:url": "http://isoelectric.ovh.org",
       "sc:version": "1.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0001-8187-1980",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s13062-016-0159-9",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

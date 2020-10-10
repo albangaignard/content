@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1186/s12859-019-2799-0",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/FastqPuri",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Julia Engelmann",
@@ -32,10 +36,10 @@
           "@id": "edam:operation_3800"
         },
         {
-          "@id": "edam:operation_3180"
+          "@id": "edam:operation_3219"
         },
         {
-          "@id": "edam:operation_3219"
+          "@id": "edam:operation_3180"
         }
       ],
       "sc:license": "GPL-3.0",
@@ -45,10 +49,6 @@
         "Linux"
       ],
       "sc:url": "https://github.com/jengelmann/FastqPuri"
-    },
-    {
-      "@id": "https://doi.org/10.1186/s12859-019-2799-0",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

@@ -17,8 +17,8 @@
   "sc:name": "CovalentDock Cloud",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://docking.sce.ntu.edu.sg/"
 }

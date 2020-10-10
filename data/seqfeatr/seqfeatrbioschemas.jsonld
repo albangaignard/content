@@ -10,20 +10,24 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-9313-8636",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/seqfeatr",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0002-9313-8636"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:citation": [
+        "pmcid:PMC4701496",
         {
           "@id": "https://doi.org/10.1371/journal.pone.0146409"
         },
-        "pmcid:PMC4701496",
         "pubmed:26731669"
       ],
       "sc:description": "SeqFeatR has been developed to identify associations between mutation patterns in biological sequences and specific selection pressures (“features”).",
@@ -43,10 +47,6 @@
     {
       "@id": "https://doi.org/10.1371/journal.pone.0146409",
       "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-9313-8636",
-      "@type": "schema:Person"
     }
   ]
 }

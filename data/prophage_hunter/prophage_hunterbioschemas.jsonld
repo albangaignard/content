@@ -38,8 +38,8 @@
       "sc:license": "Unlicense",
       "sc:name": "Prophage Hunter",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "https://pro-hunter.bgi.com/"
