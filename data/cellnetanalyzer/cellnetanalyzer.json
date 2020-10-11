@@ -22,7 +22,9 @@
     "description": "CellNetAnalyzer (CNA) is a MATLAB toolbox providing various computational methods for analyzing structure and function of metabolic, signaling, and regulatory networks. \n\nMetabolic networks can be analyzed by means of stoichiometric and constraint-based modeling techniques while signal transduction and (gene) regulatory networks can be represented and analyzed as logical networks (Boolean or multivalued logic) or as interaction graphs. Computations can be started within a GUI (interactive network maps) or from command line (via API functions).",
     "documentation": [
         {
-            "type": "User manual",
+            "type": [
+                "User manual"
+            ],
             "url": "https://www2.mpi-magdeburg.mpg.de/projects/cna/manual_cellnetanalyzer.pdf"
         }
     ],
@@ -106,7 +108,9 @@
     "link": [
         {
             "note": "CellNetAnalyzer@JIB.tools - a web registry of tools published in the Journal of Integrative Bioinformatics",
-            "type": "Software catalogue",
+            "type": [
+                "Software catalogue"
+            ],
             "url": "https://jib.tools/details.php?id=28"
         }
     ],
@@ -120,9 +124,29 @@
     "publication": [
         {
             "doi": "10.1186/1752-0509-1-2",
+            "metadata": {
+                "abstract": "Background: Mathematical modelling of cellular networks is an integral part of Systems Biology and requires appropriate software tools. An important class of methods in Systems Biology deals with structural or topological (parameter-free) analysis of cellular networks. So far, software tools providing such methods for both mass-flow (metabolic) as well as signal-flow (signalling and regulatory) networks are lacking. Results: Herein we introduce CellNetAnalyzer, a toolbox for MATLAB facilitating, in an interactive and visual manner, a comprehensive structural analysis of metabolic, signalling and regulatory networks. The particular strengths of CellNetAnalyzer are methods for functional network analysis, i.e. for characterising functional states, for detecting functional dependencies, for identifying intervention strategies, or for giving qualitative predictions on the effects of perturbations. CellNetAnalyzer extends its predecessor FluxAnalyzer (originally developed for metabolic network and pathway analysis) by a new modelling framework for examining signal-flow networks. Two of the novel methods implemented in CellNetAnalyzer are discussed in more detail regarding algorithmic issues and applications: the computation and analysis (i) of shortest positive and shortest negative paths and circuits in interaction graphs and (ii) of minimal intervention sets in logical networks. Conclusion: CellNetAnalyzer provides a single suite to perform structural and qualitative analysis of both mass-flow- and signal-flow-based cellular networks in a user-friendly environment. It provides a large toolbox with various, partially unique, functions and algorithms for functional network analysis.CellNetAnalyzer is freely available for academic use. \u00a9 2007 Klamt et al; licensee BioMed Central Ltd.",
+                "authors": [
+                    {
+                        "name": "Klamt S."
+                    },
+                    {
+                        "name": "Saez-Rodriguez J."
+                    },
+                    {
+                        "name": "Gilles E.D."
+                    }
+                ],
+                "citationCount": 331,
+                "date": "2007-01-08T00:00:00Z",
+                "journal": "BMC Systems Biology",
+                "title": "Structural and functional analysis of cellular networks with CellNetAnalyzer"
+            },
             "pmcid": "PMC1847467",
             "pmid": "17408509",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         },
         {
             "metadata": {
@@ -141,7 +165,9 @@
                 "title": "An application programming interface for CellNetAnalyzer"
             },
             "pmid": "21315797",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         },
         {
             "metadata": {

@@ -1,0 +1,86 @@
+{
+    "additionDate": "2020-01-09T18:00:41Z",
+    "biotoolsCURIE": "biotools:BioSCOOP",
+    "biotoolsID": "BioSCOOP",
+    "confidence_flag": "high",
+    "credit": [
+        {
+            "email": "dominik.strapagiel@biol.uni.lodz.pl",
+            "name": "D Strapagiel",
+            "orcidid": "https://orcid.org/0000-0001-9752-4270",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "Biobank Sample Communication Protocol. New approach for the transfer of information between biobanks.\n\nThe idea behind BioSCOOP is to create a standard of information interchange for Biobanks. Similar ideas are already present, however are not very widespread and their development pace doesn\u2019t seem to be very fast. BioSCOOP is not supposed to be yet another Biobank data format, it aims to provide the data format together with the methods of data interchange. BioSCOOP is created with following principles in mind: It should conform to the modern IT industrial standards. It should not be tightly coupled to any specific programming language or data storage. It should be easy to integrate BioSCOOP capabilities into existing BBMS",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Database search",
+                    "uri": "http://edamontology.org/operation_2421"
+                },
+                {
+                    "term": "Standardisation and normalisation",
+                    "uri": "http://edamontology.org/operation_3435"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/BiobankLab/BioSCOOP",
+    "lastUpdate": "2020-01-09T18:00:41Z",
+    "name": "BioSCOOP",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1093/DATABASE/BAZ105",
+            "metadata": {
+                "abstract": "\u00a9 2019 The Author(s) 2019. Published by Oxford University Press.Dynamic development of biobanking industry (both business and science) resulted in an increased number of IT systems for samples and data management. The most difficult and complicated case for the biobanking community was cooperation between institutions, equipped with different IT systems, in the field of scientific research, mainly data interchange and information flow. Tools available on the market relate mainly to the biobank or collection level. Efficient and universal protocols including the detailed information about the donor and the sample are still very limited. Here, we have developed BioSCOOP, a communication protocol in the form of a well documented JSON API. The main aim of this study was to harmonize and standardize the rules of communication between biobanks on the level of information about the donor together with information about the sample. The purpose was to create a communication protocol for two applications: to transfer the information between different biobanks and to allow the searching and presentation of the sample and data sets.",
+                "authors": [
+                    {
+                        "name": "Jarczak J."
+                    },
+                    {
+                        "name": "Lach J."
+                    },
+                    {
+                        "name": "Borowka P."
+                    },
+                    {
+                        "name": "Galka M."
+                    },
+                    {
+                        "name": "Bucko M."
+                    },
+                    {
+                        "name": "Marciniak B."
+                    },
+                    {
+                        "name": "Strapagiel D."
+                    }
+                ],
+                "date": "2019-01-01T00:00:00Z",
+                "journal": "Database",
+                "title": "BioSCOOP-Biobank Sample Communication Protocol. New approach for the transfer of information between biobanks"
+            },
+            "pmcid": "PMC6791335",
+            "pmid": "31609452"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Biobank",
+            "uri": "http://edamontology.org/topic_3337"
+        },
+        {
+            "term": "Data management",
+            "uri": "http://edamontology.org/topic_3071"
+        },
+        {
+            "term": "Software engineering",
+            "uri": "http://edamontology.org/topic_3372"
+        }
+    ]
+}
