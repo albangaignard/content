@@ -10,6 +10,14 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gku1180",
+      "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-0468-0117",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/dorina",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -45,30 +53,22 @@
       "sc:name": "doRiNA",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:provider": [
-        "rnateam",
-        "Max Delbrück Centre for Molecular Medicine"
+        "Max Delbrück Centre for Molecular Medicine",
+        "rnateam"
       ],
       "sc:softwareHelp": [
         {
-          "@id": "http://dorina.mdc-berlin.de/acknowledgements"
+          "@id": "http://dorina.mdc-berlin.de/tutorials"
         },
         {
-          "@id": "http://dorina.mdc-berlin.de/tutorials"
+          "@id": "http://dorina.mdc-berlin.de/acknowledgements"
         }
       ],
       "sc:url": "http://dorina.mdc-berlin.de/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gku1180",
-      "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-0468-0117",
-      "@type": "schema:Person"
     }
   ]
 }

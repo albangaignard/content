@@ -13,9 +13,9 @@
   "biotools:primaryContact": [
     "Jian Liu",
     "Qiuru Liu",
-    "Lei Zhang",
     "Yongzhuang Liu",
-    "Shuhui Su"
+    "Shuhui Su",
+    "Lei Zhang"
   ],
   "sc:additionalType": "Command-line tool",
   "sc:citation": "pubmed:31094692",

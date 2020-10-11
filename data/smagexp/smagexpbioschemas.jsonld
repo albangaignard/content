@@ -10,17 +10,13 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/gigascience/giy167",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/SMAGEXP",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Samuel Blanck",
       "sc:additionalType": "Library",
       "sc:citation": [
-        "pubmed:30698691",
         "pmcid:PMC6354025",
+        "pubmed:30698691",
         {
           "@id": "https://doi.org/10.1093/gigascience/giy167"
         }
@@ -40,11 +36,15 @@
       "sc:license": "MIT",
       "sc:name": "SMAGEXP",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://github.com/sblanck/smagexp"
+    },
+    {
+      "@id": "https://doi.org/10.1093/gigascience/giy167",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

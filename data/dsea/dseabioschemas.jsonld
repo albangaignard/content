@@ -21,8 +21,8 @@
   "sc:name": "DSEA",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://dsea.tigem.it/"
 }

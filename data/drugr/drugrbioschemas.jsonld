@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/DrugR",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Yadollah Omidi",
+    "Ali Masoudi-Nejad",
     "Massoud Amanlou",
     "Yosef Masoudi-Sobhanzadeh",
-    "Ali Masoudi-Nejad"
+    "Yadollah Omidi"
   ],
   "sc:additionalType": [
     "Web application",

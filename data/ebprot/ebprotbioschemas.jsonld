@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Hiromi W.L. Koh",
-    "Christine Vogel",
+    "Yunbin Zhang",
     "Hyungwon Choi",
-    "Yunbin Zhang"
+    "Christine Vogel"
   ],
   "sc:additionalType": "Plug-in",
   "sc:citation": "pubmed:30411623",

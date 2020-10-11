@@ -28,8 +28,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "GENLIB",
       "sc:operatingSystem": [
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/GENLIB/index.html",
       "sc:version": "1.0.6"

@@ -32,8 +32,8 @@
       "sc:name": "PS-Plant",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://github.com/g2-bernotas/PS-Plant-Framework"
     },

@@ -23,12 +23,12 @@
       "sc:additionalType": "Command-line tool",
       "sc:author": [
         {
-          "@id": "https://orcid.org/0000-0001-9441-9539"
-        },
-        {
           "@id": "https://orcid.org/0000-0003-1677-9533"
         },
-        "Elvis Ndah"
+        "Elvis Ndah",
+        {
+          "@id": "https://orcid.org/0000-0001-9441-9539"
+        }
       ],
       "sc:contributor": [
         "Sandra Steyaert",
@@ -46,12 +46,12 @@
       ],
       "sc:url": "https://github.com/Biobix/proteoformer",
       "sc:version": [
-        "2.0",
-        "1.0"
+        "1.0",
+        "2.0"
       ]
     },
     {
-      "@id": "https://orcid.org/0000-0001-9441-9539",
+      "@id": "https://orcid.org/0000-0002-7575-2085",
       "@type": "schema:Person"
     },
     {
@@ -59,7 +59,7 @@
       "@type": "schema:Person"
     },
     {
-      "@id": "https://orcid.org/0000-0002-7575-2085",
+      "@id": "https://orcid.org/0000-0001-9441-9539",
       "@type": "schema:Person"
     }
   ]

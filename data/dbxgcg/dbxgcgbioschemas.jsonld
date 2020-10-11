@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
-    "EMBOSS Contributors",
     "UK MRC",
+    "EMBOSS Contributors",
+    "Wellcome Trust",
     "UK BBSRC"
   ],
   "sc:description": "Index a GCG formatted database using b+tree indices.",
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "dbxgcg",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

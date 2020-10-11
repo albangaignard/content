@@ -17,8 +17,8 @@
   "sc:name": "ProMoST",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://proteomics.mcw.edu/promost.html"
 }

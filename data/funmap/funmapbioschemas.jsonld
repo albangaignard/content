@@ -19,8 +19,8 @@
   "sc:name": "Funmap",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://statgen.psu.edu/software/funmap.html",
   "sc:version": "2.2.1"

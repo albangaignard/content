@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Michael Sekula",
-        "Susmita Datta",
-        "Somnath Datta"
+        "Somnath Datta",
+        "Susmita Datta"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [

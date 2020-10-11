@@ -19,8 +19,8 @@
   "sc:name": "Protege 5.0",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://protege.stanford.edu/"
 }

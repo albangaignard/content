@@ -17,8 +17,8 @@
   "sc:description": "Re-ranking gene network inference predictions using structural network properties.",
   "sc:name": "Netter",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": "ugent.be",

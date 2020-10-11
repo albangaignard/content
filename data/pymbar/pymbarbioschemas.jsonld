@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "John D. Chodera",
-    "Levi N. Naden",
     "Michael R. Shirts",
+    "Levi N. Naden",
     "Kyle A. Beauchamp"
   ],
   "sc:additionalType": "Library",

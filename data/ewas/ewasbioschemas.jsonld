@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Fanwu Kong",
-    "Yongshuai Jiang",
-    "Liangde Xu"
+    "Liangde Xu",
+    "Yongshuai Jiang"
   ],
   "sc:additionalType": [
     "Desktop application",
@@ -23,9 +23,9 @@
   "sc:license": "Unlicense",
   "sc:name": "EWAS",
   "sc:operatingSystem": [
-    "Windows",
+    "Linux",
     "Mac",
-    "Linux"
+    "Windows"
   ],
   "sc:url": "http://www.bioapp.org/ewas/"
 }

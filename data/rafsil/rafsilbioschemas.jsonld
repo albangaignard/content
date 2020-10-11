@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Dennis Kostka",
       "sc:additionalType": "Library",
       "sc:citation": [
-        "pmcid:PMC6022547",
         "pubmed:29950006",
+        "pmcid:PMC6022547",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/bty260"
         }
@@ -28,8 +28,8 @@
       "sc:name": "RAFSIL",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://www.kostkalab.net/software.html"
     },

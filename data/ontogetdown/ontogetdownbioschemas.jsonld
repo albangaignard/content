@@ -13,15 +13,15 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "EMBOSS Contributors",
-    "UK BBSRC",
-    "UK MRC",
-    "Wellcome Trust"
-  ],
-  "sc:description": "Get ontology term(s) by parent id.",
-  "sc:funder": [
     "Wellcome Trust",
     "UK BBSRC",
     "UK MRC"
+  ],
+  "sc:description": "Get ontology term(s) by parent id.",
+  "sc:funder": [
+    "UK BBSRC",
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "ontogetdown",
@@ -31,8 +31,8 @@
     "Mac"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/ontogetdown.html",
   "sc:version": "r6"
