@@ -83,10 +83,12 @@
         }
     ],
     "homepage": "http://busca.biocomp.unibo.it/deepmito",
-    "lastUpdate": "2020-01-28T09:54:08.698395Z",
+    "lastUpdate": "2020-01-28T09:54:09Z",
     "link": [
         {
-            "type": "Other",
+            "type": [
+                "Other"
+            ],
             "url": "http://busca.biocomp.unibo.it/deepmito"
         }
     ],

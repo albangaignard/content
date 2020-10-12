@@ -1,0 +1,104 @@
+{
+    "additionDate": "2019-11-14T18:31:55Z",
+    "biotoolsCURIE": "biotools:PRIA",
+    "biotoolsID": "PRIA",
+    "confidence_flag": "medium",
+    "credit": [
+        {
+            "email": "daizong@mail.sysu.edu.cn",
+            "name": "Zong Dai",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "> MEDIUM CONFIDENCE! | > HOMEPAGE MISSING! | > CORRECT NAME OF TOOL COULD ALSO BE 'Polymerization Retardation Isothermal Amplification', '5hmC', '5hmC 5fC', '5fC' | a strategy enables sensitively quantify genome-wide 5-methylcytosine oxides rapidly on handy instruments with nanoscale sample input | The current methods for quantifying genome-wide 5-methylcytosine (5mC) oxides are still scarce, mostly restricted with two limitations: assay sensitivity is seriously compromised with cost, assay time and sample input; epigenetic information is irreproducible during polymerase chain reaction (PCR) amplification without bisulfite pretreatment. Here, we propose a novel Polymerization Retardation Isothermal Amplification (PRIA) strategy to directly amplify the minute differences between epigenetic bases and others by arranging DNA polymerase to repetitively pass large electron-withdrawing groups tagged 5mC-oxides",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "PCR primer design",
+                    "uri": "http://edamontology.org/operation_0308"
+                },
+                {
+                    "term": "Bisulfite mapping",
+                    "uri": "http://edamontology.org/operation_3186"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://www.ncbi.nlm.nih.gov/pubmed/?term=31418020",
+    "lastUpdate": "2019-11-14T18:31:55Z",
+    "name": "PRIA",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1093/NAR/GKZ704",
+            "metadata": {
+                "abstract": "\u00a9 The Author(s) 2019. Published by Oxford University Press on behalf of Nucleic Acids Research.The current methods for quantifying genome-wide 5-methylcytosine (5mC) oxides are still scarce, mostly restricted with two limitations: assay sensitivity is seriously compromised with cost, assay time and sample input; epigenetic information is irreproducible during polymerase chain reaction (PCR) amplification without bisulfite pretreatment. Here, we propose a novel Polymerization Retardation Isothermal Amplification (PRIA) strategy to directly amplify the minute differences between epigenetic bases and others by arranging DNA polymerase to repetitively pass large electron-withdrawing groups tagged 5mC-oxides. We demonstrate that low abundant 5-hydroxymethylcytosine (5hmC), 5-formylcytosine (5fC) and 5-carboxycytosine (5caC) in genomic DNA can be accurately quantified within 10 h with 100 ng sample input on a laboratory real-time quantitative PCR instrument, and even multiple samples can be analyzed simultaneously in microplates. The global levels of 5hmC and 5fC in mouse and human brain tissues, rat hippocampal neuronal tissue, mouse kidney tissue and mouse embryonic stem cells were quantified and the observations not only confirm the widespread presence of 5hmC and 5fC but also indicate their significant variation in different tissues and cells. The strategy is easily performed in almost all research and medical laboratories, and would provide the potential capability to other candidate modifications in nucleotides.",
+                "authors": [
+                    {
+                        "name": "Chen D."
+                    },
+                    {
+                        "name": "Wang Y."
+                    },
+                    {
+                        "name": "Mo M."
+                    },
+                    {
+                        "name": "Zhang J."
+                    },
+                    {
+                        "name": "Zhang Y."
+                    },
+                    {
+                        "name": "Xu Y."
+                    },
+                    {
+                        "name": "Liu S.-Y."
+                    },
+                    {
+                        "name": "Chen J."
+                    },
+                    {
+                        "name": "Ma Y."
+                    },
+                    {
+                        "name": "Zhang L."
+                    },
+                    {
+                        "name": "Dai Z."
+                    },
+                    {
+                        "name": "Cai C."
+                    },
+                    {
+                        "name": "Zou X."
+                    }
+                ],
+                "citationCount": 1,
+                "date": "2019-11-04T00:00:00Z",
+                "journal": "Nucleic acids research",
+                "title": "Polymerization retardation isothermal amplification (PRIA): a strategy enables sensitively quantify genome-wide 5-methylcytosine oxides rapidly on handy instruments with nanoscale sample input"
+            },
+            "pmcid": "PMC6821303",
+            "pmid": "31418020"
+        }
+    ],
+    "topic": [
+        {
+            "term": "PCR experiment",
+            "uri": "http://edamontology.org/topic_3519"
+        },
+        {
+            "term": "Epigenetics",
+            "uri": "http://edamontology.org/topic_3295"
+        },
+        {
+            "term": "Sequencing",
+            "uri": "http://edamontology.org/topic_3168"
+        }
+    ]
+}
