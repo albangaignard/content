@@ -1,7 +1,5 @@
 {
-    "accessibility": [
-        "Open access"
-    ],
+    "accessibility": "Open access",
     "additionDate": "2019-08-09T13:13:30Z",
     "biotoolsCURIE": "biotools:TYGS",
     "biotoolsID": "TYGS",
@@ -20,7 +18,9 @@
     "description": "Automated high-throughput platform for state-of-the-art genome-based taxonomy.",
     "documentation": [
         {
-            "type": "FAQ",
+            "type": [
+                "FAQ"
+            ],
             "url": "https://tygs.dsmz.de/faqs"
         }
     ],
@@ -46,7 +46,7 @@
         }
     ],
     "homepage": "https://tygs.dsmz.de",
-    "lastUpdate": "2019-10-31T12:20:58Z",
+    "lastUpdate": "2020-06-16T10:55:26Z",
     "license": "Unlicense",
     "maturity": "Mature",
     "name": "TYGS",
@@ -59,9 +59,26 @@
     "publication": [
         {
             "doi": "10.1038/S41467-019-10210-3",
+            "metadata": {
+                "abstract": "\u00a9 2019, The Author(s).Microbial taxonomy is increasingly influenced by genome-based computational methods. Yet such analyses can be complex and require expert knowledge. Here we introduce TYGS, the Type (Strain) Genome Server, a user-friendly high-throughput web server for genome-based prokaryote taxonomy, connected to a large, continuously growing database of genomic, taxonomic and nomenclatural information. It infers genome-scale phylogenies and state-of-the-art estimates for species and subspecies boundaries from user-defined and automatically determined closest type genome sequences. TYGS also provides comprehensive access to nomenclature, synonymy and associated taxonomic literature. Clinically important examples demonstrate how TYGS can yield new insights into microbial classification, such as evidence for a species-level separation of previously proposed subspecies of Salmonella enterica. TYGS is an integrated approach for the classification of microbes that unlocks novel scientific approaches to microbiologists worldwide and is particularly helpful for the rapidly expanding field of genome-based taxonomic descriptions of new genera, species or subspecies.",
+                "authors": [
+                    {
+                        "name": "Meier-Kolthoff J.P."
+                    },
+                    {
+                        "name": "Goker M."
+                    }
+                ],
+                "citationCount": 104,
+                "date": "2019-12-01T00:00:00Z",
+                "journal": "Nature Communications",
+                "title": "TYGS is an automated high-throughput platform for state-of-the-art genome-based taxonomy"
+            },
             "pmcid": "PMC6522516",
             "pmid": "31097708",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
