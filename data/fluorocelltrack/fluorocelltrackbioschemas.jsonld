@@ -34,18 +34,18 @@
       "sc:description": "Algorithm for automated analysis of high-throughput droplet microfluidic data.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3799"
+          "@id": "edam:operation_3443"
         },
         {
-          "@id": "edam:operation_3443"
+          "@id": "edam:operation_3799"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "FluoroCellTrack",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "https://github.com/Manibarathi/FluoroCellTrack"
     }

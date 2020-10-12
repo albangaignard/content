@@ -35,8 +35,8 @@
       },
       "sc:name": "PhysBinder",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:provider": "ugent.be",

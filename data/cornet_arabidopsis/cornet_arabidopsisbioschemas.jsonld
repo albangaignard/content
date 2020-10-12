@@ -15,8 +15,8 @@
   "sc:name": "CorNet Arabidopsis",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "PSB",

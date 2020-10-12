@@ -20,8 +20,8 @@
   "sc:name": "JASPAR RESTful API",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://jaspar.genereg.net/api/"
 }

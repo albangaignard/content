@@ -18,8 +18,8 @@
         {
           "@id": "https://doi.org/10.1186/S12864-016-2723-1"
         },
-        "pmcid:PMC4928150",
-        "pubmed:27357839"
+        "pubmed:27357839",
+        "pmcid:PMC4928150"
       ],
       "sc:description": "A random forest classifier of sequence variants in the human protein kinase superfamily.",
       "sc:featureList": {
@@ -29,8 +29,8 @@
       "sc:name": "KinMutRF",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://kinmut2.bioinfo.cnio.es/KinMut2"
     },

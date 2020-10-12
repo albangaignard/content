@@ -16,8 +16,8 @@
         "@id": "http://orcid.org/0000-0003-4942-8131"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         {
@@ -33,9 +33,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "RTN",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/RTN.html",
       "sc:version": "1.12.0"

@@ -21,8 +21,8 @@
         "Agatha Schlüter"
       ],
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pmcid:PMC2808949",
@@ -37,13 +37,13 @@
           "@id": "edam:operation_3431"
         },
         {
+          "@id": "edam:operation_0477"
+        },
+        {
           "@id": "edam:operation_0324"
         },
         {
           "@id": "edam:operation_0554"
-        },
-        {
-          "@id": "edam:operation_0477"
         },
         {
           "@id": "edam:operation_3092"
@@ -52,9 +52,9 @@
       "sc:license": "Unlicense",
       "sc:name": "PeroxisomeDB",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://www.peroxisomeDB.org"
     }

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1177/1176934319843130",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/OSTRFPD",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Mallika Imwong",
@@ -30,24 +34,20 @@
           "@id": "edam:operation_0308"
         },
         {
-          "@id": "edam:operation_3196"
+          "@id": "edam:operation_0237"
         },
         {
-          "@id": "edam:operation_0237"
+          "@id": "edam:operation_3196"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "OSTRFPD",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "https://github.com/vivekmathema/OSTRFPD"
-    },
-    {
-      "@id": "https://doi.org/10.1177/1176934319843130",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

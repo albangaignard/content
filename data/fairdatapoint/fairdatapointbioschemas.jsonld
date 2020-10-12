@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://orcid.org/0000-0002-1215-167X",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/FAIRDataPoint",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -25,18 +29,18 @@
         }
       ],
       "sc:additionalType": [
-        "Web API",
-        "Web application"
+        "Web application",
+        "Web API"
       ],
       "sc:author": [
+        "Kees burger",
         {
           "@id": "https://orcid.org/0000-0002-1215-167X"
-        },
-        "Kees burger"
+        }
       ],
       "sc:contributor": [
-        "Kees burger",
         "Mark Thompson",
+        "Kees burger",
         {
           "@id": "https://orcid.org/0000-0002-1215-167X"
         }
@@ -46,14 +50,10 @@
       "sc:name": "FAIRDataPoint",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/FAIRDataTeam/FAIRDataPoint"
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-1215-167X",
-      "@type": "schema:Person"
     }
   ]
 }

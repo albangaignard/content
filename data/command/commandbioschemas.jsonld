@@ -37,8 +37,8 @@
       "sc:name": "COMMAND",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/marcomoretto/command"
     },

@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
-    "Wellcome Trust",
+    "UK MRC",
     "EMBOSS Contributors",
-    "UK MRC"
+    "UK BBSRC",
+    "Wellcome Trust"
   ],
   "sc:description": "Compare and report features of two similar sequences.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "diffseq",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "EMBL EBI",

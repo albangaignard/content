@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Makarov V.",
       "sc:additionalType": "Script",
       "sc:citation": [
-        "pubmed:31136576",
         "pubmed:19657104",
+        "pubmed:31136576",
         {
           "@id": "https://doi.org/10.1371/JOURNAL.PCBI.1007069"
         },
@@ -26,8 +26,8 @@
       "sc:license": "Other",
       "sc:name": "RDXplorer",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://sourceforge.net/projects/rdxplorer/"
     },

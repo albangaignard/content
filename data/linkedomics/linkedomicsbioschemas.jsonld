@@ -28,9 +28,9 @@
       "sc:license": "Unlicense",
       "sc:name": "LinkeDomics",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://www.linkedomics.org"
     },

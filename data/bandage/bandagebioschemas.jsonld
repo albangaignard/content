@@ -11,16 +11,16 @@
   "@id": "https://bio.tools/bandage",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Ryan Wick",
-    "Australia"
+    "Australia",
+    "Ryan Wick"
   ],
   "sc:additionalType": "Desktop application",
   "sc:author": "Ryan Wick",
   "sc:contributor": [
-    "Mark Schultz",
-    "Justin Zobel",
     "Rayan Chikhi",
+    "Justin Zobel",
     "Elmar Pruesse",
+    "Mark Schultz",
     "Kathryn Holt"
   ],
   "sc:description": "GUI program that allows users to interact with the assembly graphs made by de novo assemblers such as Velvet, SPAdes, MEGAHIT and others. It visualises assembly graphs, with connections, using graph layout algorithms.",
@@ -28,8 +28,8 @@
   "sc:name": "Bandage",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
     "University of Melbourne, Australia",

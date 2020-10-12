@@ -15,8 +15,8 @@
   "sc:name": "JAMMING",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bis.ifc.unam.mx:8090/JAMMING/"
 }

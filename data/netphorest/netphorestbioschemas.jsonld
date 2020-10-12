@@ -19,8 +19,8 @@
         "@id": "edam:data_1277"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_0160"
@@ -42,9 +42,9 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "NetPhorest",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:provider": "CBS",
       "sc:softwareHelp": {
