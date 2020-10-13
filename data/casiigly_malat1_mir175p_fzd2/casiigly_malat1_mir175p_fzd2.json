@@ -1,0 +1,98 @@
+{
+    "additionDate": "2019-11-14T20:12:29Z",
+    "biotoolsCURIE": "biotools:CasIIgly_MALAT1_miR175p_FZD2",
+    "biotoolsID": "CasIIgly_MALAT1_miR175p_FZD2",
+    "confidence_flag": "very low",
+    "credit": [
+        {
+            "email": "xuyunsheng1018@163.com",
+            "name": "Yunsheng Xu",
+            "typeEntity": "Person"
+        },
+        {
+            "email": "ourongying@163.com",
+            "name": "Rongying Ou",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "> VERY_LOW CONFIDENCE! | > HOMEPAGE MISSING! | > CORRECT NAME OF TOOL COULD ALSO BE 'MALAT1 miR175p FZD2', 'MALAT1 miR175p FZD2 Wnt', 'CasIIgly MALAT1 miR175p', 'miR175p FZD2' | Casiopeina II\u2011gly acts on lncRNA MALAT1 by miR\u201117\u20115p to inhibit FZD2 expression via the Wnt signaling pathway during the treatment of cervical carcinoma | The present study investigated the underlying regulatory network involved in the differential expression of metastasis associated lung adenocarcinoma transcript 1 (MALAT1) long non\u2011coding (lnc)RNA, microRNA\u201117\u20115p (miR\u201117\u20115p) and frizzled class receptor 2 (FZD2) mRNA under the influence of Casiopeina II\u2011gly (Cas\u2011II\u2011gly) via the Wnt signaling pathway in cervical carcinoma (CC). The gene expression data were obtained from the Gene Expression Omnibus database (https: www.ncbi.nlm.nih.gov geo ), and the differentially expressed genes were determined using R software",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Differential gene expression analysis",
+                    "uri": "http://edamontology.org/operation_3223"
+                },
+                {
+                    "term": "Gene-set enrichment analysis",
+                    "uri": "http://edamontology.org/operation_2436"
+                },
+                {
+                    "term": "Dimethyl",
+                    "uri": "http://edamontology.org/operation_3642"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://www.ncbi.nlm.nih.gov/pubmed/?term=31524268",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-11-14T20:12:29Z",
+    "name": "CasIIgly MALAT1 miR175p FZD2",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.3892/OR.2019.7268",
+            "metadata": {
+                "abstract": "\u00a9 2019 Spandidos Publications. All rights reserved.The present study investigated the underlying regulatory network involved in the differential expression of metastasis associated lung adenocarcinoma transcript 1 (MALAT1) long non-coding (lnc)RNA, microRNA-17-5p (miR-17-5p) and frizzled class receptor 2 (FZD2) mRNA under the influence of Casiopeina II-gly (Cas-II-gly) via the Wnt signaling pathway in cervical carcinoma (CC). The gene expression data were obtained from the Gene Expression Omnibus database (https://www.ncbi.nlm.nih.gov/geo/), and the differentially expressed genes were determined using R software. The R ClusterProfiler and enrichplot packages were applied for gene-set enrichment analysis based on the Gene Ontology biological process and Kyoto Encyclopedia of Genes and Genomes databases. TargetScan and the starBase database were used to predict the targeting associations between the miRNAs and lncRNAs/mRNAs. The MALAT1/miR-17-5p/mRNA FZD2 expression levels were measured via reverse transcription-quantitative polymerase chain reaction. The protein expression was monitored by western blot analysis. The target association among the lncRNA MALAT1, miR-17-5p and FZD2 was validated via a dual luciferase reporter assay. Cell viability and apoptosis were determined via MTT assays, EdU staining and flow cytometry. The results indicated that the expression levels of lncRNA MALAT1 and FZD2 mRNA were downregulated, while miR-17-5p expression was upregulated in HeLa and CaSki cells treated with increasing Cas-II-gly concentrations. The cell viability was decreased, and the apoptosis rate was increased in HeLa and CaSki cells following Cas-II-gly treatment. Furthermore, western blot analysis results demonstrated that Cas-II-gly and the MALAT1/miR-17-5p/FZD2 axis could affect the expression of proteins associated with the Wnt signaling pathway, including disheveled segment polarity protein, glycogen synthase kinase-3\u03b2 and \u03b2-catenin, and via the MALAT1/miR-17-5p/FZD2/Wnt signaling pathway axis.",
+                "authors": [
+                    {
+                        "name": "Xu Y."
+                    },
+                    {
+                        "name": "Zhang Q."
+                    },
+                    {
+                        "name": "Lin F."
+                    },
+                    {
+                        "name": "Zhu L."
+                    },
+                    {
+                        "name": "Huang F."
+                    },
+                    {
+                        "name": "Zhao L."
+                    },
+                    {
+                        "name": "Ou R."
+                    }
+                ],
+                "citationCount": 1,
+                "date": "2019-01-01T00:00:00Z",
+                "journal": "Oncology Reports",
+                "title": "Casiopeina II-gly acts on lncRNA MALAT1 by miR-17-5p to inhibit FZD2 expression via the Wnt signaling pathway during the treatment of cervical carcinoma"
+            },
+            "pmcid": "PMC6718102",
+            "pmid": "31524268"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Functional, regulatory and non-coding RNA",
+            "uri": "http://edamontology.org/topic_0659"
+        },
+        {
+            "term": "Molecular interactions, pathways and networks",
+            "uri": "http://edamontology.org/topic_0602"
+        },
+        {
+            "term": "Gene transcripts",
+            "uri": "http://edamontology.org/topic_3512"
+        }
+    ]
+}
