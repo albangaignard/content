@@ -19,16 +19,16 @@
   ],
   "sc:description": "Remove whitespace from an ASCII text file.",
   "sc:funder": [
-    "UK MRC",
+    "Wellcome Trust",
     "UK BBSRC",
-    "Wellcome Trust"
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "nospace",
   "sc:operatingSystem": [
+    "Linux",
     "Windows",
-    "Mac",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
     "EMBOSS",

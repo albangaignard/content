@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/superpred",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Priyanka Banerjee",
     "Mathias Dunke",
-    "Bjoern-Oliver Gohlke",
     "Janette Nickel",
+    "Priyanka Banerjee",
+    "Bjoern-Oliver Gohlke",
     "Jevgeni Ehreman"
   ],
   "sc:additionalType": "Web application",

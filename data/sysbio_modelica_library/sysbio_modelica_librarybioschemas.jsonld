@@ -13,9 +13,9 @@
   "biotools:primaryContact": "Miha Moškon",
   "sc:additionalType": "Library",
   "sc:author": [
-    "Tanja Cvitanović",
     "Miha Mraz",
     "Damjana Rozman",
+    "Tanja Cvitanović",
     "Miha Moškon"
   ],
   "sc:contributor": [
@@ -26,12 +26,12 @@
   "sc:name": "SysBio modelica library",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
-    "Faculty of Computer and Information Science, University of Ljubljana",
-    "ELIXIR-SI-hackathon"
+    "ELIXIR-SI-hackathon",
+    "Faculty of Computer and Information Science, University of Ljubljana"
   ],
   "sc:url": "http://lrss.fri.uni-lj.si/bio/sysbio",
   "sc:version": "1"

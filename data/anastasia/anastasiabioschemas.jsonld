@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/anastasia",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Theodoros Koutsandreas",
     "Eleftherios Pilalis",
+    "Theodoros Koutsandreas",
     "Aristotelis Chatziioannou"
   ],
   "sc:additionalType": [
@@ -23,8 +23,8 @@
   "sc:name": "ANASTASIA",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://motherbox.chemeng.ntua.gr/anastasia_dev/"
 }

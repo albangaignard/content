@@ -28,8 +28,8 @@
       "sc:name": "ToTem",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://totem.software/login/?backlink=iplpf&_fid=t22e"
     },

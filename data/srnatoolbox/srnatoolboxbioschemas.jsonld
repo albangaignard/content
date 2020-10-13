@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Michael Hackenberg",
       "sc:additionalType": [
-        "Suite",
-        "Web application"
+        "Web application",
+        "Suite"
       ],
       "sc:citation": [
         "pmcid:PMC6602500",
@@ -43,8 +43,8 @@
       "sc:license": "Unlicense",
       "sc:name": "sRNAtoolbox",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://arn.ugr.es/srnatoolbox/"

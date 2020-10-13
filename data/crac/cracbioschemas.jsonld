@@ -26,13 +26,13 @@
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
-        "pmcid:PMC4053775",
         "pmcid:PMC5792058",
+        "pmcid:PMC4053775",
+        "pubmed:23537109",
+        "pubmed:27941783",
         {
           "@id": "https://doi.org/10.1186/gb-2013-14-3-r30"
         },
-        "pubmed:27941783",
-        "pubmed:23537109",
         {
           "@id": "https://doi.org/10.1038/nmeth.4106"
         }

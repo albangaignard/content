@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "EMBOSS Contributors",
     "UK MRC",
     "Wellcome Trust",
-    "EMBOSS Contributors",
     "UK BBSRC"
   ],
   "sc:description": "Report on protein proteolytic enzyme or reagent cleavage sites.",
@@ -27,12 +27,12 @@
   "sc:name": "pepdigest",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
-    "EMBOSS",
-    "EMBL EBI"
+    "EMBL EBI",
+    "EMBOSS"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/pepdigest.html",
   "sc:version": "r6"

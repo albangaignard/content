@@ -20,19 +20,19 @@
   "sc:description": "Compare and report features of two similar sequences.",
   "sc:funder": [
     "UK MRC",
-    "UK BBSRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "diffseq",
   "sc:operatingSystem": [
-    "Mac",
+    "Windows",
     "Linux",
-    "Windows"
+    "Mac"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/diffseq.html",
   "sc:version": "r6"

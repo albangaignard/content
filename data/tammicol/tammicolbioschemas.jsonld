@@ -22,10 +22,10 @@
         "Command-line tool"
       ],
       "sc:citation": [
+        "pubmed:30507938",
         {
           "@id": "https://doi.org/10.1371/journal.pcbi.1006629"
         },
-        "pubmed:30507938",
         "pmcid:PMC6292648"
       ],
       "sc:description": "Tool for analysis of the morphology of microbial colonies.",

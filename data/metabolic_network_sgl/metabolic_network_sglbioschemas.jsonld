@@ -19,8 +19,8 @@
   "sc:name": "Metabolic Network SGL",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://sourceforge.net/p/metabolic-network-sgl/git/ci/master/tree/"
 }

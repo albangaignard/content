@@ -27,8 +27,8 @@
       },
       "sc:name": "QuBiLs-MAS",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://tomocomd.com/qubils-mas"

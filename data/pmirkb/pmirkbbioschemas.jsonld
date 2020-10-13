@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/pmirkb",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Dijun Chen",
+    "Lingfeng Gou",
     "Yijun Meng",
-    "Ming Chen",
-    "Lingfeng Gou"
+    "Dijun Chen",
+    "Ming Chen"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:20719744",

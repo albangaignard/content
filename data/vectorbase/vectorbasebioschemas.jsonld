@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/vectorbase",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Dan Lawson",
-        "VectorBase contact email"
+        "VectorBase contact email",
+        "Dan Lawson"
       ],
       "edam:has_input": {
         "@id": "edam:data_2759"

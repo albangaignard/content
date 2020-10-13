@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "EMBOSS Contributors",
-    "UK MRC",
     "UK BBSRC",
+    "UK MRC",
+    "EMBOSS Contributors",
     "Wellcome Trust"
   ],
   "sc:description": "Generate server cache file for Dbfetch/WSDbfetch data sources.",
@@ -27,12 +27,12 @@
   "sc:name": "cachedbfetch",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
-    "EMBL EBI",
-    "EMBOSS"
+    "EMBOSS",
+    "EMBL EBI"
   ],
   "sc:url": "http://emboss.open-bio.org/rel/rel6/apps/cachedbfetch.html",
   "sc:version": "r6"

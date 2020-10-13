@@ -39,8 +39,8 @@
       ],
       "sc:name": "gganatogram",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/jespermaag/gganatogram"
     }

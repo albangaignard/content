@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1101/gr.2496804",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/worfdb",
       "@type": "sc:SoftwareApplication",
       "edam:has_input": {
@@ -36,14 +40,10 @@
       "sc:name": "WORFDB",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://worfdb.dfci.harvard.edu/"
-    },
-    {
-      "@id": "https://doi.org/10.1101/gr.2496804",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

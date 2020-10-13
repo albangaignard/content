@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK MRC",
     "EMBOSS Contributors",
     "Wellcome Trust",
+    "UK MRC",
     "UK BBSRC"
   ],
   "sc:description": "Get ontology term(s).",
@@ -27,8 +27,8 @@
   "sc:name": "ontoget",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
     "EMBL EBI",

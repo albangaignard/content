@@ -17,8 +17,8 @@
   "sc:name": "MartView",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.biomart.org/biomart/martview/"
 }

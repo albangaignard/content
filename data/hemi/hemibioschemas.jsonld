@@ -32,8 +32,8 @@
       "sc:name": "HemI",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://hemi.biocuckoo.org/down.php"
     }

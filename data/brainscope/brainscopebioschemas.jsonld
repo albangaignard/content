@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/brainscope",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Baldur van Lew",
-        "Sjoerd M.H. Huisman"
+        "Sjoerd M.H. Huisman",
+        "Baldur van Lew"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [

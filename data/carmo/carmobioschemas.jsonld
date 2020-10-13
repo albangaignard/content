@@ -16,8 +16,8 @@
   "sc:name": "CARMO",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://bioinfo.sibs.ac.cn/carmo/"
 }

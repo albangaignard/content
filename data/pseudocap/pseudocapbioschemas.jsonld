@@ -22,10 +22,10 @@
       "@type": "sc:SoftwareApplication",
       "edam:has_input": [
         {
-          "@id": "edam:data_2314"
+          "@id": "edam:data_2744"
         },
         {
-          "@id": "edam:data_2744"
+          "@id": "edam:data_2314"
         }
       ],
       "edam:has_output": {
@@ -51,9 +51,9 @@
       },
       "sc:name": "PseudoCAP pseudomonas genome database",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://www.pseudomonas.com/"
     }

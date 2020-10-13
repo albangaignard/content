@@ -17,8 +17,8 @@
   "sc:name": "ICGC Data Portal",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://dcc.icgc.org/"
 }

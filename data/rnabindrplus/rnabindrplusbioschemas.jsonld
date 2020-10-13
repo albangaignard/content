@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0001-7088-5535",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/rnabindrplus",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Command-line tool",
@@ -37,12 +33,16 @@
       },
       "sc:name": "RNABindRPlus",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://ailab1.ist.psu.edu/RNABindRPlus/",
       "sc:version": "1.0"
+    },
+    {
+      "@id": "http://orcid.org/0000-0001-7088-5535",
+      "@type": "schema:Person"
     }
   ]
 }

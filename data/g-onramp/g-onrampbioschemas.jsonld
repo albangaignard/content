@@ -22,9 +22,9 @@
   "sc:license": "Unlicense",
   "sc:name": "G-OnRamp",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://gonramp.wustl.edu/"
 }

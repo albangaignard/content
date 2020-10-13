@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/mvqtlcim",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Chunfa Tong",
-        "Fenxiang Liu"
+        "Fenxiang Liu",
+        "Chunfa Tong"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [
