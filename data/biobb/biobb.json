@@ -1,7 +1,5 @@
 {
-    "accessibility": [
-        "Open access"
-    ],
+    "accessibility": "Open access",
     "additionDate": "2018-10-18T14:19:04Z",
     "biotoolsCURIE": "biotools:biobb",
     "biotoolsID": "biobb",
@@ -48,42 +46,58 @@
     "documentation": [
         {
             "note": "biobb_common readthedocs",
-            "type": "API documentation",
+            "type": [
+                "API documentation"
+            ],
             "url": "https://biobb-common.readthedocs.io/en/latest/?badge=latest"
         },
         {
             "note": "biobb_io readthedocs",
-            "type": "API documentation",
+            "type": [
+                "API documentation"
+            ],
             "url": "https://biobb-io.readthedocs.io/en/latest/modules.html"
         },
         {
             "note": "biobb_md readthedocs",
-            "type": "API documentation",
+            "type": [
+                "API documentation"
+            ],
             "url": "https://biobb-md.readthedocs.io/en/latest/modules.html"
         },
         {
             "note": "biobb_analysis readthedocs",
-            "type": "API documentation",
+            "type": [
+                "API documentation"
+            ],
             "url": "https://biobb-analysis.readthedocs.io/en/latest/?badge=latest"
         },
         {
             "note": "biobb_model readthedocs",
-            "type": "API documentation",
+            "type": [
+                "API documentation"
+            ],
             "url": "https://biobb-model.readthedocs.io/en/latest/?badge=latest"
         },
         {
             "note": "biobb_chemistry readthedocs",
-            "type": "API documentation",
+            "type": [
+                "API documentation"
+            ],
             "url": "https://biobb-chemistry.readthedocs.io/en/latest/?badge=latest"
         },
         {
             "note": "biobb_pmx readthedocs",
-            "type": "API documentation",
+            "type": [
+                "API documentation"
+            ],
             "url": "https://biobb-pmx.readthedocs.io/en/latest/?badge=latest"
         },
         {
             "note": "biobb_structure_utils readthedocs",
-            "type": "API documentation",
+            "type": [
+                "API documentation"
+            ],
             "url": "https://biobb-structure_utils.readthedocs.io/en/latest/?badge=latest"
         }
     ],
@@ -181,47 +195,63 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2019-11-25T21:10:53Z",
+    "lastUpdate": "2020-06-16T10:55:26Z",
     "license": "Apache-2.0",
     "link": [
         {
             "note": "Main BioExcel building blocks Repository",
-            "type": "Repository",
+            "type": [
+                "Repository"
+            ],
             "url": "https://github.com/bioexcel/biobb"
         },
         {
             "note": "Biobb_common is the base package required to use the biobb packages.",
-            "type": "Repository",
+            "type": [
+                "Repository"
+            ],
             "url": "https://github.com/bioexcel/biobb_common"
         },
         {
             "note": "Biobb_io is the Biobb module collection to fetch data to be consumed by the rest of the Biobb building blocks.",
-            "type": "Repository",
+            "type": [
+                "Repository"
+            ],
             "url": "https://github.com/bioexcel/biobb_io"
         },
         {
             "note": "Biobb_md is the Biobb module collection to perform molecular dynamics simulations.",
-            "type": "Repository",
+            "type": [
+                "Repository"
+            ],
             "url": "https://github.com/bioexcel/biobb_md"
         },
         {
             "note": "Biobb_md is the Biobb module collection to perform structure modeling and checking.",
-            "type": "Repository",
+            "type": [
+                "Repository"
+            ],
             "url": "https://github.com/bioexcel/biobb_model"
         },
         {
             "note": "Biobb_chemistry is the Biobb module collection to perform cheminformatics analysis.",
-            "type": "Repository",
+            "type": [
+                "Repository"
+            ],
             "url": "https://github.com/bioexcel/biobb_chemistry"
         },
         {
             "note": "Biobb_pmx is the Biobb module collection to perform free energy calculations using the PMX package.",
-            "type": "Repository",
+            "type": [
+                "Repository"
+            ],
             "url": "https://github.com/bioexcel/biobb_pmx"
         },
         {
             "note": "Biobb_structure_utils is the Biobb module collection to parse and work with PDB structure files.",
-            "type": "Repository",
+            "type": [
+                "Repository"
+            ],
             "url": "https://github.com/bioexcel/biobb_structure_utils"
         }
     ],
@@ -236,13 +266,61 @@
     "publication": [
         {
             "doi": "10.5281/zenodo.263965",
-            "type": "Other"
+            "type": [
+                "Other"
+            ]
         },
         {
             "doi": "10.1038/s41597-019-0177-4",
+            "metadata": {
+                "abstract": "In the recent years, the improvement of software and hardware performance has made biomolecular simulations a mature tool for the study of biological processes. Simulation length and the size and complexity of the analyzed systems make simulations both complementary and compatible with other bioinformatics disciplines. However, the characteristics of the software packages used for simulation have prevented the adoption of the technologies accepted in other bioinformatics fields like automated deployment systems, workflow orchestration, or the use of software containers. We present here a comprehensive exercise to bring biomolecular simulations to the \"bioinformatics way of working\". The exercise has led to the development of the BioExcel Building Blocks (BioBB) library. BioBB's are built as Python wrappers to provide an interoperable architecture. BioBB's have been integrated in a chain of usual software management tools to generate data ontologies, documentation, installation packages, software containers and ways of integration with workflow managers, that make them usable in most computational environments.",
+                "authors": [
+                    {
+                        "name": "Andrio P."
+                    },
+                    {
+                        "name": "Hospital A."
+                    },
+                    {
+                        "name": "Conejero J."
+                    },
+                    {
+                        "name": "Jorda L."
+                    },
+                    {
+                        "name": "Del Pino M."
+                    },
+                    {
+                        "name": "Codo L."
+                    },
+                    {
+                        "name": "Soiland-Reyes S."
+                    },
+                    {
+                        "name": "Goble C."
+                    },
+                    {
+                        "name": "Lezzi D."
+                    },
+                    {
+                        "name": "Badia R.M."
+                    },
+                    {
+                        "name": "Orozco M."
+                    },
+                    {
+                        "name": "Gelpi J.L."
+                    }
+                ],
+                "date": "2019-09-10T00:00:00Z",
+                "journal": "Scientific data",
+                "title": "BioExcel Building Blocks, a software library for interoperable biomolecular simulation workflows"
+            },
             "pmcid": "PMC6736963",
             "pmid": "31506435",
-            "type": "Primary",
+            "type": [
+                "Primary"
+            ],
             "version": "v1.1"
         }
     ],

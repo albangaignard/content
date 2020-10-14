@@ -1,0 +1,61 @@
+{
+    "additionDate": "2019-11-14T19:55:37Z",
+    "biotoolsCURIE": "biotools:anti-CRISPR",
+    "biotoolsID": "anti-CRISPR",
+    "confidence_flag": "medium",
+    "credit": [
+        {
+            "email": "yyin@unl.edu",
+            "name": "Yanbin Yin",
+            "orcidid": "https://orcid.org/0000-0001-7667-881X",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "> MEDIUM CONFIDENCE! | > CORRECT NAME OF TOOL COULD ALSO BE 'Acrs', 'Aca', 'self-targeting spacers', 'Acr' | Bioinformatics Identification of Anti-CRISPR Loci by Using Homology, Guilt-by-Association, and CRISPR Self-Targeting Spacer Approaches | Visse funktioner i Excel kan ikke vises i Google Sheets og vil forsvinde, hvis du foretager \u00e6ndringer | Reference (First author, year, journal) | Tryk p\u00e5 Ctrl-F5 for at opdatere siden, og pr\u00f8v igen",
+    "editPermission": {
+        "type": "public"
+    },
+    "homepage": "https://tinyurl.com/anti-CRISPR",
+    "lastUpdate": "2019-11-14T19:55:37Z",
+    "name": "anti-CRISPR",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1128/MSYSTEMS.00455-19",
+            "metadata": {
+                "abstract": "\u00a9 2019 Yin et al.Anti-CRISPR (Acr) loci/operons encode Acr proteins and Acr-associated (Aca) proteins. Forty-five Acr families have been experimentally characterized inhibiting seven subtypes of CRISPR-Cas systems. We have developed a bioinformatics pipeline to identify genomic loci containing Acr homologs and/or Aca homologs by combining three computational approaches: Homology, guilt-by-association, and self-targeting spacers. Homology search found thousands of Acr homologs in bacterial and viral genomes, but most are homologous to AcrIIA7 and AcrIIA9. Investigating the gene neighborhood of these Acr homologs revealed that only a small percentage (23.0% in bacteria and 8.2% in viruses) of them have neighboring Aca homologs and thus form Acr-Aca operons. Surprisingly, although a self-targeting spacer is a strong indicator of the presence of Acr genes in a genome, a large percentage of Acr-Aca loci are found in bacterial genomes without self-targeting spacers or even without complete CRISPR-Cas systems. Additionally, for Acr homologs from genomes with self-targeting spacers, homology-based Acr family assignments do not always agree with the self-targeting CRISPR-Cas subtypes. Last, by investigating Acr genomic loci coexisting with self-targeting spacers in the same genomes, five known subtypes (I-C, I-E, I-F, II-A, and II-C) and five new subtypes (I-B, III-A, III-B, IV-A, and V-U4) of Acrs were inferred. Based on these findings, we conclude that the discovery of new anti-CRISPRs should not be restricted to genomes with selftargeting spacers and loci with Acr homologs. The evolutionary arms race of CRISPRCas systems and anti-CRISPR systems may have driven the adaptive and rapid gain and loss of these elements in closely related genomes. IMPORTANCE As a naturally occurring adaptive immune system, CRISPR-Cas (clustered regularly interspersed short palindromic repeats-CRISPR-associated genes) systems are widely found in bacteria and archaea to defend against viruses. Since 2013, the application of various bacterial CRISPR-Cas systems has become very popular due to their development into targeted and programmable genome engineering tools with the ability to edit almost any genome. As the natural off-switch of CRISPR-Cas systems, anti-CRISPRs have a great potential to serve as regulators of CRISPR-Cas tools and enable safer and more controllable genome editing. This study will help understand the relative usefulness of the three bioinformatics approaches for new Acr discovery, as well as guide the future development of new bioinformatics tools to facilitate anti-CRISPR research. The thousands of Acr homologs and hundreds of new anti-CRISPR loci identified in this study will be a valuable data resource for genome engineers to search for new CRISPR-Cas regulators.",
+                "authors": [
+                    {
+                        "name": "Yin Y."
+                    },
+                    {
+                        "name": "Yang B."
+                    },
+                    {
+                        "name": "Entwistle S."
+                    }
+                ],
+                "citationCount": 3,
+                "date": "2019-01-01T00:00:00Z",
+                "journal": "mSystems",
+                "title": "Bioinformatics identification of Anti-CRISPR loci by using homology, guilt-by-association, and CRISPR self-targeting spacer approaches"
+            },
+            "pmcid": "PMC6739104",
+            "pmid": "31506266"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Protein interaction experiment",
+            "uri": "http://edamontology.org/topic_3557"
+        },
+        {
+            "term": "Genomics",
+            "uri": "http://edamontology.org/topic_0622"
+        },
+        {
+            "term": "Small molecules",
+            "uri": "http://edamontology.org/topic_0154"
+        }
+    ]
+}

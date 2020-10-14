@@ -24,15 +24,21 @@
     "documentation": [
         {
             "note": "About antiSMASH",
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://antismash.secondarymetabolites.org/#!/about"
         },
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://docs.antismash.secondarymetabolites.org/"
         },
         {
-            "type": "User manual",
+            "type": [
+                "User manual"
+            ],
             "url": "https://docs.antismash.secondarymetabolites.org/PDFmanual/antiSMASH5manual.pdf"
         }
     ],
@@ -64,7 +70,9 @@
     "lastUpdate": "2019-02-16T22:07:00Z",
     "link": [
         {
-            "type": "Repository",
+            "type": [
+                "Repository"
+            ],
             "url": "https://bitbucket.org/antismash/antismash/"
         }
     ],
@@ -114,7 +122,9 @@
                 "title": "AntiSMASH: Rapid identification, annotation and analysis of secondary metabolite biosynthesis gene clusters in bacterial and fungal genome sequences"
             },
             "pmid": "21672958",
-            "type": "Primary",
+            "type": [
+                "Primary"
+            ],
             "version": "1"
         },
         {
@@ -149,14 +159,66 @@
                 "title": "antiSMASH 2.0--a versatile platform for genome mining of secondary metabolite producers."
             },
             "pmid": "23737449",
-            "type": "Primary",
+            "type": [
+                "Primary"
+            ],
             "version": "2.0"
         },
         {
             "doi": "10.1093/nar/gkv437",
+            "metadata": {
+                "abstract": "\u00a9 2015 The Author(s).Microbial secondary metabolism constitutes a rich source of antibiotics, chemotherapeutics, insecticides and other high-value chemicals. Genome mining of gene clusters that encode the biosynthetic pathways for these metabolites has become a key methodology for novel compound discovery. In 2011, we introduced antiSMASH, a web server and standalone tool for the automatic genomic identification and analysis of biosynthetic gene clusters, available at http://antismash.secondarymetabolites.org. Here, we present version 3.0 of antiSMASH, which has undergone major improvements. A full integration of the recently published ClusterFinder algorithm now allows using this probabilistic algorithm to detect putative gene clusters of unknown types. Also, a new dereplication variant of the ClusterBlast module now identifies similarities of identified clusters to any of 1172 clusters with known end products. At the enzyme level, active sites of key biosynthetic enzymes are now pinpointed through a curated patternmatching procedure and Enzyme Commission numbers are assigned to functionally classify all enzymecoding genes. Additionally, chemical structure prediction has been improved by incorporating polyketide reduction states. Finally, in order for users to be able to organize and analyze multiple antiSMASH outputs in a private setting, a new XML output module allows offline editing of antiSMASH annotations within the Geneious software.",
+                "authors": [
+                    {
+                        "name": "Weber T."
+                    },
+                    {
+                        "name": "Blin K."
+                    },
+                    {
+                        "name": "Duddela S."
+                    },
+                    {
+                        "name": "Krug D."
+                    },
+                    {
+                        "name": "Kim H.U."
+                    },
+                    {
+                        "name": "Bruccoleri R."
+                    },
+                    {
+                        "name": "Lee S.Y."
+                    },
+                    {
+                        "name": "Fischbach M.A."
+                    },
+                    {
+                        "name": "Muller R."
+                    },
+                    {
+                        "name": "Wohlleben W."
+                    },
+                    {
+                        "name": "Breitling R."
+                    },
+                    {
+                        "name": "Takano E."
+                    },
+                    {
+                        "name": "Medema M.H."
+                    }
+                ],
+                "citationCount": 1160,
+                "date": "2015-01-01T00:00:00Z",
+                "journal": "Nucleic Acids Research",
+                "title": "AntiSMASH 3.0-A comprehensive resource for the genome mining of biosynthetic gene clusters"
+            },
             "pmcid": "PMC4489286",
             "pmid": "25948579",
-            "type": "Primary",
+            "type": [
+                "Primary"
+            ],
             "version": "3.0"
         },
         {
@@ -224,7 +286,9 @@
                 "journal": "Nucleic Acids Research",
                 "title": "AntiSMASH 4.0 - improvements in chemistry prediction and gene cluster boundary identification"
             },
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
