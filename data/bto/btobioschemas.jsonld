@@ -17,8 +17,8 @@
   "sc:name": "The BRENDA Tissue Ontology (BTO)",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://www.BTO.brenda-enzymes.org"
 }

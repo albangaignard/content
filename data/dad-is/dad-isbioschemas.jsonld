@@ -16,8 +16,8 @@
   "sc:name": "DAD-IS",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.fao.org/dad-is/en/"
 }

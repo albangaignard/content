@@ -36,9 +36,9 @@
       },
       "sc:name": "BioSamples",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:provider": "Identifiers.org",
       "sc:url": "https://www.ebi.ac.uk/biosamples/"

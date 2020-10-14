@@ -10,18 +10,14 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0002-6983-2759",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/ddpcr",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
         "@id": "http://orcid.org/0000-0002-6983-2759"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:27703666",
@@ -37,15 +33,19 @@
       "sc:license": "MIT",
       "sc:name": "ddpcr",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://daattali.com/shiny/ddpcr/"
     },
     {
       "@id": "https://doi.org/10.12688/f1000research.9022.1",
       "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-6983-2759",
+      "@type": "schema:Person"
     }
   ]
 }

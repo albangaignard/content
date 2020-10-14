@@ -10,15 +10,11 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/bioinformatics/btv158",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/4DGenome",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web application",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC4514924",
@@ -39,6 +35,10 @@
         "Mac"
       ],
       "sc:url": "https://4dgenome.research.chop.edu"
+    },
+    {
+      "@id": "https://doi.org/10.1093/bioinformatics/btv158",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

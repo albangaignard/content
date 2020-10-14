@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Mitch Bailey",
       "sc:additionalType": "Web service",
       "sc:citation": [
-        "pmcid:PMC6382494",
         "pubmed:30450799",
+        "pmcid:PMC6382494",
         {
           "@id": "https://doi.org/10.1002/mgg3.510"
         }

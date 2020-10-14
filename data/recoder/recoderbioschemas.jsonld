@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
-    "EMBOSS Contributors",
+    "UK MRC",
     "UK BBSRC",
-    "UK MRC"
+    "EMBOSS Contributors"
   ],
   "sc:description": "Find restriction sites to remove (mutate) with no translation change.",
   "sc:funder": [

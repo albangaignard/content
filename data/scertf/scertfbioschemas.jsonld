@@ -17,8 +17,8 @@
   "sc:name": "ScerTF",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://stormo.wustl.edu/ScerTF/"
 }

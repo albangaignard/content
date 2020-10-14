@@ -15,13 +15,13 @@
     "Denis Yuen"
   ],
   "sc:additionalType": [
-    "Web API",
+    "Workbench",
     "Command-line tool",
-    "Workbench"
+    "Web API"
   ],
   "sc:author": [
-    "Solomon Shorser",
     "Morgan Taschuk",
+    "Solomon Shorser",
     "Denis Yuen",
     "Brian O'Connor"
   ],
@@ -30,8 +30,8 @@
   "sc:name": "SeqWare",
   "sc:operatingSystem": "Linux",
   "sc:provider": [
-    "ucla.edu",
-    "Ontario Institute for Cancer Research"
+    "Ontario Institute for Cancer Research",
+    "ucla.edu"
   ],
   "sc:url": "http://seqware.io/",
   "sc:version": "1.1.1"

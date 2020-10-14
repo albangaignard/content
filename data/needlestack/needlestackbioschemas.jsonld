@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/needlestack",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Matthieu Foll",
     "Nicolas Alcala",
+    "Matthieu Foll",
     "Aurelie Gabriel",
     "Tiffany Delhomme"
   ],

@@ -31,8 +31,8 @@
       "sc:name": "FetchProDom WS",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://prodom.prabi.fr/prodom/current/documentation/fetchProDom.html",
       "sc:version": "1"

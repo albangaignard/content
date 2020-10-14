@@ -19,8 +19,8 @@
   "sc:name": "TASSEL",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.maizegenetics.net/tassel"
 }

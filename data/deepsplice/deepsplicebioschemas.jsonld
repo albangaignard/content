@@ -40,8 +40,8 @@
       "sc:license": "Unlicense",
       "sc:name": "DeepSplice",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/zhangyimc/DeepSplice"
     }

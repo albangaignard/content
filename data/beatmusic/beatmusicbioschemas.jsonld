@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Jean Marc Kwasigroch",
-    "Yves Dehouck",
     "Dimitri Gilis",
+    "Yves Dehouck",
     "Marianne Rooman"
   ],
   "sc:additionalType": "Web application",
@@ -22,8 +22,8 @@
   "sc:name": "BeAtMuSiC",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://babylone.ulb.ac.be/beatmusic"
 }

@@ -32,8 +32,8 @@
       "sc:name": "PhenoDigm",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://www.sanger.ac.uk/science/tools/phenodigm"
     }

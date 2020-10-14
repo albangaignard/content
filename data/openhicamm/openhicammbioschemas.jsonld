@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1016/j.isci.2018.03.017",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/openhicamm",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Erwin Frise",
@@ -35,6 +31,10 @@
         "Linux"
       ],
       "sc:url": "https://github.com/bdgp/OpenHiCAMM"
+    },
+    {
+      "@id": "https://doi.org/10.1016/j.isci.2018.03.017",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

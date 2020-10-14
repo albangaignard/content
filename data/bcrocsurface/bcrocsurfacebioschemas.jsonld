@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Khanh To Duc",
       "sc:additionalType": [
-        "Web application",
-        "Library"
+        "Library",
+        "Web application"
       ],
       "sc:citation": [
         "pmcid:PMC5694622",
@@ -36,8 +36,8 @@
       "sc:name": "bcROCsurface",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://khanhtoduc.shinyapps.io/bcROCsurface_shiny/"
     }

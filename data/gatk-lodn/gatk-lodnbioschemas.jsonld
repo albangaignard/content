@@ -17,10 +17,10 @@
       "@id": "https://bio.tools/gatk-lodn",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Gastone Castellani",
         {
           "@id": "http://orcid.org/0000-0003-3185-7456"
         },
+        "Gastone Castellani",
         "Ítalo Faria do Valle"
       ],
       "edam:has_input": {

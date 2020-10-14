@@ -19,8 +19,8 @@
   "sc:name": "SAUCIE",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://github.com/KrishnaswamyLab/SAUCIE/"
 }

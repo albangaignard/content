@@ -17,8 +17,8 @@
   "sc:name": "Multi-Harmony",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://ibi.vu.nl/programs/shmrwww/"
 }
