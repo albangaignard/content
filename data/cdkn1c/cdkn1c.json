@@ -1,0 +1,92 @@
+{
+    "additionDate": "2019-11-14T20:04:39Z",
+    "biotoolsCURIE": "biotools:CDKN1C",
+    "biotoolsID": "CDKN1C",
+    "confidence_flag": "low",
+    "credit": [
+        {
+            "email": "j.achermann@ucl.ac.uk",
+            "name": "John C. Achermann",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "> LOW CONFIDENCE! | Analysis of CDKN1C in fetal growth restriction and pregnancy loss | Summary of CDKN1C (BWCR, BWS, KIP2, P57) expression in human tissue. Nuclear expression in placenta and a subset of tissues including adrenal gland and glomeruli in kidney | We use cookies to enhance the usability of our website. If you continue, we'll assume that you are happy to receive all cookies. More information. Don't show this again",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Enrichment analysis",
+                    "uri": "http://edamontology.org/operation_3501"
+                },
+                {
+                    "term": "Genotyping",
+                    "uri": "http://edamontology.org/operation_3196"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://www.proteinatlas.org/ENSG00000129757-CDKN1C/tissue",
+    "lastUpdate": "2019-11-14T20:04:39Z",
+    "name": "CDKN1C",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.12688/F1000RESEARCH.15016.1",
+            "metadata": {
+                "abstract": "\u00a9 2019 Suntharalingham JP et al.Background: Cyclin-dependent kinase inhibitor 1C (CDKN1C) is a key negative regulator of cell growth encoded by a paternally imprinted/maternally expressed gene in humans. Loss-of-function variants in CDKN1C are associated with an overgrowth condition (Beckwith-Wiedemann Syndrome) whereas \u201cgain-of-function\u201d variants in CDKN1C that increase protein stability cause growth restriction as part of IMAGe syndrome (Intrauterine growth restriction, Metaphyseal dysplasia, A drenal hypoplasia and Genital anomalies). As two families have been reported with CDKN1C mutations who have fetal growth restriction (FGR)/Silver-Russell syndrome (SRS) without adrenal insufficiency, we investigated whether pathogenic variants in CDKN1C could be associated with isolated growth restriction or recurrent loss of pregnancy. Methods: Analysis of published literature was undertaken to review the localisation of variants in CDKN1C associated with IMAGe syndrome or fetal growth restriction. CDKN1C expression in different tissues was analysed in available RNA-Seq data (Human Protein Atlas). Targeted sequencing was used to investigate the critical region of CDKN1C for potential pathogenic variants in SRS (n=58), FGR (n=26), DNA from spontaneous loss of pregnancy (n= 21) and women with recurrent miscarriages (n=71) (total n=176). Results: All published single nucleotide variants associated with IMAGe syndrome are located in a highly-conserved \u201chot-spot\u201d within the PCNA-binding domain of CDKN1C between codons 272-279. Variants associated with familial growth restriction but normal adrenal function currently affect codons 279 and 281. CDKN1C is highly expressed in the placenta compared to adult tissues, which may contribute to the FGR phenotype and supports a role in pregnancy maintenance. In the patient cohorts studied no pathogenic variants were identified in the PCNA-binding domain of CDKN1C. Conclusion: CDKN1C is a key negative regulator of growth. Variants in a very localised \u201chot-spot\u201d cause growth restriction, with or without adrenal insufficiency. However, pathogenic variants in this region are not a common very localised \u201chot-spot\u201d cause growth restriction, with or without adrenal insufficiency. However, pathogenic variants in this region are not a common cause of isolated fetal growth restriction phenotypes or loss-of-pregnancy/recurrent miscarriages.",
+                "authors": [
+                    {
+                        "name": "Suntharalingham J.P."
+                    },
+                    {
+                        "name": "Ishida M."
+                    },
+                    {
+                        "name": "Buonocore F."
+                    },
+                    {
+                        "name": "del Valle I."
+                    },
+                    {
+                        "name": "Solanky N."
+                    },
+                    {
+                        "name": "Demetriou C."
+                    },
+                    {
+                        "name": "Regan L."
+                    },
+                    {
+                        "name": "Moore G.E."
+                    },
+                    {
+                        "name": "Achermann J.C."
+                    }
+                ],
+                "citationCount": 1,
+                "date": "2019-01-01T00:00:00Z",
+                "journal": "F1000Research",
+                "title": "Analysis of CDKN1C in fetal growth restriction and pregnancy loss [version 1; peer review: 2 approved]"
+            },
+            "pmcid": "PMC6713069",
+            "pmid": "31497289"
+        }
+    ],
+    "topic": [
+        {
+            "term": "RNA-Seq",
+            "uri": "http://edamontology.org/topic_3170"
+        },
+        {
+            "term": "Transcription factors and regulatory sites",
+            "uri": "http://edamontology.org/topic_0749"
+        },
+        {
+            "term": "Gynaecology and obstetrics",
+            "uri": "http://edamontology.org/topic_3411"
+        }
+    ]
+}
