@@ -35,12 +35,17 @@
     "description": "An online genome annotation resource offering users the necessary tools and information to validate and correct gene annotation.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "http://bioinformatics.psb.ugent.be/orcae/"
         }
     ],
     "editPermission": {
-        "type": "private"
+        "authors": [
+            "lsterck"
+        ],
+        "type": "group"
     },
     "function": [
         {
@@ -69,7 +74,7 @@
         }
     ],
     "homepage": "http://bioinformatics.psb.ugent.be/orcae/",
-    "lastUpdate": "2018-12-10T12:58:50Z",
+    "lastUpdate": "2020-09-07T08:20:06Z",
     "name": "ORCAE",
     "operatingSystem": [
         "Linux",
@@ -103,7 +108,9 @@
                 "journal": "Nature Methods",
                 "title": "ORCAE: Online resource for community annotation of eukaryotes"
             },
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
