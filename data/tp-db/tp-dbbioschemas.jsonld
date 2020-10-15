@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Hua-Wen Fu",
-    "Lee-Wei Yang",
-    "Chung-Yu Lan"
+    "Chung-Yu Lan",
+    "Lee-Wei Yang"
   ],
   "sc:additionalType": "Web application",
   "sc:description": "Therapeutic Peptide Design DataBase.",

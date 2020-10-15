@@ -25,16 +25,16 @@
           "@id": "edam:data_3671"
         },
         {
-          "@id": "edam:data_0842"
+          "@id": "edam:data_3021"
         },
         {
-          "@id": "edam:data_3021"
+          "@id": "edam:data_0842"
         }
       ],
       "sc:additionalType": [
-        "Desktop application",
         "Web application",
-        "Database portal"
+        "Database portal",
+        "Desktop application"
       ],
       "sc:citation": [
         {
@@ -49,9 +49,9 @@
       },
       "sc:name": "OMA",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:provider": "SIB",
       "sc:url": "http://omabrowser.org/oma/home/"

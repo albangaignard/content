@@ -19,8 +19,8 @@
   "sc:name": "MetaDome",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://stuart.radboudumc.nl/metadome"
 }

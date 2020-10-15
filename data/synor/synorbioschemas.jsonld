@@ -17,8 +17,8 @@
   "sc:name": "SynoR",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://synor.dcode.org/"
 }

@@ -22,8 +22,8 @@
         "Library"
       ],
       "sc:citation": [
-        "pmcid:PMC5040167",
         "pubmed:27322546",
+        "pmcid:PMC5040167",
         {
           "@id": "https://doi.org/10.1038/ng.3593"
         }
@@ -42,9 +42,9 @@
       ],
       "sc:name": "viper",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/viper.html",
       "sc:version": "1.12.0"

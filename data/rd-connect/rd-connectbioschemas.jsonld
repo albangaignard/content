@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Libby Wood",
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pmcid:PMC4124112",
@@ -30,16 +30,16 @@
           "@id": "edam:operation_3197"
         },
         {
-          "@id": "edam:operation_3761"
+          "@id": "edam:operation_3431"
+        },
+        {
+          "@id": "edam:operation_2421"
         },
         {
           "@id": "edam:operation_3561"
         },
         {
-          "@id": "edam:operation_3431"
-        },
-        {
-          "@id": "edam:operation_2421"
+          "@id": "edam:operation_3761"
         }
       ],
       "sc:name": "RD-connect",

@@ -22,8 +22,8 @@
       "sc:name": "LeishInDB",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://leishindb.biomedinformri.com/"
     },

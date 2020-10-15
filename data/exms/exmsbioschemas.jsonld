@@ -16,8 +16,8 @@
   "sc:name": "ExMS",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://hx2.med.upenn.edu/download.html"
 }

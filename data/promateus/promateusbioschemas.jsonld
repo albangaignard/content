@@ -11,10 +11,10 @@
   "@id": "https://bio.tools/promateus",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Jaimie Prilusky",
-    "Asaf Carmi",
+    "Mati Cohen",
     "Dana Reichmann",
-    "Mati Cohen"
+    "Jaimie Prilusky",
+    "Asaf Carmi"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:15050833",
@@ -22,8 +22,8 @@
   "sc:name": "ProMateus",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bioportal.weizmann.ac.il/promate/"
 }

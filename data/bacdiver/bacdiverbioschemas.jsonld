@@ -21,8 +21,8 @@
       },
       "sc:additionalType": [
         "Script",
-        "Command-line tool",
         "Plug-in",
+        "Command-line tool",
         "Library",
         "Web service"
       ],

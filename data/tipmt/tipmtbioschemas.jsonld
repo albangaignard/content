@@ -42,9 +42,9 @@
       ],
       "sc:name": "TipMT",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://200.131.37.155/tipMT/"
     },

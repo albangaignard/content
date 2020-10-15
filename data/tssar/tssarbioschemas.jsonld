@@ -18,12 +18,12 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Support",
       "sc:additionalType": [
-        "Web application",
-        "Desktop application"
+        "Desktop application",
+        "Web application"
       ],
       "sc:citation": [
-        "pubmed:24674136",
         "pmcid:PMC4098767",
+        "pubmed:24674136",
         {
           "@id": "https://doi.org/10.1186/1471-2105-15-89"
         }
@@ -35,8 +35,8 @@
       "sc:name": "TSSAR",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://rna.tbi.univie.ac.at/TSSAR"
     }

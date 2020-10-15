@@ -11,13 +11,13 @@
   "@id": "https://bio.tools/asc",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Melissa Mercier",
-    "Sonya T Dyhrman",
-    "Mak A Saito",
+    "Zhijin Wu",
     "Bethany D Jenkins",
     "Tatiana A Rynearson",
-    "Zhijin Wu",
-    "LeAnn P Whitney"
+    "LeAnn P Whitney",
+    "Sonya T Dyhrman",
+    "Melissa Mercier",
+    "Mak A Saito"
   ],
   "sc:additionalType": "Library",
   "sc:citation": "pubmed:21080965",

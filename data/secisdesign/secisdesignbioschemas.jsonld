@@ -30,8 +30,8 @@
       "sc:name": "SECISDesign web server",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": [
         "rnateam",

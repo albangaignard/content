@@ -27,9 +27,9 @@
     "Windows"
   ],
   "sc:provider": [
+    "University of Oslo",
     "UiO",
-    "The Norwegian Radium Hospital",
-    "University of Oslo"
+    "The Norwegian Radium Hospital"
   ],
   "sc:url": "http://stitchprofiles.uio.no/",
   "sc:version": "1"

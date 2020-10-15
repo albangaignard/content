@@ -10,24 +10,24 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gks042",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "http://orcid.org/0000-0002-2218-6833",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gks042",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/edger",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Yunshun Chen",
-        "Gordon Smyth",
-        "Mark Robinson",
-        "Aaron Lun",
         {
           "@id": "http://orcid.org/0000-0002-2218-6833"
-        }
+        },
+        "Aaron Lun",
+        "Mark Robinson",
+        "Gordon Smyth",
+        "Yunshun Chen"
       ],
       "edam:has_input": {
         "@id": "edam:data_2044"
@@ -41,15 +41,15 @@
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3169"
+          "@id": "edam:topic_3170"
         },
         {
-          "@id": "edam:topic_3170"
+          "@id": "edam:topic_3169"
         },
         {
           "@id": "edam:topic_3053"

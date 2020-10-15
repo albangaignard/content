@@ -15,8 +15,8 @@
   "sc:name": "LSPR",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://bioinformatics.cau.edu.cn/LSPR/"
 }

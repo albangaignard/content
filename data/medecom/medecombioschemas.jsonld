@@ -61,12 +61,12 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "MeDeCom",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": [
-        "Walter lab",
         "hdhub",
+        "Walter lab",
         "Hein Lab"
       ],
       "sc:softwareHelp": {

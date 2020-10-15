@@ -15,8 +15,8 @@
   "sc:name": "MMAPPR",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://yost.genetics.utah.edu/software.php",
   "sc:version": "0.83"

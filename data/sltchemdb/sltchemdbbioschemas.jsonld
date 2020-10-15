@@ -40,8 +40,8 @@
       "sc:license": "Unlicense",
       "sc:name": "SLTChemDB",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://bic.icmr.org.in/sltchem"

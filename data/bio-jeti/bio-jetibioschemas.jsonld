@@ -16,8 +16,8 @@
   "sc:name": "Bio-jETI",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://ls5-www.cs.tu-dortmund.de/projects/biojeti/about.php"
 }

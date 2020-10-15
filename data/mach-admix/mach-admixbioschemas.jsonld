@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1002/gepi.21690",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/mach-admix",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Command-line tool",
@@ -30,20 +26,24 @@
           "@id": "edam:operation_0487"
         },
         {
-          "@id": "edam:operation_3703"
+          "@id": "edam:operation_3557"
         },
         {
-          "@id": "edam:operation_3557"
+          "@id": "edam:operation_3703"
         }
       ],
       "sc:license": "Not licensed",
       "sc:name": "MaCH-Admix",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://yunliweb.its.unc.edu//MaCH-Admix/index.php"
+    },
+    {
+      "@id": "https://doi.org/10.1002/gepi.21690",
+      "@type": "sc:CreativeWork"
     }
   ]
 }
