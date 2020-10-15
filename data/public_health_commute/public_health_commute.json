@@ -1,0 +1,63 @@
+{
+    "additionDate": "2019-11-14T18:49:21Z",
+    "biotoolsCURIE": "biotools:public_health_commute",
+    "biotoolsID": "public_health_commute",
+    "confidence_flag": "very low",
+    "credit": [
+        {
+            "email": "sg2902@columbia.edu",
+            "name": "Sarah Godfrey",
+            "orcidid": "https://orcid.org/0000-0003-2896-2124",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "> VERY_LOW CONFIDENCE! | Development of an online public health curriculum for medical students | The Public Health Commute is an online public health curriculum for medical students. Designed for Columbia College of Physicians and Surgeons but publicly available to everyone interested",
+    "editPermission": {
+        "type": "public"
+    },
+    "homepage": "http://www.publichealthcommute.com",
+    "lastUpdate": "2019-11-14T18:49:21Z",
+    "name": "public health commute",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1186/S12909-019-1734-4",
+            "metadata": {
+                "abstract": "\u00a9 2019 The Author(s).Background: As public health becomes increasingly central to the practice of medicine, educational efforts are necessary to prepare medical students to apply public health concepts in their care of patients. There are few accessible and informative tools to prepare students to engage with population health challenges. Methods: We distributed an online questionnaire to clinical students, querying gaps in their education on public health topics. Based upon the responses, we developed a web-based curriculum for medical students rotating at a public safety-net hospital on pediatrics, medicine, primary care, psychiatry, and surgery services from April-December 2017 (available at www.publichealthcommute.com). Students received guiding questions and media-based resources (e.g. podcasts, TedTalks, YouTube videos) in weekly modules addressing topics in public health. Each module incorporated 30 min of mobile-optimized content, including specific data relating the topic to the Central Harlem community. Familiarity with public health was assessed with pre- and post-program quizzes, including 10 multiple-choice and 2 open-ended questions. Results: Among the 70 participating students, 59 (84%) completed both the pre- and post-assessments. The five-week curriculum covered health systems, social determinants, race, substance use, violence, and alternative care models. After completing the five-week curriculum, the mean correct score on a multiple-choice quiz rose from 57 to 66% (p = 0.001). In the qualitative section of the test, students were asked what public health topics should be taught in medical school. Frequently suggested topics included social determinants of health (25%), epidemiology (25%), health systems (25%), insurance (21%), policy (17%), economics (17%), racism (15%), and health disparities (8%). When asked how public health will impact their medical career, students frequently responded that it would greatly impact their clinical practice (49%), choice of residency program (17%), and decision to pursue advocacy or additional degrees (15%). Conclusions: Learners participating in this five-week online public health curriculum demonstrated a significant increase in public health knowledge. The online format allowed for high participation across five different specialty rotations, and community-specific data allowed students to recognize the importance of public health in medical practice.",
+                "authors": [
+                    {
+                        "name": "Godfrey S."
+                    },
+                    {
+                        "name": "Nickerson K."
+                    },
+                    {
+                        "name": "Amiel J."
+                    },
+                    {
+                        "name": "Lebwohl B."
+                    }
+                ],
+                "date": "2019-08-03T00:00:00Z",
+                "journal": "BMC Medical Education",
+                "title": "Development of an online public health curriculum for medical students: The public health commute"
+            },
+            "pmcid": "PMC6679425",
+            "pmid": "31376832"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Public health and epidemiology",
+            "uri": "http://edamontology.org/topic_3305"
+        },
+        {
+            "term": "Psychiatry",
+            "uri": "http://edamontology.org/topic_3419"
+        },
+        {
+            "term": "Paediatrics",
+            "uri": "http://edamontology.org/topic_3418"
+        }
+    ]
+}
