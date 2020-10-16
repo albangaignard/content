@@ -42,18 +42,18 @@
       "sc:name": "IAMBEE",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://bioinformatics.intec.ugent.be/iambee/"
     },
     {
-      "@id": "https://doi.org/10.1093/NAR/GKZ451",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://orcid.org/0000-0002-9998-2408",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/NAR/GKZ451",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

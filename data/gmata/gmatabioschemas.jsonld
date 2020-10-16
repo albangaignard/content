@@ -32,8 +32,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "GMATA",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "https://sourceforge.net/projects/gmata/",

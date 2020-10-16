@@ -14,20 +14,20 @@
   "sc:contributor": [
     "UK MRC",
     "Wellcome Trust",
-    "EMBOSS Contributors",
-    "UK BBSRC"
+    "UK BBSRC",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Display protein sequences with features in pretty format.",
   "sc:funder": [
-    "Wellcome Trust",
+    "UK MRC",
     "UK BBSRC",
-    "UK MRC"
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "showpep",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": [

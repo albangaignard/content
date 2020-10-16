@@ -26,9 +26,9 @@
       },
       "sc:name": "MEGANTE",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://megante.dna.affrc.go.jp"
     },

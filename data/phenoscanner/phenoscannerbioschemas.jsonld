@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
     "Web API",
-    "Web application",
     "Database portal",
-    "Command-line tool"
+    "Command-line tool",
+    "Web application"
   ],
   "sc:description": "Database of human genotype-phenotype associations.",
   "sc:license": "Unlicense",

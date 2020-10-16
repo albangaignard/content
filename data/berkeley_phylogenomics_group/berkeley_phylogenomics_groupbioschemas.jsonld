@@ -17,8 +17,8 @@
   "sc:name": "Berkeley Phylogenomics Group",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://phylogenomics.berkeley.edu/"
 }

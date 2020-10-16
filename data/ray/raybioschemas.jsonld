@@ -14,9 +14,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:author": "Sébastien Boisvert",
   "sc:contributor": [
-    "Jacques Corbeil",
     "François Laviolette",
     "Élénie Godzaridis",
+    "Jacques Corbeil",
     "Canadian Institutes of Health Research (CIHR), and other",
     "Frédéric Raymond"
   ],
@@ -25,15 +25,15 @@
   "sc:license": "GPL-3.0",
   "sc:name": "Ray",
   "sc:operatingSystem": [
+    "Linux",
     "Windows",
-    "Mac",
-    "Linux"
+    "Mac"
   ],
   "sc:provider": [
-    "Faculty of Medicine, Laval University, 1050, av. de la Médecine, Québec (Québec), G1V 0A6, Canada",
-    "Department of Molecular Medicine, Faculty of Medicine, Laval University",
-    "Infectious Diseases Research Center, CHUQ Research Center",
     "1065, av. de la Médecine, Québec (Québec), G1V 0A6, Canada",
+    "Infectious Diseases Research Center, CHUQ Research Center",
+    "Department of Molecular Medicine, Faculty of Medicine, Laval University",
+    "Faculty of Medicine, Laval University, 1050, av. de la Médecine, Québec (Québec), G1V 0A6, Canada",
     "NTNU"
   ],
   "sc:url": "http://denovoassembler.sourceforge.net",

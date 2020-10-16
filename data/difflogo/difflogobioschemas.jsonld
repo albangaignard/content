@@ -20,13 +20,13 @@
           "@id": "edam:data_3495"
         },
         {
-          "@id": "edam:data_2082"
+          "@id": "edam:data_3494"
         },
         {
           "@id": "edam:data_2976"
         },
         {
-          "@id": "edam:data_3494"
+          "@id": "edam:data_2082"
         }
       ],
       "edam:has_output": {
@@ -53,8 +53,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "DiffLogo",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/DiffLogo.html",

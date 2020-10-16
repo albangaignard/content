@@ -17,13 +17,13 @@
       "@id": "https://bio.tools/exomepeak",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Jia Meng",
         "Lin Zhang",
+        "Jia Meng",
         "Lian Liu"
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         {

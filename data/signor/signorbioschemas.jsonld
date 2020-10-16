@@ -14,22 +14,22 @@
   "sc:additionalType": "Database portal",
   "sc:author": [
     "Prisca Lo Surdo",
-    "Alberto Calderone",
-    "Leonardo Briganti"
+    "Leonardo Briganti",
+    "Alberto Calderone"
   ],
   "sc:contributor": [
-    "Elena Santonico",
     "Livia Perfetto",
     "Marta Iannuccelli",
-    "Gianni Cesareni"
+    "Gianni Cesareni",
+    "Elena Santonico"
   ],
   "sc:description": "A tool collects manually-annotated logic relationships between molecules that participate in signal transduction.",
   "sc:license": "CC-BY-SA-4.0",
   "sc:name": "SIGNOR",
   "sc:operatingSystem": [
+    "Windows",
     "Mac",
-    "Linux",
-    "Windows"
+    "Linux"
   ],
   "sc:provider": [
     "ELIXIR-ITA-TORVERGATA",

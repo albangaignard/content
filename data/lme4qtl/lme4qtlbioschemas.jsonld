@@ -29,8 +29,8 @@
       "sc:name": "lme4qtl",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://github.com/variani/lme4qtl"
     },

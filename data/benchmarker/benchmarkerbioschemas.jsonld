@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/Benchmarker",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Joel N. Hirschhorn",
-        "Rebecca Fine"
+        "Rebecca Fine",
+        "Joel N. Hirschhorn"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [

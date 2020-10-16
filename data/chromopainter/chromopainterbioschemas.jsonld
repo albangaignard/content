@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/chromopainter",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Desktop application",
-        "Command-line tool"
+        "Command-line tool",
+        "Desktop application"
       ],
       "sc:citation": [
         {
@@ -38,8 +38,8 @@
       "sc:name": "ChromoPainter",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://people.maths.bris.ac.uk/~madjl/finestructure-old/chromopainter_info.html"
     },

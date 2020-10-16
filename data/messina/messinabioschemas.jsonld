@@ -29,18 +29,18 @@
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3360"
+          "@id": "edam:topic_0203"
         },
         {
           "@id": "edam:topic_3344"
         },
         {
-          "@id": "edam:topic_0203"
+          "@id": "edam:topic_3360"
         }
       ],
       "sc:citation": [
@@ -56,18 +56,18 @@
           "@id": "edam:operation_3503"
         },
         {
-          "@id": "edam:operation_3223"
+          "@id": "edam:operation_2990"
         },
         {
-          "@id": "edam:operation_2990"
+          "@id": "edam:operation_3223"
         }
       ],
       "sc:license": "EPL-1.0",
       "sc:name": "messina",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/messina.html",
       "sc:version": "1.10.0"

@@ -17,8 +17,8 @@
   "sc:name": "RNA",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://iga-rna.sourceforge.net/"
 }
