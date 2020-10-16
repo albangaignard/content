@@ -1,0 +1,84 @@
+{
+    "additionDate": "2019-11-14T18:45:05Z",
+    "biotoolsCURIE": "biotools:autoencoders_CAE",
+    "biotoolsID": "autoencoders_CAE",
+    "confidence_flag": "very low",
+    "credit": [
+        {
+            "email": "khushboo.munir@uniroma1.it",
+            "name": "Khushboo Munir",
+            "orcidid": "https://orcid.org/0000-0002-4867-5707",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "> VERY_LOW CONFIDENCE! | > CORRECT NAME OF TOOL COULD ALSO BE 'stacked autoencoders', 'Cancer Diagnosis Using Deep Learning', 'autoencoders SAE convolutional autoencoders', 'autoencoders' | Cancer Diagnosis Using Deep Learning | Automated Cardiac Diagnosis Challenge (ACDC) | in conjonction with the STACOM workshop | The overall ACDC dataset was created from real clinical exams acquired at the University Hospital of Dijon",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Essential dynamics",
+                    "uri": "http://edamontology.org/operation_3891"
+                },
+                {
+                    "term": "Deisotoping",
+                    "uri": "http://edamontology.org/operation_3629"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://www.creatis.insa-lyon.fr/Challenge/acdc/databases.html",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2019-11-14T18:45:05Z",
+    "name": "autoencoders CAE",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.3390/CANCERS11091235",
+            "metadata": {
+                "abstract": "\u00a9 2019 by the authors.In this paper, we first describe the basics of the field of cancer diagnosis, which includes steps of cancer diagnosis followed by the typical classification methods used by doctors, providing a historical idea of cancer classification techniques to the readers. These methods include Asymmetry, Border, Color and Diameter (ABCD) method, seven-point detection method, Menzies method, and pattern analysis. They are used regularly by doctors for cancer diagnosis, although they are not considered very efficient for obtaining better performance. Moreover, considering all types of audience, the basic evaluation criteria are also discussed. The criteria include the receiver operating characteristic curve (ROC curve), Area under the ROC curve (AUC), F1 score, accuracy, specificity, sensitivity, precision, dice-coefficient, average accuracy, and Jaccard index. Previously used methods are considered inefficient, asking for better and smarter methods for cancer diagnosis. Artificial intelligence and cancer diagnosis are gaining attention as a way to define better diagnostic tools. In particular, deep neural networks can be successfully used for intelligent image analysis. The basic framework of how this machine learning works on medical imaging is provided in this study, i.e., pre-processing, image segmentation and post-processing. The second part of this manuscript describes the different deep learning techniques, such as convolutional neural networks (CNNs), generative adversarial models (GANs), deep autoencoders (DANs), restricted Boltzmann\u2019s machine (RBM), stacked autoencoders (SAE), convolutional autoencoders (CAE), recurrent neural networks (RNNs), long short-term memory (LTSM), multi-scale convolutional neural network (M-CNN), multi-instance learning convolutional neural network (MIL-CNN). For each technique, we provide Python codes, to allow interested readers to experiment with the cited algorithms on their own diagnostic problems. The third part of this manuscript compiles the successfully applied deep learning models for different types of cancers. Considering the length of the manuscript, we restrict ourselves to the discussion of breast cancer, lung cancer, brain cancer, and skin cancer. The purpose of this bibliographic review is to provide researchers opting to work in implementing deep learning and artificial neural networks for cancer diagnosis a knowledge from scratch of the state-of-the-art achievements.",
+                "authors": [
+                    {
+                        "name": "Munir K."
+                    },
+                    {
+                        "name": "Elahi H."
+                    },
+                    {
+                        "name": "Ayub A."
+                    },
+                    {
+                        "name": "Frezza F."
+                    },
+                    {
+                        "name": "Rizzi A."
+                    }
+                ],
+                "citationCount": 12,
+                "date": "2019-09-01T00:00:00Z",
+                "journal": "Cancers",
+                "title": "Cancer diagnosis using deep learning: A bibliographic review"
+            },
+            "pmcid": "PMC6770116",
+            "pmid": "31450799"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Machine learning",
+            "uri": "http://edamontology.org/topic_3474"
+        },
+        {
+            "term": "MRI",
+            "uri": "http://edamontology.org/topic_3444"
+        },
+        {
+            "term": "Medical imaging",
+            "uri": "http://edamontology.org/topic_3384"
+        }
+    ]
+}
