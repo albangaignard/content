@@ -12,17 +12,17 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Paul Lu",
-    "Paul Stothard",
-    "You Zhou",
-    "Peter Tang",
-    "Joseph Cruz",
     "Cam MacDonell",
+    "Mark Berjanskii",
+    "David Wishart",
     "Guohui Lin",
     "Contact Form",
+    "Paul Stothard",
+    "Joseph Cruz",
     "Yongjie (Jack) Liang",
-    "Mark Berjanskii",
     "Jianjun (Ben) Zhou",
-    "David Wishart"
+    "You Zhou",
+    "Peter Tang"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:20460469",

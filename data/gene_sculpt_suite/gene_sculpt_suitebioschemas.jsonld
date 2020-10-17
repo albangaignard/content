@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://orcid.org/0000-0001-5930-4111",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/Gene_Sculpt_Suite",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -20,22 +24,18 @@
         "Stephen C. Ekker"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Suite"
+        "Suite",
+        "Web application"
       ],
       "sc:description": "Set of tools for assisting in highly precise genome editing and engineering.",
       "sc:license": "GPL-3.0",
       "sc:name": "Gene Sculpt Suite",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://www.genesculpt.org"
-    },
-    {
-      "@id": "https://orcid.org/0000-0001-5930-4111",
-      "@type": "schema:Person"
     }
   ]
 }

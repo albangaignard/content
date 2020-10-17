@@ -15,8 +15,8 @@
   "sc:name": "MODexplorer",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://modorama.org/modexplorer/index/"
 }

@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/biotranslator",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Eleftherios Pilalis",
     "Aristotelis Chatziioannou",
+    "Eleftherios Pilalis",
     "Theodoros Koutsandreas"
   ],
   "sc:additionalType": "Web application",

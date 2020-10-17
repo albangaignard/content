@@ -20,8 +20,8 @@
   "sc:description": "Dump statistics for dbx databases.",
   "sc:funder": [
     "UK MRC",
-    "Wellcome Trust",
-    "UK BBSRC"
+    "UK BBSRC",
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "dbxstat",

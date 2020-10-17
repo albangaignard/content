@@ -17,10 +17,10 @@
       "@id": "https://bio.tools/iMKT",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "JesÃºs Murga",
         {
           "@id": "https://orcid.org/0000-0002-0374-1475"
-        },
-        "JesÃºs Murga"
+        }
       ],
       "sc:additionalType": [
         "Library",
@@ -39,18 +39,18 @@
           "@id": "edam:operation_0451"
         },
         {
-          "@id": "edam:operation_0310"
+          "@id": "edam:operation_2495"
         },
         {
-          "@id": "edam:operation_2495"
+          "@id": "edam:operation_0310"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "iMKT",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://imkt.uab.cat"
     },

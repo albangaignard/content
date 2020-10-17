@@ -16,8 +16,8 @@
   "sc:name": "PredHydroxy",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bioinfo.ncu.edu.cn/PredHydroxy.aspx"
 }

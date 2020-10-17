@@ -17,8 +17,8 @@
   "sc:name": "SNPitty",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "Department of Urology, Erasmus University Medical Center, Rotterdam,",

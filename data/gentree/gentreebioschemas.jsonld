@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1101/gr.238733.118",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/GenTree",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "ZhangLab",
@@ -22,11 +18,11 @@
         "Web application"
       ],
       "sc:citation": [
-        "pmcid:PMC6442393",
         {
           "@id": "https://doi.org/10.1101/gr.238733.118"
         },
-        "pubmed:30862647"
+        "pubmed:30862647",
+        "pmcid:PMC6442393"
       ],
       "sc:description": "Integrated resource for analyzing the evolution and function of primate-specific coding genes.",
       "sc:featureList": [
@@ -44,10 +40,14 @@
       "sc:name": "GenTree",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://gentree.ioz.ac.cn/index.php"
+    },
+    {
+      "@id": "https://doi.org/10.1101/gr.238733.118",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

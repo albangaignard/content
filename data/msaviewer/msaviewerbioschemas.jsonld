@@ -13,9 +13,9 @@
   "sc:additionalType": "Library",
   "sc:author": "Sebastian Wilzbach",
   "sc:contributor": [
-    "Google Summer of Code (GSoC) 2014",
     "Guy Yachdav",
     "Benedikt Rauscher",
+    "Google Summer of Code (GSoC) 2014",
     "Ian Sillitoe",
     "Tatyana Goldberg"
   ],
@@ -29,8 +29,8 @@
     "Linux"
   ],
   "sc:provider": [
-    "Technische Universität München",
-    "BioJS"
+    "BioJS",
+    "Technische Universität München"
   ],
   "sc:url": "http://msa.biojs.net",
   "sc:version": "1.0.0"

@@ -19,8 +19,8 @@
   "sc:name": "pyfaidx",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://pythonhosted.org/pyfaidx/"
 }

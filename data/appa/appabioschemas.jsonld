@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/AppA",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Pingyu Zhong",
         "Minh N Nguyen",
+        "Pingyu Zhong",
         "Chandra S Verma"
       ],
       "sc:additionalType": "Web application",

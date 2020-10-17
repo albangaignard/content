@@ -10,20 +10,16 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1371/journal.pone.0162801",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/epga",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "George Potamias",
-        "George Patrinos"
+        "George Patrinos",
+        "George Potamias"
       ],
       "sc:additionalType": [
-        "Web service",
         "Web API",
-        "Web application"
+        "Web application",
+        "Web service"
       ],
       "sc:citation": [
         "pubmed:27631363",
@@ -45,10 +41,14 @@
       "sc:name": "ePGA",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://www.epga.gr"
+    },
+    {
+      "@id": "https://doi.org/10.1371/journal.pone.0162801",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

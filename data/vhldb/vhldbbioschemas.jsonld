@@ -24,16 +24,16 @@
         "@id": "edam:data_0896"
       },
       "sc:additionalType": [
-        "Web application",
         "Web API",
-        "Database portal"
+        "Database portal",
+        "Web application"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0128"
+          "@id": "edam:topic_2814"
         },
         {
-          "@id": "edam:topic_2814"
+          "@id": "edam:topic_0128"
         }
       ],
       "sc:citation": [

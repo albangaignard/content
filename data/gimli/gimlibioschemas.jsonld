@@ -28,9 +28,9 @@
       "sc:license": "NCSA",
       "sc:name": "Gimli",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://github.com/BMDSoftware/neji"
     },

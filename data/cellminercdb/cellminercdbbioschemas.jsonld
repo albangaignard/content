@@ -39,8 +39,8 @@
       "sc:license": "Unlicense",
       "sc:name": "CellMinerCDB",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "https://discover.nci.nih.gov/cellminercdb/"

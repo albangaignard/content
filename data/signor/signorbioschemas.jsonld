@@ -18,18 +18,18 @@
     "Alberto Calderone"
   ],
   "sc:contributor": [
-    "Livia Perfetto",
-    "Marta Iannuccelli",
     "Gianni Cesareni",
+    "Marta Iannuccelli",
+    "Livia Perfetto",
     "Elena Santonico"
   ],
   "sc:description": "A tool collects manually-annotated logic relationships between molecules that participate in signal transduction.",
   "sc:license": "CC-BY-SA-4.0",
   "sc:name": "SIGNOR",
   "sc:operatingSystem": [
-    "Windows",
+    "Linux",
     "Mac",
-    "Linux"
+    "Windows"
   ],
   "sc:provider": [
     "ELIXIR-ITA-TORVERGATA",
