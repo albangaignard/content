@@ -18,7 +18,9 @@
     "description": "The package provides a set of R functions for interacting with BioPAX OWL files using Paxtools and the querying Pathway Commons (PC) molecular interaction database that are hosted by the Computational Biology Center at Memorial Sloan-Kettering Cancer Center (MSKCC). Pathway Commons databases include: BIND, BioGRID, CORUM, CTD, DIP, DrugBank, HPRD, HumanCyc, IntAct, KEGG, MirTarBase, Panther, PhosphoSitePlus, Reactome, RECON, TRANSFAC.",
     "documentation": [
         {
-            "type": "User manual",
+            "type": [
+                "User manual"
+            ],
             "url": "http://bioconductor.org/packages/release/bioc/html/paxtoolsr.html"
         }
     ],
@@ -97,7 +99,9 @@
     "license": "GPL-3.0",
     "link": [
         {
-            "type": "Mirror",
+            "type": [
+                "Mirror"
+            ],
             "url": "https://github.com/BioPAX/paxtoolsr"
         }
     ],
@@ -111,9 +115,35 @@
     "publication": [
         {
             "doi": "10.1093/bioinformatics/btv733",
+            "metadata": {
+                "abstract": "\u00a9 2015 The Author.Purpose: PaxtoolsR package enables access to pathway data represented in the BioPAX format and made available through the Pathway Commons webservice for users of the R language to aid in advanced pathway analyses. Features include the extraction, merging and validation of pathway data represented in the BioPAX format. This package also provides novel pathway datasets and advanced querying features for R users through the Pathway Commons webservice allowing users to query, extract and retrieve data and integrate these data with local BioPAX datasets.",
+                "authors": [
+                    {
+                        "name": "Luna A."
+                    },
+                    {
+                        "name": "Babur O."
+                    },
+                    {
+                        "name": "Aksoy B.A."
+                    },
+                    {
+                        "name": "Demir E."
+                    },
+                    {
+                        "name": "Sander C."
+                    }
+                ],
+                "citationCount": 11,
+                "date": "2016-04-15T00:00:00Z",
+                "journal": "Bioinformatics",
+                "title": "PaxtoolsR: Pathway analysis in R using Pathway Commons"
+            },
             "pmcid": "PMC4824129",
             "pmid": "26685306",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
