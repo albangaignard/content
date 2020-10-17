@@ -1,0 +1,83 @@
+{
+    "additionDate": "2020-01-14T20:02:27Z",
+    "biotoolsCURIE": "biotools:AACTT",
+    "biotoolsID": "AACTT",
+    "confidence_flag": "medium",
+    "credit": [
+        {
+            "email": "jpresseau@ohri.ca",
+            "name": "Justin Presseau",
+            "orcidid": "https://orcid.org/0000-0002-2132-0703",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "Action, actor, context, target, time (AACTT).\n\nBACKGROUND:Designing implementation interventions to change the behaviour of healthcare providers and other professionals in the health system requires detailed specification of the behaviour(s) targeted for change to ensure alignment between intervention components and measured outcomes. Detailed behaviour specification can help to clarify evidence-practice gaps, clarify who needs to do what differently, identify modifiable barriers and enablers, design interventions to address these and ultimately provides an indicator of what to measure to evaluate an intervention's effect on behaviour change. An existing behaviour specification framework proposes four domains (Target, Action, Context, Time; TACT), but insufficiently clarifies who is performing the behaviour (i.e. the Actor).\n\n||| HOMEPAGE MISSING!.\n\n||| CORRECT NAME OF TOOL COULD ALSO BE 'interventions', 'Action Actor Context Target Time', 'intervention'",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Quantification",
+                    "uri": "http://edamontology.org/operation_3799"
+                },
+                {
+                    "term": "Standardisation and normalisation",
+                    "uri": "http://edamontology.org/operation_3435"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://www.ncbi.nlm.nih.gov/pubmed/?term=31806037",
+    "language": [
+        "D"
+    ],
+    "lastUpdate": "2020-01-14T20:02:27Z",
+    "name": "AACTT",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1186/S13012-019-0951-X",
+            "metadata": {
+                "abstract": "\u00a9 2019 The Author(s).Background: Designing implementation interventions to change the behaviour of healthcare providers and other professionals in the health system requires detailed specification of the behaviour(s) targeted for change to ensure alignment between intervention components and measured outcomes. Detailed behaviour specification can help to clarify evidence-practice gaps, clarify who needs to do what differently, identify modifiable barriers and enablers, design interventions to address these and ultimately provides an indicator of what to measure to evaluate an intervention's effect on behaviour change. An existing behaviour specification framework proposes four domains (Target, Action, Context, Time; TACT), but insufficiently clarifies who is performing the behaviour (i.e. the Actor). Specifying the Actor is especially important in healthcare settings characterised by multiple behaviours performed by multiple different people. We propose and describe an extension and re-ordering of TACT to enhance its utility to implementation intervention designers, practitioners and trialists: the Action, Actor, Context, Target, Time (AACTT) framework. We aim to demonstrate its application across key steps of implementation research and to provide tools for its use in practice to clarify the behaviours of stakeholders across multiple levels of the healthcare system. Methods and results: We used French et al.'s four-step implementation process model to describe the potential applications of the AACTT framework for (a) clarifying who needs to do what differently, (b) identifying barriers and enablers, (c) selecting fit-for-purpose intervention strategies and components and (d) evaluating implementation interventions. Conclusions: Describing and detailing behaviour using the AACTT framework may help to enhance measurement of theoretical constructs, inform development of topic guides and questionnaires, enhance the design of implementation interventions and clarify outcome measurement for evaluating implementation interventions.",
+                "authors": [
+                    {
+                        "name": "Presseau J."
+                    },
+                    {
+                        "name": "McCleary N."
+                    },
+                    {
+                        "name": "Lorencatto F."
+                    },
+                    {
+                        "name": "Patey A.M."
+                    },
+                    {
+                        "name": "Grimshaw J.M."
+                    },
+                    {
+                        "name": "Francis J.J."
+                    }
+                ],
+                "citationCount": 5,
+                "date": "2019-12-05T00:00:00Z",
+                "journal": "Implementation Science",
+                "title": "Action, actor, context, target, time (AACTT): A framework for specifying behaviour"
+            },
+            "pmcid": "PMC6896730",
+            "pmid": "31806037"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Nutritional science",
+            "uri": "http://edamontology.org/topic_3390"
+        },
+        {
+            "term": "Safety sciences",
+            "uri": "http://edamontology.org/topic_3377"
+        }
+    ]
+}

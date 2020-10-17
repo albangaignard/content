@@ -1,0 +1,183 @@
+{
+    "additionDate": "2019-11-14T18:40:13Z",
+    "biotoolsCURIE": "biotools:GEO2R",
+    "biotoolsID": "GEO2R",
+    "confidence_flag": "low",
+    "credit": [
+        {
+            "email": "wangqianwater1988@163.com",
+            "name": "Wang Qian",
+            "orcidid": "https://orcid.org/0000-0002-6014-7392",
+            "typeEntity": "Person"
+        },
+        {
+            "email": "linqiuning@126.com",
+            "name": "Qiuning Lin",
+            "typeEntity": "Person"
+        },
+        {
+            "email": "wangyiliwenli@163.com",
+            "name": "Wenli Li",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "> LOW CONFIDENCE! | > COMMON LINK WITH (PUB. & NAME DIFFERENT) bio.tools/ncbi_resources (NLM.NIH.GOV), bio.tools/ncbi_geo (NCBI.NLM.NIH.GOV/geo ; NLM.NIH.GOV/geo), bio.tools/genbank (NLM.NIH.GOV) | Screening and Bioinformatics Analysis of IgA Nephropathy Gene Based on GEO Databases | Discovery of core genes in colorectal cancer by weighted gene co-expression network analysis | Identifying miltefosine-resistant key genes in protein-protein interactions network and experimental verification in Iranian Leishmania major | Screening of potential biomarkers in hepatitis C virus-induced hepatocellular carcinoma using bioinformatic analysis | Identification of Key Biomarkers and Potential Molecular Mechanisms in Oral Squamous Cell Carcinoma by Bioinformatics Analysis | Gene Expression Omnibus (GEO) is a database repository of high throughput gene expression data and hybridization arrays, chips, microarrays",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Expression correlation analysis",
+                    "uri": "http://edamontology.org/operation_3463"
+                },
+                {
+                    "term": "miRNA expression analysis",
+                    "uri": "http://edamontology.org/operation_3792"
+                },
+                {
+                    "term": "Weighted correlation network analysis",
+                    "uri": "http://edamontology.org/operation_3766"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://www.ncbi.nlm.nih.gov/geo/",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2019-11-14T18:40:13Z",
+    "link": [
+        {
+            "type": [
+                "Other"
+            ],
+            "url": "http://www.ncbi.nlm.nih.gov/geo/geo2r"
+        }
+    ],
+    "name": "GEO2R",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1155/2019/8794013",
+            "metadata": {
+                "abstract": "\u00a9 2019 Wang Qian et al.Purpose. To identify novel biomarkers of IgA nephropathy (IgAN) through bioinformatics analysis and elucidate the possible molecular mechanism. Methods. The GSE93798 and GSE73953 datasets containing microarray data from IgAN patients and healthy controls were downloaded from the GEO database and analyzed by the GEO2R web tool to obtain different expressed genes (DEGs). Gene Ontology (GO), Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analysis, protein-protein interaction (PPI), and Biological Networks Gene Oncology tool (BiNGO) were then performed to elucidate the molecular mechanism of IgAN. Results. A total of 223 DEGs were identified, of which 21 were hub genes, and involved in inflammatory response, cellular response to lipopolysaccharide, transcription factor activity, extracellular exosome, TNF signaling pathway, and MAPK signaling pathway. Conclusions. TNF and MAPK pathways likely form the basis of IgAN progression, and JUN/JUNB, FOS, NR4A1/2, EGR1, and FOSL1/2 are novel prognostic biomarkers of IgAN.",
+                "authors": [
+                    {
+                        "name": "Qian W."
+                    },
+                    {
+                        "name": "Xiaoyi W."
+                    },
+                    {
+                        "name": "Zi Y."
+                    }
+                ],
+                "date": "2019-01-01T00:00:00Z",
+                "journal": "BioMed Research International",
+                "title": "Screening and bioinformatics analysis of IgA nephropathy gene based on GEO databases"
+            },
+            "pmcid": "PMC6662497",
+            "pmid": "31392215"
+        },
+        {
+            "doi": "10.3892/OL.2019.10605",
+            "metadata": {
+                "abstract": "\u00a9 2019, Spandidos Publications. All rights reserved.The aim of the present study was to investigate the interactions among messenger RNAs (mRNAs), microRNAs (miRNAs), and long noncoding RNAs (lncRNAs) in colorectal cancer (CRC), in order to examine its underlying mechanisms. The raw gene expression data was downloaded from the Gene Expression Omnibus (GEO) database. An online tool, GEO2R, which is based on the limma package, was used to identify differentially expressed genes. The co-expression between lncRNAs and mRNAs was identified utilizing the weighted gene co-expression analysis package of R to construct a coding non-coding (CNC) network. The function of the genes in the CNC network was determined by performing Gene Ontology and Kyoto Encyclopedia of Genes and Genomes pathways enrichment analysis. The interactions among miRNAs, mRNAs and lncRNAs were predicted using Lncbase and mirWalk to construct the competing endogenous RNA (ceRNA) network. The expression of the genes involved in the ceRNA network was further validated in The Cancer Genome Atlas dataset. A total of 3,183 dysregulated mRNAs, 78 dysregulated miRNAs and 2,248 dysregulated lncRNAs were screened in two GEO datasets. Combined with the results of the dysregulated genes, 169 genes were selected to construct the CNC network. \u2018p53 signaling pathway\u2019 and the \u2018cell cycle\u2019 were the most significant enriched pathways in the genes involved in the CNC network. Finally, a validated ceRNA network composed of 2 lncRNAs (MIR22HG and RP11-61I13.3), 5 miRNAs (hsa-miR-765, hsa-miR-198, hsa-miR-125a-3p, hsa-miR-149-3p and hsa-miR-650) and 5 mRNAs (ANK2, BTK, GBP2, PCSK5 and PDK4) was obtained. In conclusion, MIR22HG may regulate PCSK5, BTK and PDK4, and RP11-61I13.3 may regulate the ANK2, GBP2, PCSK5 through sponging miRNAs to act on the progression of CRC, and the potential function of these genes have been revealed. However, the diagnostic and prognostic value of these genes requires further validation.",
+                "authors": [
+                    {
+                        "name": "Liao C."
+                    },
+                    {
+                        "name": "Huang X."
+                    },
+                    {
+                        "name": "Gong Y."
+                    },
+                    {
+                        "name": "Lin Q."
+                    }
+                ],
+                "date": "2019-09-01T00:00:00Z",
+                "journal": "Oncology Letters",
+                "title": "Discovery of core genes in colorectal cancer by weighted gene co-expression network analysis"
+            },
+            "pmcid": "PMC6676736",
+            "pmid": "31402962"
+        },
+        {
+            "doi": "10.1007/S11033-019-04992-4",
+            "metadata": {
+                "abstract": "\u00a9 2019, Springer Nature B.V.Drug resistance is a complex phenomenon during leishmaniasis chemotherapy. In this study, the genes and pathways involved in miltefosine (MIL)-resistant Leishmania were identified using microarray data and in silico approaches. GSE30685 and GSE45496 were obtained from GEO database and analyzed with GEO2R tool to identify genes involved in MIL-resistant Leishmania. 177 differentially expressed genes (DEGs) were selected from these GSEs, which about half of them were uncharacterized/hypothetical proteins. The interactions between DEGs were investigated using STRING database and protein\u2013protein interaction (PPI) networks. Five hub nodes were found in the PPI network. The gene ontology (GO) analysis of the resulting network revealed that DNA replication (GO:0006260) and ATP hydrolysis coupled proton transport (GO:0015991) were the most enriched GO term. Iranian MIL-resistant Leishmania major (L. major) parasites were generated by exposure of wild-type isolates to the increasing concentrations of MIL over a period of 5 months. Proof of mRNA expression levels of the obtained hub genes was assessed in Iranian wild-type and acquired resistant L. major parasites by real-time PCR. A significant higher expression level of LDBPK_150170 (encoding protein phosphatase 2C, PP2C), was only observed in Iranian L. major parasites resistance to MIL. Moreover, the RT-PCR results showed that the expression of metacyclic marker (small hydrophilic endoplasmic reticulum-associated protein, SHERP) and MIL-resistant marker (Leishmania MIL-transporter, LMT) was significantly increased and decreased, respectively, in Iranian MIL-resistant L. major parasites. Taken together, these data suggested that PP2C as well as SHERP and LMT genes may be prospective targets for the treatment of MIL-resistant Leishmania.",
+                "authors": [
+                    {
+                        "name": "Lari N."
+                    },
+                    {
+                        "name": "Jalal R."
+                    },
+                    {
+                        "name": "Minuchehr Z."
+                    },
+                    {
+                        "name": "Rajabian Noghondar M."
+                    }
+                ],
+                "date": "2019-10-01T00:00:00Z",
+                "journal": "Molecular Biology Reports",
+                "title": "Identifying miltefosine-resistant key genes in protein\u2013protein interactions network and experimental verification in Iranian Leishmania major"
+            },
+            "pmid": "31385238"
+        },
+        {
+            "doi": "10.3892/OL.2019.10578",
+            "metadata": {
+                "abstract": "\u00a9 2019, Spandidos Publications. All rights reserved.Evidence suggests that hepatitis C virus (HCV) infection is among the main causes of hepatocellular carcinoma (HCC). In addition, HCV-induced HCC (HCV-HCC) exhibits adverse clinical outcomes and limited therapeutic treatments are available for this condition. To investigate key biomarkers in the occurrence and development of HCV-HCC, microarray datasets GSE62232, GSE69715 and GSE107170 were downloaded from the Gene Expression Omnibus database for analysis. The differentially expressed genes between HCV-HCC and normal tissue were identified using the GEO2R online tool. The function enrichment analyses including Gene Ontology and Kyoto Encyclopedia of Genes and Genomes were performed using the Database for Annotation, Visualization and Integrated Discovery online tool. A protein-protein interaction network was constructed using the Search Tool for the Retrieval of Interacting Genes database and visualized using Cytoscape. A total of 368 DEGs were identified, and the top 10 hub genes with a high degree of connectivity were selected for further analysis. Subsequently, overall survival and disease-free survival analysis revealed that there was a significant association between altered expression of HMMR, CCNB1 and KIF20A, and poor clinical outcome. In summary, these results indicate that HMMR, CCNB1 and KIF20A are potential targets for diagnosis and therapy of HCV-HCC.",
+                "authors": [
+                    {
+                        "name": "Liu J.U.N."
+                    },
+                    {
+                        "name": "Ma Z."
+                    },
+                    {
+                        "name": "Liu Y."
+                    },
+                    {
+                        "name": "Wu L."
+                    },
+                    {
+                        "name": "Hou Z."
+                    },
+                    {
+                        "name": "Li W."
+                    }
+                ],
+                "date": "2019-09-01T00:00:00Z",
+                "journal": "Oncology Letters",
+                "title": "Screening of potential biomarkers in hepatitis C virus-induced hepatocellular carcinoma using bioinformatic analysis"
+            },
+            "pmcid": "PMC6676667",
+            "pmid": "31452738"
+        },
+        {
+            "doi": "10.1089/CMB.2019.0211",
+            "pmid": "31424263"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Functional, regulatory and non-coding RNA",
+            "uri": "http://edamontology.org/topic_0659"
+        },
+        {
+            "term": "Microarray experiment",
+            "uri": "http://edamontology.org/topic_3518"
+        },
+        {
+            "term": "Protein interactions",
+            "uri": "http://edamontology.org/topic_0128"
+        }
+    ]
+}

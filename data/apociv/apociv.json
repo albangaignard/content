@@ -1,0 +1,111 @@
+{
+    "additionDate": "2020-01-09T18:17:41Z",
+    "biotoolsCURIE": "biotools:apoCIV",
+    "biotoolsID": "apoCIV",
+    "confidence_flag": "medium",
+    "credit": [
+        {
+            "email": "Tasso.Miliotis@astrazeneca.com",
+            "name": "Tasso Miliotis",
+            "orcidid": "https://orcid.org/0000-0003-4917-0724",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "Absolute Quantification of Apolipoproteins Following Treatment with Omega-3 Carboxylic Acids and Fenofibrate Using a High Precision Stable Isotope-labeled Recombinant Protein Fragments Based SRM Assay.\n\n/Panorama Public/2019/KTH Uhlen Lab.\n\nKTH Uhlen Lab - APO-project (Effect1).\n\nStable isotope-labeled standard (SIS) peptides are used as internal standards in targeted proteomics to provide robust protein quantification, which is required in clinical settings.\n\n||| CORRECT NAME OF TOOL COULD ALSO BE 'apoAII', 'SIS PrESTs', 'SIS', 'PrESTs'",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Quantification",
+                    "uri": "http://edamontology.org/operation_3799"
+                },
+                {
+                    "term": "Phasing",
+                    "uri": "http://edamontology.org/operation_3454"
+                },
+                {
+                    "term": "Standardisation and normalisation",
+                    "uri": "http://edamontology.org/operation_3435"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://panoramaweb.org/apo.url",
+    "lastUpdate": "2020-01-09T18:17:41Z",
+    "name": "apoCIV",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1074/MCP.RA119.001765",
+            "metadata": {
+                "abstract": "\u00a9 2019 Hober et al.Stable isotope-labeled standard (SIS) peptides are used as internal standards in targeted proteomics to provide robust protein quantification, which is required in clinical settings. However, SIS peptides are typically added post trypsin digestion and, as the digestion efficiency can vary significantly between peptides within a protein, the accuracy and precision of the assay may be compromised. These drawbacks can be remedied by a new class of internal standards introduced by the Human Protein Atlas project, which are based on SIS recombinant protein fragments called SIS PrESTs. SIS PrESTs are added initially to the sample and SIS peptides are released on trypsin digestion. The SIS PrEST technology is promising for absolute quantification of protein biomarkers but has not previously been evaluated in a clinical setting. An automated and scalable solid phase extraction workflow for desalting and enrichment of plasma digests was established enabling simultaneous preparation of up to 96 samples. Robust high-precision quantification of 13 apolipoproteins was achieved using a novel multiplex SIS PrEST-based LCSRM/ MS Tier 2 assay in non-depleted human plasma. The assay exhibited inter-day coefficients of variation between 1.5% and 14.5% (median =3.5%) and was subsequently used to investigate the effects of omega-3 carboxylic acids (OM3-CA) and fenofibrate on these 13 apolipoproteins in human plasma samples from a randomized placebocontrolled trial, EFFECT I (NCT02354976). No significant changes were observed in the OM3-CA arm, whereas treatment with fenofibrate significantly increased apoAII and reduced apoB, apoCI, apoE and apoCIV levels. The reduction in apoCIV following fenofibrate treatment is a novel finding. The study demonstrates that SIS PrESTs can facilitate the generation of robust multiplexed biomarker Tier 2 assays for absolute quantification of proteins in clinical studies.",
+                "authors": [
+                    {
+                        "name": "Hober A."
+                    },
+                    {
+                        "name": "Edfors F."
+                    },
+                    {
+                        "name": "Ryaboshapkina M."
+                    },
+                    {
+                        "name": "Malmqvist J."
+                    },
+                    {
+                        "name": "Rosengren L."
+                    },
+                    {
+                        "name": "Percy A.J."
+                    },
+                    {
+                        "name": "Lind L."
+                    },
+                    {
+                        "name": "Forsstrom B."
+                    },
+                    {
+                        "name": "Uhlen M."
+                    },
+                    {
+                        "name": "Oscarsson J."
+                    },
+                    {
+                        "name": "Miliotis T."
+                    }
+                ],
+                "citationCount": 2,
+                "date": "2019-01-01T00:00:00Z",
+                "journal": "Molecular and Cellular Proteomics",
+                "title": "Absolute quantification of apolipoproteins following treatment with omega-3 carboxylic acids and fenofibrate using a high precision stable isotope-labeled recombinant protein fragments based SRM assay"
+            },
+            "pmcid": "PMC6885709",
+            "pmid": "31591263"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Proteomics",
+            "uri": "http://edamontology.org/topic_0121"
+        },
+        {
+            "term": "Preclinical and clinical studies",
+            "uri": "http://edamontology.org/topic_3379"
+        },
+        {
+            "term": "Small molecules",
+            "uri": "http://edamontology.org/topic_0154"
+        },
+        {
+            "term": "Biomarkers",
+            "uri": "http://edamontology.org/topic_3360"
+        },
+        {
+            "term": "Proteomics experiment",
+            "uri": "http://edamontology.org/topic_3520"
+        }
+    ]
+}
