@@ -27,8 +27,8 @@
         "Robert Stojnic"
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:23144600",
@@ -44,9 +44,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "ddgraph",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/ddgraph.html",
       "sc:version": "1.18.0"

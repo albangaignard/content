@@ -38,9 +38,9 @@
       ],
       "sc:name": "inTB",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://www.evocell.org/inTB"
     },

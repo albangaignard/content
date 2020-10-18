@@ -23,21 +23,21 @@
         "@id": "edam:data_0896"
       },
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3510"
-        },
-        {
-          "@id": "edam:topic_0797"
+          "@id": "edam:topic_3174"
         },
         {
           "@id": "edam:topic_0080"
         },
         {
-          "@id": "edam:topic_3174"
+          "@id": "edam:topic_3510"
+        },
+        {
+          "@id": "edam:topic_0797"
         }
       ],
       "sc:citation": [
@@ -60,12 +60,12 @@
       "sc:name": "EffectiveDB",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": [
-        "AT-CUBE",
-        "CUBE - Computational Systems Biology"
+        "CUBE - Computational Systems Biology",
+        "AT-CUBE"
       ],
       "sc:softwareHelp": {
         "@id": "http://www.effectivedb.org/"

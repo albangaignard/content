@@ -16,8 +16,8 @@
   "sc:name": "SurvMicro",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://bioinformatica.mty.itesm.mx:8080/Biomatec/Survmicro.jsp"
 }

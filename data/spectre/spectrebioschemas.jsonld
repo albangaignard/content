@@ -29,8 +29,8 @@
       },
       "sc:name": "SPECtre",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/mills-lab/spectre"
     },

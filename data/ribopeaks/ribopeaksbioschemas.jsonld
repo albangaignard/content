@@ -16,8 +16,8 @@
   "sc:license": "Unlicense",
   "sc:name": "Ribopeaks",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://www.ribopeaks.com."

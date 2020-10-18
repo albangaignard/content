@@ -12,22 +12,22 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
-    "EMBOSS Contributors",
     "Wellcome Trust",
-    "UK MRC"
+    "UK BBSRC",
+    "UK MRC",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Find EDAM ontology terms by definition.",
   "sc:funder": [
-    "Wellcome Trust",
+    "UK BBSRC",
     "UK MRC",
-    "UK BBSRC"
+    "Wellcome Trust"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "edamdef",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": [

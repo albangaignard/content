@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Cengiz Yakicier",
-    "Özlen Konu",
     "Koray D. Kaya",
-    "Aybar C. Acar",
-    "Gökhan Karakülah"
+    "Özlen Konu",
+    "Gökhan Karakülah",
+    "Aybar C. Acar"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:21177657",

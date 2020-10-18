@@ -37,9 +37,9 @@
       },
       "sc:name": "COMMA",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://www.lcqb.upmc.fr/COMMA/COMMA.html"
     }

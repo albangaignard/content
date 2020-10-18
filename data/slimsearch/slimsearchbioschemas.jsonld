@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/slimsearch",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Web application",
-        "Suite"
+        "Suite",
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:28387819",

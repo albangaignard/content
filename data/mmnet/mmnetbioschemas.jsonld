@@ -23,8 +23,8 @@
   "sc:name": "mmnet",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://www.rdocumentation.org/packages/mmnet/versions/1.10.2",
   "sc:version": "1.12.0"

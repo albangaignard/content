@@ -41,8 +41,8 @@
         "Linux"
       ],
       "sc:provider": [
-        "European Molecular Biology Laboratory (EMBL)",
-        "HD-HuB"
+        "HD-HuB",
+        "European Molecular Biology Laboratory (EMBL)"
       ],
       "sc:url": "http://pathways.embl.de/iPath2.cgi",
       "sc:version": "2.0"

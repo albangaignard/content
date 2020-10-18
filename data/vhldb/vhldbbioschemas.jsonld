@@ -24,16 +24,16 @@
         "@id": "edam:data_0896"
       },
       "sc:additionalType": [
-        "Web API",
+        "Web application",
         "Database portal",
-        "Web application"
+        "Web API"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_2814"
+          "@id": "edam:topic_0128"
         },
         {
-          "@id": "edam:topic_0128"
+          "@id": "edam:topic_2814"
         }
       ],
       "sc:citation": [
@@ -55,9 +55,9 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "VHLdb",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:provider": "University of Padua, Department of Biomedical Sciences, BioComputing UP lab",
       "sc:softwareHelp": {

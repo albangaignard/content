@@ -32,8 +32,8 @@
       "sc:name": "vancomycin TDM",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://pipet.shinyapps.io/vancomycin"
     },

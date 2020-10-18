@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "EMBOSS Contributors",
+    "UK MRC",
     "Wellcome Trust",
-    "UK BBSRC",
-    "UK MRC"
+    "UK BBSRC"
   ],
   "sc:description": "Find GO ontology terms by definition.",
   "sc:funder": [
@@ -27,8 +27,8 @@
   "sc:name": "godef",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "EMBL EBI",

@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1371/journal.pone.0162801",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/epga",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -18,8 +22,8 @@
       ],
       "sc:additionalType": [
         "Web API",
-        "Web application",
-        "Web service"
+        "Web service",
+        "Web application"
       ],
       "sc:citation": [
         "pubmed:27631363",
@@ -41,14 +45,10 @@
       "sc:name": "ePGA",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://www.epga.gr"
-    },
-    {
-      "@id": "https://doi.org/10.1371/journal.pone.0162801",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

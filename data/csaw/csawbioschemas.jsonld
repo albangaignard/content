@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0002-3564-4813",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/csaw",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -27,10 +31,10 @@
           "@id": "edam:data_2012"
         },
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_0867"
         },
         {
-          "@id": "edam:data_0867"
+          "@id": "edam:data_2884"
         }
       ],
       "sc:additionalType": [
@@ -42,13 +46,13 @@
           "@id": "edam:topic_3169"
         },
         {
+          "@id": "edam:topic_0092"
+        },
+        {
           "@id": "edam:topic_3511"
         },
         {
           "@id": "edam:topic_3168"
-        },
-        {
-          "@id": "edam:topic_0092"
         }
       ],
       "sc:citation": [
@@ -65,16 +69,12 @@
       "sc:license": "GPL-3.0",
       "sc:name": "csaw",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/csaw.html",
       "sc:version": "1.8.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-3564-4813",
-      "@type": "schema:Person"
     }
   ]
 }

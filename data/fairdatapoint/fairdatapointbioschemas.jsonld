@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://orcid.org/0000-0002-1215-167X",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://orcid.org/0000-0002-1164-1351",
       "@type": "schema:Person"
     },
@@ -29,14 +25,14 @@
         }
       ],
       "sc:additionalType": [
-        "Web application",
-        "Web API"
+        "Web API",
+        "Web application"
       ],
       "sc:author": [
-        "Kees burger",
         {
           "@id": "https://orcid.org/0000-0002-1215-167X"
-        }
+        },
+        "Kees burger"
       ],
       "sc:contributor": [
         "Kees burger",
@@ -49,11 +45,15 @@
       "sc:license": "MIT",
       "sc:name": "FAIRDataPoint",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "https://github.com/FAIRDataTeam/FAIRDataPoint"
+    },
+    {
+      "@id": "https://orcid.org/0000-0002-1215-167X",
+      "@type": "schema:Person"
     }
   ]
 }

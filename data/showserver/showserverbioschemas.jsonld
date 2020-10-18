@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "EMBOSS Contributors",
-    "UK BBSRC",
+    "UK MRC",
     "Wellcome Trust",
-    "UK MRC"
+    "EMBOSS Contributors",
+    "UK BBSRC"
   ],
   "sc:description": "Display information on configured servers.",
   "sc:funder": [

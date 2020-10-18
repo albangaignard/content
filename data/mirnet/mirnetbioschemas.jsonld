@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/NAR/GKW288",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/mirnet",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Jeff Xia",
@@ -35,15 +39,11 @@
       ],
       "sc:name": "miRNet",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://www.mirnet.ca/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKW288",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

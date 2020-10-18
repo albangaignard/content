@@ -16,8 +16,8 @@
   "sc:name": "BBMRI-NL catalog",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "UGroningen",

@@ -27,9 +27,9 @@
       },
       "sc:name": "POETs",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://github.com/varnerlab/POETs.jl"
     },

@@ -19,8 +19,8 @@
   "sc:name": "WebMetabase",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://webmetabase.com:8182/WebMetabaseBioinformatics/"
 }

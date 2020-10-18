@@ -27,9 +27,9 @@
       },
       "sc:name": "mutation3D",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://mutation3d.org/"
     },

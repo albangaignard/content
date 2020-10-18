@@ -10,16 +10,12 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.3389/FGENE.2019.00421",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/DiVenn",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Liang Sun",
         "Yinbing Ge",
-        "Zach Robinson"
+        "Zach Robinson",
+        "Liang Sun"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [
@@ -45,10 +41,14 @@
       "sc:name": "DiVenn",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://divenn.noble.org/"
+    },
+    {
+      "@id": "https://doi.org/10.3389/FGENE.2019.00421",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

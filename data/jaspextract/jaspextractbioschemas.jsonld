@@ -12,22 +12,22 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "Wellcome Trust",
-    "UK BBSRC",
     "EMBOSS Contributors",
-    "UK MRC"
+    "Wellcome Trust",
+    "UK MRC",
+    "UK BBSRC"
   ],
   "sc:description": "Extract data from JASPAR.",
   "sc:funder": [
-    "UK BBSRC",
+    "Wellcome Trust",
     "UK MRC",
-    "Wellcome Trust"
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "jaspextract",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": [

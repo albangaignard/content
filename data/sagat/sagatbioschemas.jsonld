@@ -15,8 +15,8 @@
   "sc:name": "SAGAT",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://simtk.org/home/sagat",
   "sc:version": "1.0"

@@ -15,16 +15,16 @@
     "Web application"
   ],
   "sc:author": [
-    "Seán I O'Donoghue",
     "Andrea Schafferhans",
+    "Seán I O'Donoghue",
     "Kenneth S Sabir",
     "Christian Stolte"
   ],
   "sc:contributor": [
-    "Manfred Roos",
-    "Nelson Perdigão",
     "Fabian A Buske",
+    "Nelson Perdigão",
     "Vivian Ho",
+    "Manfred Roos",
     "Burkhard Rost",
     "Julian Heinrich",
     "Maria Kalemanov",
@@ -34,14 +34,14 @@
   "sc:license": "GPL-2.0",
   "sc:name": "Aquaria",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": [
-    "School of Molecular Bioscience, The University of Sydney",
-    "Digital Productivity, Commonwealth Scientific and Industrial Research Organisation (CSIRO), Sydney",
     "Division of Genomics and Epigenetics, Garvan Institute of Medical Research, Sydney",
+    "Digital Productivity, Commonwealth Scientific and Industrial Research Organisation (CSIRO), Sydney",
+    "School of Molecular Bioscience, The University of Sydney",
     "Department for Bioinformatics and Computational Biology, Technische Universität München"
   ],
   "sc:url": "http://aquaria.ws",

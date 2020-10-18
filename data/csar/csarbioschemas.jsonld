@@ -20,8 +20,8 @@
         "@id": "http://orcid.org/0000-0002-6403-7262"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:21554688",
@@ -37,9 +37,9 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "CSAR",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/CSAR.html",
       "sc:version": "1.26.0"

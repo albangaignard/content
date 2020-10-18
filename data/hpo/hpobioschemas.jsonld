@@ -13,13 +13,13 @@
       "@id": "https://bio.tools/hpo",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Sebastian Köhler",
         "Peter Robinson",
-        "Melissa Haendel",
-        "Sebastian Köhler"
+        "Melissa Haendel"
       ],
       "sc:additionalType": [
-        "Web application",
-        "Ontology"
+        "Ontology",
+        "Web application"
       ],
       "sc:citation": [
         {
@@ -31,10 +31,10 @@
       "sc:description": "The Human Phenotype Ontology (HPO) aims to provide a standardized vocabulary of phenotypic abnormalities encountered in human disease. It can be used for clinical diagnostics in human genetics, bioinformatics research on the relationships between human phenotypic abnormalities and cellular and biochemical networks, for mapping between human and model organism phenotypes and for providing a standardized vocabulary for clinical databases. All the data is available for download and can be browsed online.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3778"
+          "@id": "edam:operation_0224"
         },
         {
-          "@id": "edam:operation_0224"
+          "@id": "edam:operation_3778"
         },
         {
           "@id": "edam:operation_0335"
@@ -42,9 +42,9 @@
       ],
       "sc:name": "HPO",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://hpo.jax.org/app/"
     },

@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
-    "EMBOSS Contributors",
     "Wellcome Trust",
+    "EMBOSS Contributors",
     "UK MRC"
   ],
   "sc:description": "Find GO ontology terms by name.",
@@ -26,8 +26,8 @@
   "sc:license": "GPL-3.0",
   "sc:name": "goname",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": [

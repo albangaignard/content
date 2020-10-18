@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Z. Guo",
       "sc:additionalType": [
-        "Database portal",
         "Web API",
+        "Database portal",
         "Web application"
       ],
       "sc:citation": [
@@ -40,8 +40,8 @@
       "sc:name": "EnhancerDB",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://lcbb.swjtu.edu.cn/EnhancerDB/"
     },
