@@ -1,0 +1,124 @@
+{
+    "accessibility": "Open access",
+    "additionDate": "2020-10-16T09:38:31.451550",
+    "biotoolsCURIE": "biotools:pybravo",
+    "biotoolsID": "pybravo",
+    "credit": [
+        {
+            "email": "alban.gaignard@univ-nantes.fr",
+            "name": "Alban Gaignard",
+            "orcidid": "https://orcid.org/0000-0002-3597-8557",
+            "typeEntity": "Person",
+            "url": "http://albangaignard.github.io/"
+        },
+        {
+            "email": "marie.lefebvre@inrae.fr",
+            "name": "Marie Lefebvre",
+            "orcidid": "https://orcid.org/0000-0002-3093-5873",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Developer"
+            ],
+            "url": "https://mariebvr.github.io/marieBvr/"
+        },
+        {
+            "email": "maxime.folschette@centralelille.fr",
+            "name": "Maxime Folschette",
+            "typeEntity": "Person"
+        },
+        {
+            "name": "Jeremy Bourdon",
+            "orcidid": "https://orcid.org/0000-0001-6674-8626",
+            "typeEntity": "Person"
+        },
+        {
+            "name": "Carito Guziolowski",
+            "orcidid": "https://orcid.org/0000-0001-5192-0745",
+            "typeEntity": "Person"
+        },
+        {
+            "name": "SyMeTRIC",
+            "typeEntity": "Project",
+            "url": "http://symetric.univ-nantes.fr/doku.php"
+        }
+    ],
+    "description": "This tool is a Python implementation of BRAvo using Semantic Web to generate upstream regulation network from the PathwayCommons knowledge base. \npyBRAvo can be used through either a Jupyter notebook, or a command line interface.",
+    "documentation": [
+        {
+            "type": [
+                "User manual"
+            ],
+            "url": "https://github.com/pyBRAvo/pyBRAvo"
+        }
+    ],
+    "editPermission": {
+        "type": "private"
+    },
+    "function": [
+        {
+            "cmd": "python pyBravo.py --regulation --fast --input_genes JUN/FOS SCN5A -md 2",
+            "operation": [
+                {
+                    "term": "Metabolic pathway prediction",
+                    "uri": "http://edamontology.org/operation_3929"
+                }
+            ],
+            "output": [
+                {
+                    "data": {
+                        "term": "Pathway or network",
+                        "uri": "http://edamontology.org/data_2600"
+                    },
+                    "format": [
+                        {
+                            "term": "sif",
+                            "uri": "http://edamontology.org/format_3619"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/pyBRAvo/pyBRAvo",
+    "language": [
+        "Python"
+    ],
+    "lastUpdate": "2020-10-16T09:38:31.452253Z",
+    "link": [
+        {
+            "type": [
+                "Repository"
+            ],
+            "url": "https://github.com/pyBRAvo/pyBRAvo"
+        }
+    ],
+    "maturity": "Mature",
+    "name": "pyBRAvo",
+    "owner": "marieBvr",
+    "relation": [
+        {
+            "biotoolsID": "omnipath",
+            "type": "uses"
+        },
+        {
+            "biotoolsID": "pathway_commons",
+            "type": "uses"
+        }
+    ],
+    "toolType": [
+        "Command-line tool"
+    ],
+    "topic": [
+        {
+            "term": "Molecular interactions, pathways and networks",
+            "uri": "http://edamontology.org/topic_0602"
+        },
+        {
+            "term": "Systems biology",
+            "uri": "http://edamontology.org/topic_2259"
+        }
+    ],
+    "version": [
+        "1.0"
+    ]
+}
