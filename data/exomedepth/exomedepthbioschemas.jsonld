@@ -28,13 +28,13 @@
       "sc:description": "Copy number variant (CNV) calling algorithm designed to control technical variability between samples. It calls CNVs from targeted sequence data, typically exome sequencing experiments designed to identify the genetic basis of Mendelian disorders.",
       "sc:featureList": [
         {
+          "@id": "edam:operation_2403"
+        },
+        {
           "@id": "edam:operation_3227"
         },
         {
           "@id": "edam:operation_3233"
-        },
-        {
-          "@id": "edam:operation_2403"
         },
         {
           "@id": "edam:operation_3196"
@@ -44,8 +44,8 @@
       "sc:name": "ExomeDepth",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://cran.r-project.org/web/packages/ExomeDepth/index.html",
       "sc:version": "1.1.10"

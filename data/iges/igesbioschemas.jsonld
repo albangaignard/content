@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/iges",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Zongben X",
     "Xiang Wan",
+    "Zongben X",
     "Can Yang"
   ],
   "sc:additionalType": "Desktop application",

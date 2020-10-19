@@ -30,18 +30,18 @@
           "@id": "edam:operation_3629"
         },
         {
-          "@id": "edam:operation_3633"
+          "@id": "edam:operation_3799"
         },
         {
-          "@id": "edam:operation_3799"
+          "@id": "edam:operation_3633"
         }
       ],
       "sc:license": "GPL-3.0",
       "sc:name": "LipidMatch Normalizer",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://secim.ufl.edu/secim-tools/lipidmatch-normalizer/",
       "sc:version": "1.0.2"

@@ -38,8 +38,8 @@
       ],
       "sc:name": "dbGAP",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
+        "Linux",
         "Windows"
       ],
       "sc:url": "http://www.ncbi.nlm.nih.gov/gap"

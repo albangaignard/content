@@ -22,8 +22,8 @@
   "sc:name": "TPMCalculator",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://github.com/ncbi/TPMCalculator"
 }

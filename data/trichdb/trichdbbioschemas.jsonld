@@ -36,8 +36,8 @@
       "sc:name": "Trichomonas genome resources (TrichDB)",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://trichdb.org/trichdb/"
     },

@@ -16,8 +16,8 @@
   "sc:name": "Tax4Fun",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://tax4fun.gobics.de/"
 }

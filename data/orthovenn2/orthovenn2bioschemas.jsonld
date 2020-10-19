@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Yi Wang",
       "sc:additionalType": [
-        "Web API",
         "Web service",
+        "Web API",
         "Web application"
       ],
       "sc:citation": [

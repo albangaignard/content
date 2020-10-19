@@ -24,8 +24,8 @@
         "@id": "edam:topic_0623"
       },
       "sc:citation": [
-        "pubmed:15453918",
         "pmcid:PMC522807",
+        "pubmed:15453918",
         {
           "@id": "https://doi.org/10.1186/1471-2105-5-138"
         }
@@ -36,13 +36,13 @@
       },
       "sc:name": "CuticleDB",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:provider": [
-        "University of Athens",
-        "University of Georgia"
+        "University of Georgia",
+        "University of Athens"
       ],
       "sc:url": "http://biophysics.biol.uoa.gr/cuticleDB/"
     },

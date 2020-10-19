@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/nar/gkt1113",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/clinvar",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Donna R. Maglott",
@@ -30,26 +34,22 @@
           "@id": "edam:operation_3197"
         },
         {
+          "@id": "edam:operation_3431"
+        },
+        {
           "@id": "edam:operation_3436"
         },
         {
           "@id": "edam:operation_0224"
-        },
-        {
-          "@id": "edam:operation_3431"
         }
       ],
       "sc:name": "ClinVar",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
+        "Mac",
         "Linux"
       ],
       "sc:url": "http://www.ncbi.nlm.nih.gov/clinvar/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkt1113",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

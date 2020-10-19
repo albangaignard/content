@@ -17,8 +17,8 @@
   "sc:name": "MatchMiner",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://discover.nci.nih.gov/matchminer/"
 }

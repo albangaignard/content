@@ -39,9 +39,9 @@
       "sc:license": "Unlicense",
       "sc:name": "AlloDriver",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://mdl.shsmu.edu.cn/ALD"
     },

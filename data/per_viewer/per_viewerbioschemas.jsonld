@@ -19,8 +19,8 @@
   "sc:license": "Unlicense",
   "sc:name": "PER viewer",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:url": "http://per.broadinstitute.org"

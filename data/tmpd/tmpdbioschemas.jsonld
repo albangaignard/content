@@ -32,8 +32,8 @@
       "sc:name": "TMPD",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://biodb.sdau.edu.cn/tmpd/index.html"
     }

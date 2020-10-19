@@ -16,14 +16,14 @@
   ],
   "sc:author": [
     "Jan Brezovsky",
-    "Jaroslav Bendl",
+    "Jan Stourac",
     "Ondrej Salanda",
-    "Jiri Damborsky",
-    "Jan Stourac"
+    "Jaroslav Bendl",
+    "Jiri Damborsky"
   ],
   "sc:contributor": [
-    "Antonin Pavelka",
     "Eric D. Wieben",
+    "Antonin Pavelka",
     "Jaroslav Zendulka"
   ],
   "sc:description": "A consensus classifier that combines six of the top performing tools for the prediction of the effects of mutation on protein function. The obtained results are provided together with annotations extracted from the Protein Mutant Database and the UniProt database.",
@@ -34,11 +34,11 @@
     "Windows"
   ],
   "sc:provider": [
+    "Masaryk University, Brno, Czech Republic",
+    "Brno University of Technology, Brno, Czech Republic",
     "Loschmidt Laboratories",
     "International Centre for Clinical Research, Brno, Czech Republic",
-    "Mayo Clinic, Rochester, New York, United States of America",
-    "Masaryk University, Brno, Czech Republic",
-    "Brno University of Technology, Brno, Czech Republic"
+    "Mayo Clinic, Rochester, New York, United States of America"
   ],
   "sc:url": "http://loschmidt.chemi.muni.cz/predictsnp",
   "sc:version": "1.0"

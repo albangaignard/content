@@ -18,6 +18,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://orcid.org/0000-0001-6960-357X",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/MDPBiome",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -35,14 +39,10 @@
       "sc:name": "MDPBiome",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://github.com/beatrizgj/MDPbiome"
-    },
-    {
-      "@id": "https://orcid.org/0000-0001-6960-357X",
-      "@type": "schema:Person"
     }
   ]
 }

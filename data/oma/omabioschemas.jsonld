@@ -21,23 +21,23 @@
           "@id": "edam:data_0842"
         },
         {
-          "@id": "edam:data_3021"
+          "@id": "edam:data_2974"
         },
         {
-          "@id": "edam:data_2974"
+          "@id": "edam:data_3021"
         }
       ],
       "sc:additionalType": [
-        "Database portal",
         "Desktop application",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         {
           "@id": "https://doi.org/10.1093/nar/gku1158"
         },
-        "pmcid:PMC4383958",
-        "pubmed:25399418"
+        "pubmed:25399418",
+        "pmcid:PMC4383958"
       ],
       "sc:description": "Project that aims to identify orthologs among publicly available, complete genomes. With many hundreds of genomes analyzed to date, it is one of the largest projects of its kind.",
       "sc:featureList": {
@@ -45,9 +45,9 @@
       },
       "sc:name": "OMA",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:provider": "SIB",
       "sc:url": "http://omabrowser.org/oma/home/"

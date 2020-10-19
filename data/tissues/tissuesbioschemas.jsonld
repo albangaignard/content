@@ -49,9 +49,9 @@
       "sc:license": "CC-BY-4.0",
       "sc:name": "TISSUES",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "https://tissues.jensenlab.org/"
     },

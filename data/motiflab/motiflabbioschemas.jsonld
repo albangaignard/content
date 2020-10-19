@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/motiflab",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Desktop application",
     "Command-line tool",
+    "Desktop application",
     "Workbench"
   ],
   "sc:author": "Kjetil Klepper",
@@ -21,8 +21,8 @@
   "sc:name": "MotifLab",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.motiflab.org",
   "sc:version": "1.8"
