@@ -1,0 +1,65 @@
+{
+    "additionDate": "2019-11-14T18:42:15Z",
+    "biotoolsCURIE": "biotools:Polymerase_Structures",
+    "biotoolsID": "Polymerase_Structures",
+    "confidence_flag": "low",
+    "description": "> LOW CONFIDENCE! | > CORRECT NAME OF TOOL COULD ALSO BE 'polymerases should', 'polymerase structure' | A Comprehensive Superposition of Viral Polymerase Structures | Submissions to the Community site are moderated and must be related to comparisons or analyses of polymerase structures. Uploaded documents must be provided on an Open Access basis and a Zenodo DOI will be minted if a DOI does not exist | A community to distribute and share large datasets or detailed analyses pertaining to the structures of nucleic acid polymerases",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Nucleic acid structure comparison",
+                    "uri": "http://edamontology.org/operation_2518"
+                },
+                {
+                    "term": "Deposition",
+                    "uri": "http://edamontology.org/operation_3431"
+                },
+                {
+                    "term": "Sequence trimming",
+                    "uri": "http://edamontology.org/operation_3192"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://www.zenodo.org/communities/pols/",
+    "lastUpdate": "2019-11-14T18:42:15Z",
+    "name": "Polymerase Structures",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.3390/V11080745",
+            "metadata": {
+                "abstract": "\u00a9 2019 by the authors. Licensee MDPI, Basel, Switzerland.Nucleic acid polymerases are essential enzymes that replicate the genomes of both RNA and DNA viruses. These enzymes are generally encoded by viruses themselves so as to provide biochemical functions and control elements that differ from those of the host cell polymerases. The core active site structure used by all replicative polymerases is highly conserved and composed of two key aspartate residues from the conserved motifs A and C, but beyond this there is significant divergence among structures. These differences can make it difficult to select which portions of structures to align for comparisons, yet there are extended structural similarities within different groups of viral polymerases that should clearly be considered to generate optimal alignments. This manuscript describes a comprehensive structure-based superposition of every viral polymerase structure solved thus far based on an alignment-tree approach wherein aligned regions grow in complexity as similarity among polymerases increases. The result is a set of 646 structures that have been aligned into a single common orientation. This provides a convenient resource for directly comparing viral polymerases and illustrating structural conservation among them. It also sets the stage for detailed bioinformatics analysis to further assess common structural features. The full set of protein data bank (PDB) formatted files is publicly available via the Polymerase Structures community page at the Zenodo.org open data repository.",
+                "authors": [
+                    {
+                        "name": "Peersen O.B."
+                    }
+                ],
+                "citationCount": 2,
+                "date": "2019-08-01T00:00:00Z",
+                "journal": "Viruses",
+                "title": "A comprehensive superposition of viral polymerase structures"
+            },
+            "pmcid": "PMC6723251",
+            "pmid": "31412589"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Nucleic acid structure analysis",
+            "uri": "http://edamontology.org/topic_0097"
+        },
+        {
+            "term": "Structure prediction",
+            "uri": "http://edamontology.org/topic_0082"
+        },
+        {
+            "term": "PCR experiment",
+            "uri": "http://edamontology.org/topic_3519"
+        }
+    ]
+}
