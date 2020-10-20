@@ -38,8 +38,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "OCTOPUS-toolkit",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://octopus-toolkit2.readthedocs.io/en/latest/",
       "sc:version": "2.1.1"

@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0003-3797-2148",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.1111/age.12307",
+      "@type": "sc:CreativeWork"
     },
     {
       "@id": "https://bio.tools/meshr",
@@ -29,15 +29,15 @@
       ],
       "edam:has_output": [
         {
-          "@id": "edam:data_2048"
+          "@id": "edam:data_3509"
         },
         {
-          "@id": "edam:data_3509"
+          "@id": "edam:data_2048"
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
@@ -48,8 +48,8 @@
         }
       ],
       "sc:citation": [
-        "pmcid:PMC5032990",
         "pubmed:26036323",
+        "pmcid:PMC5032990",
         {
           "@id": "https://doi.org/10.1111/age.12307"
         }
@@ -61,16 +61,16 @@
       "sc:license": "Artistic-2.0",
       "sc:name": "meshr",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/meshr.html",
       "sc:version": "1.10.0"
     },
     {
-      "@id": "https://doi.org/10.1111/age.12307",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0003-3797-2148",
+      "@type": "schema:Person"
     }
   ]
 }

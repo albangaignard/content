@@ -17,8 +17,8 @@
         "Joseph N. Paulson"
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pubmed:23741402",
@@ -35,8 +35,8 @@
       "sc:name": "pandaR",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/pandaR.html",
       "sc:version": "1.6.0"

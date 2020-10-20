@@ -10,15 +10,11 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1038/nature19057",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/gnomad",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         {
@@ -36,10 +32,10 @@
           "@id": "edam:operation_2422"
         },
         {
-          "@id": "edam:operation_2421"
+          "@id": "edam:operation_3436"
         },
         {
-          "@id": "edam:operation_3436"
+          "@id": "edam:operation_2421"
         }
       ],
       "sc:license": "ODbL-1.0",
@@ -50,6 +46,10 @@
         "Mac"
       ],
       "sc:url": "http://gnomad.broadinstitute.org/"
+    },
+    {
+      "@id": "https://doi.org/10.1038/nature19057",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

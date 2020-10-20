@@ -20,22 +20,22 @@
         {
           "@id": "http://orcid.org/0000-0001-5127-5459"
         },
+        "Albin Sandelin",
         "Boris Lenhard",
-        "Wyeth Wasserman",
-        "Albin Sandelin"
+        "Wyeth Wasserman"
       ],
       "sc:additionalType": [
         "Web application",
-        "Web API",
-        "Database portal"
+        "Database portal",
+        "Web API"
       ],
       "sc:description": "The high-quality transcription factor binding profile database.",
       "sc:license": "CC-BY-NC-4.0",
       "sc:name": "JASPAR",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://jaspar.genereg.net/"
     }

@@ -17,11 +17,11 @@
       "@id": "https://bio.tools/Monoallelic_Gene_Inference_from_Chromatin",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Alexander Gimelbrant",
         "Sébastien Vigneau",
-        "Svetlana Vinogradova",
+        "Alexander Gimelbrant",
         "Sachit Saksena",
-        "Henry Ward"
+        "Henry Ward",
+        "Svetlana Vinogradova"
       ],
       "sc:additionalType": [
         "Command-line tool",

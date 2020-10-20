@@ -13,8 +13,8 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK MRC",
-    "EMBOSS Contributors",
     "UK BBSRC",
+    "EMBOSS Contributors",
     "Wellcome Trust"
   ],
   "sc:description": "Test an application ACD file.",
@@ -27,8 +27,8 @@
   "sc:name": "acdc",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

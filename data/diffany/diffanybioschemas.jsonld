@@ -17,8 +17,8 @@
   "sc:description": "Open-source toolbox for calculating and visualizing differential networks.",
   "sc:name": "Diffany",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "ugent.be",

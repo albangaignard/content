@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
     "Desktop application",
-    "Command-line tool",
-    "Web application"
+    "Web application",
+    "Command-line tool"
   ],
   "sc:author": "Martin Petrek",
   "sc:contributor": [
@@ -24,9 +24,9 @@
   "sc:license": "Other",
   "sc:name": "MOLE",
   "sc:operatingSystem": [
-    "Linux",
+    "Mac",
     "Windows",
-    "Mac"
+    "Linux"
   ],
   "sc:provider": [
     "Masaryk University, Brno, Czech Republic",

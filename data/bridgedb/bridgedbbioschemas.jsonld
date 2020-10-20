@@ -22,10 +22,10 @@
   ],
   "sc:provider": [
     "Maastricht University",
+    "maastrichtuniversity.nl",
     "Gladstone Institutes",
     "Heroit Watt University",
-    "Manchester University",
-    "maastrichtuniversity.nl"
+    "Manchester University"
   ],
   "sc:url": "http://www.bridgedb.org/",
   "sc:version": "1"

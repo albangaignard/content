@@ -33,6 +33,9 @@
       "sc:description": "Coding Potential Calculator. Fast and accurate coding potential calculator based on sequence intrinsic features.",
       "sc:featureList": [
         {
+          "@id": "edam:operation_0256"
+        },
+        {
           "@id": "edam:operation_0314"
         },
         {
@@ -40,9 +43,6 @@
         },
         {
           "@id": "edam:operation_0235"
-        },
-        {
-          "@id": "edam:operation_0256"
         }
       ],
       "sc:name": "CPC2",

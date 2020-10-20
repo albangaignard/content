@@ -38,25 +38,25 @@
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3489"
-        },
-        {
-          "@id": "edam:topic_3170"
-        },
-        {
           "@id": "edam:topic_0219"
-        },
-        {
-          "@id": "edam:topic_3366"
-        },
-        {
-          "@id": "edam:topic_0121"
         },
         {
           "@id": "edam:topic_3571"
         },
         {
+          "@id": "edam:topic_3366"
+        },
+        {
           "@id": "edam:topic_3520"
+        },
+        {
+          "@id": "edam:topic_0121"
+        },
+        {
+          "@id": "edam:topic_3170"
+        },
+        {
+          "@id": "edam:topic_3489"
         }
       ],
       "sc:citation": [
@@ -78,8 +78,8 @@
       "sc:license": "GPL-2.0",
       "sc:name": "PGA",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/PGA.html",

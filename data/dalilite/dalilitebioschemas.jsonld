@@ -20,12 +20,12 @@
   "sc:name": "DaliLite",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
-    "EMBL-EBI",
-    "University of Helsinki"
+    "University of Helsinki",
+    "EMBL-EBI"
   ],
   "sc:url": "http://www.ebi.ac.uk/Tools/structure/dalilite/",
   "sc:version": "1"

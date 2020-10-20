@@ -19,8 +19,8 @@
   "sc:name": "MS2PIP Server",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "https://iomics.ugent.be/ms2pip/"
 }

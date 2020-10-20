@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0002-3161-8802",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/ddecon",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -35,14 +39,10 @@
       "sc:name": "DDecon",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://www.scripps.edu/fowler/ddecon/"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-3161-8802",
-      "@type": "schema:Person"
     }
   ]
 }

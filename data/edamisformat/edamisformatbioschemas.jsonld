@@ -13,21 +13,21 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "UK BBSRC",
-    "EMBOSS Contributors",
     "UK MRC",
+    "EMBOSS Contributors",
     "Wellcome Trust"
   ],
   "sc:description": "Find EDAM ontology terms by is_format_of relation.",
   "sc:funder": [
+    "UK BBSRC",
     "Wellcome Trust",
-    "UK MRC",
-    "UK BBSRC"
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "edamisformat",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": [

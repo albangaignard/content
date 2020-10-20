@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/molbev/msx089",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/buddysuite",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Andreas D. Baxevanis",
@@ -40,10 +36,14 @@
       "sc:name": "BuddySuite",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://research.nhgri.nih.gov/software/BuddySuite/"
+    },
+    {
+      "@id": "https://doi.org/10.1093/molbev/msx089",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

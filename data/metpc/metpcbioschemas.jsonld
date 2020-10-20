@@ -36,9 +36,9 @@
       "sc:license": "Unlicense",
       "sc:name": "MetPC",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/jjs3098/CNU-Bioinformatics-Lab"
     },

@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Tiago C. Silva",
       "sc:additionalType": "Library",
       "sc:citation": [
-        "pubmed:26704973",
         "pmcid:PMC4856967",
+        "pubmed:26704973",
         {
           "@id": "https://doi.org/10.1093/nar/gkv1507"
         }
@@ -26,8 +26,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "TCGAbiolinksGUI",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/TCGAbiolinksGUI.html",

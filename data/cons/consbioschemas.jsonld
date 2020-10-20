@@ -12,23 +12,23 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "UK BBSRC",
-    "EMBOSS Contributors",
+    "Wellcome Trust",
     "UK MRC",
-    "Wellcome Trust"
+    "UK BBSRC",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Create a consensus sequence from a multiple alignment.",
   "sc:funder": [
-    "UK BBSRC",
     "Wellcome Trust",
-    "UK MRC"
+    "UK MRC",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "cons",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",
