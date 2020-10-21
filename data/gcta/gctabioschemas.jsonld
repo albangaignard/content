@@ -21,8 +21,8 @@
       },
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
-        "pubmed:21167468",
         "pmcid:PMC3014363",
+        "pubmed:21167468",
         {
           "@id": "https://doi.org/10.1016/j.ajhg.2010.11.011"
         }

@@ -31,9 +31,9 @@
       },
       "sc:name": "Plastid",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "https://plastid.readthedocs.io/en/latest/"
     }

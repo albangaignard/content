@@ -40,9 +40,9 @@
       "sc:license": "CC-BY-4.0",
       "sc:name": "MERMAID",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://molsim.sci.univr.it/mermaid/"
     }

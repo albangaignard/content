@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Vladimir B. Bajic",
-    "Ulf Schaefer",
-    "Sebastian Schmeier"
+    "Sebastian Schmeier",
+    "Ulf Schaefer"
   ],
   "sc:additionalType": "Database portal",
   "sc:citation": "pubmed:20965969",

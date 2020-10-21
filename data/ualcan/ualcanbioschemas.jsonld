@@ -18,8 +18,8 @@
   "sc:license": "Unlicense",
   "sc:name": "UALCAN",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:url": "http://ualcan.path.uab.edu/analysis.html"

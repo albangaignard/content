@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0002-2323-0963",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/meta-snp",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -60,14 +56,18 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "Meta-SNP",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:softwareHelp": {
         "@id": "http://snps.biofold.org/meta-snp/pages/help.html"
       },
       "sc:url": "http://snps.biofold.org/meta-snp"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-2323-0963",
+      "@type": "schema:Person"
     }
   ]
 }

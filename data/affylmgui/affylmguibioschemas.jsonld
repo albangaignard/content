@@ -32,9 +32,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "affylmGUI",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/affylmGUI.html",
       "sc:version": "1.48.0"

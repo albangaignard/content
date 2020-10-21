@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/TPMCalculator",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
+    "David Landsman",
     "Lorinc Pongor",
     "Leonardo Mariño-Ramírez",
-    "David Landsman",
     "Roberto Vera Alvarez"
   ],
   "sc:additionalType": "Command-line tool",
@@ -21,9 +21,9 @@
   "sc:license": "Other",
   "sc:name": "TPMCalculator",
   "sc:operatingSystem": [
-    "Windows",
+    "Mac",
     "Linux",
-    "Mac"
+    "Windows"
   ],
   "sc:url": "https://github.com/ncbi/TPMCalculator"
 }

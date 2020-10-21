@@ -23,8 +23,8 @@
   "sc:name": "sigQC",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "https://cran.r-project.org/package=sigQC",
   "sc:version": "0.1.21"

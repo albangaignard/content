@@ -20,8 +20,8 @@
         "@id": "http://orcid.org/0000-0001-7522-4007"
       },
       "sc:additionalType": [
-        "Web application",
         "Library",
+        "Web application",
         "Desktop application",
         "Command-line tool"
       ],
@@ -34,8 +34,8 @@
       "sc:name": "PIA - Protein Inference Algorithms",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:provider": "BioInfra.Prot",
       "sc:url": "https://mpc-bioinformatics.github.io/pia/",

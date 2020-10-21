@@ -27,9 +27,9 @@
   "sc:name": "pEffect",
   "sc:operatingSystem": "Linux",
   "sc:provider": [
-    "Rutgers University",
     "RostLab",
-    "Technical University of Munich"
+    "Technical University of Munich",
+    "Rutgers University"
   ],
   "sc:url": "https://rostlab.org/services/peffect/",
   "sc:version": "0.0.1"

@@ -18,8 +18,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "GTEx contact form",
       "sc:additionalType": [
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:citation": [
         "pubmed:23715323",
@@ -31,7 +31,7 @@
       "sc:description": "Genotype-Tissue Expression (GTEx) - database which helps to study the relationship between genetic variation and gene expression in human tissues.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_3436"
+          "@id": "edam:operation_2495"
         },
         {
           "@id": "edam:operation_2422"
@@ -40,7 +40,7 @@
           "@id": "edam:operation_3197"
         },
         {
-          "@id": "edam:operation_2495"
+          "@id": "edam:operation_3436"
         }
       ],
       "sc:name": "GTEx",

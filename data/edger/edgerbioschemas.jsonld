@@ -10,42 +10,38 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1093/nar/gks042",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/edger",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         {
           "@id": "http://orcid.org/0000-0002-2218-6833"
         },
-        "Mark Robinson",
-        "Gordon Smyth",
         "Aaron Lun",
-        "Yunshun Chen"
+        "Gordon Smyth",
+        "Yunshun Chen",
+        "Mark Robinson"
       ],
       "edam:has_input": {
         "@id": "edam:data_2044"
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_2884"
+          "@id": "edam:data_1669"
         },
         {
-          "@id": "edam:data_1669"
+          "@id": "edam:data_2884"
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_3169"
+          "@id": "edam:topic_3170"
         },
         {
-          "@id": "edam:topic_3170"
+          "@id": "edam:topic_3169"
         },
         {
           "@id": "edam:topic_3053"
@@ -75,6 +71,10 @@
     {
       "@id": "http://orcid.org/0000-0002-2218-6833",
       "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gks042",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

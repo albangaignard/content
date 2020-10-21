@@ -23,8 +23,8 @@
   "sc:name": "A-MADMAN",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "ELIXIR-ITA-PADOVA",
   "sc:url": "http://compgen.bio.unipd.it/bioinfo/amadman/",

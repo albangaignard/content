@@ -36,9 +36,9 @@
       ],
       "sc:name": "expVIP",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://www.wheat-expression.com/"
     }

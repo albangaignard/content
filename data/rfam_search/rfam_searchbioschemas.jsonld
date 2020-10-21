@@ -24,8 +24,8 @@
     "Windows"
   ],
   "sc:provider": [
-    "EMBL-EBI",
     "HHMI",
+    "EMBL-EBI",
     "Sanger Institute"
   ],
   "sc:url": "http://rfam.xfam.org/search",

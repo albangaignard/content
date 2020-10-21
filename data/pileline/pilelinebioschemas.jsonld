@@ -24,8 +24,8 @@
         "@id": "http://orcid.org/0000-0002-4146-0551"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:citation": [
         {
@@ -38,9 +38,9 @@
       "sc:license": "LGPL-2.1",
       "sc:name": "PileLine",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://sing.ei.uvigo.es/pileline/index.php/Main_Page"
     }

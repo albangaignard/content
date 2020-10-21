@@ -10,8 +10,8 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.12688/F1000RESEARCH.4431.2",
-      "@type": "sc:CreativeWork"
+      "@id": "http://orcid.org/0000-0001-8196-1177",
+      "@type": "schema:Person"
     },
     {
       "@id": "https://bio.tools/reactomefiviz",
@@ -45,16 +45,16 @@
       "sc:license": "CC-BY-4.0",
       "sc:name": "ReactomeFIViz",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://wiki.reactome.org/index.php/Reactome_FI_Cytoscape_Plugin",
       "sc:version": "7.1.0"
     },
     {
-      "@id": "http://orcid.org/0000-0001-8196-1177",
-      "@type": "schema:Person"
+      "@id": "https://doi.org/10.12688/F1000RESEARCH.4431.2",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

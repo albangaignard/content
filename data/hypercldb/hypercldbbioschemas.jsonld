@@ -10,32 +10,40 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0003-4694-3883",
+      "@type": "schema:Person"
+    },
+    {
+      "@id": "https://doi.org/10.1093/nar/gkn730",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/hypercldb",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Maria Assunta Manniello",
         {
           "@id": "http://orcid.org/0000-0003-4694-3883"
-        },
-        "Maria Assunta Manniello"
+        }
       ],
       "sc:additionalType": "Web application",
       "sc:author": [
-        "Domenico Marra",
-        "Paolo Romano",
+        "Beatrice Iannotta",
         "Massimiliano Armento",
-        "Beatrice Iannotta"
+        "Paolo Romano",
+        "Domenico Marra"
       ],
       "sc:citation": [
-        "pubmed:7763741",
         {
           "@id": "https://doi.org/10.1093/nar/gkn730"
         },
         "pmcid:PMC2686526",
+        "pubmed:7763741",
         "pubmed:18927105"
       ],
       "sc:contributor": [
-        "Leonardo Santi",
         "Ottavia Aresu",
+        "Leonardo Santi",
         "Tiziana Ruzzon",
         "Barbara Parodi"
       ],
@@ -45,14 +53,6 @@
       "sc:provider": "USMI",
       "sc:url": "http://bioinformatics.hsanmartino.it/hypercldb/",
       "sc:version": "4.0.201503"
-    },
-    {
-      "@id": "https://doi.org/10.1093/nar/gkn730",
-      "@type": "sc:CreativeWork"
-    },
-    {
-      "@id": "http://orcid.org/0000-0003-4694-3883",
-      "@type": "schema:Person"
     }
   ]
 }

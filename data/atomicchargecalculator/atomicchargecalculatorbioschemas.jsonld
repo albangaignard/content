@@ -24,8 +24,8 @@
   "sc:name": "AtomicChargeCalculator",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": "Masaryk University, Brno, Czech Republic",
   "sc:url": "http://ncbr.muni.cz/ACC",

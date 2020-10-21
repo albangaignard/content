@@ -17,8 +17,8 @@
         "Shuwei Yao"
       ],
       "sc:additionalType": [
-        "Web service",
-        "Web application"
+        "Web application",
+        "Web service"
       ],
       "sc:citation": [
         "pmcid:PMC6602452",
@@ -42,9 +42,9 @@
       "sc:license": "Unlicense",
       "sc:name": "NetGO",
       "sc:operatingSystem": [
-        "Windows",
+        "Mac",
         "Linux",
-        "Mac"
+        "Windows"
       ],
       "sc:url": "http://issubmission.sjtu.edu.cn/netgo/"
     },
