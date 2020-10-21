@@ -1,0 +1,77 @@
+{
+    "additionDate": "2020-01-09T18:28:34Z",
+    "biotoolsCURIE": "biotools:beam_propagation_method",
+    "biotoolsID": "beam_propagation_method",
+    "confidence_flag": "low",
+    "credit": [
+        {
+            "email": "xcheng17@bu.edu",
+            "name": "Xiaojun Cheng",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "Development of a beam propagation method to simulate the point spread function degradation in scattering media.\n\nOur model based on the beam propagation method calculates the wavefront propagation in the scattering medium with the scattering mean free path and anisotropy factor characterized",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Phasing",
+                    "uri": "http://edamontology.org/operation_3454"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/BUNPC/Beam-Propagation-Method",
+    "language": [
+        "MATLAB"
+    ],
+    "lastUpdate": "2020-01-09T18:28:34Z",
+    "name": "beam propagation method",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1364/OL.44.004989",
+            "metadata": {
+                "abstract": "\u00a9 2019 Optical Society of America.Scattering is one of the main issues that limit the imaging depth in deep tissue optical imaging. To characterize the role of scattering, we have developed a forward model based on the beam propagation method and established the link between the macroscopic optical properties of the media and the statistical parameters of the phase masks applied to the wavefront. Using this model, we have analyzed the degradation of the point-spread function of the illumination beam in the transition regime from ballistic to diffusive light transport. Our method provides a wave-optic simulation toolkit to analyze the effects of scattering on image quality degradation in scanning microscopy. Our open-source implementation is available at https://github.com/BUNPC/ Beam-Propagation-Method.",
+                "authors": [
+                    {
+                        "name": "Cheng X."
+                    },
+                    {
+                        "name": "Li Y."
+                    },
+                    {
+                        "name": "Mertz J."
+                    },
+                    {
+                        "name": "Sakadzic S."
+                    },
+                    {
+                        "name": "Devor A."
+                    },
+                    {
+                        "name": "Boas D.A."
+                    },
+                    {
+                        "name": "Tian L."
+                    }
+                ],
+                "citationCount": 1,
+                "date": "2019-10-15T00:00:00Z",
+                "journal": "Optics Letters",
+                "title": "Development of a beam propagation method to simulate the point spread function degradation in scattering media"
+            },
+            "pmcid": "PMC6889808",
+            "pmid": "31613246"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Imaging",
+            "uri": "http://edamontology.org/topic_3382"
+        }
+    ]
+}
