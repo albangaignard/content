@@ -1,7 +1,5 @@
 {
-    "accessibility": [
-        "Open access"
-    ],
+    "accessibility": "Open access",
     "additionDate": "2019-06-22T15:16:39Z",
     "biotoolsCURIE": "biotools:ReGEO",
     "biotoolsID": "ReGEO",
@@ -20,7 +18,9 @@
     "documentation": [
         {
             "note": "ReGEO database",
-            "type": "Other",
+            "type": [
+                "Other"
+            ],
             "url": "http://www.regeo.org/help.jsp"
         }
     ],
@@ -52,10 +52,12 @@
         }
     ],
     "homepage": "http://www.regeo.org/",
-    "lastUpdate": "2019-06-22T15:17:04Z",
+    "lastUpdate": "2020-06-16T10:55:23Z",
     "link": [
         {
-            "type": "Browser",
+            "type": [
+                "Browser"
+            ],
             "url": "http://www.regeo.org/search.jsp"
         }
     ],
@@ -70,9 +72,40 @@
     "publication": [
         {
             "doi": "10.1093/database/bay145",
+            "metadata": {
+                "abstract": "\u00a9 2019 The Author(s).Motivation: Gene Expression Omnibus (GEO) and other publicly available data store their metadata in the format of unstructured English text, which is very difficult for automated reuse. Results:We employed text mining techniques to analyze the metadata of GEO and developed Restructured GEO database (ReGEO). ReGEO reorganizes and categorizes GEO series and makes them searchable by two new attributes extracted automatically from each series' metadata. These attributes are the number of time points tested in the experiment and the disease being investigated. ReGEO also makes series searchable by other attributes available in GEO, such as platform organism, experiment type, associated PubMed ID as well as general keywords in the study's description. Our approach greatly expands the usability of GEO data, demonstrating a credible approach to improve the utility of vast amount of publicly available data in the era of Big Data research.",
+                "authors": [
+                    {
+                        "name": "Chen G."
+                    },
+                    {
+                        "name": "Ramirez J.C."
+                    },
+                    {
+                        "name": "Deng N."
+                    },
+                    {
+                        "name": "Qiu X."
+                    },
+                    {
+                        "name": "Wu C."
+                    },
+                    {
+                        "name": "Zheng W.J."
+                    },
+                    {
+                        "name": "Wu H."
+                    }
+                ],
+                "date": "2019-01-16T00:00:00Z",
+                "journal": "Database",
+                "title": "Restructured GEO: Restructuring Gene Expression Omnibus metadata for genome dynamics analysis"
+            },
             "pmcid": "PMC6333964",
             "pmid": "30649296",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
