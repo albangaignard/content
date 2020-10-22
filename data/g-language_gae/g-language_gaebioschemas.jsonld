@@ -17,8 +17,8 @@
   "sc:name": "G-language GAE",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.g-language.org/wiki/soap/"
 }

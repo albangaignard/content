@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Michael Gruenstaeudl",
       "sc:additionalType": [
-        "Desktop application",
-        "Command-line tool"
+        "Command-line tool",
+        "Desktop application"
       ],
       "sc:citation": [
         "pubmed:30629718",
@@ -40,8 +40,8 @@
       "sc:name": "EMBL2checklists",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "https://github.com/michaelgruenstaeudl/EMBL2checklists"
     },

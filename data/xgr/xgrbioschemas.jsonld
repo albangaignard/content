@@ -18,12 +18,12 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Julian C. Knight",
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:citation": [
-        "pubmed:27964755",
         "pmcid:PMC5154134",
+        "pubmed:27964755",
         {
           "@id": "https://doi.org/10.1186/s13073-016-0384-y"
         }

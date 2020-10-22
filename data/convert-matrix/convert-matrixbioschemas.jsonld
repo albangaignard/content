@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0002-8799-8584",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/convert-matrix",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -52,9 +48,9 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "convert-matrix",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:provider": "RSAT",
       "sc:softwareHelp": {
@@ -62,6 +58,10 @@
       },
       "sc:url": "http://rsat.eu/",
       "sc:version": "1"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-8799-8584",
+      "@type": "schema:Person"
     }
   ]
 }

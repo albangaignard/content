@@ -18,8 +18,8 @@
   "sc:name": "SomeNA",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": "RostLab",
   "sc:url": "https://github.com/Rostlab/someNA",

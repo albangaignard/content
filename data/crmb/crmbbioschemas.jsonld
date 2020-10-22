@@ -32,9 +32,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "CRM web application",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://uvatrapps.shinyapps.io/crmb/"
     }

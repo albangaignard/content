@@ -17,8 +17,8 @@
   "sc:name": "The Ark",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://sphinx.org.au/the-ark/"
 }

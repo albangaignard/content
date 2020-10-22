@@ -30,18 +30,18 @@
         "@id": "edam:data_3002"
       },
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
           "@id": "edam:topic_0622"
         },
         {
-          "@id": "edam:topic_3168"
+          "@id": "edam:topic_3391"
         },
         {
-          "@id": "edam:topic_3391"
+          "@id": "edam:topic_3168"
         }
       ],
       "sc:author": {
@@ -67,8 +67,8 @@
       "sc:name": "gtrellis",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/gtrellis.html",
       "sc:version": "1.6.0"

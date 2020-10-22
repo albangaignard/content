@@ -20,15 +20,15 @@
   "sc:description": "Find regions of identity (exact matches) of two sequences.",
   "sc:funder": [
     "UK MRC",
-    "UK BBSRC",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "wordmatch",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": [
     "EMBL EBI",

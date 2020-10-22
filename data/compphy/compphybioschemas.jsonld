@@ -27,8 +27,8 @@
       },
       "sc:name": "CompPhy",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://www.atgc-montpellier.fr/compphy/"

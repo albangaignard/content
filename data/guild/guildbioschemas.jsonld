@@ -37,8 +37,8 @@
       },
       "sc:name": "GUILD",
       "sc:operatingSystem": [
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": "upf.edu",
       "sc:url": "http://sbi.imim.es/web/index.php/research/software/guildsoftware",

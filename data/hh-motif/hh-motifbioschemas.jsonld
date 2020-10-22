@@ -37,9 +37,9 @@
       },
       "sc:name": "HH-MOTiF",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://hh-motif.ibdm.univ-mrs.fr/"
     },

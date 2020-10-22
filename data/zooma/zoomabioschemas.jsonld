@@ -38,8 +38,8 @@
       "sc:name": "Zooma",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:provider": "EMBL-EBI",
       "sc:url": "http://wwwdev.ebi.ac.uk/fgpt/zooma/",

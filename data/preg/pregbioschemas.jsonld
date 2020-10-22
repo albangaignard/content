@@ -14,20 +14,20 @@
   "sc:contributor": [
     "UK BBSRC",
     "UK MRC",
-    "EMBOSS Contributors",
-    "Wellcome Trust"
+    "Wellcome Trust",
+    "EMBOSS Contributors"
   ],
   "sc:description": "Regular expression search of protein sequence(s).",
   "sc:funder": [
-    "UK MRC",
     "Wellcome Trust",
+    "UK MRC",
     "UK BBSRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "preg",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": [

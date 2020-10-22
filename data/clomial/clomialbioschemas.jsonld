@@ -26,8 +26,8 @@
         "@id": "edam:data_1622"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
@@ -44,11 +44,11 @@
         }
       ],
       "sc:citation": [
-        "pmcid:PMC4091710",
         {
           "@id": "https://doi.org/10.1371/journal.pcbi.1003703"
         },
-        "pubmed:25010360"
+        "pubmed:25010360",
+        "pmcid:PMC4091710"
       ],
       "sc:description": "This tool fits binomial distributions to counts obtained from NGS data of multiple samples of the same tumor. The trained parameters can be interpreted to infer the clonal structure of the tumor.",
       "sc:featureList": {
@@ -57,9 +57,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "Clomial",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/Clomial.html",
       "sc:version": "1.10.0"

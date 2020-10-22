@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "https://orcid.org/0000-0003-4525-7793",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/disprot",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -39,9 +43,9 @@
         }
       ],
       "sc:additionalType": [
+        "Web API",
         "Database portal",
-        "Web application",
-        "Web API"
+        "Web application"
       ],
       "sc:applicationSubCategory": {
         "@id": "edam:topic_3538"
@@ -56,26 +60,22 @@
       "sc:description": "Database of protein disorder. It is a community resource annotating protein sequences for intrinsically disordered regions from the literature.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0224"
+          "@id": "edam:operation_3092"
         },
         {
-          "@id": "edam:operation_3092"
+          "@id": "edam:operation_0224"
         }
       ],
       "sc:license": "CC-BY-NC-1.0",
       "sc:name": "Database of protein disorder (DisProt)",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:provider": "University of Padua, Department of Biomedical Sciences, BioComputing UP lab",
       "sc:url": "http://www.disprot.org/",
       "sc:version": "7.0"
-    },
-    {
-      "@id": "https://orcid.org/0000-0003-4525-7793",
-      "@type": "schema:Person"
     }
   ]
 }

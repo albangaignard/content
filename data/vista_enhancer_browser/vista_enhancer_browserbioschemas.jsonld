@@ -38,8 +38,8 @@
       "sc:name": "VISTA Enhancer Browser",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "https://enhancer.lbl.gov/frnt_page_n.shtml"
     },

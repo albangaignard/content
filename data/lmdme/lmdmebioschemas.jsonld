@@ -26,8 +26,8 @@
       "sc:name": "lmdme",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/lmdme.html",
       "sc:version": "1.16.0"

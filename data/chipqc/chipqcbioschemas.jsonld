@@ -14,10 +14,6 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0002-1790-5469",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://bio.tools/chipqc",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -27,8 +23,8 @@
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
         "pmcid:PMC3989762",
@@ -44,12 +40,16 @@
       "sc:license": "GPL-3.0",
       "sc:name": "ChIPQC",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/ChIPQC.html",
       "sc:version": "1.10.2"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-1790-5469",
+      "@type": "schema:Person"
     }
   ]
 }

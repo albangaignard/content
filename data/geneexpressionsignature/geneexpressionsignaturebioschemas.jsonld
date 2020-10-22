@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/geneexpressionsignature",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Yang Cao",
     "Fei Li",
-    "Lu Han"
+    "Lu Han",
+    "Yang Cao"
   ],
   "sc:additionalType": [
     "Library",

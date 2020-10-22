@@ -14,10 +14,10 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Sachit Saksena",
-        "Svetlana Vinogradova",
         "Henry Ward",
-        "Alexander Gimelbrant",
-        "Sébastien Vigneau"
+        "Sébastien Vigneau",
+        "Svetlana Vinogradova",
+        "Alexander Gimelbrant"
       ],
       "sc:additionalType": "Library",
       "sc:citation": [

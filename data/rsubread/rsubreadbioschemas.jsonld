@@ -24,8 +24,8 @@
         "@id": "edam:data_0863"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
@@ -52,8 +52,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Rsubread",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/Rsubread.html",

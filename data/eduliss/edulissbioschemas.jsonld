@@ -17,8 +17,8 @@
   "sc:name": "EDULISS",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://eduliss.bch.ed.ac.uk/"
 }
