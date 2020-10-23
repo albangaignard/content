@@ -2,6 +2,10 @@
     "additionDate": "2019-07-18T14:23:51Z",
     "biotoolsCURIE": "biotools:GigaSOM.jl",
     "biotoolsID": "GigaSOM.jl",
+    "collectionID": [
+        "ELIXIR-LU",
+        "ELIXIR-CZ"
+    ],
     "cost": "Free of charge",
     "credit": [
         {
@@ -12,7 +16,9 @@
     "description": "Huge-scale, high-performance flow cytometry clustering in Julia",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "http://git.io/GigaSOM.jl"
         }
     ],
@@ -35,11 +41,13 @@
     "language": [
         "Julia"
     ],
-    "lastUpdate": "2019-07-18T14:26:24Z",
+    "lastUpdate": "2020-10-20T09:08:51.988510Z",
     "license": "Apache-2.0",
     "link": [
         {
-            "type": "Repository",
+            "type": [
+                "Repository"
+            ],
             "url": "https://github.com/LCSB-BioCore/GigaSOM.jl"
         }
     ],

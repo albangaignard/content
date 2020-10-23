@@ -1,12 +1,11 @@
 {
-    "accessibility": [
-        "Open access"
-    ],
+    "accessibility": "Open access",
     "additionDate": "2018-02-16T10:11:10Z",
     "biotoolsCURIE": "biotools:varsome",
     "biotoolsID": "varsome",
     "collectionID": [
-        "RD-connect"
+        "RD-connect",
+        "Rare Disease"
     ],
     "cost": "Free of charge (with restrictions)",
     "credit": [
@@ -22,7 +21,9 @@
     "description": "A search engine for human genomic variants.",
     "documentation": [
         {
-            "type": "Terms of use",
+            "type": [
+                "Terms of use"
+            ],
             "url": "https://varsome.com/terms/?display_agree=true&next=/community-contributions/"
         }
     ],
@@ -52,7 +53,7 @@
         }
     ],
     "homepage": "https://varsome.com/",
-    "lastUpdate": "2019-06-16T19:02:11Z",
+    "lastUpdate": "2020-08-20T08:57:16Z",
     "maturity": "Mature",
     "name": "VarSome",
     "operatingSystem": [
@@ -64,7 +65,9 @@
     "publication": [
         {
             "doi": "10.1101/367359",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
@@ -80,6 +83,10 @@
         {
             "term": "Human genetics",
             "uri": "http://edamontology.org/topic_3574"
+        },
+        {
+            "term": "Rare diseases",
+            "uri": "http://edamontology.org/topic_3325"
         }
     ]
 }
