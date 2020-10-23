@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1128/mSphere.00676-18",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/CFQuant-automatic",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Eyal Dafni",
@@ -33,10 +37,6 @@
         "Linux"
       ],
       "sc:url": "https://www.energylabtau.com/cfquant"
-    },
-    {
-      "@id": "https://doi.org/10.1128/mSphere.00676-18",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

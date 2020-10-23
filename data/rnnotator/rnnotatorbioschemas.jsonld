@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "David Gilbert",
-    "Xiandong Meng",
     "Jeff Martin",
-    "Zhong Wang"
+    "Zhong Wang",
+    "Xiandong Meng"
   ],
   "sc:additionalType": "Workflow",
   "sc:citation": "pubmed:21106091",

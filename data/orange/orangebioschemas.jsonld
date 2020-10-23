@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "http://orcid.org/0000-0002-5864-7056",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/orange",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -21,16 +25,16 @@
         "Command-line tool"
       ],
       "sc:author": [
-        "Tomaž Curk",
-        "Martin Stražar",
+        "Jernej Kernc",
         "Marko Toplak",
-        "Vesna Tanko",
-        "Anže Starič",
-        "Lan Žagar",
-        "Janez Demšar",
-        "Andrej Čopar",
         "Aleš Erjavec",
-        "Jernej Kernc"
+        "Janez Demšar",
+        "Lan Žagar",
+        "Martin Stražar",
+        "Andrej Čopar",
+        "Vesna Tanko",
+        "Tomaž Curk",
+        "Anže Starič"
       ],
       "sc:citation": "pubmed:17586552",
       "sc:contributor": {
@@ -50,10 +54,6 @@
       ],
       "sc:url": "https://orange.biolab.si/",
       "sc:version": "2.7"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-5864-7056",
-      "@type": "schema:Person"
     }
   ]
 }

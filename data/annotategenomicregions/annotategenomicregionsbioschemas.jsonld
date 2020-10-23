@@ -31,9 +31,9 @@
       },
       "sc:name": "AnnotateGenomicRegions",
       "sc:operatingSystem": [
+        "Windows",
         "Mac",
-        "Linux",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "http://cru.genomics.iit.it/AnnotateGenomicRegions/"
     }

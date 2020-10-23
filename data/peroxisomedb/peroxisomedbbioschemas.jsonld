@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/peroxisomedb",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Aurora Pujol",
-        "Agatha Schlüter"
+        "Agatha Schlüter",
+        "Aurora Pujol"
       ],
       "sc:additionalType": [
         "Web application",
@@ -37,24 +37,24 @@
           "@id": "edam:operation_0324"
         },
         {
-          "@id": "edam:operation_3092"
-        },
-        {
-          "@id": "edam:operation_0554"
+          "@id": "edam:operation_3431"
         },
         {
           "@id": "edam:operation_0477"
         },
         {
-          "@id": "edam:operation_3431"
+          "@id": "edam:operation_0554"
+        },
+        {
+          "@id": "edam:operation_3092"
         }
       ],
       "sc:license": "Unlicense",
       "sc:name": "PeroxisomeDB",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://www.peroxisomeDB.org"
     }

@@ -31,9 +31,9 @@
       "sc:license": "Other",
       "sc:name": "DSSR",
       "sc:operatingSystem": [
-        "Linux",
+        "Mac",
         "Windows",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "http://x3dna.org/",
       "sc:version": "1.8.0"

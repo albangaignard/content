@@ -27,8 +27,8 @@
       },
       "sc:name": "MEDYAN",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://www.medyan.org/"
     },

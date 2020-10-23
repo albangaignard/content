@@ -17,8 +17,8 @@
   "sc:name": "SROOGLE",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://sroogle.tau.ac.il"
 }

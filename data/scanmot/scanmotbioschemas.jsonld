@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Sowdhamini R.",
-    "Pugalenthi G.",
-    "Saikat Chakrabarti",
     "Nitin Bhardwaj",
-    "Prem Anand A."
+    "Prem Anand A.",
+    "Pugalenthi G.",
+    "Saikat Chakrabarti"
   ],
   "sc:additionalType": "Web application",
   "sc:citation": "pubmed:15980468",
@@ -23,8 +23,8 @@
   "sc:name": "SCANMOT",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://caps.ncbs.res.in/scanmot/scanmot.html"
 }

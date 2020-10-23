@@ -31,9 +31,9 @@
       },
       "sc:name": "Pedican",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "http://pedican.bioinfo-minzhao.org/"
     }

@@ -31,9 +31,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Genexpi",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://github.com/cas-bioinf/genexpi/wiki"
     },

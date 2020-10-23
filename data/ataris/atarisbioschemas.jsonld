@@ -27,8 +27,8 @@
       },
       "sc:name": "ATARiS",
       "sc:operatingSystem": [
-        "Linux",
         "Windows",
+        "Linux",
         "Mac"
       ],
       "sc:url": "https://www.broadinstitute.org/ataris-computational-quantification-gene-suppression-phenotypes-multisample-rnai-screens"

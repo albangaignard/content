@@ -16,8 +16,8 @@
   "sc:name": "SCEC",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://biomine.ece.ualberta.ca/Structural_Class/SCEC.html"
 }

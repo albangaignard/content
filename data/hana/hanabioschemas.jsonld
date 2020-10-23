@@ -15,15 +15,15 @@
     "Web application"
   ],
   "sc:author": [
-    "Daniel Georgiev",
     "Lucie Houdová",
-    "Miloš Fetter"
+    "Miloš Fetter",
+    "Daniel Georgiev"
   ],
   "sc:description": "Haplotype analyzer for the Czech population.",
   "sc:name": "HANA",
   "sc:operatingSystem": [
-    "Mac",
     "Linux",
+    "Mac",
     "Windows"
   ],
   "sc:provider": "University of West Bohemia, Czech Republic",

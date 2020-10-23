@@ -15,8 +15,8 @@
     "Michael Tress"
   ],
   "sc:additionalType": [
-    "Database portal",
     "Web application",
+    "Database portal",
     "Web API"
   ],
   "sc:author": "Jose Rodriguez",
@@ -26,8 +26,8 @@
   "sc:name": "APPRIS",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:provider": [
     "CNIO",

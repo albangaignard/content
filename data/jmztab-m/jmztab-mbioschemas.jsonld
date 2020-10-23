@@ -33,9 +33,9 @@
       ],
       "sc:url": "https://github.com/lifs-tools/jmzTab-m",
       "sc:version": [
-        "1.0.1",
-        "1.0.4",
         "1.0.2",
+        "1.0.4",
+        "1.0.1",
         "0.9.6"
       ]
     }

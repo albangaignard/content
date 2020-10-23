@@ -12,11 +12,11 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:author": [
-    "Tobias Müller",
-    "Marcus Dittrich",
-    "Thomas Hume",
-    "Mohammed El-Kebir",
     "Hayssam Soueidan",
+    "Thomas Hume",
+    "Tobias Müller",
+    "Mohammed El-Kebir",
+    "Marcus Dittrich",
     "Daniela Beisser"
   ],
   "sc:contributor": [
@@ -34,12 +34,12 @@
     "Linux"
   ],
   "sc:provider": [
+    "Bordeaux University, CBiB, France",
+    "The Netherlands",
+    "The Netherlands Cancer Institute, Amsterdam",
+    "u-bordeaux.fr",
     "Univ. Bordeaux, CNRS/LaBRI, 33405 Talence, France,",
     "University Duisburg-Essen",
-    "The Netherlands",
-    "Bordeaux University, CBiB, France",
-    "u-bordeaux.fr",
-    "The Netherlands Cancer Institute, Amsterdam",
     "Würzburg University, Germany"
   ],
   "sc:url": "https://github.com/ls-cwi/xheinz",

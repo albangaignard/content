@@ -17,8 +17,8 @@
   "sc:name": "pssRNAMiner",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://bioinfo3.noble.org/pssRNAMiner/"
 }

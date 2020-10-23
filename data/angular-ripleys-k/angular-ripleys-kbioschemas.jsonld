@@ -16,8 +16,8 @@
   "sc:name": "Angular-Ripleys-K",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "https://github.com/RubyPeters/Angular-Ripleys-K"
 }

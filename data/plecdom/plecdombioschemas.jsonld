@@ -17,8 +17,8 @@
   "sc:name": "PLecDom",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.nipgr.res.in/plecdom.html"
 }

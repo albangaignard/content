@@ -30,9 +30,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "PanDrugs",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://www.pandrugs.org/",
       "sc:version": "2018.06.18"

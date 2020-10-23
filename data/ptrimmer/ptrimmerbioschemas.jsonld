@@ -13,8 +13,8 @@
       "@id": "https://bio.tools/pTrimmer",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Jun Chen",
-        "Zhiguang Li"
+        "Zhiguang Li",
+        "Jun Chen"
       ],
       "sc:additionalType": "Command-line tool",
       "sc:citation": [
@@ -39,8 +39,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "pTrimmer",
       "sc:operatingSystem": [
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://github.com/DMU-lilab/pTrimmer"
     },

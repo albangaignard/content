@@ -12,9 +12,9 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
+    "Wellcome Trust",
     "EMBOSS Contributors",
     "UK BBSRC",
-    "Wellcome Trust",
     "UK MRC"
   ],
   "sc:description": "Get ontology term(s) by id of child.",

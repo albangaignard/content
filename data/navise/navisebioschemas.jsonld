@@ -14,6 +14,10 @@
       "@type": "sc:CreativeWork"
     },
     {
+      "@id": "http://orcid.org/0000-0002-0013-3052",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/navise",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Ander Izeta",
@@ -39,15 +43,11 @@
       ],
       "sc:name": "NaviSE",
       "sc:operatingSystem": [
-        "Linux",
+        "Windows",
         "Mac",
-        "Windows"
+        "Linux"
       ],
       "sc:url": "https://sourceforge.net/projects/navise-superenhancer/"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-0013-3052",
-      "@type": "schema:Person"
     }
   ]
 }

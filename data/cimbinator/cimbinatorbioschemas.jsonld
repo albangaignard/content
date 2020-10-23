@@ -19,8 +19,8 @@
   "sc:name": "CImbinator",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://cimbinator.bioinfo.cnio.es/CombinationIndex"
 }
