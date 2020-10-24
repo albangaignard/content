@@ -1,0 +1,130 @@
+{
+    "additionDate": "2020-01-14T09:34:38Z",
+    "biotoolsCURIE": "biotools:BTA18",
+    "biotoolsID": "BTA18",
+    "confidence_flag": "medium",
+    "credit": [
+        {
+            "email": "zhangslcau@cau.edu.cn",
+            "name": "Shengli Zhang",
+            "typeEntity": "Person"
+        },
+        {
+            "email": "george.liu@usda.gov",
+            "name": "George E. Liu",
+            "orcidid": "https://orcid.org/0000-0003-0192-6705",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "Analyses of inter-individual variations of sperm DNA methylation and their potential implications in cattle.\n\nThis Cattle Quantitative Trait Locus (QTL) Database (Cattle QTLdb) contains cattle QTL and association data curated from published data. The database is designed to facilitate the process for users to compare, confirm, and locate the most plausible location for genes responsible for quantitative traits important to cattle production. We have been striving our best to curate all available data, and adding tools to the QTLdb for users to accomplish many data meta-analysis and comparison tasks.\n\nThe current release of the Cattle QTLdb contains 130,407 QTLs associations from 983 publications.\n\nAll data by bp (on Btau4.6 in bed format ).\n\n||| CORRECT NAME OF TOOL COULD ALSO BE 'HVMRs', 'sperm', 'VMRs', 'CMRs'",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Whole genome methylation analysis",
+                    "uri": "http://edamontology.org/operation_3206"
+                },
+                {
+                    "term": "Gene methylation analysis",
+                    "uri": "http://edamontology.org/operation_3207"
+                },
+                {
+                    "term": "Genotyping",
+                    "uri": "http://edamontology.org/operation_3196"
+                },
+                {
+                    "term": "Genetic mapping",
+                    "uri": "http://edamontology.org/operation_0282"
+                },
+                {
+                    "term": "Weighted correlation network analysis",
+                    "uri": "http://edamontology.org/operation_3766"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://www.animalgenome.org/cgi-bin/QTLdb/BT/index",
+    "lastUpdate": "2020-01-14T09:34:38Z",
+    "name": "BTA18",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1186/S12864-019-6228-6",
+            "metadata": {
+                "abstract": "BACKGROUND: DNA methylation has been shown to be involved in many biological processes, including X chromosome inactivation in females, paternal genomic imprinting, and others. RESULTS: Based on the correlation patterns of methylation levels of neighboring CpG sites among 28 sperm whole genome bisulfite sequencing (WGBS) data (486 \u00d7 coverage), we obtained 31,272 methylation haplotype blocks (MHBs). Among them, we defined conserved methylated regions (CMRs), variably methylated regions (VMRs) and highly variably methylated regions (HVMRs) among individuals, and showed that HVMRs might play roles in transcriptional regulation and function in complex traits variation and adaptive evolution by integrating evidence from traditional and molecular quantitative trait loci (QTL), and selection signatures. Using a weighted correlation network analysis (WGCNA), we also detected a co-regulated module of HVMRs that was significantly associated with reproduction traits, and enriched for glycosyltransferase genes, which play critical roles in spermatogenesis and fertilization. Additionally, we identified 46 VMRs significantly associated with reproduction traits, nine of which were regulated by cis-SNPs, implying the possible intrinsic relationships among genomic variations, DNA methylation, and phenotypes. These significant VMRs were co-localized (\u00b1 10 kb) with genes related to sperm motility and reproduction, including ZFP36L1, CRISP2 and HGF. We provided further evidence that rs109326022 within a predominant QTL on BTA18 might influence the reproduction traits through regulating the methylation level of nearby genes JOSD2 and ASPDH in sperm. CONCLUSION: In summary, our results demonstrated associations of sperm DNA methylation with reproduction traits, highlighting the potential of epigenomic information in genomic improvement programs for cattle.",
+                "authors": [
+                    {
+                        "name": "Liu S."
+                    },
+                    {
+                        "name": "Fang L."
+                    },
+                    {
+                        "name": "Zhou Y."
+                    },
+                    {
+                        "name": "Santos D.J.A."
+                    },
+                    {
+                        "name": "Xiang R."
+                    },
+                    {
+                        "name": "Daetwyler H.D."
+                    },
+                    {
+                        "name": "Chamberlain A.J."
+                    },
+                    {
+                        "name": "Cole J.B."
+                    },
+                    {
+                        "name": "Li C.-J."
+                    },
+                    {
+                        "name": "Yu Y."
+                    },
+                    {
+                        "name": "Ma L."
+                    },
+                    {
+                        "name": "Zhang S."
+                    },
+                    {
+                        "name": "Liu G.E."
+                    }
+                ],
+                "citationCount": 1,
+                "date": "2019-11-21T00:00:00Z",
+                "journal": "BMC genomics",
+                "title": "Analyses of inter-individual variations of sperm DNA methylation and their potential implications in cattle"
+            },
+            "pmcid": "PMC6873545",
+            "pmid": "31752687"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Methylated DNA immunoprecipitation",
+            "uri": "http://edamontology.org/topic_3674"
+        },
+        {
+            "term": "Epigenetics",
+            "uri": "http://edamontology.org/topic_3295"
+        },
+        {
+            "term": "DNA",
+            "uri": "http://edamontology.org/topic_0654"
+        },
+        {
+            "term": "Genotype and phenotype",
+            "uri": "http://edamontology.org/topic_0625"
+        },
+        {
+            "term": "Gene expression",
+            "uri": "http://edamontology.org/topic_0203"
+        }
+    ]
+}
