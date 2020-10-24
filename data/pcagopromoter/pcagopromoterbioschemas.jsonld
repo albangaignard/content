@@ -18,12 +18,12 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Morten Hansen",
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:citation": [
-        "pubmed:22384239",
         "pmcid:PMC3288097",
+        "pubmed:22384239",
         {
           "@id": "https://doi.org/10.1371/journal.pone.0032394"
         }

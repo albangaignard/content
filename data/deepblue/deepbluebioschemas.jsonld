@@ -30,12 +30,12 @@
   "sc:name": "DeepBlue Epigenomic Data Server",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
-    "mpi-inf.mpg.de",
-    "Max Planck Institute for Informatics"
+    "Max Planck Institute for Informatics",
+    "mpi-inf.mpg.de"
   ],
   "sc:url": "http://deepblue.mpi-inf.mpg.de/"
 }

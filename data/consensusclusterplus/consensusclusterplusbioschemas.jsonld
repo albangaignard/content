@@ -53,9 +53,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "ConsensusClusterPlus",
       "sc:operatingSystem": [
+        "Linux",
         "Windows",
-        "Mac",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/ConsensusClusterPlus.html",
       "sc:version": "1.38.0"

@@ -15,14 +15,14 @@
   "sc:contributor": [
     "Deepti Jaiswal",
     "Crina-Maria Ionescu",
-    "Lukáš Pravda",
-    "Radka Svobodová Vařeková"
+    "Radka Svobodová Vařeková",
+    "Lukáš Pravda"
   ],
   "sc:description": "Database of validation results for ligands and non-standard residues in the Protein Data Bank.",
   "sc:name": "ValidatorDB",
   "sc:operatingSystem": [
-    "Windows",
     "Mac",
+    "Windows",
     "Linux"
   ],
   "sc:provider": "Masaryk University, Brno, Czech Republic",

@@ -18,8 +18,8 @@
   "sc:name": "MLML2R",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://cran.r-project.org/package=MLML2R",
   "sc:version": "0.3.2"

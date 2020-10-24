@@ -18,8 +18,8 @@
   "sc:name": "Bambino",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "https://github.com/NCIP/cgr-bambino"
 }

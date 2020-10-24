@@ -18,8 +18,8 @@
   "sc:description": "Logistic Multiple Network-constrained Regression.",
   "sc:name": "LogMiNeR",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:url": "https://bitbucket.org/kleinstein/logminer"

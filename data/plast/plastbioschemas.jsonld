@@ -16,8 +16,8 @@
   "sc:license": "CECILL-2.0",
   "sc:name": "Plast",
   "sc:operatingSystem": [
-    "Windows",
     "Linux",
+    "Windows",
     "Mac"
   ],
   "sc:provider": "GenOuest",

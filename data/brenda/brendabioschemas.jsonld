@@ -17,8 +17,8 @@
   "sc:name": "BRENDA",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "Technische Universität Braunschweig",

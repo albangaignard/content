@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Francisco Camara",
   "sc:additionalType": [
-    "Web application",
-    "Command-line tool"
+    "Command-line tool",
+    "Web application"
   ],
   "sc:author": [
     "Genis Parra",
@@ -29,8 +29,8 @@
     "Linux"
   ],
   "sc:provider": [
-    "crg.eu",
-    "Lab Roderic Guigo Group"
+    "Lab Roderic Guigo Group",
+    "crg.eu"
   ],
   "sc:url": "http://big.crg.cat/services/sgp2",
   "sc:version": "1.1"

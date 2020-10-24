@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://orcid.org/0000-0002-6459-6224",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/intervene",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": {
@@ -32,10 +36,6 @@
         "0.6.4",
         "0.5.8"
       ]
-    },
-    {
-      "@id": "https://orcid.org/0000-0002-6459-6224",
-      "@type": "schema:Person"
     }
   ]
 }

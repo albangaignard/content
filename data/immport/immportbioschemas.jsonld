@@ -35,8 +35,8 @@
       "sc:license": "Unlicense",
       "sc:name": "ImmPort",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
+        "Windows",
         "Mac"
       ],
       "sc:url": "https://www.immport.org"

@@ -35,9 +35,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "GenIO",
       "sc:operatingSystem": [
+        "Mac",
         "Windows",
-        "Linux",
-        "Mac"
+        "Linux"
       ],
       "sc:url": "https://bioinformatics.ibioba-mpsp-conicet.gov.ar/GenIO/index.php",
       "sc:version": "1.0"

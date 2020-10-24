@@ -22,8 +22,8 @@
   ],
   "sc:description": "SILVA provides comprehensive, quality checked and regularly updated datasets of aligned small (16S/18S, SSU) and large subunit (23S/28S, LSU) ribosomal RNA (rRNA) sequences for all three domains of life (Bacteria, Archaea and Eukaryota).",
   "sc:funder": [
-    "BMBF",
     "Ribocon GmbH",
+    "BMBF",
     "DFG",
     "MPG"
   ],

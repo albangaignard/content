@@ -16,8 +16,8 @@
   "sc:name": "Comorbidity4j",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://comorbidity.eu/comorbidity4web/"
 }

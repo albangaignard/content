@@ -17,8 +17,8 @@
   "sc:name": "CG-CAT",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": [
     "BiBiServ",

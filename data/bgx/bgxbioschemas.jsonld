@@ -17,8 +17,8 @@
   "sc:name": "bgx",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/bgx.html",
   "sc:version": "1.40.0"

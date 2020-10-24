@@ -14,8 +14,8 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Céline Trébeau",
       "sc:additionalType": [
-        "Library",
-        "Desktop application"
+        "Desktop application",
+        "Library"
       ],
       "sc:citation": [
         {
@@ -39,9 +39,9 @@
       "sc:license": "GPL-2.0",
       "sc:name": "DNABarcodeCompatibility",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:url": "https://github.com/comoto-pasteur-fr"
     },

@@ -16,8 +16,8 @@
   "sc:name": "BioSM",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://metabolomics.pharm.uconn.edu/?q=Software.html"
 }

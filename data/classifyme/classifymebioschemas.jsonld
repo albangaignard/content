@@ -14,9 +14,9 @@
   "sc:license": "Other",
   "sc:name": "ClassifyMe",
   "sc:operatingSystem": [
-    "Windows",
+    "Mac",
     "Linux",
-    "Mac"
+    "Windows"
   ],
   "sc:url": "https://classifymeapp.com/"
 }

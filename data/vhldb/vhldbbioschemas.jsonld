@@ -21,8 +21,8 @@
       },
       "sc:additionalType": [
         "Web API",
-        "Database portal",
-        "Web application"
+        "Web application",
+        "Database portal"
       ],
       "sc:applicationSubCategory": [
         {
@@ -51,9 +51,9 @@
       "sc:isAccessibleForFree": true,
       "sc:name": "VHLdb",
       "sc:operatingSystem": [
+        "Windows",
         "Linux",
-        "Mac",
-        "Windows"
+        "Mac"
       ],
       "sc:provider": "University of Padua, Department of Biomedical Sciences, BioComputing UP lab",
       "sc:softwareHelp": {

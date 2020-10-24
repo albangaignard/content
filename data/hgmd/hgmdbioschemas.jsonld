@@ -41,9 +41,9 @@
       ],
       "sc:name": "HGMD",
       "sc:operatingSystem": [
-        "Linux",
         "Mac",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://www.hgmd.org"
     },

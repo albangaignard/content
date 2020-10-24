@@ -10,14 +10,22 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/bioinformatics/btn374",
+      "@type": "sc:CreativeWork"
+    },
+    {
+      "@id": "http://orcid.org/0000-0002-7684-0079",
+      "@type": "schema:Person"
+    },
+    {
       "@id": "https://bio.tools/survcomp",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         "Markus Schroeder",
+        "Catharina Olsen",
         {
           "@id": "http://orcid.org/0000-0002-7684-0079"
-        },
-        "Catharina Olsen"
+        }
       ],
       "sc:additionalType": [
         "Library",
@@ -38,19 +46,11 @@
       "sc:name": "survcomp",
       "sc:operatingSystem": [
         "Windows",
-        "Mac",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/survcomp.html",
       "sc:version": "1.24.0"
-    },
-    {
-      "@id": "http://orcid.org/0000-0002-7684-0079",
-      "@type": "schema:Person"
-    },
-    {
-      "@id": "https://doi.org/10.1093/bioinformatics/btn374",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

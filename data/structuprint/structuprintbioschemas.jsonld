@@ -16,8 +16,8 @@
         "@id": "http://orcid.org/0000-0002-5082-1929"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Desktop application"
+        "Desktop application",
+        "Command-line tool"
       ],
       "sc:citation": [
         "pubmed:26911476",
@@ -33,8 +33,8 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Structuprint",
       "sc:operatingSystem": [
-        "Windows",
         "Mac",
+        "Windows",
         "Linux"
       ],
       "sc:url": "http://dgkontopoulos.io/Structuprint/"
