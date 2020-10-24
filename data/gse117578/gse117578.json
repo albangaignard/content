@@ -1,0 +1,88 @@
+{
+    "additionDate": "2019-11-14T18:25:29Z",
+    "biotoolsCURIE": "biotools:GSE117578",
+    "biotoolsID": "GSE117578",
+    "confidence_flag": "medium",
+    "credit": [
+        {
+            "email": "ishibashi@biochem.osakafu-u.ac.jp",
+            "name": "Osamu Ishibashi",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "> MEDIUM CONFIDENCE! | > NAME (GSE117578) SIMILAR TO (PUB. DIFFERENT) bio.tools/gse (GSE) | > CORRECT NAME OF TOOL COULD ALSO BE 'Gene Expression' (bio.tools/gene_expression), 'Gene Expression Omnibus' | Datasets of microarray analysis to identify Gpr137b-dependent interleukin-4-responsive genes in the mouse macrophage cell line RAW264 | NCBI's Gene Expression Omnibus (GEO) is a public archive and resource for gene expression data | GEO help: Mouse over screen elements for information | Scope: Self Platform Samples Series Family Format: HTML SOFT MINiML Amount: Brief Quick GEO accession:",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Deposition",
+                    "uri": "http://edamontology.org/operation_3431"
+                },
+                {
+                    "term": "Query and retrieval",
+                    "uri": "http://edamontology.org/operation_0224"
+                },
+                {
+                    "term": "Heat map generation",
+                    "uri": "http://edamontology.org/operation_0531"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE117578",
+    "lastUpdate": "2019-11-14T18:25:29Z",
+    "link": [
+        {
+            "type": [
+                "Other"
+            ],
+            "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE117578.Fig"
+        }
+    ],
+    "name": "GSE117578",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1016/J.DIB.2019.01.017",
+            "metadata": {
+                "abstract": "\u00a9 2019 The AuthorsMacrophages are classified mainly into two subtypes, M1 and M2, which exhibit distinct phenotypes, based on their microenvironment. We have recently demonstrated that Gpr137b is abundantly expressed in RAW264 macrophages, \u201cGpr137b is an orphan G-protein-coupled receptor associated with M2 macrophage polarization\u201d (Islam et al., in press) [1]. Although recent studies have suggested that G-protein-coupled receptors (GPCRs) are associated with M1/M2 macrophage polarization (\u201cG-protein-coupled bile acid receptor 1 (GPBAR1, TGR5) agonists reduce the production of proinflammatory cytokines and stabilize the alternative macrophage phenotype\u201d (Hogenauer et al., 2014) [2], \u201cLeukotriene B4 promotes neovascularization and macrophage recruitment in murine wet-type AMD models\u201d (Sasaki et al., 2018) [3]), available information about GPCR-mediated macrophage polarization is still limited. This prompted us to generate Gpr137b-knockout (KO) RAW264 clones using the CRISPR/Cas9 genome editing system to elucidate the function of Gpr137b in interleukin (IL)-4-induced M2 macrophage polarization (Islam et al., in press) [1]. Here we present the datasets of a microarray analysis to identify Gpr137b-dependent IL-4-responsive genes in RAW264 cells. The raw microarray data are available in the Gene Expression Omnibus database (https://www.ncbi.nlm.nih.gov/geo/) under the accession number GSE117578, https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE117578.",
+                "authors": [
+                    {
+                        "name": "Islam Z."
+                    },
+                    {
+                        "name": "Horikawa A."
+                    },
+                    {
+                        "name": "Inui T."
+                    },
+                    {
+                        "name": "Ishibashi O."
+                    }
+                ],
+                "date": "2019-04-01T00:00:00Z",
+                "journal": "Data in Brief",
+                "title": "Datasets of microarray analysis to identify Gpr137b-dependent interleukin-4-responsive genes in the mouse macrophage cell line RAW264"
+            },
+            "pmcid": "PMC6659985",
+            "pmid": "31372377"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Microarray experiment",
+            "uri": "http://edamontology.org/topic_3518"
+        },
+        {
+            "term": "Transcription factors and regulatory sites",
+            "uri": "http://edamontology.org/topic_0749"
+        },
+        {
+            "term": "Transcriptomics",
+            "uri": "http://edamontology.org/topic_3308"
+        }
+    ]
+}
