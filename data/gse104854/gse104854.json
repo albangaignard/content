@@ -1,0 +1,87 @@
+{
+    "additionDate": "2020-01-09T18:14:59Z",
+    "biotoolsCURIE": "biotools:GSE104854",
+    "biotoolsID": "GSE104854",
+    "confidence_flag": "medium",
+    "credit": [
+        {
+            "email": "tangjiahl@163.com",
+            "name": "Yuanhui Zhang",
+            "orcidid": "https://orcid.org/0000-0003-2189-128X",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "Circular RNA circ-TSPAN4 promotes lung adenocarcinoma metastasis by upregulating ZEB1 via sponging miR-665.\n\nNCBI's Gene Expression Omnibus (GEO) is a public archive and resource for gene expression data.\n\nGEO help: Mouse over screen elements for information.\n\nScope: Self Platform Samples Series Family Format: HTML SOFT MINiML Amount: Brief Quick GEO accession:.\n\n||| NAME (GSE104854) SIMILAR TO (PUB. DIFFERENT) bio.tools/GSE33335 (GSE33335), bio.tools/GSE56348 (GSE56348), bio.tools/GSE117578 (GSE117578), bio.tools/gse (GSE).\n\n||| CORRECT NAME OF TOOL COULD ALSO BE 'miR-665 upregulating ZEB1', 'circ-TSPAN4 miR-665 ZEB1', 'circ-TSPAN4', 'miR-665'",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Quantification",
+                    "uri": "http://edamontology.org/operation_3799"
+                },
+                {
+                    "term": "miRNA target prediction",
+                    "uri": "http://edamontology.org/operation_0463"
+                },
+                {
+                    "term": "Expression analysis",
+                    "uri": "http://edamontology.org/operation_2495"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104854",
+    "lastUpdate": "2020-01-09T18:14:59Z",
+    "name": "GSE104854",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1002/MGG3.991",
+            "metadata": {
+                "abstract": "\u00a9 2019 Hangzhou Cancer Hospital. Molecular Genetics & Genomic Medicine published by Wiley Periodicals, Inc.Background: Cancer metastasis is responsible for 90% of cancer-related deaths. Recently, circular RNA (circRNA) is deemed to be an important regulator of cancer progression. However, little is known about the role of circRNA in the metastasis of lung adenocarcinoma (LUAD). Herein, we investigated the clinical implication and regulatory effect of circ-TSPAN4 (hsa_circ_0020732) in LUAD. Methods: Gene Expression Omnibus (GEO) database (GSE104854) was used to identify the aberrantly expressed circRNAs in LUAD. The expression levels of circ-TSPAN4, miR-4731-5p, miR-665, and ZEB1 were determined by quantitative reverse transcription PCR (qRT-PCR). The functional experiments were carried out with wound healing and transwell assays. And, the luciferase reporter and RNA pull-down assays were employed to examine the crosstalk between circ-TSPAN4, miR-665, and ZEB1. In vivo metastasis experiment was tested by the lung metastasis model. Results: Circ-TSPAN4 was significantly upregulated in LUAD tissues and cell lines. The increased circ-TSPAN4 was linked to advanced tumor-node-metastasis stage, lymph node and distant metastasis, and poor outcome. Lentivirus-mediated stably circ-TSPAN4 knockdown dramatically attenuated the metastatic ability of LUAD cells both in vitro and in vivo. Mechanistically, circ-TSPAN4 directly interacted with miR-665, but not miR-4731-5p, to increase the expression of ZEB1, which is a well-known metastasis trigger. Importantly, the reduced metastatic capacity caused by circ-TSPAN4 depletion was partially rescued by miR-665 silencing or ZEB1 overexpression. Conclusions: Circ-TSPAN4 plays a pivotal metastasis-promoting role in LUAD through acting as a sponge for miR-665 and upregulating ZEB1.",
+                "authors": [
+                    {
+                        "name": "Ying X."
+                    },
+                    {
+                        "name": "Zhu J."
+                    },
+                    {
+                        "name": "Zhang Y."
+                    }
+                ],
+                "citationCount": 3,
+                "date": "2019-12-01T00:00:00Z",
+                "journal": "Molecular Genetics and Genomic Medicine",
+                "title": "Circular RNA circ-TSPAN4 promotes lung adenocarcinoma metastasis by upregulating ZEB1 via sponging miR-665"
+            },
+            "pmcid": "PMC6900391",
+            "pmid": "31573758"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Functional, regulatory and non-coding RNA",
+            "uri": "http://edamontology.org/topic_0659"
+        },
+        {
+            "term": "Transcription factors and regulatory sites",
+            "uri": "http://edamontology.org/topic_0749"
+        },
+        {
+            "term": "Gene transcripts",
+            "uri": "http://edamontology.org/topic_3512"
+        },
+        {
+            "term": "Surgery",
+            "uri": "http://edamontology.org/topic_3421"
+        },
+        {
+            "term": "RNA-Seq",
+            "uri": "http://edamontology.org/topic_3170"
+        }
+    ]
+}
