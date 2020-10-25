@@ -13,17 +13,17 @@
   "biotools:primaryContact": [
     "Jing Tang",
     "Yunxia Wang",
-    "Jianbo Fu",
-    "Feng Zhu"
+    "Feng Zhu",
+    "Jianbo Fu"
   ],
   "sc:additionalType": "Web application",
   "sc:description": "Analysis and Performance Assessment of Label-free Proteome Quantification.",
   "sc:license": "Unlicense",
   "sc:name": "ANPELA",
   "sc:operatingSystem": [
-    "Linux",
     "Mac",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://idrblab.cn/anpela/"
 }

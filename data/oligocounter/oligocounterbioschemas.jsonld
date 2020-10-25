@@ -17,8 +17,8 @@
   "sc:name": "OligoCounter",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://webhost1.mh-hannover.de/davenport/oligocounter/index.html"
 }

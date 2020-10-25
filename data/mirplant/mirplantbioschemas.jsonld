@@ -31,9 +31,9 @@
       },
       "sc:name": "miRPlant",
       "sc:operatingSystem": [
+        "Linux",
         "Mac",
-        "Windows",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://www.australianprostatecentre.org/research/software/mirplant",
       "sc:version": "v4"

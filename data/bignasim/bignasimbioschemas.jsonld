@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": "Adam Hospital",
   "sc:additionalType": [
-    "Database portal",
-    "Workbench"
+    "Workbench",
+    "Database portal"
   ],
   "sc:author": [
     "Cesare Cugnasco",
@@ -27,8 +27,8 @@
   "sc:provider": [
     "Technic University of Catalonia",
     "Institute of Research In Biomedicine - Barcelona",
-    "Barcelona Supercomputing Center",
-    "University of Barcelona"
+    "University of Barcelona",
+    "Barcelona Supercomputing Center"
   ],
   "sc:url": "http://mmb.irbbarcelona.org/BIGNASim/"
 }

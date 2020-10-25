@@ -22,8 +22,8 @@
   "sc:name": "GlycanAnalyzer",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://glycananalyzer.neb.com/"
 }

@@ -16,8 +16,8 @@
   "sc:name": "DRfit",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.structuralchemistry.org/pcsb/drfit.php"
 }

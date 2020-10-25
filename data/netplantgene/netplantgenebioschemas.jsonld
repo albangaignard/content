@@ -24,8 +24,8 @@
       "sc:license": "Other",
       "sc:name": "NetPlantGene",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
+        "Mac",
         "Windows"
       ],
       "sc:provider": "CBS",

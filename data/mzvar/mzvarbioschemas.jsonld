@@ -23,8 +23,8 @@
       "sc:name": "MzVar",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "https://bitbucket.org/sib-pig/mzvar-public/src/master/"
     },

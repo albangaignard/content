@@ -16,8 +16,8 @@
   "sc:name": "TileHMM",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://www.bioinformatics.csiro.au/tilehmm/",
   "sc:version": "1.0-6"

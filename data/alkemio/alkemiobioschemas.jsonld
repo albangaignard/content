@@ -19,8 +19,8 @@
   "sc:name": "Alkemio",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://cbdm.uni-mainz.de/medlineranker"
 }

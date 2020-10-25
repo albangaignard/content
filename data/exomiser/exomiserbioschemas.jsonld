@@ -43,8 +43,8 @@
       "sc:name": "Exomiser",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "http://www.sanger.ac.uk/science/tools/exomiser"
     },

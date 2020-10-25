@@ -16,8 +16,8 @@
   "sc:name": "SEQMINER",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://seqminer.genomic.codes/"
 }

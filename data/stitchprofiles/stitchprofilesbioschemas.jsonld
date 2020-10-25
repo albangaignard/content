@@ -14,8 +14,8 @@
   "sc:additionalType": "Web application",
   "sc:author": [
     "Eivind Tøstesen",
-    "Eivind Hovig",
-    "Geir Ivar Jerstad"
+    "Geir Ivar Jerstad",
+    "Eivind Hovig"
   ],
   "sc:contributor": "The Research Council of Norway",
   "sc:description": "Web-based computations on DNA melting, thus predicting the localized separation of the two strands for sequences provided by the users.",
@@ -27,9 +27,9 @@
     "Linux"
   ],
   "sc:provider": [
-    "The Norwegian Radium Hospital",
     "University of Oslo",
-    "UiO"
+    "UiO",
+    "The Norwegian Radium Hospital"
   ],
   "sc:url": "http://stitchprofiles.uio.no/",
   "sc:version": "1"

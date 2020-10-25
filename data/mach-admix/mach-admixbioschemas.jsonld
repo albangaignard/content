@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1002/gepi.21690",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/mach-admix",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": "Command-line tool",
@@ -40,10 +44,6 @@
         "Windows"
       ],
       "sc:url": "https://yunliweb.its.unc.edu//MaCH-Admix/index.php"
-    },
-    {
-      "@id": "https://doi.org/10.1002/gepi.21690",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

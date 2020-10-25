@@ -12,12 +12,12 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Morgane Thomas-Chollier",
-    "Jacques van Helden",
-    "Jaime Castro-Mondragon"
+    "Jaime Castro-Mondragon",
+    "Jacques van Helden"
   ],
   "sc:additionalType": [
-    "Command-line tool",
-    "Web application"
+    "Web application",
+    "Command-line tool"
   ],
   "sc:author": "Jaime Castro-Mondragon",
   "sc:contributor": [

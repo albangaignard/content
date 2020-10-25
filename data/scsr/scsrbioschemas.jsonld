@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Andrea Franceschini",
-    "Roger Meier",
-    "Christian von Mering"
+    "Christian von Mering",
+    "Roger Meier"
   ],
   "sc:additionalType": [
     "Command-line tool",

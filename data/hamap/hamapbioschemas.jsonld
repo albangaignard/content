@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "http://orcid.org/0000-0003-2148-9135",
-      "@type": "schema:Person"
-    },
-    {
       "@id": "https://doi.org/10.1093/nar/gku1002",
       "@type": "sc:CreativeWork"
     },
@@ -48,12 +44,16 @@
       ],
       "sc:name": "HAMAP",
       "sc:operatingSystem": [
-        "Mac",
+        "Windows",
         "Linux",
-        "Windows"
+        "Mac"
       ],
       "sc:provider": "SIB Swiss Institute of Bioinformatics",
       "sc:url": "http://hamap.expasy.org"
+    },
+    {
+      "@id": "http://orcid.org/0000-0003-2148-9135",
+      "@type": "schema:Person"
     }
   ]
 }

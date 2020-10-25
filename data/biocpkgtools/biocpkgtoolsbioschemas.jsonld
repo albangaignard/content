@@ -34,8 +34,8 @@
       "sc:name": "BiocPkgTools",
       "sc:operatingSystem": [
         "Linux",
-        "Mac",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://bioconductor.org/packages/BiocPkgTools"
     },

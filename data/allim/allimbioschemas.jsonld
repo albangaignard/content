@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/allim",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Susanne U. Franssen",
     "Ram Vinay Pandey",
+    "Susanne U. Franssen",
     "Christian Schlötterer"
   ],
   "sc:additionalType": "Command-line tool",
