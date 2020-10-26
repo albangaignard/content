@@ -1,7 +1,5 @@
 {
-    "accessibility": [
-        "Open access"
-    ],
+    "accessibility": "Open access",
     "additionDate": "2018-04-26T13:49:26Z",
     "biotoolsCURIE": "biotools:vista_enhancer_browser",
     "biotoolsID": "vista_enhancer_browser",
@@ -22,7 +20,9 @@
     "description": "A resource for experimentally validated human and mouse enhancers. Users can retrieve elements near single genes of interest, search for enhancers that target reporter gene expression to a particular tissue, or download entire collections of enhancers with a defined tissue specificity or conservation depth.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://enhancer.lbl.gov/aboutproject_n.html"
         }
     ],
@@ -55,7 +55,7 @@
         }
     ],
     "homepage": "https://enhancer.lbl.gov/frnt_page_n.shtml",
-    "lastUpdate": "2019-06-16T19:36:17Z",
+    "lastUpdate": "2020-06-16T10:55:23Z",
     "maturity": "Emerging",
     "name": "VISTA Enhancer Browser",
     "operatingSystem": [
@@ -67,9 +67,32 @@
     "publication": [
         {
             "doi": "10.1093/nar/gkl822",
+            "metadata": {
+                "abstract": "Despite the known existence of distant-acting cis-regulatory elements in the human genome, only a small fraction of these elements has been identified and experimentally characterized in vivo. This paucity of enhancer collections with defined activities has thus hindered computational approaches for the genome-wide prediction of enhancers and their functions. To fill this void, we utilize comparative genome analysis to identify candidate enhancer elements in the human genome coupled with the experimental determination of their in vivo enhancer activity in transgenic mice [L. A. Pennacchio et al. (2006) Nature, in press]. These data are available through the VISTA Enhancer Browser (http://enhancer.lbl.gov). This growing database currently contains over 250 experimentally tested DNA fragments, of which more than 100 have been validated as tissue-specific enhancers. For each positive enhancer, we provide digital images of whole-mount embryo staining at embryonic day 11.5 and an anatomical description of the reporter gene expression pattern. Users can retrieve elements near single genes of interest, search for enhancers that target reporter gene expression to a particular tissue, or download entire collections of enhancers with a defined tissue specificity or conservation depth. These experimentally validated training sets are expected to provide a basis for a wide range of downstream computational and functional studies of enhancer function. \u00a9 2007 Oxford University Press.",
+                "authors": [
+                    {
+                        "name": "Visel A."
+                    },
+                    {
+                        "name": "Minovitsky S."
+                    },
+                    {
+                        "name": "Dubchak I."
+                    },
+                    {
+                        "name": "Pennacchio L.A."
+                    }
+                ],
+                "citationCount": 515,
+                "date": "2007-01-01T00:00:00Z",
+                "journal": "Nucleic Acids Research",
+                "title": "VISTA Enhancer Browser - A database of tissue-specific human enhancers"
+            },
             "pmcid": "PMC1716724",
             "pmid": "17130149",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
@@ -88,6 +111,10 @@
         {
             "term": "Laboratory information management",
             "uri": "http://edamontology.org/topic_0607"
+        },
+        {
+            "term": "Rare diseases",
+            "uri": "http://edamontology.org/topic_3325"
         }
     ]
 }
