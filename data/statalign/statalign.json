@@ -1,7 +1,5 @@
 {
-    "accessibility": [
-        "Open access"
-    ],
+    "accessibility": "Open access",
     "additionDate": "2019-05-31T12:47:40Z",
     "biotoolsCURIE": "biotools:StatAlign",
     "biotoolsID": "StatAlign",
@@ -27,11 +25,15 @@
     "description": "Extendable software package for Bayesian analysis of protein, DNA and RNA sequences. Multiple alignments, phylogenetic trees and evolutionary parameters are co-estimated in a Markov Chain Monte Carlo framework, allowing for reliable quantification of the uncertainty in these estimates.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://github.com/statalign/statalign"
         },
         {
-            "type": "User manual",
+            "type": [
+                "User manual"
+            ],
             "url": "http://statalign.github.io/doc/user_manual.html"
         }
     ],
@@ -56,7 +58,7 @@
     "language": [
         "Java"
     ],
-    "lastUpdate": "2019-05-31T12:47:40Z",
+    "lastUpdate": "2020-06-16T10:55:22Z",
     "license": "GPL-3.0",
     "maturity": "Mature",
     "name": "StatAlign",
@@ -69,9 +71,35 @@
     "publication": [
         {
             "doi": "10.1093/molbev/msu184",
+            "metadata": {
+                "abstract": "For sequences that are highly divergent, there is often insufficient information to infer accurate alignments, and phylogenetic uncertainty may be high. One way to address this issue is to make use of protein structural information, since structures generally diverge more slowly than sequences. In this work, we extend a recently developed stochasticmodel of pairwise structural evolution to multiple structures on a tree, analytically integrating over ancestral structures to permit efficient likelihood computations under the resulting joint sequence-structure model. We observe that the inclusion of structural information significantly reduces alignment and topology uncertainty, and reduces the number of topology and alignment errors in cases where the true trees and alignments are known. In some cases, the inclusion of structure results in changes to the consensus topology, indicating that structure may contain additional information beyond that which can be obtained from sequences. We use the model to investigate the order of divergence of cytoglobins, myoglobins, and hemoglobins and observe a stabilization of phylogenetic inference: although a sequence-based inference assigns significant posterior probability to several different topologies, the structural model strongly favors one of these over the others and is more robust to the choice of data set. \u00a9 The Author 2014.",
+                "authors": [
+                    {
+                        "name": "Herman J.L."
+                    },
+                    {
+                        "name": "Challis C.J."
+                    },
+                    {
+                        "name": "Novak A."
+                    },
+                    {
+                        "name": "Hein J."
+                    },
+                    {
+                        "name": "Schmidler S.C."
+                    }
+                ],
+                "citationCount": 24,
+                "date": "2014-01-01T00:00:00Z",
+                "journal": "Molecular Biology and Evolution",
+                "title": "Simultaneous Bayesian estimation of alignment and phylogeny under a joint model of protein sequence and structure"
+            },
             "pmcid": "PMC4137710",
             "pmid": "24899668",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         },
         {
             "doi": "10.1007/978-1-4939-8736-8_10",
@@ -87,7 +115,9 @@
                 "title": "Enhancing Statistical Multiple Sequence Alignment and Tree Inference Using Structural Information"
             },
             "pmid": "30298398",
-            "type": "Other"
+            "type": [
+                "Other"
+            ]
         }
     ],
     "toolType": [
