@@ -28,9 +28,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "Bio-TDS",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://biotds.org/"
     },

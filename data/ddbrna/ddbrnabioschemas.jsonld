@@ -21,8 +21,8 @@
       "sc:name": "ddbRNA",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://dibernardo.tigem.it/softwares/ddbrna"
     },

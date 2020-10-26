@@ -16,8 +16,8 @@
   "sc:name": "MBRole",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "http://csbg.cnb.csic.es/mbrole2/"
 }

@@ -17,8 +17,8 @@
   "sc:name": "LAILAPS-QSM",
   "sc:operatingSystem": [
     "Mac",
-    "Linux",
-    "Windows"
+    "Windows",
+    "Linux"
   ],
   "sc:url": "https://bitbucket.org/ipk_bit_team/bioescorte-suggestion"
 }

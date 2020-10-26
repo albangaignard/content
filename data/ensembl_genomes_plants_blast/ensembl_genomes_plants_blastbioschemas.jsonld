@@ -16,8 +16,8 @@
   "sc:description": "Search Ensembl Plants sequences with WU-BLAST.",
   "sc:name": "Ensembl Genomes Plants Blast",
   "sc:operatingSystem": [
-    "Linux",
     "Windows",
+    "Linux",
     "Mac"
   ],
   "sc:provider": "EMBL-EBI",

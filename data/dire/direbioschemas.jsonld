@@ -17,8 +17,8 @@
   "sc:name": "DiRE",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://dire.dcode.org"
 }

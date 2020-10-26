@@ -19,16 +19,16 @@
   ],
   "sc:description": "Create an ambiguous consensus sequence from a multiple alignment.",
   "sc:funder": [
-    "UK MRC",
     "Wellcome Trust",
-    "UK BBSRC"
+    "UK BBSRC",
+    "UK MRC"
   ],
   "sc:license": "GPL-3.0",
   "sc:name": "consambig",
   "sc:operatingSystem": [
+    "Mac",
     "Linux",
-    "Windows",
-    "Mac"
+    "Windows"
   ],
   "sc:provider": [
     "EMBL EBI",

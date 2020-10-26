@@ -16,8 +16,8 @@
   "sc:name": "HyperLasso",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://www.ebi.ac.uk/projects/BARGEN/"
 }

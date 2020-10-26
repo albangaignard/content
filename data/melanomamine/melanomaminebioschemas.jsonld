@@ -28,8 +28,8 @@
   ],
   "sc:provider": [
     "Spanish Cancer Research Center",
-    "Spanish National Bioinformatics Institute",
-    "cnio.es"
+    "cnio.es",
+    "Spanish National Bioinformatics Institute"
   ],
   "sc:url": "http://melanomamine.bioinfo.cnio.es/",
   "sc:version": "0.1"

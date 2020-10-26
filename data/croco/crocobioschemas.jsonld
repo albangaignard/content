@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/croco",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Maximilian Telford",
     "Khalid Belkhir",
+    "Maximilian Telford",
     "Paul Simion"
   ],
   "sc:additionalType": "Command-line tool",

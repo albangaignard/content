@@ -20,8 +20,8 @@
   "sc:name": "EpiCompare",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "https://epigenome.wustl.edu/EpiCompare/"
 }

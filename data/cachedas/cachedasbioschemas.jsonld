@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
+    "UK MRC",
     "EMBOSS Contributors",
-    "UK BBSRC",
-    "UK MRC"
+    "UK BBSRC"
   ],
   "sc:description": "Generate server cache file for DAS servers or for the DAS registry.",
   "sc:funder": [

@@ -35,9 +35,9 @@
       ],
       "sc:name": "MiRComb",
       "sc:operatingSystem": [
-        "Mac",
         "Windows",
-        "Linux"
+        "Linux",
+        "Mac"
       ],
       "sc:url": "http://mircomb.sourceforge.net/"
     },

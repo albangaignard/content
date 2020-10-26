@@ -11,14 +11,14 @@
   "@id": "https://bio.tools/loctree3",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
-    "Web application",
-    "Command-line tool"
+    "Command-line tool",
+    "Web application"
   ],
   "sc:author": [
     "Maximilian Hecht",
     "Guy Yachdav",
-    "Timothy Karl",
     "Tobias Hamp",
+    "Timothy Karl",
     "Tatyana Goldberg"
   ],
   "sc:contributor": [

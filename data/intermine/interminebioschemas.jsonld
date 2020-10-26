@@ -10,19 +10,23 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1093/bioinformatics/bts577",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/intermine",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
-        "Database portal",
         "Web application",
+        "Database portal",
         "Command-line tool",
         "Web API"
       ],
       "sc:citation": [
-        "pubmed:24753429",
         {
           "@id": "https://doi.org/10.1093/bioinformatics/bts577"
         },
+        "pubmed:24753429",
         "pmcid:PMC3516146",
         "pubmed:23023984"
       ],
@@ -40,8 +44,8 @@
       "sc:license": "LGPL-2.1",
       "sc:name": "InterMine",
       "sc:operatingSystem": [
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:provider": [
         "University of Cambridge",
@@ -49,10 +53,6 @@
       ],
       "sc:url": "http://www.intermine.org",
       "sc:version": "4.1.1"
-    },
-    {
-      "@id": "https://doi.org/10.1093/bioinformatics/bts577",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

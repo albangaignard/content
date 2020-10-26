@@ -15,8 +15,8 @@
     "Manuel Pastor"
   ],
   "sc:additionalType": [
-    "Web application",
     "Desktop application",
+    "Web application",
     "Web service"
   ],
   "sc:description": "Tool that allows extracting from the Open PHACTS Discovery platform series of compounds annotated with experimental data that can be used directly for building QSAR predictive models.",
@@ -24,8 +24,8 @@
   "sc:name": "Collector",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://phi.upf.edu/collector/"
 }

@@ -17,8 +17,8 @@
   "sc:name": "GXA",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": "Identifiers.org",
   "sc:url": "http://www.ebi.ac.uk/gxa"

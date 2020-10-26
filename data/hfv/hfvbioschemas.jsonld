@@ -17,8 +17,8 @@
   "sc:name": "HFV",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://hfv.lanl.gov/content/index"
 }

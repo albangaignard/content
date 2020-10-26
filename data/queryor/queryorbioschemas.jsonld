@@ -15,8 +15,8 @@
   "sc:description": "A web-based platform to manage and retrieve data from human exome sequencing projects.",
   "sc:name": "QueryOr",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
+    "Mac",
     "Linux"
   ],
   "sc:provider": "ELIXIR-ITA-PADOVA",

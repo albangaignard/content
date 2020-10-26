@@ -29,12 +29,12 @@
       "sc:name": "SpecI",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:provider": [
-        "European Molecular Biology Laboratory (EMBL)",
-        "HD-HuB"
+        "HD-HuB",
+        "European Molecular Biology Laboratory (EMBL)"
       ],
       "sc:url": "http://vm-lux.embl.de/~mende/specI/",
       "sc:version": "1.0"

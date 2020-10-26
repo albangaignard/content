@@ -19,13 +19,13 @@
   "sc:name": "One Touch Pipeline (OTP)",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:provider": [
-    "German Cancer Research Center (DKFZ)",
+    "EilsLabs",
     "hdhub",
-    "EilsLabs"
+    "German Cancer Research Center (DKFZ)"
   ],
   "sc:url": "https://otp.dkfz.de/"
 }

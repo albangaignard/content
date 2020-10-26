@@ -15,8 +15,8 @@
       "biotools:primaryContact": "Christopher Naugler",
       "sc:additionalType": "Desktop application",
       "sc:citation": [
-        "pmcid:PMC5359993",
         "pubmed:28400996",
+        "pmcid:PMC5359993",
         {
           "@id": "https://doi.org/10.4103/jpi.jpi_65_16"
         }
@@ -28,9 +28,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "ClinicalLaboratory",
       "sc:operatingSystem": [
-        "Mac",
+        "Linux",
         "Windows",
-        "Linux"
+        "Mac"
       ],
       "sc:url": "https://github.com/ClinicalLaboratory/Clinical-Laboratory"
     },

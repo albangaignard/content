@@ -13,9 +13,9 @@
       "@id": "https://bio.tools/3d-e-chem",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
+        "Ross Mcguire",
         "S. Verhoeven",
-        "C. De. Graaf",
-        "Ross Mcguire"
+        "C. De. Graaf"
       ],
       "sc:additionalType": "Desktop application",
       "sc:citation": [
@@ -40,8 +40,8 @@
       "sc:name": "3D-e-Chem-VM",
       "sc:operatingSystem": [
         "Linux",
-        "Windows",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://3d-e-chem.github.io/3D-e-Chem-VM/"
     },

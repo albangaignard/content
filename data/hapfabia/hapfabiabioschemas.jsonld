@@ -20,9 +20,6 @@
       },
       "edam:has_output": [
         {
-          "@id": "edam:data_1276"
-        },
-        {
           "@id": "edam:data_2884"
         },
         {
@@ -30,11 +27,14 @@
         },
         {
           "@id": "edam:data_1863"
+        },
+        {
+          "@id": "edam:data_1276"
         }
       ],
       "sc:additionalType": [
-        "Library",
-        "Command-line tool"
+        "Command-line tool",
+        "Library"
       ],
       "sc:applicationSubCategory": [
         {
@@ -59,8 +59,8 @@
       "sc:name": "hapFabia",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/hapFabia.html",
       "sc:version": "1.16.0"

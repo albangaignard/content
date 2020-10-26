@@ -14,6 +14,10 @@
       "@type": "schema:Person"
     },
     {
+      "@id": "https://doi.org/10.1093/NAR/GKZ342",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/MAFFT-DASH",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
@@ -23,8 +27,8 @@
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:citation": [
         {
@@ -36,27 +40,23 @@
       "sc:description": "Multiple alignment program for amino acid or nucleotide sequences.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0503"
-        },
-        {
           "@id": "edam:operation_0509"
         },
         {
           "@id": "edam:operation_0504"
+        },
+        {
+          "@id": "edam:operation_0503"
         }
       ],
       "sc:license": "GPL-1.0",
       "sc:name": "MAFFT-DASH",
       "sc:operatingSystem": [
         "Mac",
-        "Windows",
-        "Linux"
+        "Linux",
+        "Windows"
       ],
       "sc:url": "https://mafft.cbrc.jp/alignment/server/"
-    },
-    {
-      "@id": "https://doi.org/10.1093/NAR/GKZ342",
-      "@type": "sc:CreativeWork"
     }
   ]
 }
