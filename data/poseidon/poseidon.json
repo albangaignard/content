@@ -1,0 +1,81 @@
+{
+    "additionDate": "2019-11-14T18:16:25Z",
+    "biotoolsCURIE": "biotools:poseidon",
+    "biotoolsID": "poseidon",
+    "confidence_flag": "high",
+    "credit": [
+        {
+            "email": "jgehring@caltech.edu",
+            "name": "Jase Gehring",
+            "typeEntity": "Person"
+        },
+        {
+            "email": "lpachter@caltech.edu",
+            "name": "Lior Pachter",
+            "orcidid": "https://orcid.org/0000-0002-9164-6231",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "Principles of open source bioinstrumentation applied to the poseidon syringe pump system | poseidon system - open source syringe pumps and microscope for laboratories | poseidon: Open source bioinstrumentation | A. Sina Booeshaghi, Eduardo da Veiga Beltrame, Dylan Bannon, Jase Gehring and Lior Pachter, Principles of open source bioinstrumentation applied to the poseidon syringe pump system, Scientific Reports 9, Article number: 12385 (2019) | Paper: A. Sina Booeshaghi, Eduardo da Veiga Beltrame, Dylan Bannon, Jase Gehring and Lior Pachter, Principles of open source bioinstrumentation applied to the poseidon syringe pump system, Scientific Reports 9, Article number: 12385 (2019)",
+    "editPermission": {
+        "type": "public"
+    },
+    "homepage": "https://pachterlab.github.io/poseidon",
+    "language": [
+        "C++",
+        "Python"
+    ],
+    "lastUpdate": "2019-11-14T18:16:25Z",
+    "license": "BSD-2-Clause",
+    "link": [
+        {
+            "type": [
+                "Repository"
+            ],
+            "url": "https://github.com/pachterlab/poseidon"
+        }
+    ],
+    "name": "poseidon",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1038/S41598-019-48815-9",
+            "metadata": {
+                "abstract": "\u00a9 2019, The Author(s).The poseidon syringe pump and microscope system is an open source alternative to commercial systems. It costs less than $400 and can be assembled in under an hour using the instructions and source files available at https://pachterlab.github.io/poseidon. We describe the poseidon system and use it to illustrate design principles that can facilitate the adoption and development of open source bioinstruments. The principles are functionality, robustness, safety, simplicity, modularity, benchmarking, and documentation.",
+                "authors": [
+                    {
+                        "name": "Booeshaghi A.S."
+                    },
+                    {
+                        "name": "Beltrame E.V."
+                    },
+                    {
+                        "name": "Bannon D."
+                    },
+                    {
+                        "name": "Gehring J."
+                    },
+                    {
+                        "name": "Pachter L."
+                    }
+                ],
+                "citationCount": 3,
+                "date": "2019-12-01T00:00:00Z",
+                "journal": "Scientific Reports",
+                "title": "Principles of open source bioinstrumentation applied to the poseidon syringe pump system"
+            },
+            "pmcid": "PMC6711986",
+            "pmid": "31455877"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Sequence assembly",
+            "uri": "http://edamontology.org/topic_0196"
+        },
+        {
+            "term": "Imaging",
+            "uri": "http://edamontology.org/topic_3382"
+        }
+    ]
+}
