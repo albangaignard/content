@@ -16,8 +16,8 @@
   "sc:name": "snpTree",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:provider": "CBS",
   "sc:url": "http://cge.cbs.dtu.dk/services/snpTree/",

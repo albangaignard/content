@@ -39,9 +39,9 @@
       "sc:license": "GPL-3.0",
       "sc:name": "LipidMatch Normalizer",
       "sc:operatingSystem": [
-        "Windows",
         "Linux",
-        "Mac"
+        "Mac",
+        "Windows"
       ],
       "sc:url": "http://secim.ufl.edu/secim-tools/lipidmatch-normalizer/",
       "sc:version": "1.0.2"

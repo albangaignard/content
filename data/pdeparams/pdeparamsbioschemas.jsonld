@@ -17,8 +17,8 @@
   "sc:name": "PDEparams",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:url": "http://github.com/systemsmedicine/PDE_params"
 }

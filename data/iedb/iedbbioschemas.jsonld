@@ -17,8 +17,8 @@
   "sc:name": "The Immune Epitope Database (IEDB)",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://tools.immuneepitope.org/"
 }

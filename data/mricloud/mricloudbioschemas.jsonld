@@ -17,8 +17,8 @@
       "@id": "https://bio.tools/MRICloud",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
-        "Kenichi Oishi",
-        "Kumiko Oishi"
+        "Kumiko Oishi",
+        "Kenichi Oishi"
       ],
       "sc:additionalType": "Web application",
       "sc:citation": [

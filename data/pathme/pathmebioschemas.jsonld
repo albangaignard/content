@@ -10,10 +10,6 @@
   },
   "@graph": [
     {
-      "@id": "https://doi.org/10.1186/s12859-019-2863-9",
-      "@type": "sc:CreativeWork"
-    },
-    {
       "@id": "https://bio.tools/PathMe",
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": "Daniel Domingo-Fernández",
@@ -22,8 +18,8 @@
         "Web application"
       ],
       "sc:citation": [
-        "pmcid:PMC6521546",
         "pubmed:31092193",
+        "pmcid:PMC6521546",
         {
           "@id": "https://doi.org/10.1186/s12859-019-2863-9"
         }
@@ -44,10 +40,14 @@
       "sc:name": "PathMe",
       "sc:operatingSystem": [
         "Windows",
-        "Linux",
-        "Mac"
+        "Mac",
+        "Linux"
       ],
       "sc:url": "https://pathme.scai.fraunhofer.de/"
+    },
+    {
+      "@id": "https://doi.org/10.1186/s12859-019-2863-9",
+      "@type": "sc:CreativeWork"
     }
   ]
 }

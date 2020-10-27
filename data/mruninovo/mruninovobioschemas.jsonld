@@ -19,8 +19,8 @@
   "sc:name": "MRUniNovo",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://bioinfo.hupo.org.cn/MRUniNovo/index.php"
 }

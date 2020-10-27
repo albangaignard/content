@@ -38,8 +38,8 @@
       "sc:name": "BiGGR",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:url": "http://bioconductor.org/packages/release/bioc/html/BiGGR.html",
       "sc:version": "1.10.0"

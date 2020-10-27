@@ -27,9 +27,9 @@
       },
       "sc:name": "Corbi",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "http://doc.aporc.org/wiki/Corbi"
     },

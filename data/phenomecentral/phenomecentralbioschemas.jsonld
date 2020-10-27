@@ -10,6 +10,10 @@
   },
   "@graph": [
     {
+      "@id": "https://doi.org/10.1002/humu.22851",
+      "@type": "sc:CreativeWork"
+    },
+    {
       "@id": "https://bio.tools/phenomecentral",
       "@type": "sc:SoftwareApplication",
       "sc:additionalType": [
@@ -40,16 +44,12 @@
       ],
       "sc:name": "PhenomeCentral",
       "sc:operatingSystem": [
-        "Mac",
         "Linux",
-        "Windows"
+        "Windows",
+        "Mac"
       ],
       "sc:url": "https://phenomecentral.org",
       "sc:version": "1.1.16"
-    },
-    {
-      "@id": "https://doi.org/10.1002/humu.22851",
-      "@type": "sc:CreativeWork"
     }
   ]
 }

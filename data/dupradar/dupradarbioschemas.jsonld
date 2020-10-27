@@ -14,15 +14,15 @@
       "@type": "sc:SoftwareApplication",
       "biotools:primaryContact": [
         {
-          "@id": "http://orcid.org/0000-0002-6904-2319"
+          "@id": "http://orcid.org/0000-0002-3877-4170"
         },
         {
-          "@id": "http://orcid.org/0000-0002-3877-4170"
+          "@id": "http://orcid.org/0000-0002-6904-2319"
         }
       ],
       "sc:additionalType": [
-        "Command-line tool",
-        "Library"
+        "Library",
+        "Command-line tool"
       ],
       "sc:citation": [
         {
@@ -49,11 +49,11 @@
       "@type": "sc:CreativeWork"
     },
     {
-      "@id": "http://orcid.org/0000-0002-6904-2319",
+      "@id": "http://orcid.org/0000-0002-3877-4170",
       "@type": "schema:Person"
     },
     {
-      "@id": "http://orcid.org/0000-0002-3877-4170",
+      "@id": "http://orcid.org/0000-0002-6904-2319",
       "@type": "schema:Person"
     }
   ]

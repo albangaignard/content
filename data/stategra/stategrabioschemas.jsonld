@@ -16,8 +16,8 @@
     "David Gomez-Cabrero"
   ],
   "sc:additionalType": [
-    "Library",
-    "Command-line tool"
+    "Command-line tool",
+    "Library"
   ],
   "sc:description": "Classes and tools for multi-omics data integration.",
   "sc:license": "GPL-2.0",

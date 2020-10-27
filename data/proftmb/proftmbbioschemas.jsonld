@@ -23,15 +23,15 @@
         "@id": "edam:data_0896"
       },
       "sc:additionalType": [
-        "Command-line tool",
-        "Web application"
+        "Web application",
+        "Command-line tool"
       ],
       "sc:applicationSubCategory": [
         {
-          "@id": "edam:topic_0082"
+          "@id": "edam:topic_0820"
         },
         {
-          "@id": "edam:topic_0820"
+          "@id": "edam:topic_0082"
         }
       ],
       "sc:author": "Henry Bigelow",
@@ -39,8 +39,8 @@
         {
           "@id": "https://doi.org/10.1093/nar/gkl262"
         },
-        "pubmed:16844988",
-        "pmcid:PMC1538807"
+        "pmcid:PMC1538807",
+        "pubmed:16844988"
       ],
       "sc:contributor": [
         "Burkhard Rost",
@@ -49,10 +49,10 @@
       "sc:description": "Per-residue prediction of bacterial transmembrane beta barrels.",
       "sc:featureList": [
         {
-          "@id": "edam:operation_0268"
+          "@id": "edam:operation_0269"
         },
         {
-          "@id": "edam:operation_0269"
+          "@id": "edam:operation_0268"
         }
       ],
       "sc:funder": "grant R01-LM07329-01 from the National Library of Medicine",
@@ -61,13 +61,13 @@
       "sc:name": "PROFtmb",
       "sc:operatingSystem": [
         "Mac",
-        "Linux",
-        "Windows"
+        "Windows",
+        "Linux"
       ],
       "sc:provider": [
-        "Irvine Cancer Center",
         "Columbia University",
-        "RostLab"
+        "RostLab",
+        "Irvine Cancer Center"
       ],
       "sc:softwareHelp": {
         "@id": "https://rostlab.org/owiki/index.php/Proftmb"

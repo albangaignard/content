@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/sparsedossa",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Boyu Ren",
     "Emma Schwager",
+    "Boyu Ren",
     "George Weingart"
   ],
   "sc:additionalType": "Library",
@@ -20,9 +20,9 @@
   "sc:license": "MIT",
   "sc:name": "sparseDOSSA",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://bioconductor.org/packages/release/bioc/html/sparseDOSSA.html",
   "sc:version": "1.4.0"

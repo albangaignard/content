@@ -11,19 +11,19 @@
   "@id": "https://bio.tools/grnsight",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "John David N. Dionisio",
-    "Kam D. Dahlquist"
+    "Kam D. Dahlquist",
+    "John David N. Dionisio"
   ],
   "sc:additionalType": "Web application",
   "sc:author": [
+    "Eileen Choe",
+    "Britain J. Southwick",
+    "Jen Shin",
+    "Kam D. Dahlquist",
+    "John David N. Dionisio",
+    "Ben G. Fitzpatrick",
     "Nicole A. Anguiano",
     "Anindita Varshneya",
-    "Kam D. Dahlquist",
-    "Ben G. Fitzpatrick",
-    "Eileen Choe",
-    "Jen Shin",
-    "Britain J. Southwick",
-    "John David N. Dionisio",
     "Mihir Samdarshi"
   ],
   "sc:contributor": "NSF award 0921038; LMU Rains Research Assistant Program; LMU Summer Undergraduate Research Program",

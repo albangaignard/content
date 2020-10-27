@@ -11,8 +11,8 @@
   "@id": "https://bio.tools/bayesmd",
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
-    "Ole Winther",
     "Anders Krogh",
+    "Ole Winther",
     "Man-Hung Eric Tang"
   ],
   "sc:additionalType": [
@@ -23,8 +23,8 @@
   "sc:name": "BayesMD",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:provider": "binf.ku.dk",
   "sc:url": "http://bayesmd.binf.ku.dk/",

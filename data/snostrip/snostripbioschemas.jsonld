@@ -15,8 +15,8 @@
   "sc:name": "snoStrip",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://snostrip.bioinf.uni-leipzig.de/index.py"
 }

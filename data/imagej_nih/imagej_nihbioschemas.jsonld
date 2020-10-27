@@ -18,8 +18,8 @@
   "sc:name": "ImageJ (NIH)",
   "sc:operatingSystem": [
     "Windows",
-    "Linux",
-    "Mac"
+    "Mac",
+    "Linux"
   ],
   "sc:provider": "IFB ELIXIR-FR",
   "sc:url": "http://rsb.info.nih.gov/ij/index.html",

@@ -17,8 +17,8 @@
   "sc:name": "SARA-Coffee",
   "sc:operatingSystem": [
     "Linux",
-    "Windows",
-    "Mac"
+    "Mac",
+    "Windows"
   ],
   "sc:url": "http://tcoffee.crg.cat/apps/tcoffee/do:saracoffee"
 }
