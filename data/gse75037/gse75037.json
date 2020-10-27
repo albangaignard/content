@@ -1,0 +1,101 @@
+{
+    "additionDate": "2020-01-09T18:18:13Z",
+    "biotoolsCURIE": "biotools:GSE75037",
+    "biotoolsID": "GSE75037",
+    "confidence_flag": "medium",
+    "credit": [
+        {
+            "email": "ahszlyyhxk@126.com",
+            "name": "Lijun Wang",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "Exploration of estrogen receptor-associated hub genes and potential molecular mechanisms in non-smoking females with lung adenocarcinoma using integrated bioinformatics analysis.\n\nNCBI's Gene Expression Omnibus (GEO) is a public archive and resource for gene expression data.\n\nGEO help: Mouse over screen elements for information.\n\nScope: Self Platform Samples Series Family Format: HTML SOFT MINiML Amount: Brief Quick GEO accession:.\n\n||| NAME (GSE75037) SIMILAR TO (PUB. DIFFERENT) bio.tools/GSE33335 (GSE33335), bio.tools/GSE56348 (GSE56348), bio.tools/GSE117578 (GSE117578), bio.tools/gse (GSE).\n\n||| CORRECT NAME OF TOOL COULD ALSO BE 'GSE32863', 'DEGs', 'non-smoking', 'GEO' (bio.tools/GEO)",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Data retrieval",
+                    "uri": "http://edamontology.org/operation_2422"
+                },
+                {
+                    "term": "Enrichment analysis",
+                    "uri": "http://edamontology.org/operation_3501"
+                },
+                {
+                    "term": "Differential gene expression analysis",
+                    "uri": "http://edamontology.org/operation_3223"
+                },
+                {
+                    "term": "Expression analysis",
+                    "uri": "http://edamontology.org/operation_2495"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse75037",
+    "language": [
+        "R"
+    ],
+    "lastUpdate": "2020-01-09T18:18:13Z",
+    "name": "GSE75037",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.3892/OL.2019.10845",
+            "metadata": {
+                "abstract": "\u00a9 2019 Spandidos Publications. All rights reserved.The present study aimed to explore important estrogen receptor-associated genes and to determine the potential pathogenic and prognostic factors for lung adenocarcinoma in non-smoking females. The gene expression profiles of the two datasets (GSE32863 and GSE75037) were downloaded from the Gene Expression Omnibus (GEO) database. Data for non-smoking female patients with lung adenocarcinoma from The Cancer Genome Atlas (TCGA) database were also downloaded. The Linear Models for Microarray Data package in R was used to explore the differentially expressed genes (DEGs) between samples from non-smoking female patients with lung adenocarcinoma and samples of adjacent non-cancerous lung tissue. The Database for Annotation, Visualization and Integrated Discovery was used for functional enrichment of the DEGs. The Search Tool for the Retrieval of Interacting Genes/Proteins and Cytoscape software were used to obtain a protein-protein interaction (PPI) network and to identify the hub genes. In addition, the network between the estrogen receptor and the DEGs was constructed. A Kaplan-Meier survival plot was used to analyze the overall survival (OS). In total, 248 DEGs were identified in the GEO database, and 2,362 DEGs were identified in TCGA database. The intersection of the two datasets (DEGs in GEO and TCGA) revealed 170 DEGs, and these were selected for further investigation. Gene Ontology was used to group the 170 DEGs into biological process, molecular function and cellular component categories. Kyoto Encyclopedia of Genes and Genomes pathway analysis was subsequently performed. A total of 27 hub genes, including caveolin 1 (CAV1), matrix metallopeptidase 9 (MMP9), secreted phosphoprotein 1 (SPP1) and collagen type I a 1 chain (COL1A1), were closely associated with the estrogen receptor. CAV1 and SPP1 were associated with the OS. However, MMP9 and COL1A1 did not have any significant effect on OS. In summary, the identification of CAV1, MMP9, SPP1 and COL1A1 may provide novel insights into the molecular mechanism of lung adenocarcinoma in non-smoking female patients, and the results obtained in the current study may guide future clinical studies.",
+                "authors": [
+                    {
+                        "name": "Wang H."
+                    },
+                    {
+                        "name": "Zhang Z."
+                    },
+                    {
+                        "name": "Xu K."
+                    },
+                    {
+                        "name": "Wei S."
+                    },
+                    {
+                        "name": "Li L."
+                    },
+                    {
+                        "name": "Wang L."
+                    }
+                ],
+                "date": "2019-01-01T00:00:00Z",
+                "journal": "Oncology Letters",
+                "title": "Exploration of estrogen receptor-associated hub genes and potential molecular mechanisms in non-smoking females with lung adenocarcinoma using integrated bioinformatics analysis"
+            },
+            "pmcid": "PMC6781748",
+            "pmid": "31611968"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Microarray experiment",
+            "uri": "http://edamontology.org/topic_3518"
+        },
+        {
+            "term": "Gene expression",
+            "uri": "http://edamontology.org/topic_0203"
+        },
+        {
+            "term": "Oncology",
+            "uri": "http://edamontology.org/topic_2640"
+        },
+        {
+            "term": "Molecular interactions, pathways and networks",
+            "uri": "http://edamontology.org/topic_0602"
+        },
+        {
+            "term": "Preclinical and clinical studies",
+            "uri": "http://edamontology.org/topic_3379"
+        }
+    ]
+}

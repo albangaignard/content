@@ -1,7 +1,5 @@
 {
-    "accessibility": [
-        "Open access"
-    ],
+    "accessibility": "Open access",
     "additionDate": "2019-08-11T16:51:35Z",
     "biotoolsCURIE": "biotools:Quantum",
     "biotoolsID": "Quantum",
@@ -9,11 +7,15 @@
     "description": "Modern general-purpose multi-threaded quantum computing library.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://github.com/vsoftco/qpp/blob/master/README.md"
         },
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://github.com/vsoftco/qpp/wiki"
         }
     ],
@@ -30,11 +32,13 @@
     "language": [
         "C++"
     ],
-    "lastUpdate": "2019-08-11T16:51:35Z",
+    "lastUpdate": "2020-06-16T10:55:25Z",
     "license": "MIT",
     "link": [
         {
-            "type": "Issue tracker",
+            "type": [
+                "Issue tracker"
+            ],
             "url": "https://github.com/vsoftco/qpp/issues"
         }
     ],
@@ -49,9 +53,23 @@
     "publication": [
         {
             "doi": "10.1371/journal.pone.0208073",
+            "metadata": {
+                "abstract": "\u00a9 2018 Vlad Gheorghiu. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.Quantum++ is a modern general-purpose multi-threaded quantum computing library written in C++11 and composed solely of header files. The library is not restricted to qubit systems or specific quantum information processing tasks, being capable of simulating arbitrary quantum processes. The main design factors taken in consideration were the ease of use, portability, and performance. The library\u2019s simulation capabilities are only restricted by the amount of available physical memory. On a typical machine (Intel i5 8Gb RAM) Quantum++ can successfully simulate the evolution of 25 qubits in a pure state or of 12 qubits in a mixed state reasonably fast. The library also includes support for classical reversible logic, being able to simulate classical reversible operations on billions of bits. This latter feature may be useful in testing quantum circuits composed solely of Toffoli gates, such as certain arithmetic circuits.",
+                "authors": [
+                    {
+                        "name": "Gheorghiu V."
+                    }
+                ],
+                "citationCount": 4,
+                "date": "2018-12-01T00:00:00Z",
+                "journal": "PLoS ONE",
+                "title": "Quantum++: A modern C++ quantum computing library"
+            },
             "pmcid": "PMC6287823",
             "pmid": "30532140",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [
