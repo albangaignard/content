@@ -1,0 +1,70 @@
+{
+    "additionDate": "2019-11-14T18:41:03Z",
+    "biotoolsCURIE": "biotools:plant-disease_relations",
+    "biotoolsID": "plant-disease_relations",
+    "confidence_flag": "low",
+    "credit": [
+        {
+            "email": "hyunjulee@gist.ac.kr",
+            "name": "Hyunju Lee",
+            "orcidid": "https://orcid.org/0000-0003-2389-7183",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "> LOW CONFIDENCE! | > CORRECT NAME OF TOOL COULD ALSO BE 'plant disease relations', 'corpus' | A corpus of plant-disease relations in the biomedical domain | Corpus of plnat-disease relation | The corpus of plant-disease relation annotated plants and diseases and their relation to PubMed abstract. We annotated NCBI Taxonomy ID and MEDIC ID for plant and disease mention respectively. We annotated 1,307 relations from 199 abstracts, where the numbers of annotated plants and diseases were 1,403 and 1,758, respectively | Download : BioC format, Brat visualization",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Named-entity and concept recognition",
+                    "uri": "http://edamontology.org/operation_3280"
+                }
+            ]
+        }
+    ],
+    "homepage": "http://gcancer.org/pdr/",
+    "lastUpdate": "2019-11-14T18:41:03Z",
+    "name": "plant-disease relations",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1371/JOURNAL.PONE.0221582",
+            "metadata": {
+                "abstract": "\u00a9 2019 Kim et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.Background Many new medicines have been derived from natural sources such as plants, which have a long history of being used for disease treatment. Thus, their benefits and side effects have been studied, and plant-related information including plant and disease relations have been accumulated in Medline articles. Because numerous articles are available in Medline and are written in natural language, text-mining is important. However, a corpus of plant and disease relations is not available yet. Thus, we aimed to construct such a corpus. Methods and results In this study, we designed and annotated a plant\u2013disease relations corpus, and proposed a computational model to predict plant\u2013disease relations using the corpus. We categorized plant and disease relations into four types: treatments of diseases, causes of diseases, associations, and negative relations. To construct a corpus of plant\u2013disease relations, we first created its annotation guidelines and randomly selected 200 Medline abstracts. From these abstracts, we identified 1,405 and 1,755 plant and disease mentions, annotated to 105 and 237 unique plant and disease identifiers, respectively. When we selected sentences containing at least one plant and one disease mention, we extracted 878 plant and 1,077 disease entities, which finally generated a corpus of plant-disease relations including 1,309 relations from 199 abstracts. To verify the effectiveness of the corpus, we proposed a convolutional neural network model with the shortest dependency path (SDP-CNN) and applied it to the constructed corpus. The micro F-score with ten-fold cross-validation was found to be 0.764. We also applied the proposed SDP-CNN model to all Medline abstracts. When we measured its performance for 483 randomly selected plant-disease co-occurring sentences, the model showed a precision of 0.707. Conclusion The plant\u2013disease relations corpus is unique and represents an important resource for biomedical text-mining. The corpus of plant and disease relations is available at http://gcancer.org/pdr/.",
+                "authors": [
+                    {
+                        "name": "Kim B."
+                    },
+                    {
+                        "name": "Choi W."
+                    },
+                    {
+                        "name": "Lee H."
+                    }
+                ],
+                "date": "2019-08-01T00:00:00Z",
+                "journal": "PLoS ONE",
+                "title": "A corpus of plant\u2013disease relations in the biomedical domain"
+            },
+            "pmcid": "PMC6713337",
+            "pmid": "31461491"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Plant biology",
+            "uri": "http://edamontology.org/topic_0780"
+        },
+        {
+            "term": "Pathology",
+            "uri": "http://edamontology.org/topic_0634"
+        },
+        {
+            "term": "Agricultural science",
+            "uri": "http://edamontology.org/topic_3810"
+        }
+    ]
+}
