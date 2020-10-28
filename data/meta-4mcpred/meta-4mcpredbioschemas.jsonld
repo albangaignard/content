@@ -33,9 +33,9 @@
       "sc:license": "Unlicense",
       "sc:name": "Meta-4mCpred",
       "sc:operatingSystem": [
-        "Windows",
+        "Linux",
         "Mac",
-        "Linux"
+        "Windows"
       ],
       "sc:url": "http://thegleelab.org/Meta-4mCpred"
     }

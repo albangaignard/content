@@ -17,8 +17,8 @@
   "sc:name": "NPDock",
   "sc:operatingSystem": [
     "Mac",
-    "Windows",
-    "Linux"
+    "Linux",
+    "Windows"
   ],
   "sc:url": "http://genesilico.pl/NPDock"
 }

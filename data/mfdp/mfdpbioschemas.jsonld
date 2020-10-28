@@ -17,8 +17,8 @@
   "sc:name": "MFDp",
   "sc:operatingSystem": [
     "Windows",
-    "Mac",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:url": "http://biomine-ws.ece.ualberta.ca/MFDp2/index.php"
 }

@@ -17,9 +17,9 @@
   ],
   "sc:author": [
     "Adam Hospital",
+    "Pau Andrio",
     "Cesare Cugnasco",
-    "Laia Codó",
-    "Pau Andrio"
+    "Laia Codó"
   ],
   "sc:description": "Comprehensive platform including a database system and an analysis portal, aimed to be a general database for handling nucleic acids simulations.",
   "sc:name": "BigNASim",

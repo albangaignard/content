@@ -19,8 +19,8 @@
       "biotools:primaryContact": "Xuhua Xia",
       "sc:additionalType": "Desktop application",
       "sc:citation": [
-        "pmcid:PMC5967572",
         "pubmed:29669107",
+        "pmcid:PMC5967572",
         {
           "@id": "https://doi.org/10.1093/molbev/msy073"
         }

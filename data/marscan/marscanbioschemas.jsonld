@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "EMBOSS Contributors",
     "UK MRC",
+    "UK BBSRC",
     "Wellcome Trust",
-    "UK BBSRC"
+    "EMBOSS Contributors"
   ],
   "sc:description": "Find matrix/scaffold recognition (MRS) signatures in DNA sequences.",
   "sc:funder": [
@@ -26,9 +26,9 @@
   "sc:license": "GPL-3.0",
   "sc:name": "marscan",
   "sc:operatingSystem": [
-    "Mac",
     "Windows",
-    "Linux"
+    "Linux",
+    "Mac"
   ],
   "sc:provider": [
     "EMBOSS",

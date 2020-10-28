@@ -12,8 +12,8 @@
   "@type": "sc:SoftwareApplication",
   "biotools:primaryContact": [
     "Robert Preissner",
-    "Catherine Sargent",
     "Jessica Ahmed",
+    "Catherine Sargent",
     "Paul Thaben"
   ],
   "sc:additionalType": "Database portal",

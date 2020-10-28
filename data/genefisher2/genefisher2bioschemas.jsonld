@@ -11,9 +11,9 @@
   "@id": "https://bio.tools/genefisher2",
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": [
+    "Command-line tool",
     "Web application",
-    "Web API",
-    "Command-line tool"
+    "Web API"
   ],
   "sc:author": [
     "Daniel Hagemeier",
@@ -29,9 +29,9 @@
     "Linux"
   ],
   "sc:provider": [
-    "BiBiServ",
+    "Bielefeld University",
     "CeBiTec",
-    "Bielefeld University"
+    "BiBiServ"
   ],
   "sc:url": "http://bibiserv.cebitec.uni-bielefeld.de/genefisher2",
   "sc:version": "1"

@@ -40,10 +40,10 @@
         }
       ],
       "sc:citation": [
-        "pubmed:28088185",
         {
           "@id": "https://doi.org/10.1186/s12859-016-1438-2"
         },
+        "pubmed:28088185",
         "pmcid:PMC5237550"
       ],
       "sc:contributor": {

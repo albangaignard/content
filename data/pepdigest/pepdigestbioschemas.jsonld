@@ -13,9 +13,9 @@
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
     "Wellcome Trust",
+    "EMBOSS Contributors",
     "UK BBSRC",
-    "UK MRC",
-    "EMBOSS Contributors"
+    "UK MRC"
   ],
   "sc:description": "Report on protein proteolytic enzyme or reagent cleavage sites.",
   "sc:funder": [

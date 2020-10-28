@@ -16,8 +16,8 @@
   "sc:name": "Partek Genomics Suite",
   "sc:operatingSystem": [
     "Linux",
-    "Mac",
-    "Windows"
+    "Windows",
+    "Mac"
   ],
   "sc:url": "http://www.partek.com"
 }

@@ -12,10 +12,10 @@
   "@type": "sc:SoftwareApplication",
   "sc:additionalType": "Command-line tool",
   "sc:contributor": [
-    "EMBOSS Contributors",
     "UK BBSRC",
-    "Wellcome Trust",
-    "UK MRC"
+    "EMBOSS Contributors",
+    "UK MRC",
+    "Wellcome Trust"
   ],
   "sc:description": "An Emboss tool that reads a reference sequence and returns the data in one of the EMBOSS reference sequence formats.",
   "sc:funder": [
