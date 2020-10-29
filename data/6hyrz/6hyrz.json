@@ -1,0 +1,77 @@
+{
+    "additionDate": "2019-11-14T18:30:40Z",
+    "biotoolsCURIE": "biotools:6HYRz",
+    "biotoolsID": "6HYRz",
+    "confidence_flag": "medium",
+    "credit": [
+        {
+            "email": "antsharaf@gmail.com",
+            "name": "Mostafa R. Sharaf",
+            "orcidid": "https://orcid.org/0000-0001-8137-0705",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "> MEDIUM CONFIDENCE! | > CORRECT NAME OF TOOL COULD ALSO BE 'Taxonomy Arabian Temnothorax Mayr Formicidae', 'cybertype' | Myrmicinae) with description of a new species enhanced by x-ray microtomography | 3D model by Economolab (@arilab) | Temnothorax sp. New species from the Asir Mountains in Saudi Arabia (located at OIST: CASENT0790240) - Temnothorax sp. - 3D model by Economolab (@arilab) | November Challenge: Retro Electronics | Prize: 3 months of Sketchfab PRO + $100 | Orbit navigation Move camera: 1 finger drag or Left Mouse Button",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Visualisation",
+                    "uri": "http://edamontology.org/operation_0337"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://skfb.ly/6HYRz",
+    "lastUpdate": "2019-11-14T18:30:40Z",
+    "name": "6HYRz",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.1038/S41598-019-47260-Y",
+            "metadata": {
+                "abstract": "\u00a9 2019, The Author(s).Temnothorax elmenshawyi sp. n., a new ant species from the Asir Mountains of the southwestern region of the Kingdom of Saudi Arabia, is described based on the worker caste. The new species is a member of the T. exilis species group and is distinguished from the other species included in this group by the impressed metanotal groove, the short, acute and broadly-based propodeal spines, the finely punctate posterior half of cephalic surface, and absence of a median clypeal carina. Despite extensive collecting by the authors at the type locality, only two specimens are available for description, suggesting that this species may be rare and likely endemic to the Asir Mountains. The species description is complemented by still images of volume renderings of a 3D model and a 3D rotation video of the holotype based on x-ray microtomography (micro-CT), allowing remote in-depth examination of the specimen. The virtual micro-CT data is provided as cybertype dataset and freely available online https://doi.org/10.5061/dryad.4gg39k6, as well as 3D surface model (Sketchfab.com, https://skfb.ly/6HYRz). An updated identification key to the Arabian species is presented.",
+                "authors": [
+                    {
+                        "name": "Sharaf M.R."
+                    },
+                    {
+                        "name": "Aldawood A.S."
+                    },
+                    {
+                        "name": "Economo E.P."
+                    },
+                    {
+                        "name": "Wachkoo A.A."
+                    },
+                    {
+                        "name": "Hita Garcia F."
+                    }
+                ],
+                "citationCount": 2,
+                "date": "2019-12-01T00:00:00Z",
+                "journal": "Scientific Reports",
+                "title": "Taxonomy of Arabian Temnothorax Mayr (Formicidae: Myrmicinae) with description of a new species enhanced by x-ray microtomography"
+            },
+            "pmcid": "PMC6662808",
+            "pmid": "31358795"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Zoology",
+            "uri": "http://edamontology.org/topic_3500"
+        },
+        {
+            "term": "Tomography",
+            "uri": "http://edamontology.org/topic_3452"
+        },
+        {
+            "term": "Taxonomy",
+            "uri": "http://edamontology.org/topic_0637"
+        }
+    ]
+}

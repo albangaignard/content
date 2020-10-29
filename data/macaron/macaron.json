@@ -1,7 +1,5 @@
 {
-    "accessibility": [
-        "Open access"
-    ],
+    "accessibility": "Open access",
     "additionDate": "2018-07-16T13:49:47Z",
     "biotoolsCURIE": "biotools:macaron",
     "biotoolsID": "macaron",
@@ -32,7 +30,9 @@
     "description": "MACARON (Multi-bAse Codon-Associated variant Re-annotatiON) is a python framework to identify and re-annotate multi-base affected codons in whole genome/exome sequence data. Starting from a standard VCF file, MACARON identifies, re-annotates and predicts the amino acid change resulting from multiple single nucleotide variants (SNVs) within the same genetic codon.",
     "documentation": [
         {
-            "type": "General",
+            "type": [
+                "General"
+            ],
             "url": "https://github.com/waqasuddinkhan/MACARON-GenMed-LabEx"
         }
     ],
@@ -87,11 +87,13 @@
     "language": [
         "Python"
     ],
-    "lastUpdate": "2018-12-11T17:09:16Z",
+    "lastUpdate": "2020-06-16T10:55:21Z",
     "license": "GPL-3.0",
     "link": [
         {
-            "type": "Repository",
+            "type": [
+                "Repository"
+            ],
             "url": "https://github.com/waqasuddinkhan/MACARON-GenMed-LabEx"
         }
     ],
@@ -104,9 +106,44 @@
     "publication": [
         {
             "doi": "10.1093/bioinformatics/bty382",
+            "metadata": {
+                "abstract": "\u00a9 The Author(s) 2018.Summary: Predicted deleteriousness of coding variants is a frequently used criterion to filter out variants detected in next-generation sequencing projects and to select candidates impacting on the risk of human diseases. Most available dedicated tools implement a base-to-base annotation approach that could be biased in presence of several variants in the same genetic codon. We here proposed the MACARON program that, from a standard VCF file, identifies, re-annotates and predicts the amino acid change resulting from multiple single nucleotide variants (SNVs) within the same genetic codon. Applied to the whole exome dataset of 573 individuals, MACARON identifies 114 situations where multiple SNVs within a genetic codon induce an amino acid change that is different from those predicted by standard single SNV annotation tool. Such events are not uncommon and deserve to be studied in sequencing projects with inconclusive findings.",
+                "authors": [
+                    {
+                        "name": "Khan W."
+                    },
+                    {
+                        "name": "Varma Saripella G."
+                    },
+                    {
+                        "name": "Ludwig T."
+                    },
+                    {
+                        "name": "Cuppens T."
+                    },
+                    {
+                        "name": "Thibord F."
+                    },
+                    {
+                        "name": "Genin E."
+                    },
+                    {
+                        "name": "Deleuze J.-F."
+                    },
+                    {
+                        "name": "Tregouet D.-A."
+                    }
+                ],
+                "citationCount": 1,
+                "date": "2018-10-01T00:00:00Z",
+                "journal": "Bioinformatics",
+                "title": "MACARON: A python framework to identify and re-annotate multi-base affected codons in whole genome/exome sequence data"
+            },
             "pmcid": "PMC29726922",
             "pmid": "29726922",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [

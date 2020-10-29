@@ -1,0 +1,109 @@
+{
+    "additionDate": "2020-01-14T19:48:31Z",
+    "biotoolsCURIE": "biotools:AHSURED",
+    "biotoolsID": "AHSURED",
+    "confidence_flag": "high",
+    "credit": [
+        {
+            "email": "arianna.comin@sva.se",
+            "name": "Arianna Comin",
+            "typeEntity": "Person"
+        }
+    ],
+    "description": "Development of Reporting Guidelines for Animal Health Surveillance-AHSURED.\n\nThe objective of the present project is to produce a set of reporting guidelines to facilitate consistent and credible reporting of surveillance activities and their outcomes.\n\nThe rationale behind it is that by moving towards more output\u2212based standards for surveillance, and allowing greater flexibility in surveillance design, there will be an increased need for transparency about design features as well as how the activities are actually implemented.\n\nThe choice of a Wiki format was motivated by the fact that refinements and improvements of the guidelines are both expected and welcome, so feel free to contribute by sending your comments to ahsured@sva.se.\n\n||| CORRECT NAME OF TOOL COULD ALSO BE 'Surveillance-AHSURED', 'Animal Health Surveillance-AHSURED'",
+    "editPermission": {
+        "type": "public"
+    },
+    "function": [
+        {
+            "operation": [
+                {
+                    "term": "Information extraction",
+                    "uri": "http://edamontology.org/operation_3907"
+                }
+            ]
+        }
+    ],
+    "homepage": "https://github.com/SVA-SE/AHSURED/wiki",
+    "lastUpdate": "2020-01-14T19:48:31Z",
+    "name": "AHSURED",
+    "owner": "Pub2Tools",
+    "publication": [
+        {
+            "doi": "10.3389/FVETS.2019.00426",
+            "metadata": {
+                "abstract": "\u00a9 Copyright \u00a9 2019 Comin, Grewar, Schaik, Schwermer, Par\u00e9, El Allaki, Drewe, Lopes Antunes, Estberg, Horan, Calvo-Artavia, Jibril, Mart\u00ednez-Avil\u00e9s, Van der Stede, Antoniou and Lindberg.With the current trend in animal health surveillance toward risk-based designs and a gradual transition to output-based standards, greater flexibility in surveillance design is both required and allowed. However, the increase in flexibility requires more transparency regarding surveillance, its activities, design and implementation. Such transparency allows stakeholders, trade partners, decision-makers and risk assessors to accurately interpret the validity of the surveillance outcomes. This paper presents the first version of the Animal Health Surveillance Reporting Guidelines (AHSURED) and the process by which they have been developed. The goal of AHSURED was to produce a set of reporting guidelines that supports communication of surveillance activities in the form of narrative descriptions. Reporting guidelines come from the field of evidence-based medicine and their aim is to improve consistency and quality of information reported in scientific journals. They usually consist of a checklist of items to be reported, a description/definition of each item, and an explanation and elaboration document. Examples of well-reported items are frequently provided. Additionally, it is common to make available a website where the guidelines are documented and maintained. This first version of the AHSURED guidelines consists of a checklist of 40 items organized in 11 sections (i.e., surveillance system building blocks), which is available as a wiki at https://github.com/SVA-SE/AHSURED/wiki. The choice of a wiki format will allow for further inputs from surveillance experts who were not involved in the earlier stages of development. This will promote an up-to-date refined guideline document.",
+                "authors": [
+                    {
+                        "name": "Comin A."
+                    },
+                    {
+                        "name": "Grewar J."
+                    },
+                    {
+                        "name": "Schaik G.V."
+                    },
+                    {
+                        "name": "Schwermer H."
+                    },
+                    {
+                        "name": "Pare J."
+                    },
+                    {
+                        "name": "El Allaki F."
+                    },
+                    {
+                        "name": "Drewe J.A."
+                    },
+                    {
+                        "name": "Lopes Antunes A.C."
+                    },
+                    {
+                        "name": "Estberg L."
+                    },
+                    {
+                        "name": "Horan M."
+                    },
+                    {
+                        "name": "Calvo-Artavia F.F."
+                    },
+                    {
+                        "name": "Jibril A.H."
+                    },
+                    {
+                        "name": "Martinez-Aviles M."
+                    },
+                    {
+                        "name": "Van der Stede Y."
+                    },
+                    {
+                        "name": "Antoniou S.-E."
+                    },
+                    {
+                        "name": "Lindberg A."
+                    }
+                ],
+                "citationCount": 2,
+                "date": "2019-11-27T00:00:00Z",
+                "journal": "Frontiers in Veterinary Science",
+                "title": "Development of Reporting Guidelines for Animal Health Surveillance\u2014AHSURED"
+            },
+            "pmcid": "PMC6890601",
+            "pmid": "31828080"
+        }
+    ],
+    "topic": [
+        {
+            "term": "Zoology",
+            "uri": "http://edamontology.org/topic_3500"
+        },
+        {
+            "term": "Transcription factors and regulatory sites",
+            "uri": "http://edamontology.org/topic_0749"
+        },
+        {
+            "term": "Medicine",
+            "uri": "http://edamontology.org/topic_3303"
+        }
+    ]
+}
