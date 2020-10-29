@@ -19,7 +19,9 @@
     "description": "R package for DNA methylation analysis and annotation from high-throughput bisulfite sequencing. The package is designed to deal with sequencing data from RRBS and its variants, but also target-capture methods and whole genome bisulfite sequencing. It also has functions to analyze base-pair resolution 5hmC data from experimental protocols such as oxBS-Seq and TAB-Seq. Perl is needed to read SAM files only.",
     "documentation": [
         {
-            "type": "User manual",
+            "type": [
+                "User manual"
+            ],
             "url": "http://bioconductor.org/packages/release/bioc/html/methylKit.html"
         }
     ],
@@ -50,7 +52,9 @@
     "license": "Artistic-2.0",
     "link": [
         {
-            "type": "Mirror",
+            "type": [
+                "Mirror"
+            ],
             "url": "http://code.google.com/p/methylkit/"
         }
     ],
@@ -64,9 +68,41 @@
     "publication": [
         {
             "doi": "10.1186/gb-2012-13-10-r87",
+            "metadata": {
+                "abstract": "DNA methylation is a chemical modification of cytosine bases that is pivotal for gene regulation,cellular specification and cancer development. Here, we describe an R package, methylKit, thatrapidly analyzes genome-wide cytosine epigenetic profiles from high-throughput methylation andhydroxymethylation sequencing experiments. methylKit includes functions for clustering, samplequality visualization, differential methylation analysis and annotation features, thus automatingand simplifying many of the steps for discerning statistically significant bases or regions of DNAmethylation. Finally, we demonstrate methylKit on breast cancer data, in which we find statisticallysignificant regions of differential methylation and stratify tumor subtypes. methylKit is availableat http://code.google.com/p/methylkit. \u00a9 2012 Akalin et al.; licensee BioMed Central Ltd.",
+                "authors": [
+                    {
+                        "name": "Akalin A."
+                    },
+                    {
+                        "name": "Kormaksson M."
+                    },
+                    {
+                        "name": "Li S."
+                    },
+                    {
+                        "name": "Garrett-Bakelman F.E."
+                    },
+                    {
+                        "name": "Figueroa M.E."
+                    },
+                    {
+                        "name": "Melnick A."
+                    },
+                    {
+                        "name": "Mason C.E."
+                    }
+                ],
+                "citationCount": 495,
+                "date": "2012-10-03T00:00:00Z",
+                "journal": "Genome Biology",
+                "title": "MethylKit: a comprehensive R package for the analysis of genome-wide DNA methylation profiles"
+            },
             "pmcid": "PMC3491415",
             "pmid": "23034086",
-            "type": "Primary"
+            "type": [
+                "Primary"
+            ]
         }
     ],
     "toolType": [

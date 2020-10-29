@@ -1,7 +1,5 @@
 {
-    "accessibility": [
-        "Open access"
-    ],
+    "accessibility": "Open access",
     "additionDate": "2018-05-23T10:45:52Z",
     "biotoolsCURIE": "biotools:sv-callers",
     "biotoolsID": "sv-callers",
@@ -10,9 +8,12 @@
             "email": "a.kuzniar@esciencecenter.nl",
             "name": "Arnold Kuzniar",
             "note": "Research engineer at the Netherlands eScience Center",
+            "orcidid": "https://orcid.org/0000-0003-1711-7961",
             "typeEntity": "Person",
             "typeRole": [
-                "Developer"
+                "Primary contact",
+                "Developer",
+                "Maintainer"
             ],
             "url": "https://www.esciencecenter.nl/"
         },
@@ -32,7 +33,7 @@
             "typeRole": [
                 "Contributor"
             ],
-            "url": "https://www.esciencecenter.nl/profile/dr.-jason-maassen"
+            "url": "https://www.esciencecenter.nl/"
         },
         {
             "name": "Carl Shneider",
@@ -50,12 +51,25 @@
             "typeRole": [
                 "Contributor"
             ]
+        },
+        {
+            "email": "j.deridder-4@umcutrecht.nl",
+            "name": "Jeroen de Ridder",
+            "note": "Principle Investigator / Associate Professor",
+            "orcidid": "https://orcid.org/0000-0002-0828-3477",
+            "typeEntity": "Person",
+            "typeRole": [
+                "Primary contact"
+            ],
+            "url": "https://www.umcutrecht.nl/en/Research/Other-research/Center-for-Molecular-Medicine/Section-Genetics/De-Ridder"
         }
     ],
-    "description": "A highly portable HPC workflow for detecting structural variants in whole genome sequencing data.",
+    "description": "Highly portable parallel workflow to detect structural variants in cancer genomes.",
     "documentation": [
         {
-            "type": "User manual",
+            "type": [
+                "User manual"
+            ],
             "url": "https://github.com/GooglingTheCancerGenome/sv-callers/blob/master/README.md"
         }
     ],
@@ -63,7 +77,7 @@
         {
             "type": "Tool wrapper (Other)",
             "url": "https://github.com/GooglingTheCancerGenome/sv-callers",
-            "version": "1.0.0"
+            "version": "1.1.2"
         }
     ],
     "editPermission": {
@@ -95,6 +109,18 @@
                             "uri": "http://edamontology.org/format_1929"
                         }
                     ]
+                },
+                {
+                    "data": {
+                        "term": "Sequence coordinates",
+                        "uri": "http://edamontology.org/data_2012"
+                    },
+                    "format": [
+                        {
+                            "term": "BED",
+                            "uri": "http://edamontology.org/format_3003"
+                        }
+                    ]
                 }
             ],
             "operation": [
@@ -119,20 +145,22 @@
             ]
         }
     ],
-    "homepage": "https://github.com/GooglingTheCancerGenome/sv-callers",
+    "homepage": "https://www.research-software.nl/software/sv-callers",
     "language": [
         "Java",
         "Python"
     ],
-    "lastUpdate": "2020-02-13T12:37:39.527646Z",
+    "lastUpdate": "2020-10-27T08:48:03.181921Z",
     "license": "Apache-2.0",
     "link": [
         {
-            "type": "Repository",
+            "type": [
+                "Repository"
+            ],
             "url": "https://github.com/GooglingTheCancerGenome/sv-callers"
         }
     ],
-    "maturity": "Emerging",
+    "maturity": "Mature",
     "name": "sv-callers",
     "operatingSystem": [
         "Linux"
@@ -169,15 +197,25 @@
                 "journal": "Proceedings - IEEE 14th International Conference on eScience, e-Science 2018",
                 "title": "A portable and scalable workflow for detecting structural variants in whole-genome sequencing data"
             },
-            "type": "Method",
+            "type": [
+                "Method"
+            ],
             "version": "1.0.0"
         },
         {
             "doi": "10.7717/peerj.8214",
             "pmcid": "PMC6951283",
             "pmid": "31934500",
-            "type": "Primary",
+            "type": [
+                "Primary"
+            ],
             "version": "1.1.0"
+        },
+        {
+            "doi": "10.5281/zenodo.1217111",
+            "type": [
+                "Other"
+            ]
         }
     ],
     "toolType": [
@@ -198,10 +236,6 @@
             "uri": "http://edamontology.org/topic_3175"
         },
         {
-            "term": "Software engineering",
-            "uri": "http://edamontology.org/topic_3372"
-        },
-        {
             "term": "Workflows",
             "uri": "http://edamontology.org/topic_0769"
         }
@@ -209,6 +243,7 @@
     "version": [
         "1.0.0",
         "1.1.0",
-        "1.1.1"
+        "1.1.1",
+        "1.1.2"
     ]
 }
